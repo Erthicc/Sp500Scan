@@ -1,8 +1,8 @@
-name: S&P500 Daily Scan & Publish
+name: S&P500 Daily Scan & Publish (React)
 
 on:
   schedule:
-    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri (~5:00 PM CT)
+    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri
   workflow_dispatch: {}
 
 permissions:
@@ -15,48 +15,62 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
       - uses: actions/setup-python@v4
-        with: { python-version: '3.11' }
-      - name: Install deps
+        with:
+          python-version: '3.11'
+      - name: Install Python deps
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
       - name: Download S&P500 list
         run: python download_sp500_list.py
-      - name: Run worker (single)
+      - name: Run worker
         env:
           JOB_TOTAL: 1
           JOB_INDEX: 0
         run: python worker.py
-      - name: Upload artifact
+      - name: Upload worker artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: raw-results-0
           path: raw-results-0.json
 
-  aggregate_and_deploy:
+  aggregate_and_build:
     needs: worker
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
       - uses: actions/setup-python@v4
-        with: { python-version: '3.11' }
-      - name: Install deps
+        with:
+          python-version: '3.11'
+      - name: Install Python deps
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
-      - name: Download artifacts
+      - name: Download artifacts (worker outputs)
         uses: actions/download-artifact@v4
         with:
           path: .
-      - name: Finalize (aggregate & build site)
+      - name: Finalize & generate public/data (per-ticker JSON + archive)
         run: python finalize.py
-      - name: Show public contents
+      - name: Show generated files
         run: |
-          echo "public listing:"; ls -la public || true
+          echo "Public dir listing:"; ls -la public || true
+          echo "Data files sample:"; ls -la public/data | head -n 30 || true
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Build Frontend (Vite + React + Tailwind)
+        working-directory: frontend
+        run: |
+          npm ci
+          npm run build
+      - name: Show public (post-build) listing
+        run: ls -la public || true
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
