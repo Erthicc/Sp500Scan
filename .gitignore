@@ -1,22 +1,9 @@
-# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
+*.pyc
 .venv/
-venv/
-.env
-.env.*
-
-# Artifacts / outputs
-raw-results-*.json
+node_modules/
+dist/
 public/
-*.sqlite3
-
-# Editor / OS
-.vscode/
-.idea/
-.DS_Store
-Thumbs.db
-
-# Logs
+raw-results-*.json
 *.log
+.env
