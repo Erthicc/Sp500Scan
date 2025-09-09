@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # download_sp500_list.py
-"""
-Download S&P 500 tickers from Wikipedia and write sp500_list.txt
-"""
 import requests
 import pandas as pd
 from pathlib import Path
@@ -17,13 +14,10 @@ def fetch_wikipedia_table(retries=3, pause=3):
             r = requests.get(WIKI_URL, timeout=20)
             r.raise_for_status()
             tables = pd.read_html(r.text)
-            # usually the first table is the constituents
             for t in tables:
-                # find a column name likely to be 'Symbol' or 'Ticker'
                 cols = [c.lower() for c in t.columns.astype(str)]
                 if any('symbol' in c or 'ticker' in c for c in cols):
                     return t
-            # fallback to the first table
             return tables[0] if tables else None
         except Exception as e:
             print(f"[download] Attempt {attempt} failed: {e}")
@@ -35,7 +29,6 @@ def main():
     if t is None:
         print("[download] Failed to fetch S&P 500 table from Wikipedia.")
         raise SystemExit(2)
-    # find symbol column
     cols_lower = [c.lower() for c in t.columns.astype(str)]
     sym_col = None
     for i,c in enumerate(cols_lower):
@@ -45,7 +38,6 @@ def main():
     if sym_col is None:
         print("[download] Could not find a symbol column in the Wikipedia table.")
         raise SystemExit(3)
-
     syms = t[sym_col].astype(str).str.upper().str.strip().tolist()
     Path(OUT).write_text("\n".join(sorted(set(syms))), encoding="utf-8")
     print(f"[download] Wrote {len(syms)} tickers to {OUT}")
