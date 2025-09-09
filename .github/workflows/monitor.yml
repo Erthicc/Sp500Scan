@@ -1,0 +1,46 @@
+name: Site health monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check_site:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for top_picks.json
+        run: |
+          if [ ! -f public/top_picks.json ]; then
+            echo "MISSING" > /tmp/monitor_result
+            exit 0
+          fi
+          ts=$(jq -r '.generated_at' public/top_picks.json 2>/dev/null || echo "")
+          if [ -z "$ts" ]; then
+            echo "MISSING" > /tmp/monitor_result
+            exit 0
+          fi
+          # parse time and compute age in hours
+          gen_epoch=$(date -d "$ts" +%s 2>/dev/null || echo 0)
+          now_epoch=$(date +%s)
+          age=$(( (now_epoch - gen_epoch) / 3600 ))
+          echo "AGE_HOURS=$age" > /tmp/monitor_result
+      - name: Act on result
+        id: act
+        run: |
+          cat /tmp/monitor_result
+          if grep -q "MISSING" /tmp/monitor_result; then
+            gh issue create --title "Site monitor: top_picks.json missing" --body "The site generated no results or top_picks.json is missing. Please check Actions logs." || true
+          else
+            age=$(grep AGE_HOURS /tmp/monitor_result | cut -d'=' -f2)
+            if [ "$age" -ge 36 ]; then
+              gh issue create --title "Site monitor: stale results (age ${age}h)" --body "top_picks.json appears older than ${age} hours. Check nightly run." || true
+            fi
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
