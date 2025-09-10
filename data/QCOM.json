@@ -1,24 +1,24 @@
 {
   "ticker": "QCOM",
   "indicators": {
-    "macd_hist": 7.765874210807766e-06,
-    "macd_slope": -0.057016498720475414,
+    "macd_hist": 0.14455473475207437,
+    "macd_slope": -0.04669171507857788,
     "rsi": 0.0,
-    "rsi_slope": -1.1469520974699776,
-    "wave_strength": 1.0174149327865287,
-    "adx": 18.04938029074193,
-    "atr": 3.5313889433505885,
-    "obv_slope": 725661.1428571428,
-    "mom14": 0.013746004031287147,
+    "rsi_slope": -0.7201948822539924,
+    "wave_strength": 1.0166838758773633,
+    "adx": 18.035058349934925,
+    "atr": 3.534237977573009,
+    "obv_slope": 1501192.2142857143,
+    "mom14": 0.028400464357207937,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 53.64,
-    "score_0_10": 5.36,
-    "last_close": 156.68499755859375,
-    "avg_vol20": 6691837.2
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 59.86,
+    "score_0_10": 5.99,
+    "last_close": 158.9499969482422,
+    "avg_vol20": 6974264.55
   },
   "history": [
     {
@@ -3531,15 +3531,15 @@
       "High": 161.60000610351562,
       "Low": 157.57000732421875,
       "Close": 158.66000366210938,
-      "Volume": 6121600
+      "Volume": 6126000
     },
     {
       "Date": "2025-09-10",
       "Open": 158.6199951171875,
       "High": 159.2100067138672,
       "Low": 156.610107421875,
-      "Close": 156.72999572753906,
-      "Volume": 2641360
+      "Close": 158.9499969482422,
+      "Volume": 8252991
     }
   ]
 }

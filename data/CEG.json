@@ -1,24 +1,24 @@
 {
   "ticker": "CEG",
   "indicators": {
-    "macd_hist": -0.5033483450368745,
-    "macd_slope": 0.2222938951780745,
+    "macd_hist": -0.35688595203096707,
+    "macd_slope": 0.2327554951664452,
     "rsi": 0.0,
-    "rsi_slope": 1.7470566309429338,
-    "wave_strength": 0.9864391425956724,
-    "adx": 25.147196193149263,
-    "atr": 10.880175175762597,
-    "obv_slope": -245482.7142857143,
-    "mom14": 0.011123118972132277,
+    "rsi_slope": 1.874656731470587,
+    "wave_strength": 0.9860779872900404,
+    "adx": 24.164035557972095,
+    "atr": 11.625268390326445,
+    "obv_slope": -49663.92857142857,
+    "mom14": 0.0184271942407333,
     "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA",
-    "score_0_100": 37.21,
-    "score_0_10": 3.72,
-    "last_close": 317.7049865722656,
-    "avg_vol20": 1962802.1
+    "explanation": "volume spike; price above SMA/EMA",
+    "score_0_100": 40.76,
+    "score_0_10": 4.08,
+    "last_close": 320.0,
+    "avg_vol20": 2099875.25
   },
   "history": [
     {
@@ -3531,15 +3531,15 @@
       "High": 305.29998779296875,
       "Low": 296.3500061035156,
       "Close": 300.82000732421875,
-      "Volume": 2078600
+      "Volume": 2081600
     },
     {
       "Date": "2025-09-10",
       "Open": 308.5,
-      "High": 318.54998779296875,
+      "High": 328.3013000488281,
       "Low": 308.5,
-      "Close": 318.54998779296875,
-      "Volume": 1313805
+      "Close": 320.0,
+      "Volume": 4036205
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
   "ticker": "MHK",
   "indicators": {
-    "macd_hist": -0.03642506788341393,
-    "macd_slope": -0.004066786995131189,
+    "macd_hist": 0.006971450511711552,
+    "macd_slope": -0.0009670358140853834,
     "rsi": 0.0,
-    "rsi_slope": 0.2191233438881913,
-    "wave_strength": 1.0598427078524528,
-    "adx": 37.592962238332404,
-    "atr": 3.6628767894676213,
-    "obv_slope": 307612.14285714284,
-    "mom14": 0.0856105994028592,
-    "macd_bull": 0,
+    "rsi_slope": 0.3379765591618664,
+    "wave_strength": 1.0595689454413784,
+    "adx": 37.592962278228946,
+    "atr": 3.6866979391039862,
+    "obv_slope": 278947.64285714284,
+    "mom14": 0.09109232385139945,
+    "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 44.33,
-    "score_0_10": 4.43,
-    "last_close": 134.6699981689453,
-    "avg_vol20": 748511.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.54,
+    "score_0_10": 6.85,
+    "last_close": 135.35000610351562,
+    "avg_vol20": 768576.65
   },
   "history": [
     {
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 135.17999267578125,
-      "High": 135.80650329589844,
+      "High": 136.13999938964844,
       "Low": 134.11000061035156,
-      "Close": 134.46499633789062,
-      "Volume": 147740
+      "Close": 135.35000610351562,
+      "Volume": 548333
     }
   ]
 }

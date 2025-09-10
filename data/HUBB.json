@@ -1,24 +1,24 @@
 {
   "ticker": "HUBB",
   "indicators": {
-    "macd_hist": 0.09880413102390939,
-    "macd_slope": 0.05668343741885616,
+    "macd_hist": -0.11083712451490957,
+    "macd_slope": 0.04170906124010714,
     "rsi": 0.0,
-    "rsi_slope": 1.3184488671395742,
-    "wave_strength": 1.0036151730368343,
-    "adx": 15.01314292430805,
-    "atr": 10.153404745744812,
-    "obv_slope": -21227.714285714286,
-    "mom14": 0.039488262866681306,
-    "macd_bull": 1,
+    "rsi_slope": 1.173782450330344,
+    "wave_strength": 1.0039937582723197,
+    "adx": 15.013142819604473,
+    "atr": 10.153404757452478,
+    "obv_slope": 3761.5714285714284,
+    "mom14": 0.03182531878923733,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 64.84,
-    "score_0_10": 6.48,
-    "last_close": 445.614990234375,
-    "avg_vol20": 417334.8
+    "explanation": "price above SMA/EMA; rising OBV",
+    "score_0_100": 32.74,
+    "score_0_10": 3.27,
+    "last_close": 442.3299865722656,
+    "avg_vol20": 434827.3
   },
   "history": [
     {
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 441.4800109863281,
       "High": 452.4800109863281,
-      "Low": 441.4800109863281,
-      "Close": 445.44500732421875,
-      "Volume": 191455
+      "Low": 439.74249267578125,
+      "Close": 442.3299865722656,
+      "Volume": 538625
     }
   ]
 }

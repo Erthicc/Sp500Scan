@@ -1,24 +1,24 @@
 {
   "ticker": "FIS",
   "indicators": {
-    "macd_hist": 0.11369416675724664,
-    "macd_slope": 0.03378873159757656,
-    "rsi": 0.15089603362346898,
-    "rsi_slope": 0.575217130399146,
-    "wave_strength": 0.9892841257040887,
-    "adx": 33.12553356594525,
-    "atr": 1.5591927849194047,
-    "obv_slope": -468762.9285714286,
-    "mom14": -0.04114973309697085,
+    "macd_hist": 0.08054766022169835,
+    "macd_slope": 0.03142112396747871,
+    "rsi": 0.19746626503335812,
+    "rsi_slope": 0.4421593263708914,
+    "wave_strength": 0.9896528260363935,
+    "adx": 33.50295402054548,
+    "atr": 1.6216927849427027,
+    "obv_slope": -990815.0714285715,
+    "mom14": -0.04859517324882379,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 58.49,
-    "score_0_10": 5.85,
-    "last_close": 66.88939666748047,
-    "avg_vol20": 3559839.05
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike",
+    "score_0_100": 61.09,
+    "score_0_10": 6.11,
+    "last_close": 66.37000274658203,
+    "avg_vol20": 3925275.55
   },
   "history": [
     {
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 67.80999755859375,
       "High": 68.66000366210938,
-      "Low": 66.7300033569336,
-      "Close": 66.81999969482422,
-      "Volume": 1000030
+      "Low": 65.96499633789062,
+      "Close": 66.37000274658203,
+      "Volume": 8261711
     }
   ]
 }

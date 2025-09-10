@@ -1,24 +1,24 @@
 {
   "ticker": "CARR",
   "indicators": {
-    "macd_hist": 0.1285988803329814,
-    "macd_slope": 0.006462015379359627,
-    "rsi": 0.0,
-    "rsi_slope": 0.2096010570060172,
-    "wave_strength": 1.0007016089575402,
-    "adx": 25.505904130752505,
-    "atr": 1.7803188625710586,
-    "obv_slope": -714889.2142857143,
-    "mom14": -0.03560738156517197,
+    "macd_hist": 0.003516317647776379,
+    "macd_slope": -0.0024724533778769852,
+    "rsi": 0.031379671831849976,
+    "rsi_slope": -0.15392640806478244,
+    "wave_strength": 1.0021996187843323,
+    "adx": 26.26955497938364,
+    "atr": 2.0060331378495513,
+    "obv_slope": -1767709.142857143,
+    "mom14": -0.06493112770310468,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 54.72,
-    "score_0_10": 5.47,
-    "last_close": 64.45999908447266,
-    "avg_vol20": 5284062.55
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike",
+    "score_0_100": 56.61,
+    "score_0_10": 5.66,
+    "last_close": 62.5,
+    "avg_vol20": 5940061.4
   },
   "history": [
     {
@@ -3531,15 +3531,15 @@
       "High": 64.86000061035156,
       "Low": 62.45000076293945,
       "Close": 63.470001220703125,
-      "Volume": 5694700
+      "Volume": 5695200
     },
     {
       "Date": "2025-09-10",
       "Open": 63.84000015258789,
       "High": 64.79499816894531,
-      "Low": 63.29999923706055,
-      "Close": 64.37999725341797,
-      "Volume": 821145
+      "Low": 60.13999938964844,
+      "Close": 62.5,
+      "Volume": 13929228
     }
   ]
 }

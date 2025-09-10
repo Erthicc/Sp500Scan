@@ -1,24 +1,24 @@
 {
   "ticker": "WEC",
   "indicators": {
-    "macd_hist": 0.048583164769035146,
-    "macd_slope": 0.020310199955253756,
+    "macd_hist": 0.08432090153359485,
+    "macd_slope": 0.022862895265725363,
     "rsi": 0.0,
-    "rsi_slope": -0.25390160278684604,
-    "wave_strength": 1.0018184049555237,
-    "adx": 11.309551310445967,
-    "atr": 1.403012839488748,
-    "obv_slope": 503624.0714285714,
-    "mom14": -0.000734568252360832,
+    "rsi_slope": -0.03157042119500174,
+    "wave_strength": 1.0015577639932522,
+    "adx": 11.30955147287092,
+    "atr": 1.40301283991297,
+    "obv_slope": 682208.7142857143,
+    "mom14": 0.004407269409596547,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 61.92,
-    "score_0_10": 6.19,
-    "last_close": 108.83000183105469,
-    "avg_vol20": 2029846.85
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 64.4,
+    "score_0_10": 6.44,
+    "last_close": 109.38999938964844,
+    "avg_vol20": 2154856.1
   },
   "history": [
     {
@@ -3538,8 +3538,8 @@
       "Open": 108.2300033569336,
       "High": 109.5,
       "Low": 107.73999786376953,
-      "Close": 108.86000061035156,
-      "Volume": 768990
+      "Close": 109.38999938964844,
+      "Volume": 3268122
     }
   ]
 }

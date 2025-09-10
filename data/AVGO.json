@@ -1,24 +1,24 @@
 {
   "ticker": "AVGO",
   "indicators": {
-    "macd_hist": 3.8129559303032634,
-    "macd_slope": 0.3735994533792892,
+    "macd_hist": 5.894892838660431,
+    "macd_slope": 0.584597050295737,
     "rsi": 0.0,
-    "rsi_slope": 1.9880687304970988,
-    "wave_strength": 1.1263726955521915,
-    "adx": 22.847579020682158,
-    "atr": 12.89193052891144,
-    "obv_slope": 13871985.714285715,
-    "mom14": 0.14160255415910264,
+    "rsi_slope": 2.4297496972612413,
+    "wave_strength": 1.116054813001217,
+    "adx": 25.01443632044325,
+    "atr": 14.563934619314846,
+    "obv_slope": 19101068.0,
+    "mom14": 0.2692584753956558,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 83.43,
-    "score_0_10": 8.34,
-    "last_close": 336.6700134277344,
-    "avg_vol20": 23831880.0
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 100.0,
+    "score_0_10": 10.0,
+    "last_close": 369.57000732421875,
+    "avg_vol20": 25442202.6
   },
   "history": [
     {
@@ -3531,15 +3531,15 @@
       "High": 350.9800109863281,
       "Low": 335.8299865722656,
       "Close": 336.6700134277344,
-      "Volume": 26867600
+      "Volume": 26972300
     },
     {
       "Date": "2025-09-10",
       "Open": 351.5199890136719,
       "High": 372.9700012207031,
       "Low": 350.54998779296875,
-      "Close": 372.3117980957031,
-      "Volume": 25571055
+      "Close": 369.57000732421875,
+      "Volume": 49711352
     }
   ]
 }

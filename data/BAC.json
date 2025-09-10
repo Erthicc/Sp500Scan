@@ -1,24 +1,24 @@
 {
   "ticker": "BAC",
   "indicators": {
-    "macd_hist": -0.0007243586010827752,
-    "macd_slope": -0.012490874558598358,
+    "macd_hist": 0.0027856299683641783,
+    "macd_slope": -0.012240160608621825,
     "rsi": 0.0,
-    "rsi_slope": 0.7761184885084711,
-    "wave_strength": 1.0245858377932986,
-    "adx": 19.348018790587446,
-    "atr": 0.8797210325194461,
-    "obv_slope": 6268998.928571428,
-    "mom14": 0.041438042269329185,
-    "macd_bull": 0,
+    "rsi_slope": 0.8229338378497236,
+    "wave_strength": 1.0245284359517581,
+    "adx": 19.34801862046162,
+    "atr": 0.8825782408415881,
+    "obv_slope": 5132677.928571428,
+    "mom14": 0.04258191464623934,
+    "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA; rising OBV",
-    "score_0_100": 39.13,
-    "score_0_10": 3.91,
-    "last_close": 50.07500076293945,
-    "avg_vol20": 35152085.75
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 63.4,
+    "score_0_10": 6.34,
+    "last_close": 50.130001068115234,
+    "avg_vol20": 35947950.45
   },
   "history": [
     {
@@ -3531,15 +3531,15 @@
       "High": 50.560001373291016,
       "Low": 49.459999084472656,
       "Close": 50.290000915527344,
-      "Volume": 40055700
+      "Volume": 40060100
     },
     {
       "Date": "2025-09-10",
       "Open": 50.369998931884766,
       "High": 50.625,
-      "Low": 50.005001068115234,
-      "Close": 50.040000915527344,
-      "Volume": 7673684
+      "Low": 49.96500015258789,
+      "Close": 50.130001068115234,
+      "Volume": 23403909
     }
   ]
 }

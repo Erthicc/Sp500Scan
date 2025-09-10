@@ -1,24 +1,24 @@
 {
   "ticker": "HAL",
   "indicators": {
-    "macd_hist": -0.014040887588638168,
-    "macd_slope": 0.002131753964494112,
+    "macd_hist": 0.032865134310241184,
+    "macd_slope": 0.005482184091383509,
     "rsi": 0.0,
-    "rsi_slope": 1.9146477442196814,
-    "wave_strength": 1.0340842959078123,
-    "adx": 13.974552414214003,
-    "atr": 0.6896816719143356,
-    "obv_slope": -175078.5,
-    "mom14": 0.0440784058135483,
-    "macd_bull": 0,
+    "rsi_slope": 2.27770628708339,
+    "wave_strength": 1.0323383425175867,
+    "adx": 13.639389165561635,
+    "atr": 0.700746065123503,
+    "obv_slope": 585609.5714285715,
+    "mom14": 0.07917551414014033,
+    "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA",
-    "score_0_100": 38.98,
-    "score_0_10": 3.9,
-    "last_close": 21.864999771118164,
-    "avg_vol20": 9898455.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 64.11,
+    "score_0_10": 6.41,
+    "last_close": 22.600000381469727,
+    "avg_vol20": 10430936.7
   },
   "history": [
     {
@@ -3536,10 +3536,10 @@
     {
       "Date": "2025-09-10",
       "Open": 21.75,
-      "High": 22.45509910583496,
+      "High": 22.610000610351562,
       "Low": 21.610000610351562,
-      "Close": 21.96500015258789,
-      "Volume": 3468525
+      "Close": 22.600000381469727,
+      "Volume": 13916634
     }
   ]
 }

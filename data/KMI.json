@@ -1,24 +1,24 @@
 {
   "ticker": "KMI",
   "indicators": {
-    "macd_hist": 0.04795801148029577,
-    "macd_slope": 0.00863586467604001,
+    "macd_hist": 0.06423146212959704,
+    "macd_slope": 0.009798254021981949,
     "rsi": 0.0,
-    "rsi_slope": 2.379753051046395,
-    "wave_strength": 1.0115252580396685,
-    "adx": 16.549422923987226,
-    "atr": 0.5162263141831542,
-    "obv_slope": -2381508.4285714286,
-    "mom14": 0.020888231522407364,
+    "rsi_slope": 2.6505270434115737,
+    "wave_strength": 1.0110424991154996,
+    "adx": 16.549422831821452,
+    "atr": 0.5162263142289331,
+    "obv_slope": -1751233.0,
+    "mom14": 0.030485490223779305,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 66.39,
-    "score_0_10": 6.64,
-    "last_close": 27.125,
-    "avg_vol20": 12326069.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
+    "score_0_100": 71.34,
+    "score_0_10": 7.13,
+    "last_close": 27.3799991607666,
+    "avg_vol20": 12767261.9
   },
   "history": [
     {
@@ -3538,8 +3538,8 @@
       "Open": 26.6200008392334,
       "High": 27.450000762939453,
       "Low": 26.6299991607666,
-      "Close": 27.135000228881836,
-      "Volume": 3259391
+      "Close": 27.3799991607666,
+      "Volume": 11958738
     }
   ]
 }

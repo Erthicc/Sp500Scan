@@ -1,24 +1,24 @@
 {
   "ticker": "SYF",
   "indicators": {
-    "macd_hist": -0.09491532604118169,
-    "macd_slope": -0.00332395453948277,
+    "macd_hist": -0.12810078381659284,
+    "macd_slope": -0.005694344394726,
     "rsi": 0.0,
-    "rsi_slope": 0.5067611938509273,
-    "wave_strength": 1.0249466096061672,
-    "adx": 21.758102829063464,
-    "atr": 1.6149948516136627,
-    "obv_slope": 372218.71428571426,
-    "mom14": 0.051411011609938634,
+    "rsi_slope": 0.3053353329853396,
+    "wave_strength": 1.025305794577241,
+    "adx": 20.823903331126107,
+    "atr": 1.712137752030656,
+    "obv_slope": 56219.357142857145,
+    "mom14": 0.04414635305784377,
     "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA; rising OBV",
-    "score_0_100": 38.46,
-    "score_0_10": 3.85,
-    "last_close": 75.26000213623047,
-    "avg_vol20": 2517571.9
+    "explanation": "volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 41.22,
+    "score_0_10": 4.12,
+    "last_close": 74.73999786376953,
+    "avg_vol20": 2738771.45
   },
   "history": [
     {
@@ -3537,9 +3537,9 @@
       "Date": "2025-09-10",
       "Open": 76.0,
       "High": 76.62999725341797,
-      "Low": 75.19999694824219,
-      "Close": 75.22000122070312,
-      "Volume": 856566
+      "Low": 73.9000015258789,
+      "Close": 74.73999786376953,
+      "Volume": 5270129
     }
   ]
 }
