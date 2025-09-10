@@ -2,9 +2,10 @@ name: S&P500 Daily Scan & Publish (peaceiris deploy)
 
 on:
   schedule:
-    - cron: '0 22 * * 1-5'
+    - cron: '0 22 * * 1-5'   # 22:00 UTC Mon-Fri
   workflow_dispatch: {}
 
+# Minimal permissions; peaceiris uses personal token for the push
 permissions:
   contents: read
   pages: write
@@ -12,9 +13,11 @@ permissions:
 
 jobs:
   worker:
+    name: Worker (download & analyze)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -31,13 +34,13 @@ jobs:
       - name: Download S&P500 list
         run: python download_sp500_list.py
 
-      - name: Run worker
+      - name: Run worker (single job)
         env:
           JOB_TOTAL: 1
           JOB_INDEX: 0
         run: python worker.py
 
-      - name: Upload worker artifact
+      - name: Upload worker artifact (raw results)
         if: always()
         uses: actions/upload-artifact@v4
         with:
@@ -45,10 +48,12 @@ jobs:
           path: raw-results-0.json
 
   aggregate_and_build:
+    name: Aggregate, finalize, build frontend, merge artifacts
     needs: worker
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -62,7 +67,7 @@ jobs:
           python -m pip install --upgrade pip setuptools wheel
           pip install -r requirements.txt
 
-      - name: Download artifacts (worker outputs)
+      - name: Download worker artifact(s)
         uses: actions/download-artifact@v4
         with:
           path: .
@@ -70,12 +75,12 @@ jobs:
       - name: Finalize & generate public/data (per-ticker JSON + archive)
         run: python finalize.py
 
-      - name: Pre-build listing
+      - name: Show public (pre-build) listing
         run: |
-          echo "public (pre-build) listing:"
+          echo "public (pre-build):"
           ls -la public || true
           echo "public/data sample:"
-          ls -la public/data | head -n 20 || true
+          ls -la public/data | head -n 30 || true
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -85,48 +90,54 @@ jobs:
       - name: Build Frontend -> frontend/dist
         working-directory: frontend
         run: |
-          if [ -f package-lock.json ]; then npm ci; else npm install --legacy-peer-deps; fi
+          echo "Building frontend (frontend/dist)..."
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install --legacy-peer-deps
+          fi
           npm run build
+          echo "Frontend build complete."
 
-      - name: Merge frontend/dist -> public (preserve data/top_picks.json)
+      - name: Merge frontend/dist -> public (preserve analyzer outputs)
         run: |
           mkdir -p public
+          echo "Merging frontend/dist -> public (excluding data and top_picks.json)..."
           rsync -av --delete --exclude 'data' --exclude 'top_picks.json' frontend/dist/ public/
-          echo "public (post-merge):"
+          echo "public after merge:"
           ls -la public | sed -n '1,200p'
 
-      - name: Validate analyzer outputs present
+      - name: Validate analyzer outputs preserved
         run: |
           if [ ! -f public/top_picks.json ]; then
-            echo "ERROR: missing public/top_picks.json"; ls -la public || true; exit 1
+            echo "ERROR: public/top_picks.json missing after merge!"
+            ls -la public || true
+            exit 1
           fi
-          echo "top_picks.json present:"
-          head -n 20 public/top_picks.json || true
+          echo "top_picks.json sample:"
+          head -n 30 public/top_picks.json || true
 
-      - name: Show public summary
+      - name: Final public listing
         run: |
-          ls -la public
-          ls -la public/data | head -n 20 || true
-
-      - name: Upload site (for manual inspection if needed)
-        uses: actions/upload-artifact@v4
-        with:
-          name: public-site
-          path: public
+          echo "Final public/ listing:"
+          ls -la public || true
+          echo "Final public/data sample:"
+          ls -la public/data | head -n 30 || true
 
   deploy:
+    name: Deploy to gh-pages via peaceiris
     needs: aggregate_and_build
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo (for commit metadata)
+      - name: Checkout (for commit metadata)
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Deploy to gh-pages via peaceiris (uses personal token)
+      - name: Deploy to gh-pages (peaceiris)
         uses: peaceiris/actions-gh-pages@v3
         with:
+          # REQUIRED: create repo secret PAGES_PAT with a PAT that has contents: write for this repo
           personal_token: ${{ secrets.PAGES_PAT }}
           publish_dir: ./public
-          commit_message: "Publish S&P500 scan site (peaceiris) - ${{ github.run_number }}"
-
+          commit_message: "Publish S&P500 scan site (peaceiris) — run ${{ github.run_number }}"
