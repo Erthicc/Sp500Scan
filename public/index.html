@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Daily Scan — Top Picks</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial; background:#0f1724;color:#e6eef8;margin:0;padding:18px;}
+    .wrap{max-width:1100px;margin:0 auto;}
+    header{display:flex;justify-content:space-between;align-items:center;margin-bottom:18px}
+    h1{font-size:20px;margin:0;color:#fff}
+    p.small{color:#9fb0c8;margin:0}
+    .card{background:#071029;padding:14px;border-radius:8px;box-shadow:0 4px 10px rgba(0,0,0,.4)}
+    table{width:100%;border-collapse:collapse;margin-top:12px}
+    th,td{padding:8px 10px;text-align:left;border-bottom:1px solid rgba(255,255,255,0.04);}
+    th{color:#9fb0c8;font-size:12px}
+    td{font-size:13px}
+    .muted{color:#9fb0c8;font-size:12px}
+    .search{padding:8px;border-radius:6px;border:1px solid rgba(255,255,255,0.05);background:#071029;color:#e6eef8}
+    .placeholder{color:#7f98b0}
+    a.link{color:#7dd3fc;text-decoration:none}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Daily Stock Scan — Top Picks</h1>
+        <p class="small">Automatically generated. Not financial advice (NFA).</p>
+      </div>
+      <div class="muted" id="generatedAt">Loading…</div>
+    </header>
+
+    <div class="card">
+      <div style="display:flex;gap:10px;align-items:center;">
+        <input id="q" class="search" placeholder="Search ticker or explanation" />
+        <label class="muted" style="margin-left:auto">Show top <input id="topN" type="number" value="50" style="width:70px;margin-left:6px" /></label>
+      </div>
+
+      <div id="content" style="margin-top:12px">
+        <div class="placeholder">Loading results…</div>
+      </div>
+    </div>
+  </div>
+
+<script>
+async function loadAndRender() {
+  try {
+    const res = await fetch('./top_picks.json', {cache: 'no-store'});
+    if (!res.ok) throw new Error('top_picks.json not found on server');
+    const j = await res.json();
+    document.getElementById('generatedAt').textContent = 'Generated: ' + (j.generated_at || 'unknown');
+    const top = j.top || [];
+    window._topData = top;
+    renderTable(top.slice(0, Number(document.getElementById('topN').value || 50)));
+  } catch (err) {
+    document.getElementById('content').innerHTML = '<div style="color:#fda4af">Failed to load results: ' + String(err) + '</div>';
+    console.error(err);
+  }
+}
+
+function renderTable(rows) {
+  const q = (document.getElementById('q').value || '').toLowerCase().trim();
+  const filtered = rows.filter(r=>{
+    if(!q) return true;
+    return (r.ticker + ' ' + (r.explanation||'')).toLowerCase().includes(q);
+  });
+  const tbl = document.createElement('table');
+  const thead = document.createElement('thead');
+  thead.innerHTML = '<tr><th>#</th><th>Ticker</th><th>Score</th><th>Last</th><th>AvgVol20</th><th>Explanation</th></tr>';
+  tbl.appendChild(thead);
+  const tbody = document.createElement('tbody');
+  filtered.forEach((it, i) => {
+    const tr = document.createElement('tr');
+    const idx = document.createElement('td'); idx.textContent = i+1;
+    const tck = document.createElement('td');
+    const link = document.createElement('a'); link.href = './data/' + encodeURIComponent(it.ticker) + '.json'; link.textContent = it.ticker; link.className = 'link'; link.target='_blank';
+    tck.appendChild(link);
+    const score = document.createElement('td'); score.textContent = it.score_0_100;
+    const last = document.createElement('td'); last.textContent = it.last_close ?? '-';
+    const vol = document.createElement('td'); vol.textContent = it.avg_vol20 ?? '-';
+    const expl = document.createElement('td'); expl.textContent = it.explanation || '';
+    tr.appendChild(idx); tr.appendChild(tck); tr.appendChild(score); tr.appendChild(last); tr.appendChild(vol); tr.appendChild(expl);
+    tbody.appendChild(tr);
+  });
+  tbl.appendChild(tbody);
+  const content = document.getElementById('content');
+  content.innerHTML = '';
+  content.appendChild(tbl);
+}
+
+// live filter
+document.getElementById('q').addEventListener('input', () => {
+  const topN = Number(document.getElementById('topN').value || 50);
+  const dataset = window._topData || [];
+  renderTable(dataset.slice(0, topN));
+});
+document.getElementById('topN').addEventListener('change', () => {
+  const topN = Number(document.getElementById('topN').value || 50);
+  const dataset = window._topData || [];
+  renderTable(dataset.slice(0, topN));
+});
+
+// initial load
+loadAndRender();
+</script>
+</body>
+</html>
