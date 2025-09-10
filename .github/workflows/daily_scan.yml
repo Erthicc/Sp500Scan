@@ -115,9 +115,15 @@ jobs:
     name: Deploy to GitHub Pages
     needs: aggregate_and_build
     runs-on: ubuntu-latest
+
+    # THIS IS REQUIRED by actions/deploy-pages@v4
+    environment:
+      name: github-pages
+
     permissions:
       pages: write
       id-token: write
+
     steps:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
