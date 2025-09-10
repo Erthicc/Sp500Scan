@@ -2,7 +2,7 @@ name: S&P500 Daily Scan & Publish (React + Vite + Tailwind)
 
 on:
   schedule:
-    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri
+    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri (adjust if desired)
   workflow_dispatch: {}
 
 permissions:
@@ -47,7 +47,7 @@ jobs:
           path: raw-results-0.json
 
   aggregate_and_build:
-    name: Aggregate, finalize, build frontend, upload pages artifact
+    name: Aggregate, finalize, build frontend, merge artifacts
     needs: worker
     runs-on: ubuntu-latest
     steps:
@@ -86,7 +86,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Build Frontend (Vite + React + Tailwind)
+      - name: Build Frontend (Vite + React + Tailwind) -> frontend/dist
         working-directory: frontend
         run: |
           echo "Frontend dir: $(pwd)"
@@ -98,10 +98,32 @@ jobs:
             npm install --legacy-peer-deps
           fi
           npm run build
+          echo "Built frontend to frontend/dist"
 
-      - name: Show public (post-build) listing
+      - name: Merge frontend/dist -> public (preserve analyzer outputs)
         run: |
-          echo "public/ listing (post-build):"
+          # ensure public exists
+          mkdir -p public
+          echo "Merging frontend/dist -> public (excluding data and top_picks.json)..."
+          # rsync will copy and delete stale built files while excluding analyzer outputs
+          rsync -av --delete --exclude 'data' --exclude 'top_picks.json' frontend/dist/ public/
+          echo "Merge complete. public/ now contains:"
+          ls -la public | sed -n '1,200p'
+
+      - name: Validate analyzer outputs present after merge
+        run: |
+          if [ ! -f public/top_picks.json ]; then
+            echo "ERROR: public/top_picks.json missing after merge!"
+            echo "public listing:"
+            ls -la public || true
+            exit 1
+          fi
+          echo "top_picks.json present, head:"
+          head -n 40 public/top_picks.json || true
+
+      - name: Show public (post-merge) listing
+        run: |
+          echo "public/ listing (post-merge):"
           ls -la public || true
           echo "public/data/ sample:"
           ls -la public/data | head -n 40 || true
@@ -116,7 +138,7 @@ jobs:
     needs: aggregate_and_build
     runs-on: ubuntu-latest
 
-    # THIS IS REQUIRED by actions/deploy-pages@v4
+    # required by actions/deploy-pages@v4
     environment:
       name: github-pages
 
