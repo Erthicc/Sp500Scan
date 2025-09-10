@@ -2,10 +2,9 @@ name: S&P500 Daily Scan & Publish (React + Vite + Tailwind)
 
 on:
   schedule:
-    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri (adjust if desired)
+    - cron: '0 22 * * 1-5'  # 22:00 UTC Mon-Fri
   workflow_dispatch: {}
 
-# Required permissions so pages deploy works without a personal token
 permissions:
   contents: read
   pages: write
@@ -15,8 +14,6 @@ jobs:
   worker:
     name: Worker (download & analyze)
     runs-on: ubuntu-latest
-    outputs:
-      artifact-name: raw-results-0
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -92,9 +89,7 @@ jobs:
       - name: Build Frontend (Vite + React + Tailwind)
         working-directory: frontend
         run: |
-          # Ensure we run in frontend directory
           echo "Frontend dir: $(pwd)"
-          # If package-lock.json exists, use npm ci; otherwise fall back to npm install
           if [ -f package-lock.json ]; then
             echo "Found package-lock.json — running npm ci"
             npm ci
@@ -112,7 +107,7 @@ jobs:
           ls -la public/data | head -n 40 || true
 
       - name: Upload site artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -125,4 +120,4 @@ jobs:
       id-token: write
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
