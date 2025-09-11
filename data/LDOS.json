@@ -1,34 +1,26 @@
 {
   "ticker": "LDOS",
   "indicators": {
-    "macd_hist": -0.8996539332934019,
-    "macd_slope": -0.09633076259196836,
+    "macd_hist": -0.5050725250321078,
+    "macd_slope": -0.05971222268379891,
     "rsi": 0.0,
-    "rsi_slope": -2.379960435951207,
-    "wave_strength": 0.9942124541218045,
-    "adx": 26.663651361433526,
-    "atr": 3.0022297151243116,
-    "obv_slope": 131259.85714285713,
-    "mom14": 0.0011655830973003563,
+    "rsi_slope": -1.5810367309336992,
+    "wave_strength": 0.9933352105265313,
+    "adx": 27.184194290454748,
+    "atr": 3.1842135250258212,
+    "obv_slope": 152433.64285714287,
+    "mom14": 0.025992032686483812,
     "macd_bull": 0,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 29.53,
-    "score_0_10": 2.95,
-    "last_close": 180.3699951171875,
-    "avg_vol20": 686066.9
+    "explanation": "Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 37.68,
+    "score_0_10": 3.77,
+    "last_close": 185.1300048828125,
+    "avg_vol20": 683508.55
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 109.9800033569336,
-      "High": 110.29000091552734,
-      "Low": 108.37000274658203,
-      "Close": 108.68000030517578,
-      "Volume": 713400
-    },
     {
       "Date": "2023-12-08",
       "Open": 108.91000366210938,
@@ -3539,7 +3531,15 @@
       "High": 180.49000549316406,
       "Low": 178.2899932861328,
       "Close": 180.3699951171875,
-      "Volume": 525838
+      "Volume": 525900
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 181.0,
+      "High": 185.9199981689453,
+      "Low": 180.7050018310547,
+      "Close": 185.1300048828125,
+      "Volume": 851271
     }
   ]
 }

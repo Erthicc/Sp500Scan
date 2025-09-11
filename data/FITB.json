@@ -1,34 +1,26 @@
 {
   "ticker": "FITB",
   "indicators": {
-    "macd_hist": 0.007978450158123152,
-    "macd_slope": -0.005847116311500353,
+    "macd_hist": -0.04187517689846221,
+    "macd_slope": -0.008786355610204856,
     "rsi": 0.0,
-    "rsi_slope": 0.4948515993695765,
-    "wave_strength": 1.038768536377439,
-    "adx": 31.77881439643317,
-    "atr": 0.8151134564122939,
-    "obv_slope": 418847.9285714286,
-    "mom14": 0.05591647175716646,
-    "macd_bull": 1,
+    "rsi_slope": 0.08142632464853149,
+    "wave_strength": 1.0193065436886455,
+    "adx": 31.862809934095875,
+    "atr": 0.8004625388115266,
+    "obv_slope": 322644.85714285716,
+    "mom14": 0.055736924676188876,
+    "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 72.05,
-    "score_0_10": 7.21,
-    "last_close": 45.5099983215332,
-    "avg_vol20": 3856363.55
+    "explanation": "strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 33.44,
+    "score_0_10": 3.34,
+    "last_close": 45.27000045776367,
+    "avg_vol20": 3942243.6
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 30.399999618530273,
-      "High": 30.8799991607666,
-      "Low": 30.200000762939453,
-      "Close": 30.809999465942383,
-      "Volume": 4949100
-    },
     {
       "Date": "2023-12-08",
       "Open": 30.989999771118164,
@@ -3539,7 +3531,15 @@
       "High": 46.5,
       "Low": 45.20000076293945,
       "Close": 45.5099983215332,
-      "Volume": 7053971
+      "Volume": 7515900
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 45.60499954223633,
+      "High": 45.650001525878906,
+      "Low": 45.040000915527344,
+      "Close": 45.27000045776367,
+      "Volume": 4397972
     }
   ]
 }

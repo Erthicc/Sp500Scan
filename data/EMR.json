@@ -1,34 +1,26 @@
 {
   "ticker": "EMR",
   "indicators": {
-    "macd_hist": 0.2834622451349986,
-    "macd_slope": 0.09752336089710104,
+    "macd_hist": 0.589517581850336,
+    "macd_slope": 0.11321520985566176,
     "rsi": 0.0,
-    "rsi_slope": 2.7905068685750796,
-    "wave_strength": 1.0021360875197096,
-    "adx": 25.885368640495308,
-    "atr": 2.67481758722463,
-    "obv_slope": 250616.92857142858,
-    "mom14": 0.021239199268548045,
+    "rsi_slope": 3.2502719563886484,
+    "wave_strength": 1.0010022458758827,
+    "adx": 25.195842940861148,
+    "atr": 2.780851234573175,
+    "obv_slope": 658765.2857142857,
+    "mom14": 0.05672999531527364,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 64.23,
-    "score_0_10": 6.42,
-    "last_close": 133.6699981689453,
-    "avg_vol20": 2706001.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.28,
+    "score_0_10": 7.03,
+    "last_close": 137.47000122070312,
+    "avg_vol20": 2676205.7
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 88.11000061035156,
-      "High": 89.1500015258789,
-      "Low": 87.70999908447266,
-      "Close": 88.72000122070312,
-      "Volume": 3577200
-    },
     {
       "Date": "2023-12-08",
       "Open": 88.91999816894531,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-10",
       "Open": 132.66000366210938,
-      "High": 135.4499969482422,
-      "Low": 132.40499877929688,
+      "High": 135.4600067138672,
+      "Low": 132.41000366210938,
       "Close": 133.6699981689453,
-      "Volume": 2499337
+      "Volume": 2499300
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 134.00999450683594,
+      "High": 137.67999267578125,
+      "Low": 133.52999877929688,
+      "Close": 137.47000122070312,
+      "Volume": 2678314
     }
   ]
 }

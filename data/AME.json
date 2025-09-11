@@ -1,34 +1,26 @@
 {
   "ticker": "AME",
   "indicators": {
-    "macd_hist": 0.07874316519693525,
-    "macd_slope": 0.010383240588686908,
+    "macd_hist": 0.33150306460347667,
+    "macd_slope": 0.03181183674248013,
     "rsi": 0.0,
-    "rsi_slope": 1.1571615706119256,
-    "wave_strength": 1.0162480027153804,
-    "adx": 23.44300142138274,
-    "atr": 2.9976448052419564,
-    "obv_slope": 132163.7142857143,
-    "mom14": 0.02219923314887515,
+    "rsi_slope": 1.3677102071217864,
+    "wave_strength": 1.0148486162317174,
+    "adx": 24.66256799469983,
+    "atr": 3.1508805635506554,
+    "obv_slope": 138510.2142857143,
+    "mom14": 0.04682727989296888,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 62.57,
-    "score_0_10": 6.26,
-    "last_close": 187.41000366210938,
-    "avg_vol20": 1115655.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 68.18,
+    "score_0_10": 6.82,
+    "last_close": 192.02999877929688,
+    "avg_vol20": 1114632.15
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 156.2100067138672,
-      "High": 156.2899932861328,
-      "Low": 154.69000244140625,
-      "Close": 155.91000366210938,
-      "Volume": 1028500
-    },
     {
       "Date": "2023-12-08",
       "Open": 156.44000244140625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-10",
       "Open": 186.58999633789062,
-      "High": 189.15989685058594,
-      "Low": 186.42999267578125,
+      "High": 189.16000366210938,
+      "Low": 186.19000244140625,
       "Close": 187.41000366210938,
-      "Volume": 880108
+      "Volume": 880100
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 187.82000732421875,
+      "High": 192.3300018310547,
+      "Low": 187.59500122070312,
+      "Close": 192.02999877929688,
+      "Volume": 1119243
     }
   ]
 }

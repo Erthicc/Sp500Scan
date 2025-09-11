@@ -1,34 +1,26 @@
 {
   "ticker": "HBAN",
   "indicators": {
-    "macd_hist": 0.012208158160851024,
-    "macd_slope": -0.0029110513513916116,
+    "macd_hist": 0.003969494539011631,
+    "macd_slope": -0.0031236693757529937,
     "rsi": 0.0,
-    "rsi_slope": 0.8138443480423935,
-    "wave_strength": 1.024145087182123,
-    "adx": 23.262051565701203,
-    "atr": 0.3449665850285069,
-    "obv_slope": 4595792.428571428,
-    "mom14": 0.0511905148456444,
+    "rsi_slope": 0.7769048293634826,
+    "wave_strength": 1.0211368844852127,
+    "adx": 23.14542360285384,
+    "atr": 0.3368261789832669,
+    "obv_slope": 7919583.857142857,
+    "mom14": 0.06482592638641693,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 64.22,
-    "score_0_10": 6.42,
-    "last_close": 17.65999984741211,
-    "avg_vol20": 25677334.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 60.37,
+    "score_0_10": 6.04,
+    "last_close": 17.739999771118164,
+    "avg_vol20": 25904608.7
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 11.75,
-      "High": 11.920000076293945,
-      "Low": 11.680000305175781,
-      "Close": 11.859999656677246,
-      "Volume": 19977700
-    },
     {
       "Date": "2023-12-08",
       "Open": 11.869999885559082,
@@ -3539,7 +3531,15 @@
       "High": 17.770000457763672,
       "Low": 17.549999237060547,
       "Close": 17.65999984741211,
-      "Volume": 27255894
+      "Volume": 27277500
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 17.700000762939453,
+      "High": 17.770000457763672,
+      "Low": 17.538999557495117,
+      "Close": 17.739999771118164,
+      "Volume": 27598874
     }
   ]
 }

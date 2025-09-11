@@ -1,34 +1,26 @@
 {
   "ticker": "NFLX",
   "indicators": {
-    "macd_hist": 3.9134082425527392,
-    "macd_slope": -0.13519750172437256,
+    "macd_hist": 0.4013786157392216,
+    "macd_slope": -0.26133292305185846,
     "rsi": 0.0,
-    "rsi_slope": -0.19705847065053358,
-    "wave_strength": 1.028597170831581,
-    "adx": 15.734328006128807,
-    "atr": 26.150765896046995,
-    "obv_slope": 266148.4285714286,
-    "mom14": 0.027886227402193958,
+    "rsi_slope": -0.845885357109231,
+    "wave_strength": 1.0286365338822672,
+    "adx": 15.473825529541358,
+    "atr": 28.66715692483638,
+    "obv_slope": -2602.0,
+    "mom14": -0.0022466743148048147,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 60.9,
-    "score_0_10": 6.09,
-    "last_close": 1247.7099609375,
-    "avg_vol20": 2566211.1
+    "vol_spike": 1,
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; volume spike",
+    "score_0_100": 50.44,
+    "score_0_10": 5.04,
+    "last_close": 1203.5,
+    "avg_vol20": 2718576.4
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 450.8500061035156,
-      "High": 452.8900146484375,
-      "Low": 448.32000732421875,
-      "Close": 452.0,
-      "Volume": 3506700
-    },
     {
       "Date": "2023-12-08",
       "Open": 450.760009765625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-10",
-      "Open": 1265.31005859375,
+      "Open": 1263.969970703125,
       "High": 1267.0,
-      "Low": 1246.35498046875,
+      "Low": 1246.3599853515625,
       "Close": 1247.7099609375,
-      "Volume": 2525722
+      "Volume": 2701000
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 1250.1650390625,
+      "High": 1253.4449462890625,
+      "Low": 1192.06005859375,
+      "Close": 1203.5,
+      "Volume": 5634428
     }
   ]
 }

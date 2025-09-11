@@ -1,34 +1,26 @@
 {
   "ticker": "ORLY",
   "indicators": {
-    "macd_hist": -0.031010091768282955,
-    "macd_slope": 0.010783648553937588,
+    "macd_hist": 0.07833533792403502,
+    "macd_slope": 0.02162352924122251,
     "rsi": 0.0,
-    "rsi_slope": -1.0718883169895383,
-    "wave_strength": 1.0320363543032325,
-    "adx": 38.15363620496804,
-    "atr": 1.643741829930169,
-    "obv_slope": -51068.92857142857,
-    "mom14": 0.010673082791841947,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": 0.5557420501331077,
+    "wave_strength": 1.0294627221839867,
+    "adx": 39.02387691998583,
+    "atr": 1.737760205264726,
+    "obv_slope": 616675.2142857143,
+    "mom14": 0.04811895417594569,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA",
-    "score_0_100": 36.74,
-    "score_0_10": 3.67,
-    "last_close": 105.11000061035156,
-    "avg_vol20": 4080798.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.48,
+    "score_0_10": 7.05,
+    "last_close": 107.81999969482422,
+    "avg_vol20": 4134457.65
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 65.86666870117188,
-      "High": 65.86666870117188,
-      "Low": 63.542667388916016,
-      "Close": 63.580665588378906,
-      "Volume": 8868000
-    },
     {
       "Date": "2023-12-08",
       "Open": 63.53266525268555,
@@ -3539,7 +3531,15 @@
       "High": 107.19999694824219,
       "Low": 104.6500015258789,
       "Close": 105.11000061035156,
-      "Volume": 4999365
+      "Volume": 4999600
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 105.51000213623047,
+      "High": 108.06999969482422,
+      "Low": 105.51000213623047,
+      "Close": 107.81999969482422,
+      "Volume": 5174853
     }
   ]
 }

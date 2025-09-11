@@ -1,34 +1,26 @@
 {
   "ticker": "BX",
   "indicators": {
-    "macd_hist": 0.35619706584059396,
-    "macd_slope": 0.1345481113972878,
+    "macd_hist": 0.9460925679892633,
+    "macd_slope": 0.19208934902839478,
     "rsi": 0.0,
-    "rsi_slope": 2.648457613243333,
-    "wave_strength": 1.0148420185820082,
-    "adx": 15.216914062318045,
-    "atr": 4.132720726229419,
-    "obv_slope": 659989.2142857143,
-    "mom14": 0.08366264002376538,
+    "rsi_slope": 2.9967514151461114,
+    "wave_strength": 1.012677486281385,
+    "adx": 17.02456608923876,
+    "atr": 4.438240936121276,
+    "obv_slope": 1327072.9285714286,
+    "mom14": 0.12530589465012523,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.38,
-    "score_0_10": 7.34,
-    "last_close": 178.22999572753906,
-    "avg_vol20": 3511112.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 76.94,
+    "score_0_10": 7.69,
+    "last_close": 183.9199981689453,
+    "avg_vol20": 3515301.05
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 112.52999877929688,
-      "High": 114.4800033569336,
-      "Low": 112.11000061035156,
-      "Close": 113.86000061035156,
-      "Volume": 2651700
-    },
     {
       "Date": "2023-12-08",
       "Open": 113.25,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-10",
       "Open": 174.97999572753906,
       "High": 179.69000244140625,
-      "Low": 174.5601043701172,
+      "Low": 174.55999755859375,
       "Close": 178.22999572753906,
-      "Volume": 4345749
+      "Volume": 4345800
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 178.52999877929688,
+      "High": 186.63999938964844,
+      "Low": 178.52999877929688,
+      "Close": 183.9199981689453,
+      "Volume": 5682421
     }
   ]
 }

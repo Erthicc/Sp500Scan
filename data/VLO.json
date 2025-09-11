@@ -1,34 +1,26 @@
 {
   "ticker": "VLO",
   "indicators": {
-    "macd_hist": 1.2700423992503183,
-    "macd_slope": 0.05750690572884239,
+    "macd_hist": 0.9384606517032834,
+    "macd_slope": 0.02265531604730319,
     "rsi": 0.0,
-    "rsi_slope": 2.04508867896464,
-    "wave_strength": 1.094484984275453,
-    "adx": 39.41015499195476,
-    "atr": 4.092214287439493,
-    "obv_slope": 1379114.9285714286,
-    "mom14": 0.128033636015044,
+    "rsi_slope": 1.0802472523090745,
+    "wave_strength": 1.0866069461113672,
+    "adx": 39.60174833660609,
+    "atr": 4.041800962891491,
+    "obv_slope": 1363149.2857142857,
+    "mom14": 0.12331601596468149,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 81.13,
-    "score_0_10": 8.11,
-    "last_close": 158.5,
-    "avg_vol20": 2457854.55
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 66.35,
+    "score_0_10": 6.63,
+    "last_close": 157.58999633789062,
+    "avg_vol20": 2484085.5
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 123.41999816894531,
-      "High": 124.70999908447266,
-      "Low": 121.75,
-      "Close": 122.06999969482422,
-      "Volume": 3277700
-    },
     {
       "Date": "2023-12-08",
       "Open": 123.30999755859375,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-10",
       "Open": 161.22999572753906,
-      "High": 162.66000366210938,
+      "High": 162.7100067138672,
       "Low": 153.60000610351562,
       "Close": 158.5,
-      "Volume": 4173991
+      "Volume": 4199400
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 158.0800018310547,
+      "High": 160.38999938964844,
+      "Low": 157.0500030517578,
+      "Close": 157.58999633789062,
+      "Volume": 2592410
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SPG",
   "indicators": {
-    "macd_hist": 0.0676667432539837,
-    "macd_slope": -0.04467509865761115,
+    "macd_hist": 0.2400658572500638,
+    "macd_slope": -0.02293685855644464,
     "rsi": 0.0,
-    "rsi_slope": 0.4655220958796085,
-    "wave_strength": 1.028742258314665,
-    "adx": 35.49774702540576,
-    "atr": 2.6989954232812137,
-    "obv_slope": 508582.78571428574,
-    "mom14": 0.04155539304737509,
+    "rsi_slope": 0.6827365281191788,
+    "wave_strength": 1.0248433667932708,
+    "adx": 36.97656766126668,
+    "atr": 2.862000933232566,
+    "obv_slope": 684038.8571428572,
+    "mom14": 0.07300763129065099,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 65.19,
-    "score_0_10": 6.52,
-    "last_close": 179.22999572753906,
-    "avg_vol20": 1719887.05
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.45,
+    "score_0_10": 7.05,
+    "last_close": 183.89999389648438,
+    "avg_vol20": 1733212.2
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 130.0,
-      "High": 131.44000244140625,
-      "Low": 129.0800018310547,
-      "Close": 131.35000610351562,
-      "Volume": 1983700
-    },
     {
       "Date": "2023-12-08",
       "Open": 130.80999755859375,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-10",
       "Open": 178.91000366210938,
-      "High": 179.81500244140625,
+      "High": 179.8699951171875,
       "Low": 177.99000549316406,
       "Close": 179.22999572753906,
-      "Volume": 2082741
+      "Volume": 2223300
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 179.99000549316406,
+      "High": 184.16000366210938,
+      "Low": 179.65809631347656,
+      "Close": 183.89999389648438,
+      "Volume": 1786244
     }
   ]
 }

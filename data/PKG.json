@@ -1,34 +1,26 @@
 {
   "ticker": "PKG",
   "indicators": {
-    "macd_hist": 0.0936111893158511,
-    "macd_slope": 0.006550349842280955,
+    "macd_hist": 0.05312890118778135,
+    "macd_slope": -0.05961596587221402,
     "rsi": 0.0,
-    "rsi_slope": 0.6399878396633072,
-    "wave_strength": 1.053109724145381,
-    "adx": 28.12368603532293,
-    "atr": 4.218119339612807,
-    "obv_slope": 112499.42857142857,
-    "mom14": 0.07535841057203363,
+    "rsi_slope": -1.175225554566627,
+    "wave_strength": 1.0490368160343522,
+    "adx": 27.829448038578594,
+    "atr": 4.273252974964348,
+    "obv_slope": -25724.64285714286,
+    "mom14": 0.03175656040862652,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 66.35,
-    "score_0_10": 6.63,
-    "last_close": 213.0500030517578,
-    "avg_vol20": 866815.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA",
+    "score_0_100": 57.99,
+    "score_0_10": 5.8,
+    "last_close": 217.02999877929688,
+    "avg_vol20": 873622.75
   },
   "history": [
-    {
-      "Date": "2023-12-07",
-      "Open": 164.2899932861328,
-      "High": 164.75,
-      "Low": 162.75999450683594,
-      "Close": 164.32000732421875,
-      "Volume": 804200
-    },
     {
       "Date": "2023-12-08",
       "Open": 163.8300018310547,
@@ -3539,7 +3531,15 @@
       "High": 215.72999572753906,
       "Low": 212.69000244140625,
       "Close": 213.0500030517578,
-      "Volume": 616608
+      "Volume": 616600
+    },
+    {
+      "Date": "2025-09-11",
+      "Open": 212.91000366210938,
+      "High": 217.50999450683594,
+      "Low": 212.52000427246094,
+      "Close": 217.02999877929688,
+      "Volume": 620055
     }
   ]
 }
