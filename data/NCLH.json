@@ -1,34 +1,26 @@
 {
   "ticker": "NCLH",
   "indicators": {
-    "macd_hist": 0.07521253703696018,
-    "macd_slope": 0.022648132515002146,
+    "macd_hist": 0.10975075615817675,
+    "macd_slope": 0.019107263335518838,
     "rsi": 0.0,
-    "rsi_slope": 2.3466382640776797,
-    "wave_strength": 1.0304806965112356,
-    "adx": 18.275391898660143,
-    "atr": 0.9350213553310676,
-    "obv_slope": 8230757.214285715,
-    "mom14": 0.1532534173873113,
+    "rsi_slope": 1.0304619749950485,
+    "wave_strength": 1.0769323244714204,
+    "adx": 18.87037607350403,
+    "atr": 0.906441169817133,
+    "obv_slope": 5865412.714285715,
+    "mom14": 0.06387227266269076,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 72.01,
-    "score_0_10": 7.2,
-    "last_close": 26.940000534057617,
-    "avg_vol20": 16206640.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 69.77,
+    "score_0_10": 6.98,
+    "last_close": 26.649999618530273,
+    "avg_vol20": 16402956.1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 18.829999923706055,
-      "High": 18.959999084472656,
-      "Low": 18.59000015258789,
-      "Close": 18.68000030517578,
-      "Volume": 15742400
-    },
     {
       "Date": "2023-12-11",
       "Open": 18.5,
@@ -3539,7 +3531,15 @@
       "High": 27.010000228881836,
       "Low": 25.829999923706055,
       "Close": 26.940000534057617,
-      "Volume": 20758501
+      "Volume": 21974400
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 27.1200008392334,
+      "High": 27.179899215698242,
+      "Low": 26.645000457763672,
+      "Close": 26.649999618530273,
+      "Volume": 13694722
     }
   ]
 }

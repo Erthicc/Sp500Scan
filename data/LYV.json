@@ -1,34 +1,26 @@
 {
   "ticker": "LYV",
   "indicators": {
-    "macd_hist": 0.3896178802363144,
-    "macd_slope": -0.030002985683979442,
+    "macd_hist": 0.4734384632877302,
+    "macd_slope": -0.02822021755134263,
     "rsi": 0.0,
-    "rsi_slope": -0.46795844897707795,
-    "wave_strength": 1.007595345517493,
-    "adx": 26.400859265055793,
-    "atr": 3.363393388125774,
-    "obv_slope": 869254.8571428572,
-    "mom14": 0.07133622361549993,
+    "rsi_slope": -0.7390866289839225,
+    "wave_strength": 1.0487405880378762,
+    "adx": 27.85620627232851,
+    "atr": 3.304196146183198,
+    "obv_slope": 638923.6428571428,
+    "mom14": 0.04833450668497378,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 66.85,
-    "score_0_10": 6.69,
-    "last_close": 174.05999755859375,
-    "avg_vol20": 1923123.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.68,
+    "score_0_10": 6.77,
+    "last_close": 173.72999572753906,
+    "avg_vol20": 1805928.45
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 84.38999938964844,
-      "High": 85.44999694824219,
-      "Low": 82.33000183105469,
-      "Close": 85.19000244140625,
-      "Volume": 2788600
-    },
     {
       "Date": "2023-12-11",
       "Open": 85.61000061035156,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 170.88999938964844,
-      "High": 174.41000366210938,
-      "Low": 170.65499877929688,
+      "High": 174.4199981689453,
+      "Low": 170.66000366210938,
       "Close": 174.05999755859375,
-      "Volume": 2456268
+      "Volume": 2456300
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 173.75,
+      "High": 175.25,
+      "Low": 172.72000122070312,
+      "Close": 173.72999572753906,
+      "Volume": 1310069
     }
   ]
 }

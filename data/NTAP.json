@@ -1,34 +1,26 @@
 {
   "ticker": "NTAP",
   "indicators": {
-    "macd_hist": 1.0944846519836058,
-    "macd_slope": 0.06073631063645712,
+    "macd_hist": 0.9539668474717984,
+    "macd_slope": 0.04547374780270762,
     "rsi": 0.0,
-    "rsi_slope": 0.3991141548149447,
-    "wave_strength": 1.0387147106158274,
-    "adx": 34.55492641212237,
-    "atr": 2.910226706820716,
-    "obv_slope": 1475695.0,
-    "mom14": 0.1606049151479372,
+    "rsi_slope": -0.045551895863154765,
+    "wave_strength": 1.086576930527644,
+    "adx": 36.48863670653629,
+    "atr": 2.810567613113593,
+    "obv_slope": 1249601.7857142857,
+    "mom14": 0.12196890849054579,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 64.03,
-    "score_0_10": 6.4,
-    "last_close": 125.08999633789062,
-    "avg_vol20": 2287671.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.15,
+    "score_0_10": 7.31,
+    "last_close": 124.0,
+    "avg_vol20": 2281113.75
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 89.08000183105469,
-      "High": 90.22000122070312,
-      "Low": 88.93000030517578,
-      "Close": 89.38999938964844,
-      "Volume": 1634100
-    },
     {
       "Date": "2023-12-11",
       "Open": 89.5,
@@ -3539,7 +3531,15 @@
       "High": 125.62999725341797,
       "Low": 122.58000183105469,
       "Close": 125.08999633789062,
-      "Volume": 2106530
+      "Volume": 2106600
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 125.05000305175781,
+      "High": 125.26000213623047,
+      "Low": 123.74500274658203,
+      "Close": 124.0,
+      "Volume": 1834075
     }
   ]
 }

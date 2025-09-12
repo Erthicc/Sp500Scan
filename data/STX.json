@@ -1,34 +1,26 @@
 {
   "ticker": "STX",
   "indicators": {
-    "macd_hist": 2.5019129830316693,
-    "macd_slope": 0.19490838296758609,
+    "macd_hist": 2.244208996084888,
+    "macd_slope": 0.1679541948456249,
     "rsi": 0.0,
-    "rsi_slope": 2.9154603366761607,
-    "wave_strength": 1.0066279610500217,
-    "adx": 37.698942984752,
-    "atr": 5.366165587584147,
-    "obv_slope": 3013961.5714285714,
-    "mom14": 0.2730271008321665,
+    "rsi_slope": 2.2474239625376504,
+    "wave_strength": 1.135935987663471,
+    "adx": 39.759175120741176,
+    "atr": 5.343581459483673,
+    "obv_slope": 2644399.8571428573,
+    "mom14": 0.23101562231196954,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 69.27,
-    "score_0_10": 6.93,
-    "last_close": 196.80999755859375,
-    "avg_vol20": 3029168.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.66,
+    "score_0_10": 8.07,
+    "last_close": 195.99000549316406,
+    "avg_vol20": 3075975.1
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 78.4800033569336,
-      "High": 80.75,
-      "Low": 78.37999725341797,
-      "Close": 80.58999633789062,
-      "Volume": 2360000
-    },
     {
       "Date": "2023-12-11",
       "Open": 81.0,
@@ -3539,7 +3531,15 @@
       "High": 199.24000549316406,
       "Low": 192.99000549316406,
       "Close": 196.80999755859375,
-      "Volume": 3624662
+      "Volume": 3625600
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 196.6999969482422,
+      "High": 198.3699951171875,
+      "Low": 193.32000732421875,
+      "Close": 195.99000549316406,
+      "Volume": 3254802
     }
   ]
 }

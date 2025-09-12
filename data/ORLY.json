@@ -1,34 +1,26 @@
 {
   "ticker": "ORLY",
   "indicators": {
-    "macd_hist": 0.07833533792403502,
-    "macd_slope": 0.02162352924122251,
+    "macd_hist": 0.10608389603201385,
+    "macd_slope": 0.028785772018932114,
     "rsi": 0.0,
-    "rsi_slope": 0.5557420501331077,
-    "wave_strength": 1.0294627221839867,
-    "adx": 39.02387691998583,
-    "atr": 1.737760205264726,
-    "obv_slope": 616675.2142857143,
-    "mom14": 0.04811895417594569,
+    "rsi_slope": 1.3343361289438198,
+    "wave_strength": 1.0351382474344641,
+    "adx": 39.97577140209038,
+    "atr": 1.7007774206612452,
+    "obv_slope": 538424.9285714285,
+    "mom14": 0.050728204136979815,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 70.48,
-    "score_0_10": 7.05,
-    "last_close": 107.81999969482422,
-    "avg_vol20": 4134457.65
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 71.67,
+    "score_0_10": 7.17,
+    "last_close": 107.5,
+    "avg_vol20": 4010912.55
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 63.53266525268555,
-      "High": 63.865333557128906,
-      "Low": 62.79533386230469,
-      "Close": 63.05866622924805,
-      "Volume": 6342000
-    },
     {
       "Date": "2023-12-11",
       "Open": 63.66866683959961,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-11",
-      "Open": 105.51000213623047,
+      "Open": 105.66000366210938,
       "High": 108.06999969482422,
       "Low": 105.51000213623047,
       "Close": 107.81999969482422,
-      "Volume": 5174853
+      "Volume": 5272000
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 107.43000030517578,
+      "High": 108.41999816894531,
+      "Low": 107.19999694824219,
+      "Close": 107.5,
+      "Volume": 4676151
     }
   ]
 }

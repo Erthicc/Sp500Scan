@@ -1,34 +1,26 @@
 {
   "ticker": "ALLE",
   "indicators": {
-    "macd_hist": -0.12123837356105094,
-    "macd_slope": 0.02674443200951829,
+    "macd_hist": -0.024571348587345554,
+    "macd_slope": 0.01828449267692367,
     "rsi": 0.0,
-    "rsi_slope": 0.7933625011048809,
-    "wave_strength": 1.0170866124012805,
-    "adx": 43.50765306209754,
-    "atr": 3.08817001870579,
-    "obv_slope": 135836.0,
-    "mom14": 0.05962553412831855,
+    "rsi_slope": -0.5354040761854643,
+    "wave_strength": 1.0390843719022944,
+    "adx": 43.71238221705666,
+    "atr": 3.099677220843264,
+    "obv_slope": 6983.857142857143,
+    "mom14": 0.01614026178957135,
     "macd_bull": 0,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 50.97,
-    "score_0_10": 5.1,
-    "last_close": 177.17999267578125,
-    "avg_vol20": 741610.2
+    "explanation": "strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 40.53,
+    "score_0_10": 4.05,
+    "last_close": 175.02000427246094,
+    "avg_vol20": 746151.3
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 107.0,
-      "High": 112.36000061035156,
-      "Low": 106.66000366210938,
-      "Close": 110.33999633789062,
-      "Volume": 2081100
-    },
     {
       "Date": "2023-12-11",
       "Open": 110.05000305175781,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 171.77000427246094,
-      "High": 177.74000549316406,
+      "High": 177.75,
       "Low": 170.49000549316406,
       "Close": 177.17999267578125,
-      "Volume": 1364704
+      "Volume": 1364700
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 176.2899932861328,
+      "High": 177.6999969482422,
+      "Low": 174.4600067138672,
+      "Close": 175.02000427246094,
+      "Volume": 1049526
     }
   ]
 }

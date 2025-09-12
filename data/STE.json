@@ -1,34 +1,26 @@
 {
   "ticker": "STE",
   "indicators": {
-    "macd_hist": -0.11953413734197582,
-    "macd_slope": -0.12147666197939963,
+    "macd_hist": -0.03344089967743935,
+    "macd_slope": -0.11351980098612757,
     "rsi": 0.0,
-    "rsi_slope": -1.0252373609606447,
-    "wave_strength": 1.0085188484538774,
-    "adx": 30.825029517935207,
-    "atr": 4.437633892151372,
-    "obv_slope": 276868.9285714286,
-    "mom14": 0.022576195075613113,
+    "rsi_slope": -1.8324034152385846,
+    "wave_strength": 1.0240116742609122,
+    "adx": 30.93367931825997,
+    "atr": 4.417752091191729,
+    "obv_slope": 196337.57142857142,
+    "mom14": -0.005316314195468784,
     "macd_bull": 0,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 45.4,
-    "score_0_10": 4.54,
-    "last_close": 252.42999267578125,
-    "avg_vol20": 482538.25
+    "explanation": "strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 42.31,
+    "score_0_10": 4.23,
+    "last_close": 249.8800048828125,
+    "avg_vol20": 500023.7
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 202.63999938964844,
-      "High": 202.63999938964844,
-      "Low": 197.97999572753906,
-      "Close": 200.5,
-      "Volume": 597400
-    },
     {
       "Date": "2023-12-11",
       "Open": 200.61000061035156,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 245.42999267578125,
-      "High": 252.5399932861328,
+      "High": 252.5500030517578,
       "Low": 243.00999450683594,
       "Close": 252.42999267578125,
-      "Volume": 735865
+      "Volume": 758400
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 252.32000732421875,
+      "High": 252.9499969482422,
+      "Low": 248.8000030517578,
+      "Close": 249.8800048828125,
+      "Volume": 774374
     }
   ]
 }

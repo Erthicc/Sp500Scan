@@ -1,34 +1,26 @@
 {
   "ticker": "FTV",
   "indicators": {
-    "macd_hist": 0.20921151470829003,
-    "macd_slope": 0.0028193116538609403,
+    "macd_hist": 0.22832123063562382,
+    "macd_slope": -0.0027170206791001478,
     "rsi": 0.0,
-    "rsi_slope": 0.3827050944189371,
-    "wave_strength": 0.9982419431667764,
-    "adx": 11.268378602186313,
-    "atr": 1.0703233067630267,
-    "obv_slope": 752125.3571428572,
-    "mom14": 0.037897852531434316,
+    "rsi_slope": -1.1114740870817112,
+    "wave_strength": 1.0302186363588561,
+    "adx": 12.104091976171146,
+    "atr": 1.0506588787261417,
+    "obv_slope": 127982.07142857143,
+    "mom14": -0.009734324252043562,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.24,
-    "score_0_10": 7.02,
-    "last_close": 49.56999969482422,
-    "avg_vol20": 3948297.75
+    "bb_breakout": 0,
+    "vol_spike": 0,
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV",
+    "score_0_100": 52.92,
+    "score_0_10": 5.29,
+    "last_close": 48.83000183105469,
+    "avg_vol20": 3974502.55
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 52.12509536743164,
-      "High": 52.456668853759766,
-      "Low": 51.71062469482422,
-      "Close": 51.914093017578125,
-      "Volume": 2614455
-    },
     {
       "Date": "2023-12-11",
       "Open": 52.0648078918457,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 47.939998626708984,
-      "High": 49.7400016784668,
+      "High": 49.744998931884766,
       "Low": 47.70000076293945,
       "Close": 49.56999969482422,
-      "Volume": 6155255
+      "Volume": 6155300
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 49.310001373291016,
+      "High": 49.40999984741211,
+      "Low": 48.779998779296875,
+      "Close": 48.83000183105469,
+      "Volume": 4988351
     }
   ]
 }

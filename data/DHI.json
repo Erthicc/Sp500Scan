@@ -1,34 +1,26 @@
 {
   "ticker": "DHI",
   "indicators": {
-    "macd_hist": 0.052081723145464665,
-    "macd_slope": -0.0011404522933136413,
+    "macd_hist": -0.2139459097178511,
+    "macd_slope": -0.0352847162944836,
     "rsi": 0.0,
-    "rsi_slope": 0.37068577967307653,
-    "wave_strength": 1.0756565469605914,
-    "adx": 46.380139706965664,
-    "atr": 4.900709463330094,
-    "obv_slope": 842629.0,
-    "mom14": 0.11824303433006118,
-    "macd_bull": 1,
+    "rsi_slope": -0.904803952183168,
+    "wave_strength": 1.0536456212518124,
+    "adx": 46.04491362906936,
+    "atr": 4.815658177396408,
+    "obv_slope": 277153.28571428574,
+    "mom14": 0.042125631298005554,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 65.75,
-    "score_0_10": 6.58,
-    "last_close": 181.00999450683594,
-    "avg_vol20": 3671965.3
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 41.23,
+    "score_0_10": 4.12,
+    "last_close": 177.8699951171875,
+    "avg_vol20": 3628817.7
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 136.14999389648438,
-      "High": 138.8699951171875,
-      "Low": 135.99000549316406,
-      "Close": 138.4600067138672,
-      "Volume": 2899100
-    },
     {
       "Date": "2023-12-11",
       "Open": 137.8699951171875,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-11",
       "Open": 176.99000549316406,
       "High": 181.47000122070312,
-      "Low": 177.02999877929688,
+      "Low": 176.99000549316406,
       "Close": 181.00999450683594,
-      "Volume": 1651806
+      "Volume": 2216700
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 178.61000061035156,
+      "High": 180.63999938964844,
+      "Low": 177.3000030517578,
+      "Close": 177.8699951171875,
+      "Volume": 2368754
     }
   ]
 }

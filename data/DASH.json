@@ -1,34 +1,26 @@
 {
   "ticker": "DASH",
   "indicators": {
-    "macd_hist": 1.060851672445642,
-    "macd_slope": 0.237142986428884,
+    "macd_hist": 1.097119933766305,
+    "macd_slope": 0.22937313926847439,
     "rsi": 0.0,
-    "rsi_slope": 1.6311603371463634,
-    "wave_strength": 0.9995019230040392,
-    "adx": 15.674899289027435,
-    "atr": 7.112113857436431,
-    "obv_slope": 737874.5714285715,
-    "mom14": 0.06122036958159874,
+    "rsi_slope": 1.5555207406285436,
+    "wave_strength": 1.0429251201507848,
+    "adx": 15.908927328382202,
+    "atr": 7.030176891915737,
+    "obv_slope": 389524.21428571426,
+    "mom14": 0.04310206754981564,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 67.47,
-    "score_0_10": 6.75,
-    "last_close": 260.19000244140625,
-    "avg_vol20": 3017282.2
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 68.27,
+    "score_0_10": 6.83,
+    "last_close": 257.9800109863281,
+    "avg_vol20": 2948928.05
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 99.0,
-      "High": 100.7300033569336,
-      "Low": 97.45999908447266,
-      "Close": 100.0,
-      "Volume": 4309000
-    },
     {
       "Date": "2023-12-11",
       "Open": 102.30999755859375,
@@ -3539,7 +3531,15 @@
       "High": 262.4800109863281,
       "Low": 258.2200012207031,
       "Close": 260.19000244140625,
-      "Volume": 2356044
+      "Volume": 2357200
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 259.0400085449219,
+      "High": 261.42999267578125,
+      "Low": 255.46499633789062,
+      "Close": 257.9800109863281,
+      "Volume": 2065361
     }
   ]
 }

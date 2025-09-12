@@ -1,34 +1,26 @@
 {
   "ticker": "CINF",
   "indicators": {
-    "macd_hist": -0.025270712329315437,
-    "macd_slope": -0.009004876019378352,
+    "macd_hist": 0.1123130694643415,
+    "macd_slope": -0.009139806842839262,
     "rsi": 0.0,
-    "rsi_slope": -0.19320858155849457,
-    "wave_strength": 1.001580371935194,
-    "adx": 16.79100631197191,
-    "atr": 2.5462339863917927,
-    "obv_slope": 105055.0,
-    "mom14": 0.024843015338494014,
-    "macd_bull": 0,
-    "bb_breakout": 1,
+    "rsi_slope": -0.4997353097440736,
+    "wave_strength": 1.0006967163365426,
+    "adx": 17.248900559127318,
+    "atr": 2.474003249029766,
+    "obv_slope": 100514.57142857143,
+    "mom14": 0.009395152967893504,
+    "macd_bull": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 37.88,
-    "score_0_10": 3.79,
-    "last_close": 156.75999450683594,
-    "avg_vol20": 431403.5
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 63.43,
+    "score_0_10": 6.34,
+    "last_close": 156.86000061035156,
+    "avg_vol20": 425980.2
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 102.7699966430664,
-      "High": 103.11000061035156,
-      "Low": 102.0999984741211,
-      "Close": 102.80000305175781,
-      "Volume": 478200
-    },
     {
       "Date": "2023-12-11",
       "Open": 103.37000274658203,
@@ -3539,7 +3531,15 @@
       "High": 156.89999389648438,
       "Low": 152.17999267578125,
       "Close": 156.75999450683594,
-      "Volume": 376470
+      "Volume": 395300
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 156.36000061035156,
+      "High": 157.6699981689453,
+      "Low": 156.13499450683594,
+      "Close": 156.86000061035156,
+      "Volume": 376004
     }
   ]
 }

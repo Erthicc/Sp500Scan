@@ -1,34 +1,26 @@
 {
   "ticker": "ETN",
   "indicators": {
-    "macd_hist": 1.6785002077070108,
-    "macd_slope": 0.36158306516406824,
+    "macd_hist": 2.275190907070924,
+    "macd_slope": 0.373293706412995,
     "rsi": 0.0,
-    "rsi_slope": 2.8561584655252363,
-    "wave_strength": 1.0341815224413415,
-    "adx": 21.629012861081037,
-    "atr": 7.958460426056411,
-    "obv_slope": 125387.42857142857,
-    "mom14": 0.04256176235344264,
+    "rsi_slope": 3.122655929222751,
+    "wave_strength": 1.0325896457830708,
+    "adx": 21.112536743182023,
+    "atr": 8.028928373330427,
+    "obv_slope": 206780.35714285713,
+    "mom14": 0.0526164647612867,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 62.42,
-    "score_0_10": 6.24,
-    "last_close": 360.0799865722656,
-    "avg_vol20": 1931813.8
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 88.21,
+    "score_0_10": 8.82,
+    "last_close": 365.8999938964844,
+    "avg_vol20": 1992291.25
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 228.17999267578125,
-      "High": 233.4499969482422,
-      "Low": 227.92999267578125,
-      "Close": 232.30999755859375,
-      "Volume": 1909600
-    },
     {
       "Date": "2023-12-11",
       "Open": 233.72999572753906,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 363.67999267578125,
-      "High": 365.239990234375,
+      "High": 365.30999755859375,
       "Low": 359.3800048828125,
       "Close": 360.0799865722656,
-      "Volume": 2252876
+      "Volume": 2253200
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 359.92999267578125,
+      "High": 367.6600036621094,
+      "Low": 358.7799987792969,
+      "Close": 365.8999938964844,
+      "Volume": 3104725
     }
   ]
 }

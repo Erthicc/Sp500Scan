@@ -1,34 +1,26 @@
 {
   "ticker": "APH",
   "indicators": {
-    "macd_hist": 0.6768817152678848,
-    "macd_slope": 0.08239464793132312,
+    "macd_hist": 0.7052019526140625,
+    "macd_slope": 0.08628020171373788,
     "rsi": 0.0,
-    "rsi_slope": 0.9762084819476904,
-    "wave_strength": 1.0123911279766606,
-    "adx": 15.154817615691751,
-    "atr": 2.980329775038466,
-    "obv_slope": 6209042.357142857,
-    "mom14": 0.09796897253277674,
+    "rsi_slope": 1.376689247832571,
+    "wave_strength": 1.0689201732950475,
+    "adx": 15.947663847062424,
+    "atr": 2.8942343552387597,
+    "obv_slope": 5215571.142857143,
+    "mom14": 0.08522311304689245,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 68.38,
-    "score_0_10": 6.84,
-    "last_close": 119.47000122070312,
-    "avg_vol20": 8353619.65
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 69.96,
+    "score_0_10": 7.0,
+    "last_close": 118.68000030517578,
+    "avg_vol20": 8359180.2
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 46.209999084472656,
-      "High": 46.720001220703125,
-      "Low": 46.14500045776367,
-      "Close": 46.6150016784668,
-      "Volume": 11764200
-    },
     {
       "Date": "2023-12-11",
       "Open": 46.82500076293945,
@@ -3539,7 +3531,15 @@
       "High": 120.2300033569336,
       "Low": 118.83000183105469,
       "Close": 119.47000122070312,
-      "Volume": 9830893
+      "Volume": 9832000
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 119.02999877929688,
+      "High": 119.58999633789062,
+      "Low": 117.81500244140625,
+      "Close": 118.68000030517578,
+      "Volume": 6357204
     }
   ]
 }

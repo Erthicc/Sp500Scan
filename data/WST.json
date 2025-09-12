@@ -1,34 +1,26 @@
 {
   "ticker": "WST",
   "indicators": {
-    "macd_hist": 1.0015143345561297,
-    "macd_slope": 0.1145172238646934,
+    "macd_hist": 0.6561678757577369,
+    "macd_slope": 0.07733474410980969,
     "rsi": 0.0,
-    "rsi_slope": 1.3966635704968948,
-    "wave_strength": 1.0198346862111913,
-    "adx": 26.80289665736078,
-    "atr": 6.109885119496643,
-    "obv_slope": 103055.71428571429,
-    "mom14": 0.0870048424627382,
+    "rsi_slope": -0.6901245788782912,
+    "wave_strength": 1.0609372844472726,
+    "adx": 28.176987057243327,
+    "atr": 6.417290082643366,
+    "obv_slope": 13845.0,
+    "mom14": 0.022796020808345797,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 76.09,
-    "score_0_10": 7.61,
-    "last_close": 263.739990234375,
-    "avg_vol20": 556429.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 67.96,
+    "score_0_10": 6.8,
+    "last_close": 253.5,
+    "avg_vol20": 575488.5
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 340.5899963378906,
-      "High": 342.2699890136719,
-      "Low": 338.29998779296875,
-      "Close": 342.239990234375,
-      "Volume": 470700
-    },
     {
       "Date": "2023-12-11",
       "Open": 343.04998779296875,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 256.6000061035156,
-      "High": 263.9700012207031,
+      "High": 264.05999755859375,
       "Low": 253.82000732421875,
       "Close": 263.739990234375,
-      "Volume": 1032080
+      "Volume": 1032900
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 260.9200134277344,
+      "High": 263.1499938964844,
+      "Low": 253.41000366210938,
+      "Close": 253.5,
+      "Volume": 746170
     }
   ]
 }

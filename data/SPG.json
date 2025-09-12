@@ -1,34 +1,26 @@
 {
   "ticker": "SPG",
   "indicators": {
-    "macd_hist": 0.2400658572500638,
-    "macd_slope": -0.02293685855644464,
+    "macd_hist": 0.21024457464734603,
+    "macd_slope": -0.029715997586484657,
     "rsi": 0.0,
-    "rsi_slope": 0.6827365281191788,
-    "wave_strength": 1.0248433667932708,
-    "adx": 36.97656766126668,
-    "atr": 2.862000933232566,
-    "obv_slope": 684038.8571428572,
-    "mom14": 0.07300763129065099,
+    "rsi_slope": -0.023413267457738942,
+    "wave_strength": 1.0410869101897797,
+    "adx": 38.40489317292405,
+    "atr": 2.8293579140974168,
+    "obv_slope": 489707.35714285716,
+    "mom14": 0.0457899542596314,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 70.45,
-    "score_0_10": 7.05,
-    "last_close": 183.89999389648438,
-    "avg_vol20": 1733212.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 69.96,
+    "score_0_10": 7.0,
+    "last_close": 182.47000122070312,
+    "avg_vol20": 1709109.85
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 130.80999755859375,
-      "High": 132.91000366210938,
-      "Low": 130.35000610351562,
-      "Close": 132.8800048828125,
-      "Volume": 1394100
-    },
     {
       "Date": "2023-12-11",
       "Open": 132.5,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-11",
       "Open": 179.99000549316406,
       "High": 184.16000366210938,
-      "Low": 179.65809631347656,
+      "Low": 179.66000366210938,
       "Close": 183.89999389648438,
-      "Volume": 1786244
+      "Volume": 1786300
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 183.89999389648438,
+      "High": 184.5,
+      "Low": 182.09500122070312,
+      "Close": 182.47000122070312,
+      "Volume": 1406897
     }
   ]
 }

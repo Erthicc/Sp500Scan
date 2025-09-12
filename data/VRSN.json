@@ -1,34 +1,26 @@
 {
   "ticker": "VRSN",
   "indicators": {
-    "macd_hist": 2.2044246898029085,
-    "macd_slope": 0.11899242483341162,
+    "macd_hist": 1.9729694659744113,
+    "macd_slope": 0.10003303195914767,
     "rsi": 0.0,
-    "rsi_slope": 1.0110422300584705,
-    "wave_strength": 1.0418691015800965,
-    "adx": 17.671884478044056,
-    "atr": 5.249570280728136,
-    "obv_slope": 297317.64285714284,
-    "mom14": 0.06292244158569449,
+    "rsi_slope": 1.399322277902942,
+    "wave_strength": 1.0514833947573472,
+    "adx": 19.048930647511988,
+    "atr": 5.19674452895432,
+    "obv_slope": 305586.35714285716,
+    "mom14": 0.05924690018153177,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 68.94,
-    "score_0_10": 6.89,
-    "last_close": 289.3699951171875,
-    "avg_vol20": 741572.35
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 69.38,
+    "score_0_10": 6.94,
+    "last_close": 285.5199890136719,
+    "avg_vol20": 722799.55
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 214.10000610351562,
-      "High": 215.27000427246094,
-      "Low": 212.11000061035156,
-      "Close": 212.97000122070312,
-      "Volume": 478000
-    },
     {
       "Date": "2023-12-11",
       "Open": 212.69000244140625,
@@ -3539,7 +3531,15 @@
       "High": 290.82000732421875,
       "Low": 283.7300109863281,
       "Close": 289.3699951171875,
-      "Volume": 642647
+      "Volume": 688200
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 287.8599853515625,
+      "High": 289.9100036621094,
+      "Low": 285.3999938964844,
+      "Close": 285.5199890136719,
+      "Volume": 438691
     }
   ]
 }

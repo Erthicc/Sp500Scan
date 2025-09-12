@@ -1,34 +1,26 @@
 {
   "ticker": "HPE",
   "indicators": {
-    "macd_hist": 0.16631454183999062,
-    "macd_slope": 0.008927690434558247,
+    "macd_hist": 0.1637887860405688,
+    "macd_slope": 0.0050615475168365055,
     "rsi": 0.0,
-    "rsi_slope": 0.9611293430191351,
-    "wave_strength": 1.0380897951822246,
-    "adx": 29.39083379657077,
-    "atr": 0.6670300365656129,
-    "obv_slope": 16830294.92857143,
-    "mom14": 0.13932176709646987,
+    "rsi_slope": 0.4135111043308462,
+    "wave_strength": 1.0890373738646386,
+    "adx": 31.06796753457284,
+    "atr": 0.6458136653337078,
+    "obv_slope": 14051663.92857143,
+    "mom14": 0.10155896221886575,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 74.06,
-    "score_0_10": 7.41,
-    "last_close": 24.860000610351562,
-    "avg_vol20": 21606996.45
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.75,
+    "score_0_10": 7.38,
+    "last_close": 24.729999542236328,
+    "avg_vol20": 22249995.25
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 16.110000610351562,
-      "High": 16.399999618530273,
-      "Low": 16.09000015258789,
-      "Close": 16.219999313354492,
-      "Volume": 11901300
-    },
     {
       "Date": "2023-12-11",
       "Open": 16.219999313354492,
@@ -3539,7 +3531,15 @@
       "High": 24.959999084472656,
       "Low": 24.44499969482422,
       "Close": 24.860000610351562,
-      "Volume": 20843029
+      "Volume": 20845500
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 24.854999542236328,
+      "High": 25.100000381469727,
+      "Low": 24.729999542236328,
+      "Close": 24.729999542236328,
+      "Volume": 20658005
     }
   ]
 }

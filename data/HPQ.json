@@ -1,34 +1,26 @@
 {
   "ticker": "HPQ",
   "indicators": {
-    "macd_hist": 0.013735923990241483,
-    "macd_slope": -0.005252815471126973,
+    "macd_hist": -0.0507610388283497,
+    "macd_slope": -0.013033137383704272,
     "rsi": 0.0,
-    "rsi_slope": -0.0997950750720195,
-    "wave_strength": 1.0512742037135718,
-    "adx": 34.37463989606197,
-    "atr": 0.7003449276420867,
-    "obv_slope": 2662980.3571428573,
-    "mom14": 0.07693262199433192,
-    "macd_bull": 1,
+    "rsi_slope": -1.2812338277441486,
+    "wave_strength": 1.0487926760789532,
+    "adx": 33.22366734167897,
+    "atr": 0.689274372179958,
+    "obv_slope": 1736042.2142857143,
+    "mom14": 0.0184264018651834,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 61.94,
-    "score_0_10": 6.19,
-    "last_close": 28.34000015258789,
-    "avg_vol20": 9422188.75
+    "explanation": "strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 38.43,
+    "score_0_10": 3.84,
+    "last_close": 27.969999313354492,
+    "avg_vol20": 9415110.45
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 29.399999618530273,
-      "High": 29.59000015258789,
-      "Low": 29.309999465942383,
-      "Close": 29.459999084472656,
-      "Volume": 7563300
-    },
     {
       "Date": "2023-12-11",
       "Open": 29.899999618530273,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-11",
       "Open": 28.520000457763672,
       "High": 28.799999237060547,
-      "Low": 28.2450008392334,
+      "Low": 28.25,
       "Close": 28.34000015258789,
-      "Volume": 8052775
+      "Volume": 8055500
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 28.239999771118164,
+      "High": 28.479999542236328,
+      "Low": 27.93000030517578,
+      "Close": 27.969999313354492,
+      "Volume": 6400209
     }
   ]
 }

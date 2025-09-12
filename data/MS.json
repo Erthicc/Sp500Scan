@@ -1,34 +1,26 @@
 {
   "ticker": "MS",
   "indicators": {
-    "macd_hist": 0.47572446150338843,
-    "macd_slope": 0.05041960301404948,
+    "macd_hist": 0.577392256904985,
+    "macd_slope": 0.04361602033956429,
     "rsi": 0.0,
-    "rsi_slope": 0.9739821614044187,
-    "wave_strength": 1.0128379392090503,
-    "adx": 16.914125219342658,
-    "atr": 2.936602560454921,
-    "obv_slope": 2096913.4285714286,
-    "mom14": 0.08636491961433525,
+    "rsi_slope": 0.37271847259625446,
+    "wave_strength": 1.050088560592776,
+    "adx": 18.086678759332724,
+    "atr": 2.815441500907871,
+    "obv_slope": 1414316.857142857,
+    "mom14": 0.056546378027261916,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 67.6,
-    "score_0_10": 6.76,
-    "last_close": 156.47999572753906,
-    "avg_vol20": 4507614.4
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 67.51,
+    "score_0_10": 6.75,
+    "last_close": 156.38999938964844,
+    "avg_vol20": 4592473.2
   },
   "history": [
-    {
-      "Date": "2023-12-08",
-      "Open": 80.27999877929688,
-      "High": 82.66000366210938,
-      "Low": 80.1500015258789,
-      "Close": 82.27999877929688,
-      "Volume": 10343400
-    },
     {
       "Date": "2023-12-11",
       "Open": 82.37000274658203,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-11",
       "Open": 154.38999938964844,
-      "High": 157.76499938964844,
+      "High": 157.75999450683594,
       "Low": 154.0800018310547,
       "Close": 156.47999572753906,
-      "Volume": 5854988
+      "Volume": 7399500
+    },
+    {
+      "Date": "2025-09-12",
+      "Open": 156.0449981689453,
+      "High": 156.86000061035156,
+      "Low": 155.61500549316406,
+      "Close": 156.38999938964844,
+      "Volume": 4341264
     }
   ]
 }
