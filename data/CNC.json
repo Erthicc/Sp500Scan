@@ -1,34 +1,26 @@
 {
   "ticker": "CNC",
   "indicators": {
-    "macd_hist": 0.7248358676391363,
-    "macd_slope": -0.02639935455557638,
+    "macd_hist": 0.6684567703900117,
+    "macd_slope": -0.024318321548193467,
     "rsi": 0.0,
-    "rsi_slope": -0.30816291688539266,
-    "wave_strength": 1.1469920720383804,
-    "adx": 24.43274797381934,
-    "atr": 1.4334422649954115,
-    "obv_slope": 3006150.0714285714,
-    "mom14": 0.13090780326746138,
+    "rsi_slope": -0.4248914007476167,
+    "wave_strength": 1.139037498710133,
+    "adx": 24.650332765328095,
+    "atr": 1.4339171549423533,
+    "obv_slope": 2507073.9285714286,
+    "mom14": 0.12242088979650466,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 82.55,
-    "score_0_10": 8.25,
-    "last_close": 33.2599983215332,
-    "avg_vol20": 14883964.95
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV; strong wave vs SMA20",
+    "score_0_100": 63.68,
+    "score_0_10": 6.37,
+    "last_close": 32.63999938964844,
+    "avg_vol20": 14592683.25
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 74.02999877929688,
-      "High": 74.30000305175781,
-      "Low": 73.01000213623047,
-      "Close": 74.25,
-      "Volume": 2650100
-    },
     {
       "Date": "2023-12-12",
       "Open": 75.62000274658203,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-12",
-      "Open": 33.92499923706055,
+      "Open": 33.91999816894531,
       "High": 34.779998779296875,
-      "Low": 33.070098876953125,
+      "Low": 33.06999969482422,
       "Close": 33.2599983215332,
-      "Volume": 14549799
+      "Volume": 16857100
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 33.23500061035156,
+      "High": 33.369998931884766,
+      "Low": 31.93000030517578,
+      "Close": 32.63999938964844,
+      "Volume": 11508165
     }
   ]
 }

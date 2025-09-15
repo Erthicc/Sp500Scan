@@ -1,34 +1,26 @@
 {
   "ticker": "ORCL",
   "indicators": {
-    "macd_hist": 8.203672697488297,
-    "macd_slope": 0.8255814962667031,
+    "macd_hist": 8.329346792145465,
+    "macd_slope": 0.8205017432807493,
     "rsi": 0.0,
-    "rsi_slope": 2.3477891461093185,
-    "wave_strength": 1.334308627515053,
-    "adx": 28.241171936396277,
-    "atr": 15.508928518048837,
-    "obv_slope": 2754443.5714285714,
-    "mom14": 0.2361128684329171,
+    "rsi_slope": 2.8673080961763224,
+    "wave_strength": 1.3198638334308392,
+    "adx": 29.621453646691002,
+    "atr": 15.46244557922631,
+    "obv_slope": 5541313.642857143,
+    "mom14": 0.28346293678372136,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 96.88,
-    "score_0_10": 9.69,
-    "last_close": 292.17999267578125,
-    "avg_vol20": 23360204.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 94.12,
+    "score_0_10": 9.41,
+    "last_close": 302.1400146484375,
+    "avg_vol20": 24744734.55
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 113.7699966430664,
-      "High": 115.3499984741211,
-      "Low": 113.61000061035156,
-      "Close": 115.12999725341797,
-      "Volume": 19544200
-    },
     {
       "Date": "2023-12-12",
       "Open": 102.69999694824219,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-12",
       "Open": 305.7900085449219,
       "High": 307.9700012207031,
-      "Low": 291.7587890625,
+      "Low": 291.75,
       "Close": 292.17999267578125,
-      "Volume": 48368590
+      "Volume": 51637100
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 306.45001220703125,
+      "High": 307.0299987792969,
+      "Low": 297.2900085449219,
+      "Close": 302.1400146484375,
+      "Volume": 35976091
     }
   ]
 }

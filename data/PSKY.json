@@ -1,34 +1,26 @@
 {
   "ticker": "PSKY",
   "indicators": {
-    "macd_hist": 0.2641197848396484,
-    "macd_slope": -0.010003235855783166,
+    "macd_hist": 0.3315626341493785,
+    "macd_slope": -0.005987768788476356,
     "rsi": 0.0,
-    "rsi_slope": 0.43657599951911813,
-    "wave_strength": 1.0009218914545677,
-    "adx": 42.98177675132035,
-    "atr": 1.158416769298761,
-    "obv_slope": 4083496.3571428573,
-    "mom14": 0.17437505722045898,
+    "rsi_slope": 0.11227208013030321,
+    "wave_strength": 1.217836604980491,
+    "adx": 44.631789596645135,
+    "atr": 1.1349584231869716,
+    "obv_slope": 4109233.6428571427,
+    "mom14": 0.16416039343965289,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 89.42,
-    "score_0_10": 8.94,
-    "last_close": 18.790000915527344,
-    "avg_vol20": 14033397.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 91.84,
+    "score_0_10": 9.18,
+    "last_close": 18.579999923706055,
+    "avg_vol20": 13613511.45
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 17.389999389648438,
-      "High": 17.5,
-      "Low": 16.1200008392334,
-      "Close": 16.239999771118164,
-      "Volume": 26904100
-    },
     {
       "Date": "2023-12-12",
       "Open": 16.219999313354492,
@@ -3539,7 +3531,15 @@
       "High": 18.8700008392334,
       "Low": 16.899999618530273,
       "Close": 18.790000915527344,
-      "Volume": 32119349
+      "Volume": 32386600
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 18.790000915527344,
+      "High": 19.049999237060547,
+      "Low": 18.219999313354492,
+      "Close": 18.579999923706055,
+      "Volume": 8038529
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "UBER",
   "indicators": {
-    "macd_hist": 0.01593744034036737,
-    "macd_slope": -0.042315953670964856,
+    "macd_hist": 0.26226322646380285,
+    "macd_slope": -0.01981462227225918,
     "rsi": 0.0,
-    "rsi_slope": -1.6846652472364627,
-    "wave_strength": 1.011824904343033,
-    "adx": 9.945660340332731,
-    "atr": 2.7041410420972167,
-    "obv_slope": -488501.71428571426,
-    "mom14": -0.009298496924949665,
+    "rsi_slope": -0.29969944340709126,
+    "wave_strength": 1.0084841193110194,
+    "adx": 10.588628159058516,
+    "atr": 2.7495598224276243,
+    "obv_slope": 1757592.7857142857,
+    "mom14": 0.03877674096266343,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 60.69,
-    "score_0_10": 6.07,
-    "last_close": 95.88999938964844,
-    "avg_vol20": 15193208.8
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.71,
+    "score_0_10": 7.47,
+    "last_close": 98.8499984741211,
+    "avg_vol20": 15426479.95
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 61.529998779296875,
-      "High": 62.9900016784668,
-      "Low": 60.939998626708984,
-      "Close": 62.459999084472656,
-      "Volume": 30389700
-    },
     {
       "Date": "2023-12-12",
       "Open": 62.064998626708984,
@@ -3539,7 +3531,15 @@
       "High": 96.2699966430664,
       "Low": 93.70999908447266,
       "Close": 95.88999938964844,
-      "Volume": 11758676
+      "Volume": 13653600
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 95.80000305175781,
+      "High": 98.86000061035156,
+      "Low": 95.5199966430664,
+      "Close": 98.8499984741211,
+      "Volume": 18612299
     }
   ]
 }

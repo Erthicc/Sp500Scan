@@ -1,34 +1,26 @@
 {
   "ticker": "GOOGL",
   "indicators": {
-    "macd_hist": 2.0635401698783724,
-    "macd_slope": 0.1745686686630942,
+    "macd_hist": 2.3510419028200484,
+    "macd_slope": 0.17464664029185137,
     "rsi": 0.0,
-    "rsi_slope": 1.2820057209656315,
-    "wave_strength": 1.098646607361612,
-    "adx": 48.85376892239695,
-    "atr": 5.420298250149115,
-    "obv_slope": 19870233.35714286,
-    "mom14": 0.1694666133599916,
+    "rsi_slope": 1.1438820739911617,
+    "wave_strength": 1.0867158578769187,
+    "adx": 50.36483959772084,
+    "atr": 5.8623943122243185,
+    "obv_slope": 21857111.714285713,
+    "mom14": 0.20789983965736533,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 81.59,
-    "score_0_10": 8.16,
-    "last_close": 240.8000030517578,
-    "avg_vol20": 36732218.35
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 90.16,
+    "score_0_10": 9.02,
+    "last_close": 251.61000061035156,
+    "avg_vol20": 37872908.2
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 132.3800048828125,
-      "High": 133.33999633789062,
-      "Low": 131.36000061035156,
-      "Close": 133.2899932861328,
-      "Volume": 31138000
-    },
     {
       "Date": "2023-12-12",
       "Open": 131.80999755859375,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-12",
-      "Open": 240.6750030517578,
-      "High": 242.0749969482422,
+      "Open": 240.3699951171875,
+      "High": 242.0800018310547,
       "Low": 238.0,
       "Close": 240.8000030517578,
-      "Volume": 26497167
+      "Volume": 26761900
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 244.77000427246094,
+      "High": 252.40499877929688,
+      "Low": 244.7100067138672,
+      "Close": 251.61000061035156,
+      "Volume": 57480464
     }
   ]
 }

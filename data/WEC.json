@@ -1,34 +1,26 @@
 {
   "ticker": "WEC",
   "indicators": {
-    "macd_hist": 0.2985177831970377,
-    "macd_slope": 0.0342532378443633,
+    "macd_hist": 0.3776023562075121,
+    "macd_slope": 0.04568967568548849,
     "rsi": 0.0,
-    "rsi_slope": 1.3848406775941566,
-    "wave_strength": 1.000134542889436,
-    "adx": 13.318003461226656,
-    "atr": 1.3972402347823087,
-    "obv_slope": 965816.9285714285,
-    "mom14": 0.018242083202855506,
+    "rsi_slope": 2.4156831903497036,
+    "wave_strength": 0.9984623401897648,
+    "adx": 14.706579077115848,
+    "atr": 1.368712682723823,
+    "obv_slope": 1238528.5714285714,
+    "mom14": 0.03749067100368552,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 74.84,
-    "score_0_10": 7.48,
-    "last_close": 110.5199966430664,
-    "avg_vol20": 2066141.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 78.15,
+    "score_0_10": 7.81,
+    "last_close": 110.97000122070312,
+    "avg_vol20": 2056365.0
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 83.8499984741211,
-      "High": 84.27999877929688,
-      "Low": 83.19000244140625,
-      "Close": 84.20999908447266,
-      "Volume": 2265000
-    },
     {
       "Date": "2023-12-12",
       "Open": 84.41999816894531,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-12",
       "Open": 109.29000091552734,
-      "High": 110.7750015258789,
-      "Low": 109.38500213623047,
+      "High": 110.77999877929688,
+      "Low": 109.29000091552734,
       "Close": 110.5199966430664,
-      "Volume": 1532637
+      "Volume": 1532700
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 110.51000213623047,
+      "High": 111.26499938964844,
+      "Low": 110.36000061035156,
+      "Close": 110.97000122070312,
+      "Volume": 2388200
     }
   ]
 }

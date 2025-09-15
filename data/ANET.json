@@ -1,34 +1,26 @@
 {
   "ticker": "ANET",
   "indicators": {
-    "macd_hist": 0.10747621765704629,
-    "macd_slope": 0.09832639065413552,
+    "macd_hist": 0.012278163285145638,
+    "macd_slope": 0.09859680491469495,
     "rsi": 0.0,
-    "rsi_slope": -0.552850529320905,
-    "wave_strength": 1.108756479466256,
-    "adx": 24.646277992586807,
-    "atr": 5.55467808654758,
-    "obv_slope": 3175814.785714286,
-    "mom14": 0.04607879466903143,
+    "rsi_slope": -0.3827707693114216,
+    "wave_strength": 1.1055007353505182,
+    "adx": 23.752580007271582,
+    "atr": 5.7079151482444175,
+    "obv_slope": 4325387.857142857,
+    "mom14": 0.0931298858607195,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 76.58,
-    "score_0_10": 7.66,
-    "last_close": 139.38999938964844,
-    "avg_vol20": 8744849.65
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.94,
+    "score_0_10": 7.19,
+    "last_close": 145.42999267578125,
+    "avg_vol20": 9116256.5
   },
   "history": [
-    {
-      "Date": "2023-12-11",
-      "Open": 56.0,
-      "High": 56.8849983215332,
-      "Low": 55.666500091552734,
-      "Close": 56.64250183105469,
-      "Volume": 8054000
-    },
     {
       "Date": "2023-12-12",
       "Open": 56.584999084472656,
@@ -3539,7 +3531,15 @@
       "High": 149.47000122070312,
       "Low": 139.02000427246094,
       "Close": 139.38999938964844,
-      "Volume": 16529093
+      "Volume": 17894900
+    },
+    {
+      "Date": "2025-09-15",
+      "Open": 139.60000610351562,
+      "High": 146.88999938964844,
+      "Low": 139.19000244140625,
+      "Close": 145.42999267578125,
+      "Volume": 12118630
     }
   ]
 }
