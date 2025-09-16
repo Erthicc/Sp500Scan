@@ -1,34 +1,26 @@
 {
   "ticker": "IBM",
   "indicators": {
-    "macd_hist": 2.213482230417356,
-    "macd_slope": 0.09089085409912433,
+    "macd_hist": 2.063330449043908,
+    "macd_slope": 0.06029119086453411,
     "rsi": 0.0,
-    "rsi_slope": 2.4782823440852995,
-    "wave_strength": 1.0403220877258283,
-    "adx": 25.421274064224075,
-    "atr": 5.050607963259997,
-    "obv_slope": 1956355.0,
-    "mom14": 0.07020840359526984,
+    "rsi_slope": 2.2020276788034248,
+    "wave_strength": 1.0365313112828407,
+    "adx": 24.950223137657055,
+    "atr": 4.941278038435535,
+    "obv_slope": 1718027.642857143,
+    "mom14": 0.06136909628325263,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.32,
-    "score_0_10": 7.33,
-    "last_close": 256.239990234375,
-    "avg_vol20": 3863713.5
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 72.23,
+    "score_0_10": 7.22,
+    "last_close": 257.5199890136719,
+    "avg_vol20": 3787954.35
   },
   "history": [
-    {
-      "Date": "2023-12-12",
-      "Open": 163.27000427246094,
-      "High": 166.33999633789062,
-      "Low": 162.9199981689453,
-      "Close": 164.7100067138672,
-      "Volume": 5292300
-    },
     {
       "Date": "2023-12-13",
       "Open": 164.3699951171875,
@@ -3531,15 +3523,23 @@
       "High": 257.25,
       "Low": 252.42999267578125,
       "Close": 253.44000244140625,
-      "Volume": 3431100
+      "Volume": 3433300
     },
     {
       "Date": "2025-09-15",
       "Open": 254.02000427246094,
       "High": 259.04998779296875,
-      "Low": 254.1999969482422,
+      "Low": 254.0,
       "Close": 256.239990234375,
-      "Volume": 4013570
+      "Volume": 4028400
+    },
+    {
+      "Date": "2025-09-16",
+      "Open": 256.260009765625,
+      "High": 257.92999267578125,
+      "Low": 254.41000366210938,
+      "Close": 257.5199890136719,
+      "Volume": 2037387
     }
   ]
 }

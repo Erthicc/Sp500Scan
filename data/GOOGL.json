@@ -1,34 +1,26 @@
 {
   "ticker": "GOOGL",
   "indicators": {
-    "macd_hist": 2.3510419028200484,
-    "macd_slope": 0.17464664029185137,
+    "macd_hist": 2.284010067487282,
+    "macd_slope": 0.16610994867553316,
     "rsi": 0.0,
-    "rsi_slope": 1.1438820739911617,
-    "wave_strength": 1.0867158578769187,
-    "adx": 50.36483959772084,
-    "atr": 5.8623943122243185,
-    "obv_slope": 21857111.714285713,
-    "mom14": 0.20789983965736533,
+    "rsi_slope": 1.6287990860041046,
+    "wave_strength": 1.1287995250303953,
+    "adx": 51.799410544751495,
+    "atr": 5.698983251137752,
+    "obv_slope": 21521695.214285713,
+    "mom14": 0.21359779211023877,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 90.16,
-    "score_0_10": 9.02,
-    "last_close": 251.61000061035156,
-    "avg_vol20": 37872908.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 84.2,
+    "score_0_10": 8.42,
+    "last_close": 251.16000366210938,
+    "avg_vol20": 38695878.35
   },
   "history": [
-    {
-      "Date": "2023-12-12",
-      "Open": 131.80999755859375,
-      "High": 133.0,
-      "Low": 131.25999450683594,
-      "Close": 132.52000427246094,
-      "Volume": 29032800
-    },
     {
       "Date": "2023-12-13",
       "Open": 133.3800048828125,
@@ -3531,15 +3523,23 @@
       "High": 242.0800018310547,
       "Low": 238.0,
       "Close": 240.8000030517578,
-      "Volume": 26761900
+      "Volume": 26771600
     },
     {
       "Date": "2025-09-15",
-      "Open": 244.77000427246094,
-      "High": 252.40499877929688,
-      "Low": 244.7100067138672,
+      "Open": 244.66000366210938,
+      "High": 252.41000366210938,
+      "Low": 244.66000366210938,
       "Close": 251.61000061035156,
-      "Volume": 57480464
+      "Volume": 58383800
+    },
+    {
+      "Date": "2025-09-16",
+      "Open": 252.125,
+      "High": 253.0399932861328,
+      "Low": 249.47000122070312,
+      "Close": 251.16000366210938,
+      "Volume": 34072967
     }
   ]
 }
