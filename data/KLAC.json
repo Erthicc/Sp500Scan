@@ -1,34 +1,26 @@
 {
   "ticker": "KLAC",
   "indicators": {
-    "macd_hist": 12.922929928035494,
-    "macd_slope": 1.2183529396587878,
+    "macd_hist": 12.56322124543896,
+    "macd_slope": 1.1135978891970286,
     "rsi": 0.0,
-    "rsi_slope": 1.7748708915477676,
-    "wave_strength": 0.9905553735351128,
-    "adx": 20.182124038560637,
-    "atr": 23.95097316854937,
-    "obv_slope": 416926.28571428574,
-    "mom14": 0.11538118968044683,
+    "rsi_slope": 2.2017017832754666,
+    "wave_strength": 1.0906796763746651,
+    "adx": 21.818065835251023,
+    "atr": 23.96536768319663,
+    "obv_slope": 327635.85714285716,
+    "mom14": 0.11360233415231728,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 89.94,
-    "score_0_10": 8.99,
-    "last_close": 990.5700073242188,
-    "avg_vol20": 850978.4
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 86.69,
+    "score_0_10": 8.67,
+    "last_close": 989.8699951171875,
+    "avg_vol20": 837724.9
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 562.0999755859375,
-      "High": 573.5599975585938,
-      "Low": 558.8499755859375,
-      "Close": 570.7000122070312,
-      "Volume": 783800
-    },
     {
       "Date": "2023-12-14",
       "Open": 575.0499877929688,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-16",
       "Open": 993.5,
-      "High": 1002.0349731445312,
-      "Low": 975.510009765625,
+      "High": 1002.0399780273438,
+      "Low": 975.0599975585938,
       "Close": 990.5700073242188,
-      "Volume": 776068
+      "Volume": 776100
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 990.3800048828125,
+      "High": 1000.0,
+      "Low": 976.27001953125,
+      "Close": 989.8699951171875,
+      "Volume": 721598
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ORCL",
   "indicators": {
-    "macd_hist": 8.20461060470702,
-    "macd_slope": 0.7987158504530232,
+    "macd_hist": 7.288540739011371,
+    "macd_slope": 0.70857270787361,
     "rsi": 0.0,
-    "rsi_slope": 3.0873165726019858,
-    "wave_strength": 1.3047633142083077,
-    "adx": 31.23474961418964,
-    "atr": 15.631555650058477,
-    "obv_slope": 10305684.642857144,
-    "mom14": 0.3092950134753065,
+    "rsi_slope": 2.4132877405769415,
+    "wave_strength": 1.2026480404422573,
+    "adx": 32.18298588588795,
+    "atr": 15.488587738339147,
+    "obv_slope": 8275860.0,
+    "mom14": 0.27819009703867803,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 100.0,
-    "score_0_10": 10.0,
-    "last_close": 306.6499938964844,
-    "avg_vol20": 27166019.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 92.4,
+    "score_0_10": 9.24,
+    "last_close": 301.4100036621094,
+    "avg_vol20": 27555093.0
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 101.08000183105469,
-      "High": 103.0999984741211,
-      "Low": 99.26000213623047,
-      "Close": 102.98999786376953,
-      "Volume": 29392200
-    },
     {
       "Date": "2023-12-14",
       "Open": 101.87000274658203,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-16",
       "Open": 314.05999755859375,
       "High": 319.9700012207031,
-      "Low": 302.27239990234375,
+      "Low": 302.2699890136719,
       "Close": 306.6499938964844,
-      "Volume": 51012885
+      "Volume": 51923300
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 307.69000244140625,
+      "High": 308.6600036621094,
+      "Low": 295.0299987792969,
+      "Close": 301.4100036621094,
+      "Volume": 23690360
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "HSY",
   "indicators": {
-    "macd_hist": 0.38870541746585285,
-    "macd_slope": 0.05270413634203457,
+    "macd_hist": 0.48065447695859786,
+    "macd_slope": 0.05615406938820834,
     "rsi": 0.0,
-    "rsi_slope": 1.9155199535990535,
-    "wave_strength": 1.0188721402127934,
-    "adx": 19.461899457905503,
-    "atr": 4.009958497798714,
-    "obv_slope": 277002.28571428574,
-    "mom14": 0.05479827364351108,
+    "rsi_slope": 1.8574449789526086,
+    "wave_strength": 1.0472068507679981,
+    "adx": 20.238008870002208,
+    "atr": 4.07751172901061,
+    "obv_slope": 277373.14285714284,
+    "mom14": 0.05191012047605808,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 86.26,
-    "score_0_10": 8.63,
-    "last_close": 193.4499969482422,
-    "avg_vol20": 1203466.6
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 73.83,
+    "score_0_10": 7.38,
+    "last_close": 191.08999633789062,
+    "avg_vol20": 1203688.8
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 184.9199981689453,
-      "High": 188.9600067138672,
-      "Low": 184.3699951171875,
-      "Close": 188.7899932861328,
-      "Volume": 1281000
-    },
     {
       "Date": "2023-12-14",
       "Open": 189.1999969482422,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-16",
-      "Open": 192.47500610351562,
+      "Open": 192.47999572753906,
       "High": 195.35000610351562,
       "Low": 188.7100067138672,
       "Close": 193.4499969482422,
-      "Volume": 2503332
+      "Volume": 2815300
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 193.08999633789062,
+      "High": 194.90989685058594,
+      "Low": 189.95419311523438,
+      "Close": 191.08999633789062,
+      "Volume": 1189276
     }
   ]
 }

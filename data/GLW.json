@@ -1,34 +1,26 @@
 {
   "ticker": "GLW",
   "indicators": {
-    "macd_hist": 0.6559329629852795,
-    "macd_slope": 0.06256116086153621,
+    "macd_hist": 0.49068761049511256,
+    "macd_slope": 0.04937552805302925,
     "rsi": 0.0,
-    "rsi_slope": 1.1405756014529171,
-    "wave_strength": 0.9790383984890454,
-    "adx": 62.51649205592205,
-    "atr": 1.6872239684629395,
-    "obv_slope": 9063793.92857143,
-    "mom14": 0.1724182453403001,
+    "rsi_slope": 0.8423862409001686,
+    "wave_strength": 1.1123528319242153,
+    "adx": 62.493455556587556,
+    "atr": 1.7489896599134016,
+    "obv_slope": 8611463.42857143,
+    "mom14": 0.1478597382371549,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 78.42,
-    "score_0_10": 7.84,
-    "last_close": 78.69999694824219,
-    "avg_vol20": 8855670.75
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 85.45,
+    "score_0_10": 8.55,
+    "last_close": 76.87999725341797,
+    "avg_vol20": 9093960.6
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 29.469999313354492,
-      "High": 29.760000228881836,
-      "Low": 29.139999389648438,
-      "Close": 29.68000030517578,
-      "Volume": 5506400
-    },
     {
       "Date": "2023-12-14",
       "Open": 29.850000381469727,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-16",
       "Open": 78.27999877929688,
-      "High": 78.80500030517578,
-      "Low": 77.31710052490234,
+      "High": 78.80999755859375,
+      "Low": 77.31999969482422,
       "Close": 78.69999694824219,
-      "Volume": 12929815
+      "Volume": 12936700
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 78.41999816894531,
+      "High": 78.68000030517578,
+      "Low": 76.1500015258789,
+      "Close": 76.87999725341797,
+      "Volume": 10573612
     }
   ]
 }

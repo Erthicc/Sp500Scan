@@ -1,34 +1,26 @@
 {
   "ticker": "TKO",
   "indicators": {
-    "macd_hist": 0.8107061405660279,
-    "macd_slope": 0.0203390477719525,
+    "macd_hist": 0.6037539189427514,
+    "macd_slope": 0.017369247680191373,
     "rsi": 0.0,
-    "rsi_slope": -0.7650889089520783,
-    "wave_strength": 1.0715196678259982,
-    "adx": 24.5428169911524,
-    "atr": 5.448553483545338,
-    "obv_slope": 234503.14285714287,
-    "mom14": 0.08578933567373558,
+    "rsi_slope": -0.5834243721528084,
+    "wave_strength": 1.0667198578309356,
+    "adx": 26.14709396640478,
+    "atr": 5.333147087861289,
+    "obv_slope": 275008.85714285716,
+    "mom14": 0.08881698845037102,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 76.59,
-    "score_0_10": 7.66,
-    "last_close": 200.2899932861328,
-    "avg_vol20": 916492.8
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.58,
+    "score_0_10": 8.06,
+    "last_close": 201.3800048828125,
+    "avg_vol20": 976996.2
   },
   "history": [
-    {
-      "Date": "2023-12-13",
-      "Open": 73.72000122070312,
-      "High": 73.83000183105469,
-      "Low": 72.33999633789062,
-      "Close": 73.62999725341797,
-      "Volume": 1328000
-    },
     {
       "Date": "2023-12-14",
       "Open": 74.58999633789062,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-16",
       "Open": 204.22999572753906,
-      "High": 204.14500427246094,
-      "Low": 199.8699951171875,
+      "High": 204.22999572753906,
+      "Low": 199.83999633789062,
       "Close": 200.2899932861328,
-      "Volume": 2885856
+      "Volume": 3258900
+    },
+    {
+      "Date": "2025-09-17",
+      "Open": 203.66000366210938,
+      "High": 204.09500122070312,
+      "Low": 200.39999389648438,
+      "Close": 201.3800048828125,
+      "Volume": 1476124
     }
   ]
 }
