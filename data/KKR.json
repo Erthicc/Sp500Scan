@@ -1,34 +1,26 @@
 {
   "ticker": "KKR",
   "indicators": {
-    "macd_hist": 0.8064940964689189,
-    "macd_slope": 0.11124496409345677,
+    "macd_hist": 1.0842600513701284,
+    "macd_slope": 0.12266415080669425,
     "rsi": 0.0,
-    "rsi_slope": 0.767893459943467,
-    "wave_strength": 1.0331625842137464,
-    "adx": 15.038710833792548,
-    "atr": 3.7065417407312786,
-    "obv_slope": -450929.35714285716,
-    "mom14": 0.027977451709468835,
+    "rsi_slope": 1.4399563588266011,
+    "wave_strength": 1.0290283022126978,
+    "adx": 16.304738984261594,
+    "atr": 3.9217378541245695,
+    "obv_slope": 34273.78571428572,
+    "mom14": 0.06602898309519137,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 71.09,
-    "score_0_10": 7.11,
-    "last_close": 144.39999389648438,
-    "avg_vol20": 2951799.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 78.36,
+    "score_0_10": 7.84,
+    "last_close": 149.33999633789062,
+    "avg_vol20": 2948996.65
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 80.56999969482422,
-      "High": 83.41999816894531,
-      "Low": 80.45999908447266,
-      "Close": 83.01000213623047,
-      "Volume": 6023500
-    },
     {
       "Date": "2023-12-15",
       "Open": 83.01000213623047,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-17",
       "Open": 144.42999267578125,
-      "High": 147.2100067138672,
+      "High": 147.22000122070312,
       "Low": 143.1300048828125,
       "Close": 144.39999389648438,
-      "Volume": 2931689
+      "Volume": 2932200
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 146.1649932861328,
+      "High": 151.11000061035156,
+      "Low": 145.74000549316406,
+      "Close": 149.33999633789062,
+      "Volume": 3129233
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "RJF",
   "indicators": {
-    "macd_hist": 0.03928022818122434,
-    "macd_slope": 0.007428696040621162,
+    "macd_hist": 0.3019578676838268,
+    "macd_slope": 0.016220975340678345,
     "rsi": 0.0,
-    "rsi_slope": -0.5256361875352538,
-    "wave_strength": 1.0219802243860197,
-    "adx": 11.801365854734078,
-    "atr": 3.182436549550786,
-    "obv_slope": 94912.0,
-    "mom14": 0.012622866415590912,
+    "rsi_slope": -0.007061256215252395,
+    "wave_strength": 1.018493994539862,
+    "adx": 12.875249120673308,
+    "atr": 3.2958331539884953,
+    "obv_slope": 99872.85714285714,
+    "mom14": 0.03094058297779087,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 67.59,
-    "score_0_10": 6.76,
-    "last_close": 170.07000732421875,
-    "avg_vol20": 932138.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.47,
+    "score_0_10": 7.45,
+    "last_close": 173.92999267578125,
+    "avg_vol20": 911231.0
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 109.16000366210938,
-      "High": 112.2699966430664,
-      "Low": 108.93000030517578,
-      "Close": 110.87999725341797,
-      "Volume": 2001200
-    },
     {
       "Date": "2023-12-15",
       "Open": 110.48999786376953,
@@ -3539,7 +3531,15 @@
       "High": 171.8000030517578,
       "Low": 168.4499969482422,
       "Close": 170.07000732421875,
-      "Volume": 992068
+      "Volume": 1017400
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 170.60000610351562,
+      "High": 174.83999633789062,
+      "Low": 170.80999755859375,
+      "Close": 173.92999267578125,
+      "Volume": 705620
     }
   ]
 }

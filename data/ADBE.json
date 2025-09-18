@@ -1,34 +1,26 @@
 {
   "ticker": "ADBE",
   "indicators": {
-    "macd_hist": 1.0437974846298848,
-    "macd_slope": -0.08671909224917873,
+    "macd_hist": 1.819683539093016,
+    "macd_slope": -0.00046943722238178075,
     "rsi": 0.0,
-    "rsi_slope": -0.6122787296406719,
-    "wave_strength": 0.9921909381202287,
-    "adx": 17.97435400681523,
-    "atr": 10.66925612591713,
-    "obv_slope": -177241.35714285713,
-    "mom14": 0.0160516377795193,
+    "rsi_slope": 0.044254342125580895,
+    "wave_strength": 0.9902248329245557,
+    "adx": 18.10913015304396,
+    "atr": 10.535021976526162,
+    "obv_slope": 435019.14285714284,
+    "mom14": 0.038139903734609834,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 67.4,
-    "score_0_10": 6.74,
-    "last_close": 362.07000732421875,
-    "avg_vol20": 5041791.05
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.86,
+    "score_0_10": 7.49,
+    "last_close": 367.4599914550781,
+    "avg_vol20": 5093823.4
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 593.0,
-      "High": 593.1599731445312,
-      "Low": 578.2999877929688,
-      "Close": 584.6400146484375,
-      "Volume": 11315300
-    },
     {
       "Date": "2023-12-15",
       "Open": 580.5999755859375,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-17",
-      "Open": 353.20001220703125,
+      "Open": 353.17999267578125,
       "High": 365.0,
       "Low": 353.17999267578125,
       "Close": 362.07000732421875,
-      "Volume": 6380321
+      "Volume": 6449900
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 366.8599853515625,
+      "High": 370.8599853515625,
+      "Low": 365.8500061035156,
+      "Close": 367.4599914550781,
+      "Volume": 4698968
     }
   ]
 }

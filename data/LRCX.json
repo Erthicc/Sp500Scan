@@ -1,34 +1,26 @@
 {
   "ticker": "LRCX",
   "indicators": {
-    "macd_hist": 2.0601945282802463,
-    "macd_slope": 0.14603480210640132,
+    "macd_hist": 2.2458269542038782,
+    "macd_slope": 0.151982174969846,
     "rsi": 0.0,
-    "rsi_slope": 1.3760383271471295,
-    "wave_strength": 0.9816477107062175,
-    "adx": 23.957998951133074,
-    "atr": 3.2483964244718453,
-    "obv_slope": 6971693.071428572,
-    "mom14": 0.17584647129273753,
+    "rsi_slope": 1.823591010653624,
+    "wave_strength": 0.9692302374628233,
+    "adx": 26.661164404239305,
+    "atr": 3.5017256654869113,
+    "obv_slope": 7452309.642857143,
+    "mom14": 0.21356522373938708,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 76.18,
-    "score_0_10": 7.62,
-    "last_close": 121.9000015258789,
-    "avg_vol20": 10523495.15
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.88,
+    "score_0_10": 8.29,
+    "last_close": 126.31999969482422,
+    "avg_vol20": 10514301.75
   },
   "history": [
-    {
-      "Date": "2023-12-14",
-      "Open": 74.03600311279297,
-      "High": 77.12799835205078,
-      "Low": 73.87799835205078,
-      "Close": 76.72100067138672,
-      "Volume": 17234000
-    },
     {
       "Date": "2023-12-15",
       "Open": 76.93299865722656,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-17",
-      "Open": 121.0,
+      "Open": 120.81999969482422,
       "High": 123.27999877929688,
       "Low": 119.51000213623047,
       "Close": 121.9000015258789,
-      "Volume": 10558903
+      "Volume": 10996100
+    },
+    {
+      "Date": "2025-09-18",
+      "Open": 126.58000183105469,
+      "High": 128.69500732421875,
+      "Low": 125.04000091552734,
+      "Close": 126.31999969482422,
+      "Volume": 13666635
     }
   ]
 }
