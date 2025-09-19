@@ -1,34 +1,26 @@
 {
   "ticker": "MPWR",
   "indicators": {
-    "macd_hist": 1.9457797635950485,
-    "macd_slope": 0.14985453755959505,
+    "macd_hist": 3.866519915062998,
+    "macd_slope": 0.4164113789400497,
     "rsi": 0.0,
-    "rsi_slope": 0.24342232262626037,
-    "wave_strength": 1.0166840422379984,
-    "adx": 25.060107177187085,
-    "atr": 27.81354241117081,
-    "obv_slope": -13329.642857142857,
-    "mom14": 0.0691004890220831,
+    "rsi_slope": 1.1166129664177156,
+    "wave_strength": 1.0716321030059908,
+    "adx": 26.529934692063055,
+    "atr": 27.99150314377042,
+    "obv_slope": -35044.142857142855,
+    "mom14": 0.09643913880079094,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA",
-    "score_0_100": 84.23,
-    "score_0_10": 8.42,
-    "last_close": 917.780029296875,
-    "avg_vol20": 468204.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; strong wave vs SMA20",
+    "score_0_100": 83.28,
+    "score_0_10": 8.33,
+    "last_close": 916.3599853515625,
+    "avg_vol20": 498210.9
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 634.3499755859375,
-      "High": 647.1199951171875,
-      "Low": 630.760009765625,
-      "Close": 633.3099975585938,
-      "Volume": 857100
-    },
     {
       "Date": "2023-12-18",
       "Open": 634.9299926757812,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-18",
       "Open": 895.3499755859375,
       "High": 924.4000244140625,
-      "Low": 890.0850219726562,
+      "Low": 890.0900268554688,
       "Close": 917.780029296875,
-      "Volume": 783185
+      "Volume": 853300
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 923.3699951171875,
+      "High": 923.3699951171875,
+      "Low": 893.0650024414062,
+      "Close": 916.3599853515625,
+      "Volume": 943018
     }
   ]
 }

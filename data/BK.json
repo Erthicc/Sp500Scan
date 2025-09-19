@@ -1,34 +1,26 @@
 {
   "ticker": "BK",
   "indicators": {
-    "macd_hist": 0.09943248296850316,
-    "macd_slope": 0.003163950553700255,
+    "macd_hist": 0.17185968334602753,
+    "macd_slope": 0.006164770706023377,
     "rsi": 0.0,
-    "rsi_slope": -0.1745206390866798,
-    "wave_strength": 1.0142401703624155,
-    "adx": 19.161258474216332,
-    "atr": 1.852632000822491,
-    "obv_slope": 124446.57142857143,
-    "mom14": 0.02280865413523616,
+    "rsi_slope": 0.25701436591146376,
+    "wave_strength": 1.010903711302112,
+    "adx": 19.65878494864248,
+    "atr": 1.796178897930459,
+    "obv_slope": 1007314.8571428572,
+    "mom14": 0.029450763781153994,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.06,
-    "score_0_10": 7.51,
-    "last_close": 108.5199966430664,
-    "avg_vol20": 2836927.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.99,
+    "score_0_10": 7.7,
+    "last_close": 108.70999908447266,
+    "avg_vol20": 3185570.4
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 51.290000915527344,
-      "High": 51.7400016784668,
-      "Low": 51.099998474121094,
-      "Close": 51.630001068115234,
-      "Volume": 8085700
-    },
     {
       "Date": "2023-12-18",
       "Open": 52.04999923706055,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-18",
       "Open": 107.13999938964844,
-      "High": 108.70099639892578,
-      "Low": 106.83499908447266,
+      "High": 108.69999694824219,
+      "Low": 106.80999755859375,
       "Close": 108.5199966430664,
-      "Volume": 2127352
+      "Volume": 2784200
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 108.80000305175781,
+      "High": 109.20999908447266,
+      "Low": 108.16999816894531,
+      "Close": 108.70999908447266,
+      "Volume": 8770208
     }
   ]
 }

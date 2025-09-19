@@ -1,34 +1,26 @@
 {
   "ticker": "MDLZ",
   "indicators": {
-    "macd_hist": 0.3074078924733926,
-    "macd_slope": 0.015122602077686334,
+    "macd_hist": 0.34955818907774816,
+    "macd_slope": 0.01880765454775963,
     "rsi": 0.0,
-    "rsi_slope": 1.5104656316516183,
-    "wave_strength": 1.0077631743914226,
-    "adx": 16.151837102966166,
-    "atr": 1.1541933896483514,
-    "obv_slope": 1017129.2857142857,
-    "mom14": 0.032147540142717486,
+    "rsi_slope": 1.4141516221756767,
+    "wave_strength": 1.0071386598052607,
+    "adx": 15.930877579171252,
+    "atr": 1.1468606227607694,
+    "obv_slope": 1826254.357142857,
+    "mom14": 0.0369466228597353,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 57.42,
-    "score_0_10": 5.74,
-    "last_close": 63.25,
-    "avg_vol20": 6706240.5
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 77.77,
+    "score_0_10": 7.78,
+    "last_close": 63.709999084472656,
+    "avg_vol20": 7281603.05
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 70.41000366210938,
-      "High": 71.06999969482422,
-      "Low": 70.04000091552734,
-      "Close": 70.69999694824219,
-      "Volume": 15088700
-    },
     {
       "Date": "2023-12-18",
       "Open": 71.26000213623047,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-18",
-      "Open": 62.1151008605957,
+      "Open": 62.27000045776367,
       "High": 63.36000061035156,
-      "Low": 62.1151008605957,
+      "Low": 62.11000061035156,
       "Close": 63.25,
-      "Volume": 6535210
+      "Volume": 6596000
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 63.58000183105469,
+      "High": 64.02999877929688,
+      "Low": 62.98320007324219,
+      "Close": 63.709999084472656,
+      "Volume": 17133761
     }
   ]
 }

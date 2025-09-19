@@ -1,34 +1,26 @@
 {
   "ticker": "GE",
   "indicators": {
-    "macd_hist": 1.5285082255914766,
-    "macd_slope": 0.1267360702921286,
+    "macd_hist": 1.9038623405399662,
+    "macd_slope": 0.1404678949894189,
     "rsi": 0.0,
-    "rsi_slope": 1.5495987315959567,
-    "wave_strength": 1.0503634600376077,
-    "adx": 19.350394889769774,
-    "atr": 6.316603516133958,
-    "obv_slope": 838033.3571428572,
-    "mom14": 0.07641303020974864,
+    "rsi_slope": 1.889898591169409,
+    "wave_strength": 1.044292520837191,
+    "adx": 21.480517237486374,
+    "atr": 6.41098901437911,
+    "obv_slope": 1932283.5,
+    "mom14": 0.09425872562059244,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.02,
-    "score_0_10": 8.0,
-    "last_close": 297.0899963378906,
-    "avg_vol20": 4082323.35
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.94,
+    "score_0_10": 8.19,
+    "last_close": 301.1400146484375,
+    "avg_vol20": 4433123.45
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 97.69353485107422,
-      "High": 98.6991195678711,
-      "Low": 97.23064422607422,
-      "Close": 98.34796142578125,
-      "Volume": 13586279
-    },
     {
       "Date": "2023-12-18",
       "Open": 98.6991195678711,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-18",
       "Open": 290.7099914550781,
       "High": 297.6499938964844,
-      "Low": 290.2101135253906,
+      "Low": 290.2099914550781,
       "Close": 297.0899963378906,
-      "Volume": 3319567
+      "Volume": 3977500
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 297.7900085449219,
+      "High": 303.0,
+      "Low": 295.36199951171875,
+      "Close": 301.1400146484375,
+      "Volume": 9624469
     }
   ]
 }

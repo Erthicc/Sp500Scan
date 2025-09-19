@@ -1,34 +1,26 @@
 {
   "ticker": "GDDY",
   "indicators": {
-    "macd_hist": 0.547234364135841,
-    "macd_slope": -0.05826990072866404,
+    "macd_hist": 0.48058854821319796,
+    "macd_slope": -0.06770279285222082,
     "rsi": 0.0,
-    "rsi_slope": -2.6548695578495822,
-    "wave_strength": 0.9958605777964852,
-    "adx": 31.10431143091652,
-    "atr": 3.4822925670731903,
-    "obv_slope": 169122.7142857143,
-    "mom14": -0.010144731460896438,
+    "rsi_slope": -2.8016441112774437,
+    "wave_strength": 1.0018378928180665,
+    "adx": 30.366204441750423,
+    "atr": 3.4096285508858117,
+    "obv_slope": -173259.2857142857,
+    "mom14": -0.023936370509043334,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 53.9,
-    "score_0_10": 5.39,
-    "last_close": 146.36000061035156,
-    "avg_vol20": 1479075.9
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike",
+    "score_0_100": 55.89,
+    "score_0_10": 5.59,
+    "last_close": 144.75999450683594,
+    "avg_vol20": 1580321.5
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 104.18000030517578,
-      "High": 105.18000030517578,
-      "Low": 103.80000305175781,
-      "Close": 105.08000183105469,
-      "Volume": 3513300
-    },
     {
       "Date": "2023-12-18",
       "Open": 105.0,
@@ -3539,7 +3531,15 @@
       "High": 147.25,
       "Low": 144.14500427246094,
       "Close": 146.36000061035156,
-      "Volume": 1312218
+      "Volume": 1312400
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 146.74000549316406,
+      "High": 146.85499572753906,
+      "Low": 144.38999938964844,
+      "Close": 144.75999450683594,
+      "Volume": 3507130
     }
   ]
 }

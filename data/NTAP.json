@@ -1,34 +1,26 @@
 {
   "ticker": "NTAP",
   "indicators": {
-    "macd_hist": 0.3852115048550617,
-    "macd_slope": -0.023041096143804736,
+    "macd_hist": 0.2452240892970341,
+    "macd_slope": -0.02495815854306349,
     "rsi": 0.0,
-    "rsi_slope": -0.5620143780176312,
-    "wave_strength": 1.0499788859329744,
-    "adx": 41.52691963727735,
-    "atr": 2.7024453103741997,
-    "obv_slope": 1043008.7142857143,
-    "mom14": 0.07797303612409578,
+    "rsi_slope": 1.303223655414115,
+    "wave_strength": 1.0607879510969,
+    "adx": 42.600904673360915,
+    "atr": 2.6740824224851485,
+    "obv_slope": 860505.3571428572,
+    "mom14": 0.1096728667982403,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 71.19,
-    "score_0_10": 7.12,
-    "last_close": 126.36000061035156,
-    "avg_vol20": 2296711.1
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.41,
+    "score_0_10": 7.54,
+    "last_close": 125.16000366210938,
+    "avg_vol20": 2477386.25
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 88.95999908447266,
-      "High": 89.1500015258789,
-      "Low": 87.97000122070312,
-      "Close": 88.91999816894531,
-      "Volume": 5992500
-    },
     {
       "Date": "2023-12-18",
       "Open": 88.79000091552734,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-18",
-      "Open": 123.875,
+      "Open": 123.87999725341797,
       "High": 126.54000091552734,
-      "Low": 123.875,
+      "Low": 123.87999725341797,
       "Close": 126.36000061035156,
-      "Volume": 1834422
+      "Volume": 1842400
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 126.54000091552734,
+      "High": 126.66000366210938,
+      "Low": 124.3499984741211,
+      "Close": 125.16000366210938,
+      "Volume": 5115025
     }
   ]
 }

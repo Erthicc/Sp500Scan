@@ -1,34 +1,26 @@
 {
   "ticker": "TRGP",
   "indicators": {
-    "macd_hist": 0.5650007332074144,
-    "macd_slope": 0.015721342232417217,
+    "macd_hist": 0.3828154084433187,
+    "macd_slope": -0.011798057792365134,
     "rsi": 0.0,
-    "rsi_slope": 0.06795940970011978,
-    "wave_strength": 1.0119176375542769,
-    "adx": 11.691105717678173,
-    "atr": 4.066304908807518,
-    "obv_slope": 162297.35714285713,
-    "mom14": 0.01892661880839427,
+    "rsi_slope": -0.6052545587149082,
+    "wave_strength": 1.0339315462978522,
+    "adx": 11.050180733212272,
+    "atr": 4.2383294593756755,
+    "obv_slope": -158094.0,
+    "mom14": -0.01984979697241821,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 80.69,
-    "score_0_10": 8.07,
-    "last_close": 170.1199951171875,
-    "avg_vol20": 1328538.15
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; volume spike",
+    "score_0_100": 56.14,
+    "score_0_10": 5.61,
+    "last_close": 164.42999267578125,
+    "avg_vol20": 1424570.8
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 85.44000244140625,
-      "High": 85.7699966430664,
-      "Low": 84.16999816894531,
-      "Close": 85.41000366210938,
-      "Volume": 3496600
-    },
     {
       "Date": "2023-12-18",
       "Open": 87.06999969482422,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-18",
       "Open": 168.2899932861328,
-      "High": 171.2050018310547,
-      "Low": 167.1800994873047,
+      "High": 171.2100067138672,
+      "Low": 167.17999267578125,
       "Close": 170.1199951171875,
-      "Volume": 2164663
+      "Volume": 2164700
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 170.14999389648438,
+      "High": 170.19000244140625,
+      "Low": 163.72000122070312,
+      "Close": 164.42999267578125,
+      "Volume": 3499316
     }
   ]
 }

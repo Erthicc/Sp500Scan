@@ -1,34 +1,26 @@
 {
   "ticker": "ABT",
   "indicators": {
-    "macd_hist": 0.17502453139067642,
-    "macd_slope": 0.007333078916449199,
+    "macd_hist": 0.309443082327882,
+    "macd_slope": 0.014239468787342184,
     "rsi": 0.0,
-    "rsi_slope": 1.4281602803486548,
-    "wave_strength": 1.0109424663681297,
-    "adx": 10.775502882009606,
-    "atr": 2.438208288596617,
-    "obv_slope": 1309482.9285714286,
-    "mom14": 0.024358775412731848,
+    "rsi_slope": 0.28498862064681774,
+    "wave_strength": 1.0094010781981664,
+    "adx": 11.080521800065606,
+    "atr": 2.4780043115021266,
+    "obv_slope": 1817032.357142857,
+    "mom14": 0.025478588351560832,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.4,
-    "score_0_10": 7.54,
-    "last_close": 134.57000732421875,
-    "avg_vol20": 5027528.05
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 75.62,
+    "score_0_10": 7.56,
+    "last_close": 136.0399932861328,
+    "avg_vol20": 5405347.65
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 107.86000061035156,
-      "High": 107.97000122070312,
-      "Low": 106.51000213623047,
-      "Close": 107.29000091552734,
-      "Volume": 13316300
-    },
     {
       "Date": "2023-12-18",
       "Open": 107.63999938964844,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-18",
       "Open": 134.08999633789062,
       "High": 134.77999877929688,
-      "Low": 132.09500122070312,
+      "Low": 132.10000610351562,
       "Close": 134.57000732421875,
-      "Volume": 5887061
+      "Volume": 5891700
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 134.6999969482422,
+      "High": 136.72000122070312,
+      "Low": 133.72000122070312,
+      "Close": 136.0399932861328,
+      "Volume": 11531753
     }
   ]
 }

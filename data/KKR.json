@@ -1,34 +1,26 @@
 {
   "ticker": "KKR",
   "indicators": {
-    "macd_hist": 1.0842600513701284,
-    "macd_slope": 0.12266415080669425,
+    "macd_hist": 1.1735910863175256,
+    "macd_slope": 0.12420295063027793,
     "rsi": 0.0,
-    "rsi_slope": 1.4399563588266011,
-    "wave_strength": 1.0290283022126978,
-    "adx": 16.304738984261594,
-    "atr": 3.9217378541245695,
-    "obv_slope": 34273.78571428572,
-    "mom14": 0.06602898309519137,
+    "rsi_slope": 1.427894008447302,
+    "wave_strength": 1.0582220273257246,
+    "adx": 17.4778050968768,
+    "atr": 3.913757493155579,
+    "obv_slope": -420574.14285714284,
+    "mom14": 0.06760335726163107,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 78.36,
-    "score_0_10": 7.84,
-    "last_close": 149.33999633789062,
-    "avg_vol20": 2948996.65
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; strong wave vs SMA20",
+    "score_0_100": 71.27,
+    "score_0_10": 7.13,
+    "last_close": 148.9199981689453,
+    "avg_vol20": 3258981.9
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 83.01000213623047,
-      "High": 84.18000030517578,
-      "Low": 82.41000366210938,
-      "Close": 83.80999755859375,
-      "Volume": 8285100
-    },
     {
       "Date": "2023-12-18",
       "Open": 83.8499984741211,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-18",
-      "Open": 146.1649932861328,
+      "Open": 146.1699981689453,
       "High": 151.11000061035156,
       "Low": 145.74000549316406,
       "Close": 149.33999633789062,
-      "Volume": 3129233
+      "Volume": 3129300
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 150.82000732421875,
+      "High": 150.82000732421875,
+      "Low": 147.00999450683594,
+      "Close": 148.9199981689453,
+      "Volume": 8789638
     }
   ]
 }

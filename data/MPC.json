@@ -1,34 +1,26 @@
 {
   "ticker": "MPC",
   "indicators": {
-    "macd_hist": 0.2817938777731088,
-    "macd_slope": -0.12886871413963288,
+    "macd_hist": 0.26453147919281683,
+    "macd_slope": -0.13498427551954933,
     "rsi": 0.0,
-    "rsi_slope": -1.4050562193103084,
-    "wave_strength": 1.0190295899508583,
-    "adx": 39.81547529863162,
-    "atr": 4.10040247611487,
-    "obv_slope": 619364.5714285715,
-    "mom14": 0.03195758856671635,
+    "rsi_slope": -2.007944812648625,
+    "wave_strength": 1.013218908775009,
+    "adx": 40.46396591627775,
+    "atr": 4.016827625122432,
+    "obv_slope": 940298.2142857143,
+    "mom14": 0.03199599234980333,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 67.52,
-    "score_0_10": 6.75,
-    "last_close": 185.02999877929688,
-    "avg_vol20": 1831140.2
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 68.51,
+    "score_0_10": 6.85,
+    "last_close": 185.4600067138672,
+    "avg_vol20": 2078498.75
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 145.7100067138672,
-      "High": 149.5,
-      "Low": 144.50999450683594,
-      "Close": 148.3800048828125,
-      "Volume": 12266800
-    },
     {
       "Date": "2023-12-18",
       "Open": 150.92999267578125,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-18",
       "Open": 186.0,
       "High": 186.0,
-      "Low": 182.09500122070312,
+      "Low": 182.02999877929688,
       "Close": 185.02999877929688,
-      "Volume": 1570604
+      "Volume": 1570600
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 185.3000030517578,
+      "High": 185.72999572753906,
+      "Low": 182.86000061035156,
+      "Close": 185.4600067138672,
+      "Volume": 6246875
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "FTNT",
   "indicators": {
-    "macd_hist": 0.980197442452508,
-    "macd_slope": 0.02957420171763379,
+    "macd_hist": 1.1480833876930419,
+    "macd_slope": 0.03293631530345863,
     "rsi": 0.0,
-    "rsi_slope": -0.3318055795173405,
-    "wave_strength": 1.0250958678221227,
-    "adx": 28.932019448912477,
-    "atr": 2.1733977852760424,
-    "obv_slope": -212827.7142857143,
-    "mom14": 0.021440243771132024,
+    "rsi_slope": 0.5160034903316993,
+    "wave_strength": 1.020922614490429,
+    "adx": 27.55918768749628,
+    "atr": 2.283155021037879,
+    "obv_slope": 1332362.2142857143,
+    "mom14": 0.06906185950542498,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 58.13,
-    "score_0_10": 5.81,
-    "last_close": 80.98999786376953,
-    "avg_vol20": 6181180.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; rising OBV",
+    "score_0_100": 70.77,
+    "score_0_10": 7.08,
+    "last_close": 84.20999908447266,
+    "avg_vol20": 6541563.55
   },
   "history": [
-    {
-      "Date": "2023-12-15",
-      "Open": 57.04999923706055,
-      "High": 58.0099983215332,
-      "Low": 56.380001068115234,
-      "Close": 57.83000183105469,
-      "Volume": 16924000
-    },
     {
       "Date": "2023-12-18",
       "Open": 57.709999084472656,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-18",
-      "Open": 81.41999816894531,
+      "Open": 81.33000183105469,
       "High": 81.87000274658203,
       "Low": 80.76000213623047,
       "Close": 80.98999786376953,
-      "Volume": 4883012
+      "Volume": 5119700
+    },
+    {
+      "Date": "2025-09-19",
+      "Open": 82.45999908447266,
+      "High": 84.69999694824219,
+      "Low": 82.16999816894531,
+      "Close": 84.20999908447266,
+      "Volume": 16937771
     }
   ]
 }
