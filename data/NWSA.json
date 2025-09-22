@@ -1,34 +1,26 @@
 {
   "ticker": "NWSA",
   "indicators": {
-    "macd_hist": 0.13242868517179568,
-    "macd_slope": 0.010730649921928279,
+    "macd_hist": 0.1532927804676496,
+    "macd_slope": 0.01600684106866763,
     "rsi": 0.0,
-    "rsi_slope": 0.010798566616017016,
-    "wave_strength": 1.009722270976274,
-    "adx": 16.36815167969857,
-    "atr": 0.6358123166070194,
-    "obv_slope": 601385.5,
-    "mom14": 0.04469346743282428,
+    "rsi_slope": 1.4187975226656657,
+    "wave_strength": 1.009017252952163,
+    "adx": 17.43426457515605,
+    "atr": 0.6164940692932218,
+    "obv_slope": 1260958.9285714286,
+    "mom14": 0.07157992651862481,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 60.88,
-    "score_0_10": 6.09,
-    "last_close": 30.6200008392334,
-    "avg_vol20": 4103924.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 78.63,
+    "score_0_10": 7.86,
+    "last_close": 30.809999465942383,
+    "avg_vol20": 4209651.25
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 23.399999618530273,
-      "High": 23.469999313354492,
-      "Low": 23.200000762939453,
-      "Close": 23.350000381469727,
-      "Volume": 2269800
-    },
     {
       "Date": "2023-12-19",
       "Open": 23.489999771118164,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-19",
       "Open": 30.520000457763672,
       "High": 30.860000610351562,
-      "Low": 30.385000228881836,
+      "Low": 30.389999389648438,
       "Close": 30.6200008392334,
-      "Volume": 5696397
+      "Volume": 6983400
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 30.665000915527344,
+      "High": 30.8799991607666,
+      "Low": 30.510000228881836,
+      "Close": 30.809999465942383,
+      "Volume": 3275925
     }
   ]
 }

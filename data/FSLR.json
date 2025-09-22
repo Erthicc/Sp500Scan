@@ -1,34 +1,26 @@
 {
   "ticker": "FSLR",
   "indicators": {
-    "macd_hist": 0.25999282793667344,
-    "macd_slope": 0.10022421326846898,
+    "macd_hist": 0.7460626010798448,
+    "macd_slope": 0.14117577584150995,
     "rsi": 0.0,
-    "rsi_slope": 1.521405075062578,
-    "wave_strength": 1.0414921548097253,
-    "adx": 21.060852487020288,
-    "atr": 8.265298288841537,
-    "obv_slope": 550771.9285714285,
-    "mom14": 0.08863160425929638,
+    "rsi_slope": 1.8447023850424453,
+    "wave_strength": 1.0371551998983115,
+    "adx": 22.028241046863876,
+    "atr": 8.270626234659817,
+    "obv_slope": 623683.2857142857,
+    "mom14": 0.11962405922449063,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 1,
+    "bb_breakout": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 71.29,
-    "score_0_10": 7.13,
-    "last_close": 212.49000549316406,
-    "avg_vol20": 2227960.35
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.43,
+    "score_0_10": 8.14,
+    "last_close": 219.1999969482422,
+    "avg_vol20": 2154103.3
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 166.5,
-      "High": 169.36000061035156,
-      "Low": 162.9499969482422,
-      "Close": 165.94000244140625,
-      "Volume": 2583400
-    },
     {
       "Date": "2023-12-19",
       "Open": 167.91000366210938,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 211.0,
+      "Open": 211.00999450683594,
       "High": 216.6999969482422,
       "Low": 209.1199951171875,
       "Close": 212.49000549316406,
-      "Volume": 3514407
+      "Volume": 3859000
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 213.1999969482422,
+      "High": 219.83999633789062,
+      "Low": 211.50010681152344,
+      "Close": 219.1999969482422,
+      "Volume": 2611366
     }
   ]
 }

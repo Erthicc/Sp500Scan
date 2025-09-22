@@ -1,34 +1,26 @@
 {
   "ticker": "SWKS",
   "indicators": {
-    "macd_hist": 0.23057961415342887,
-    "macd_slope": -0.004892224802412288,
+    "macd_hist": 0.6182375839677745,
+    "macd_slope": 0.03864517979884815,
     "rsi": 0.0,
-    "rsi_slope": -0.4886429869462314,
-    "wave_strength": 0.994410718747245,
-    "adx": 18.98282020087015,
-    "atr": 2.301564521759574,
-    "obv_slope": 1179168.142857143,
-    "mom14": 0.05350939920199834,
+    "rsi_slope": 1.4699833981803974,
+    "wave_strength": 0.9901948579724456,
+    "adx": 21.342701433487864,
+    "atr": 2.4598585234749737,
+    "obv_slope": 1753376.357142857,
+    "mom14": 0.13548654122384177,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.94,
-    "score_0_10": 7.59,
-    "last_close": 78.94999694824219,
-    "avg_vol20": 2673077.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 85.88,
+    "score_0_10": 8.59,
+    "last_close": 82.97000122070312,
+    "avg_vol20": 2844898.45
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 112.05000305175781,
-      "High": 112.2300033569336,
-      "Low": 110.58000183105469,
-      "Close": 111.2699966430664,
-      "Volume": 1248900
-    },
     {
       "Date": "2023-12-19",
       "Open": 111.77999877929688,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 78.00499725341797,
+      "Open": 77.94000244140625,
       "High": 80.30000305175781,
-      "Low": 75.72750091552734,
+      "Low": 75.7300033569336,
       "Close": 78.94999694824219,
-      "Volume": 7657354
+      "Volume": 8990600
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 79.6500015258789,
+      "High": 83.47000122070312,
+      "Low": 79.55000305175781,
+      "Close": 82.97000122070312,
+      "Volume": 4495369
     }
   ]
 }

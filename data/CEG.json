@@ -1,34 +1,26 @@
 {
   "ticker": "CEG",
   "indicators": {
-    "macd_hist": 2.414280622902275,
-    "macd_slope": 0.3097706162689201,
+    "macd_hist": 3.553795255869929,
+    "macd_slope": 0.3956702596833336,
     "rsi": 0.0,
-    "rsi_slope": 2.6117903986962494,
-    "wave_strength": 1.049529664285388,
-    "adx": 17.681438481563553,
-    "atr": 11.134968586207192,
-    "obv_slope": 224204.57142857142,
-    "mom14": 0.07442035876534116,
+    "rsi_slope": 3.8158854241993074,
+    "wave_strength": 1.0434049878699578,
+    "adx": 18.40560902600593,
+    "atr": 11.827469873997876,
+    "obv_slope": 605801.2857142857,
+    "mom14": 0.12998467514709414,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.74,
-    "score_0_10": 6.67,
-    "last_close": 330.8999938964844,
-    "avg_vol20": 2114293.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 84.01,
+    "score_0_10": 8.4,
+    "last_close": 347.1199951171875,
+    "avg_vol20": 2167250.9
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 119.56999969482422,
-      "High": 121.54000091552734,
-      "Low": 118.91000366210938,
-      "Close": 119.36000061035156,
-      "Volume": 2019800
-    },
     {
       "Date": "2023-12-19",
       "Open": 119.7699966430664,
@@ -3539,7 +3531,15 @@
       "High": 331.8599853515625,
       "Low": 319.760009765625,
       "Close": 330.8999938964844,
-      "Volume": 3079364
+      "Volume": 3414400
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 331.54998779296875,
+      "High": 347.3299865722656,
+      "Low": 326.5,
+      "Close": 347.1199951171875,
+      "Volume": 2580418
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "AVGO",
   "indicators": {
-    "macd_hist": 0.4639916947038536,
-    "macd_slope": 0.1211218894337083,
+    "macd_hist": -0.8111425620991426,
+    "macd_slope": 0.031407418179716755,
     "rsi": 0.0,
-    "rsi_slope": 1.7212740035997744,
-    "wave_strength": 1.109000916723199,
-    "adx": 30.372224621100823,
-    "atr": 13.018780531644664,
-    "obv_slope": 8161643.857142857,
-    "mom14": 0.15989100323082614,
-    "macd_bull": 1,
+    "rsi_slope": 2.0108745948171722,
+    "wave_strength": 1.1014872181215347,
+    "adx": 29.46448029218718,
+    "atr": 12.708154310243982,
+    "obv_slope": 4425737.714285715,
+    "mom14": 0.13596438988171983,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 70.7,
-    "score_0_10": 7.07,
-    "last_close": 344.94000244140625,
-    "avg_vol20": 29480929.3
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 49.54,
+    "score_0_10": 4.95,
+    "last_close": 338.7900085449219,
+    "avg_vol20": 30296348.6
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 112.08000183105469,
-      "High": 115.18199920654297,
-      "Low": 111.86399841308594,
-      "Close": 114.69999694824219,
-      "Volume": 54741000
-    },
     {
       "Date": "2023-12-19",
       "Open": 114.19999694824219,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 344.7300109863281,
+      "Open": 344.6499938964844,
       "High": 346.2699890136719,
       "Low": 336.42999267578125,
       "Close": 344.94000244140625,
-      "Volume": 34375486
+      "Volume": 41169700
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 342.489990234375,
+      "High": 346.6700134277344,
+      "Low": 338.0,
+      "Close": 338.7900085449219,
+      "Volume": 25815472
     }
   ]
 }

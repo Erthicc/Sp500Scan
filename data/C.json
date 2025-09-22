@@ -1,34 +1,26 @@
 {
   "ticker": "C",
   "indicators": {
-    "macd_hist": 0.44628907149075947,
-    "macd_slope": 0.030622117832340527,
+    "macd_hist": 0.4684339579237071,
+    "macd_slope": 0.041068881514316695,
     "rsi": 0.0,
-    "rsi_slope": 0.5701906627821772,
-    "wave_strength": 0.9960858116598337,
-    "adx": 19.28497298036643,
-    "atr": 1.792795277713783,
-    "obv_slope": 7608273.285714285,
-    "mom14": 0.06327017323868786,
+    "rsi_slope": 2.776160955003145,
+    "wave_strength": 0.9919089810297353,
+    "adx": 20.82888703044493,
+    "atr": 1.815070358028579,
+    "obv_slope": 9673286.57142857,
+    "mom14": 0.09189701621282582,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 69.09,
-    "score_0_10": 6.91,
-    "last_close": 102.68000030517578,
-    "avg_vol20": 13282561.3
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 72.13,
+    "score_0_10": 7.21,
+    "last_close": 103.48999786376953,
+    "avg_vol20": 12965410.6
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 50.15999984741211,
-      "High": 50.560001373291016,
-      "Low": 49.54999923706055,
-      "Close": 49.65999984741211,
-      "Volume": 17871400
-    },
     {
       "Date": "2023-12-19",
       "Open": 49.41999816894531,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 102.53500366210938,
-      "High": 103.125,
+      "Open": 102.54000091552734,
+      "High": 103.12999725341797,
       "Low": 101.87000274658203,
       "Close": 102.68000030517578,
-      "Volume": 22395026
+      "Volume": 24743700
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 101.76000213623047,
+      "High": 103.80000305175781,
+      "Low": 101.69999694824219,
+      "Close": 103.48999786376953,
+      "Volume": 11432712
     }
   ]
 }

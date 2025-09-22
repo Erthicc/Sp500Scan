@@ -1,34 +1,26 @@
 {
   "ticker": "ABT",
   "indicators": {
-    "macd_hist": 0.309443082327882,
-    "macd_slope": 0.014239468787342184,
+    "macd_hist": 0.40898579441129934,
+    "macd_slope": 0.025851972676724348,
     "rsi": 0.0,
-    "rsi_slope": 0.28498862064681774,
-    "wave_strength": 1.0094010781981664,
-    "adx": 11.080521800065606,
-    "atr": 2.4780043115021266,
-    "obv_slope": 1817032.357142857,
-    "mom14": 0.025478588351560832,
+    "rsi_slope": 0.9517169096384356,
+    "wave_strength": 1.0078681790385458,
+    "adx": 11.696986042883125,
+    "atr": 2.4830960859424303,
+    "obv_slope": 2575474.0714285714,
+    "mom14": 0.03925139312179882,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.62,
-    "score_0_10": 7.56,
-    "last_close": 136.0399932861328,
-    "avg_vol20": 5405347.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.94,
+    "score_0_10": 7.69,
+    "last_close": 136.6199951171875,
+    "avg_vol20": 5440786.85
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 107.63999938964844,
-      "High": 108.62000274658203,
-      "Low": 107.16000366210938,
-      "Close": 108.05999755859375,
-      "Volume": 5142800
-    },
     {
       "Date": "2023-12-19",
       "Open": 108.1500015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-19",
       "Open": 134.6999969482422,
-      "High": 136.72000122070312,
+      "High": 136.72999572753906,
       "Low": 133.72000122070312,
       "Close": 136.0399932861328,
-      "Volume": 11531753
+      "Volume": 11533800
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 135.3300018310547,
+      "High": 137.49000549316406,
+      "Low": 134.9499969482422,
+      "Close": 136.6199951171875,
+      "Volume": 4836937
     }
   ]
 }

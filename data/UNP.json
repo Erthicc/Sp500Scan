@@ -1,34 +1,26 @@
 {
   "ticker": "UNP",
   "indicators": {
-    "macd_hist": 0.29053296544067764,
-    "macd_slope": -0.0014025410158010146,
+    "macd_hist": 0.7725099537992031,
+    "macd_slope": 0.03512687072155069,
     "rsi": 0.0,
-    "rsi_slope": -1.2353031024593106,
-    "wave_strength": 0.9850127539362638,
-    "adx": 13.008616201524177,
-    "atr": 3.6911268840338,
-    "obv_slope": -480591.78571428574,
-    "mom14": -0.013239730808679621,
+    "rsi_slope": 0.03095049177433091,
+    "wave_strength": 0.9851442008181408,
+    "adx": 14.359886785927952,
+    "atr": 4.123895905996188,
+    "obv_slope": 373987.28571428574,
+    "mom14": 0.01738817295750023,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; volume spike",
-    "score_0_100": 54.36,
-    "score_0_10": 5.44,
-    "last_close": 220.61000061035156,
-    "avg_vol20": 4827690.75
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.73,
+    "score_0_10": 7.27,
+    "last_close": 225.85000610351562,
+    "avg_vol20": 4962261.1
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 243.0500030517578,
-      "High": 243.88999938964844,
-      "Low": 240.94000244140625,
-      "Close": 241.10000610351562,
-      "Volume": 2457600
-    },
     {
       "Date": "2023-12-19",
       "Open": 241.3300018310547,
@@ -3539,7 +3531,15 @@
       "High": 221.66000366210938,
       "Low": 219.22000122070312,
       "Close": 220.61000061035156,
-      "Volume": 8631215
+      "Volume": 8632100
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 220.64500427246094,
+      "High": 228.99989318847656,
+      "Low": 219.25,
+      "Close": 225.85000610351562,
+      "Volume": 8007822
     }
   ]
 }

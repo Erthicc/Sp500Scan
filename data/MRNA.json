@@ -1,34 +1,26 @@
 {
   "ticker": "MRNA",
   "indicators": {
-    "macd_hist": 0.26221544996912205,
-    "macd_slope": 0.03413988940085618,
+    "macd_hist": 0.35369034778393704,
+    "macd_slope": 0.03963374099634517,
     "rsi": 0.0,
-    "rsi_slope": 1.0804840761518133,
-    "wave_strength": 1.027369644497147,
-    "adx": 15.411965677644913,
-    "atr": 1.278301084608427,
-    "obv_slope": 686452.1428571428,
-    "mom14": 0.04773763433981272,
+    "rsi_slope": 1.5513523948570302,
+    "wave_strength": 1.0285322059564685,
+    "adx": 15.374611495272715,
+    "atr": 1.3455852420061392,
+    "obv_slope": 796903.1428571428,
+    "mom14": 0.09797432325592526,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 53.39,
-    "score_0_10": 5.34,
-    "last_close": 25.239999771118164,
-    "avg_vol20": 13115878.5
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 79.48,
+    "score_0_10": 7.95,
+    "last_close": 26.559999465942383,
+    "avg_vol20": 13459347.2
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 85.87000274658203,
-      "High": 86.80000305175781,
-      "Low": 83.5999984741211,
-      "Close": 85.41999816894531,
-      "Volume": 5815300
-    },
     {
       "Date": "2023-12-19",
       "Open": 86.41000366210938,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 25.441200256347656,
+      "Open": 25.450000762939453,
       "High": 25.489999771118164,
-      "Low": 24.600299835205078,
+      "Low": 24.600000381469727,
       "Close": 25.239999771118164,
-      "Volume": 18194170
+      "Volume": 18324200
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 25.06999969482422,
+      "High": 27.100000381469727,
+      "Low": 24.8799991607666,
+      "Close": 26.559999465942383,
+      "Volume": 15904844
     }
   ]
 }

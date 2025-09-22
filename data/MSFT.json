@@ -1,34 +1,26 @@
 {
   "ticker": "MSFT",
   "indicators": {
-    "macd_hist": 1.4143642126580198,
-    "macd_slope": 0.24209398295448686,
+    "macd_hist": 1.4601678246753376,
+    "macd_slope": 0.232495331564291,
     "rsi": 0.0,
-    "rsi_slope": 1.6543180100300954,
-    "wave_strength": 1.0080711451372402,
-    "adx": 16.602141727977983,
-    "atr": 7.884939754324784,
-    "obv_slope": 8830636.714285715,
-    "mom14": 0.022183169551830254,
+    "rsi_slope": 2.296348404589892,
+    "wave_strength": 1.0229756032579058,
+    "adx": 16.824623685358638,
+    "atr": 7.706373332086351,
+    "obv_slope": 8716992.5,
+    "mom14": 0.018470892421669414,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 79.58,
-    "score_0_10": 7.96,
-    "last_close": 517.9299926757812,
-    "avg_vol20": 21708965.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 71.45,
+    "score_0_10": 7.14,
+    "last_close": 514.4500122070312,
+    "avg_vol20": 21489605.25
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 369.45001220703125,
-      "High": 373.0,
-      "Low": 368.67999267578125,
-      "Close": 372.6499938964844,
-      "Volume": 21802900
-    },
     {
       "Date": "2023-12-19",
       "Open": 371.489990234375,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 510.6099853515625,
+      "Open": 510.55999755859375,
       "High": 519.2999877929688,
-      "Low": 510.32000732421875,
+      "Low": 510.30999755859375,
       "Close": 517.9299926757812,
-      "Volume": 52262514
+      "Volume": 52371500
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 515.5900268554688,
+      "High": 517.739990234375,
+      "Low": 512.5449829101562,
+      "Close": 514.4500122070312,
+      "Volume": 19828005
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "IRM",
   "indicators": {
-    "macd_hist": 0.9123646658861514,
-    "macd_slope": 0.04249723596440251,
+    "macd_hist": 1.0923455785721232,
+    "macd_slope": 0.06670884863931133,
     "rsi": 0.0,
-    "rsi_slope": 0.7968336707723361,
-    "wave_strength": 1.064754574903268,
-    "adx": 23.11616369804625,
-    "atr": 2.4203722390325386,
-    "obv_slope": 947999.5714285715,
-    "mom14": 0.09073558273141799,
+    "rsi_slope": 3.039779848459287,
+    "wave_strength": 1.0583749179111335,
+    "adx": 24.53439504958992,
+    "atr": 2.6021314459152203,
+    "obv_slope": 1226895.7142857143,
+    "mom14": 0.17723033990877265,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 1,
+    "bb_breakout": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 71.98,
-    "score_0_10": 7.2,
-    "last_close": 99.88999938964844,
-    "avg_vol20": 1501044.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 84.54,
+    "score_0_10": 8.45,
+    "last_close": 104.45999908447266,
+    "avg_vol20": 1549527.0
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 68.05000305175781,
-      "High": 68.56999969482422,
-      "Low": 67.7300033569336,
-      "Close": 68.31999969482422,
-      "Volume": 1297700
-    },
     {
       "Date": "2023-12-19",
       "Open": 68.54000091552734,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-19",
       "Open": 99.33999633789062,
       "High": 100.66000366210938,
-      "Low": 98.55999755859375,
+      "Low": 98.48999786376953,
       "Close": 99.88999938964844,
-      "Volume": 3124194
+      "Volume": 3124200
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 100.41000366210938,
+      "High": 104.72000122070312,
+      "Low": 99.81999969482422,
+      "Close": 104.45999908447266,
+      "Volume": 2135940
     }
   ]
 }

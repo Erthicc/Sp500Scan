@@ -1,34 +1,26 @@
 {
   "ticker": "CFG",
   "indicators": {
-    "macd_hist": 0.018312296167797948,
-    "macd_slope": -0.021788213104813065,
+    "macd_hist": -0.018879124644301193,
+    "macd_slope": -0.01966382739009122,
     "rsi": 0.0,
-    "rsi_slope": -1.5153446435859759,
-    "wave_strength": 1.0341935486196046,
-    "adx": 30.016468237637195,
-    "atr": 0.9924650893502154,
-    "obv_slope": 131159.57142857142,
-    "mom14": 0.024292281702703443,
-    "macd_bull": 1,
-    "bb_breakout": 1,
+    "rsi_slope": -1.0315630925480224,
+    "wave_strength": 1.0324219717254024,
+    "adx": 29.084696799273807,
+    "atr": 1.013360429239342,
+    "obv_slope": -42307.642857142855,
+    "mom14": 0.01841086804325985,
+    "macd_bull": 0,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.98,
-    "score_0_10": 7.1,
-    "last_close": 53.54999923706055,
-    "avg_vol20": 4027508.3
+    "explanation": "strong trend; price above SMA/EMA",
+    "score_0_100": 43.12,
+    "score_0_10": 4.31,
+    "last_close": 52.54999923706055,
+    "avg_vol20": 4151355.35
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 33.959999084472656,
-      "High": 34.0,
-      "Low": 32.93000030517578,
-      "Close": 32.959999084472656,
-      "Volume": 5814100
-    },
     {
       "Date": "2023-12-19",
       "Open": 32.9900016784668,
@@ -3539,7 +3531,15 @@
       "High": 53.775001525878906,
       "Low": 53.189998626708984,
       "Close": 53.54999923706055,
-      "Volume": 4647266
+      "Volume": 9097700
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 53.0,
+      "High": 53.564998626708984,
+      "Low": 52.279998779296875,
+      "Close": 52.54999923706055,
+      "Volume": 3353607
     }
   ]
 }

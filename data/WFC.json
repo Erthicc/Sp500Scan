@@ -1,34 +1,26 @@
 {
   "ticker": "WFC",
   "indicators": {
-    "macd_hist": 0.33238387289300164,
-    "macd_slope": -0.013471000459420568,
+    "macd_hist": 0.4148870701005879,
+    "macd_slope": -0.00426133210398321,
     "rsi": 0.0,
-    "rsi_slope": -0.46615979748701264,
-    "wave_strength": 1.0014321756860076,
-    "adx": 16.664769272447522,
-    "atr": 1.6685599761771879,
-    "obv_slope": 3976363.5714285714,
-    "mom14": 0.02993427932997614,
+    "rsi_slope": 0.29708753016396167,
+    "wave_strength": 0.9977157370794055,
+    "adx": 17.91443608220435,
+    "atr": 1.659715215065651,
+    "obv_slope": 5750900.428571428,
+    "mom14": 0.04133045895408071,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.79,
-    "score_0_10": 7.58,
-    "last_close": 84.63999938964844,
-    "avg_vol20": 14962939.5
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 77.35,
+    "score_0_10": 7.74,
+    "last_close": 85.16000366210938,
+    "avg_vol20": 14974685.3
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 50.40999984741211,
-      "High": 50.47999954223633,
-      "Low": 49.529998779296875,
-      "Close": 49.65999984741211,
-      "Volume": 20531700
-    },
     {
       "Date": "2023-12-19",
       "Open": 49.66999816894531,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-19",
       "Open": 83.83000183105469,
-      "High": 84.92500305175781,
-      "Low": 82.93009948730469,
+      "High": 84.93000030517578,
+      "Low": 82.93000030517578,
       "Close": 84.63999938964844,
-      "Volume": 36421890
+      "Volume": 36446200
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 83.87999725341797,
+      "High": 85.27999877929688,
+      "Low": 83.73999786376953,
+      "Close": 85.16000366210938,
+      "Volume": 11493206
     }
   ]
 }

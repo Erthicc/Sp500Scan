@@ -1,34 +1,26 @@
 {
   "ticker": "JBL",
   "indicators": {
-    "macd_hist": 1.8180902555229241,
-    "macd_slope": 0.21732322128079914,
+    "macd_hist": 2.486208908764347,
+    "macd_slope": 0.2723245787245111,
     "rsi": 0.0,
-    "rsi_slope": 3.243248953560513,
-    "wave_strength": 1.0225005931582547,
-    "adx": 16.47705613262777,
-    "atr": 5.841416514639909,
-    "obv_slope": 531212.8571428572,
-    "mom14": 0.09524969160976685,
+    "rsi_slope": 4.929873091828063,
+    "wave_strength": 1.0168725690562097,
+    "adx": 18.081291959617236,
+    "atr": 6.0998204470759,
+    "obv_slope": 820784.5,
+    "mom14": 0.1541468409255398,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 81.93,
-    "score_0_10": 8.19,
-    "last_close": 224.33999633789062,
-    "avg_vol20": 1427469.0
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 84.03,
+    "score_0_10": 8.4,
+    "last_close": 233.22999572753906,
+    "avg_vol20": 1473024.15
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 134.33999633789062,
-      "High": 134.89999389648438,
-      "Low": 129.9499969482422,
-      "Close": 130.2100067138672,
-      "Volume": 2267900
-    },
     {
       "Date": "2023-12-19",
       "Open": 132.0800018310547,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-19",
       "Open": 223.1199951171875,
       "High": 224.74000549316406,
-      "Low": 219.85899353027344,
+      "Low": 219.86000061035156,
       "Close": 224.33999633789062,
-      "Volume": 2883180
+      "Volume": 2883500
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 224.4199981689453,
+      "High": 233.8000030517578,
+      "Low": 224.4199981689453,
+      "Close": 233.22999572753906,
+      "Volume": 1944383
     }
   ]
 }

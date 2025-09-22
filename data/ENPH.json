@@ -1,34 +1,26 @@
 {
   "ticker": "ENPH",
   "indicators": {
-    "macd_hist": 0.0640885027451149,
-    "macd_slope": -0.04055017777965463,
+    "macd_hist": 0.17149514791007903,
+    "macd_slope": -0.024058445744246062,
     "rsi": 0.0,
-    "rsi_slope": -1.0592868447031971,
-    "wave_strength": 1.0276617707170947,
-    "adx": 13.425255438664518,
-    "atr": 1.9713333293020763,
-    "obv_slope": -2611704.285714286,
-    "mom14": 0.019098074043373613,
+    "rsi_slope": 0.25496245185358746,
+    "wave_strength": 1.0245293557825224,
+    "adx": 14.523394250761344,
+    "atr": 1.9955239039118644,
+    "obv_slope": -2532544.5714285714,
+    "mom14": 0.09518660090147756,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 1,
+    "bb_breakout": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA",
-    "score_0_100": 65.23,
-    "score_0_10": 6.52,
-    "last_close": 38.41999816894531,
-    "avg_vol20": 7784853.0
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
+    "score_0_100": 77.54,
+    "score_0_10": 7.75,
+    "last_close": 40.5,
+    "avg_vol20": 8392108.8
   },
   "history": [
-    {
-      "Date": "2023-12-18",
-      "Open": 121.31999969482422,
-      "High": 126.0,
-      "Low": 120.77999877929688,
-      "Close": 124.02999877929688,
-      "Volume": 5779100
-    },
     {
       "Date": "2023-12-19",
       "Open": 126.55999755859375,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-19",
-      "Open": 38.400001525878906,
-      "High": 39.01499938964844,
-      "Low": 37.51499938964844,
+      "Open": 38.41999816894531,
+      "High": 39.02000045776367,
+      "Low": 37.52000045776367,
       "Close": 38.41999816894531,
-      "Volume": 27859660
+      "Volume": 41390400
+    },
+    {
+      "Date": "2025-09-22",
+      "Open": 38.75,
+      "High": 40.72999954223633,
+      "Low": 38.534000396728516,
+      "Close": 40.5,
+      "Volume": 8929676
     }
   ]
 }
