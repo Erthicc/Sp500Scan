@@ -1,34 +1,26 @@
 {
   "ticker": "IBM",
   "indicators": {
-    "macd_hist": 2.5415648070792347,
-    "macd_slope": 0.06601267592732084,
+    "macd_hist": 2.6085304326696703,
+    "macd_slope": 0.06820652819640771,
     "rsi": 0.0,
-    "rsi_slope": 1.8499861107416318,
-    "wave_strength": 1.0167400016066555,
-    "adx": 28.41491429443504,
-    "atr": 5.153044653040952,
-    "obv_slope": 3388062.4285714286,
-    "mom14": 0.12368527998835403,
+    "rsi_slope": 2.0581235668193325,
+    "wave_strength": 1.0101840373629134,
+    "adx": 29.933097316113315,
+    "atr": 5.070362952081092,
+    "obv_slope": 3623673.714285714,
+    "mom14": 0.11528055480230523,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.44,
-    "score_0_10": 8.24,
-    "last_close": 271.3699951171875,
-    "avg_vol20": 4326323.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 72.99,
+    "score_0_10": 7.3,
+    "last_close": 272.239990234375,
+    "avg_vol20": 4473746.6
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 161.8000030517578,
-      "High": 162.27999877929688,
-      "Low": 161.32000732421875,
-      "Close": 161.55999755859375,
-      "Volume": 3766600
-    },
     {
       "Date": "2023-12-20",
       "Open": 161.2899932861328,
@@ -3531,15 +3523,23 @@
       "High": 267.8699951171875,
       "Low": 263.6400146484375,
       "Close": 266.3999938964844,
-      "Volume": 9852700
+      "Volume": 9858100
     },
     {
       "Date": "2025-09-22",
       "Open": 266.6199951171875,
-      "High": 272.29998779296875,
+      "High": 272.30999755859375,
       "Low": 266.0,
       "Close": 271.3699951171875,
-      "Volume": 3964174
+      "Volume": 5030500
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 272.70001220703125,
+      "High": 273.29620361328125,
+      "Low": 269.30999755859375,
+      "Close": 272.239990234375,
+      "Volume": 5390032
     }
   ]
 }

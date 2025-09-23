@@ -1,34 +1,26 @@
 {
   "ticker": "INTU",
   "indicators": {
-    "macd_hist": 7.1520169734712375,
-    "macd_slope": 0.7502935851563743,
+    "macd_hist": 7.9120624332250795,
+    "macd_slope": 0.704116568888539,
     "rsi": 0.0,
-    "rsi_slope": 3.5009319367342138,
-    "wave_strength": 0.9778034203155238,
-    "adx": 35.86696290324087,
-    "atr": 16.086741230683018,
-    "obv_slope": 595434.4285714285,
-    "mom14": 0.060574989369395885,
+    "rsi_slope": 2.767280400254361,
+    "wave_strength": 1.0506767171256925,
+    "adx": 33.942353032882224,
+    "atr": 15.532306480198901,
+    "obv_slope": 293281.71428571426,
+    "mom14": 0.0456122515015764,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 84.95,
-    "score_0_10": 8.49,
-    "last_close": 702.0900268554688,
-    "avg_vol20": 2177049.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 85.2,
+    "score_0_10": 8.52,
+    "last_close": 699.1799926757812,
+    "avg_vol20": 2183977.8
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 615.47998046875,
-      "High": 622.2100219726562,
-      "Low": 614.7100219726562,
-      "Close": 621.4600219726562,
-      "Volume": 1252100
-    },
     {
       "Date": "2023-12-20",
       "Open": 619.02001953125,
@@ -3531,15 +3523,23 @@
       "High": 700.0,
       "Low": 682.9600219726562,
       "Close": 687.9199829101562,
-      "Volume": 4224800
+      "Volume": 4226700
     },
     {
       "Date": "2025-09-22",
       "Open": 686.530029296875,
       "High": 705.0800170898438,
-      "Low": 685.5549926757812,
+      "Low": 685.5499877929688,
       "Close": 702.0900268554688,
-      "Volume": 2356882
+      "Volume": 2403400
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 701.6799926757812,
+      "High": 702.5399780273438,
+      "Low": 694.219970703125,
+      "Close": 699.1799926757812,
+      "Volume": 2291656
     }
   ]
 }

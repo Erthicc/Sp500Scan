@@ -1,34 +1,26 @@
 {
   "ticker": "BKR",
   "indicators": {
-    "macd_hist": 0.047196433926649295,
-    "macd_slope": -0.004350405973937417,
+    "macd_hist": 0.12345620189430173,
+    "macd_slope": 0.0037624471040277724,
     "rsi": 0.0,
-    "rsi_slope": -0.9617980246244328,
-    "wave_strength": 1.026025364388863,
-    "adx": 32.913249970495045,
-    "atr": 1.0516483443181837,
-    "obv_slope": 1713238.4285714286,
-    "mom14": 0.05092587141779244,
+    "rsi_slope": 0.09837396655941635,
+    "wave_strength": 1.0210346449920191,
+    "adx": 35.009690220677115,
+    "atr": 1.1477146587553548,
+    "obv_slope": 2840692.3571428573,
+    "mom14": 0.08733334011501737,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.59,
-    "score_0_10": 7.06,
-    "last_close": 47.66999816894531,
-    "avg_vol20": 5653651.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 80.23,
+    "score_0_10": 8.02,
+    "last_close": 48.93000030517578,
+    "avg_vol20": 5910899.65
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 34.2400016784668,
-      "High": 34.43000030517578,
-      "Low": 33.900001525878906,
-      "Close": 34.06999969482422,
-      "Volume": 6660500
-    },
     {
       "Date": "2023-12-20",
       "Open": 34.13999938964844,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-22",
-      "Open": 47.0,
-      "High": 47.84830093383789,
+      "Open": 47.13999938964844,
+      "High": 47.849998474121094,
       "Low": 46.68000030517578,
       "Close": 47.66999816894531,
-      "Volume": 4686638
+      "Volume": 5157300
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 47.83000183105469,
+      "High": 50.064998626708984,
+      "Low": 47.810001373291016,
+      "Close": 48.93000030517578,
+      "Volume": 8827093
     }
   ]
 }

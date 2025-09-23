@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 1.1527262247740493,
-    "macd_slope": 0.20863402213825294,
+    "macd_hist": 1.204382378221808,
+    "macd_slope": 0.2093987458688557,
     "rsi": 0.0,
-    "rsi_slope": 4.213222768376661,
-    "wave_strength": 1.0357953517935854,
-    "adx": 14.484337815731013,
-    "atr": 4.170576230693576,
-    "obv_slope": 1786431.7142857143,
-    "mom14": 0.12177582232492302,
+    "rsi_slope": 3.0887989876427073,
+    "wave_strength": 1.0624770142842432,
+    "adx": 15.385688040423085,
+    "atr": 4.162677754225716,
+    "obv_slope": 1156898.357142857,
+    "mom14": 0.08321238489084558,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.95,
-    "score_0_10": 7.39,
-    "last_close": 135.69000244140625,
-    "avg_vol20": 7582797.2
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.82,
+    "score_0_10": 7.28,
+    "last_close": 134.33999633789062,
+    "avg_vol20": 7676841.15
   },
   "history": [
-    {
-      "Date": "2023-12-19",
-      "Open": 73.69999694824219,
-      "High": 74.01000213623047,
-      "Low": 72.86000061035156,
-      "Close": 73.52999877929688,
-      "Volume": 2684000
-    },
     {
       "Date": "2023-12-20",
       "Open": 73.54000091552734,
@@ -3531,7 +3523,7 @@
       "High": 133.97000122070312,
       "Low": 131.94000244140625,
       "Close": 131.94000244140625,
-      "Volume": 9045200
+      "Volume": 9052000
     },
     {
       "Date": "2025-09-22",
@@ -3539,7 +3531,15 @@
       "High": 137.97999572753906,
       "Low": 131.80999755859375,
       "Close": 135.69000244140625,
-      "Volume": 9136744
+      "Volume": 10255200
+    },
+    {
+      "Date": "2025-09-23",
+      "Open": 136.0800018310547,
+      "High": 137.34500122070312,
+      "Low": 133.28500366210938,
+      "Close": 134.33999633789062,
+      "Volume": 3958323
     }
   ]
 }
