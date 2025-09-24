@@ -1,34 +1,26 @@
 {
   "ticker": "SWKS",
   "indicators": {
-    "macd_hist": 0.7124322377749907,
-    "macd_slope": 0.05394806492003804,
+    "macd_hist": 0.6869657964773832,
+    "macd_slope": 0.05299929464354521,
     "rsi": 0.0,
-    "rsi_slope": 1.2872437573733662,
-    "wave_strength": 1.0963266667650249,
-    "adx": 23.543805290550072,
-    "atr": 2.5059397546905835,
-    "obv_slope": 1419951.642857143,
-    "mom14": 0.10467652029900258,
+    "rsi_slope": 1.1807617808281476,
+    "wave_strength": 1.092724195966365,
+    "adx": 25.589776341420052,
+    "atr": 2.4258467388357055,
+    "obv_slope": 1134952.0714285714,
+    "mom14": 0.08065386283076298,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 82.49,
-    "score_0_10": 8.25,
-    "last_close": 81.26000213623047,
-    "avg_vol20": 2864003.85
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.02,
+    "score_0_10": 7.4,
+    "last_close": 80.66000366210938,
+    "avg_vol20": 2808803.55
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 111.0,
-      "High": 112.0199966430664,
-      "Low": 109.5199966430664,
-      "Close": 109.56999969482422,
-      "Volume": 2191400
-    },
     {
       "Date": "2023-12-21",
       "Open": 111.41000366210938,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-23",
       "Open": 83.2300033569336,
-      "High": 83.51499938964844,
+      "High": 83.5199966430664,
       "Low": 80.41000366210938,
       "Close": 81.26000213623047,
-      "Volume": 2249977
+      "Volume": 2301800
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 80.87999725341797,
+      "High": 81.91999816894531,
+      "Low": 80.54000091552734,
+      "Close": 80.66000366210938,
+      "Volume": 1658571
     }
   ]
 }

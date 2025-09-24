@@ -1,34 +1,26 @@
 {
   "ticker": "ORCL",
   "indicators": {
-    "macd_hist": 4.953389094798759,
-    "macd_slope": 0.5496523630698892,
+    "macd_hist": 3.569257177173597,
+    "macd_slope": 0.4472201753328697,
     "rsi": 0.0,
-    "rsi_slope": 3.000391442881252,
-    "wave_strength": 1.2138328338582451,
-    "adx": 36.14552367077235,
-    "atr": 15.874157900943686,
-    "obv_slope": 11800347.857142856,
-    "mom14": 0.40447523319930134,
+    "rsi_slope": 2.9832625340435674,
+    "wave_strength": 1.1973895588517618,
+    "adx": 36.43653331723341,
+    "atr": 15.726002893337052,
+    "obv_slope": 10089854.0,
+    "mom14": 0.3832286612335342,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 88.81,
-    "score_0_10": 8.88,
-    "last_close": 313.8299865722656,
-    "avg_vol20": 33258226.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 87.52,
+    "score_0_10": 8.75,
+    "last_close": 308.4599914550781,
+    "avg_vol20": 34380467.2
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 105.94999694824219,
-      "High": 106.08999633789062,
-      "Low": 104.05000305175781,
-      "Close": 104.1500015258789,
-      "Volume": 9242000
-    },
     {
       "Date": "2023-12-21",
       "Open": 104.69999694824219,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-23",
       "Open": 324.0,
-      "High": 324.25,
+      "High": 325.0,
       "Low": 310.04998779296875,
       "Close": 313.8299865722656,
-      "Volume": 34470030
+      "Volume": 35280200
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 311.8599853515625,
+      "High": 312.4700012207031,
+      "Low": 300.0299987792969,
+      "Close": 308.4599914550781,
+      "Volume": 33439844
     }
   ]
 }

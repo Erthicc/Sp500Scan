@@ -1,34 +1,26 @@
 {
   "ticker": "VLO",
   "indicators": {
-    "macd_hist": 0.6641395650518804,
-    "macd_slope": -0.08202713516992792,
+    "macd_hist": 0.7538272740255287,
+    "macd_slope": -0.06675139660111588,
     "rsi": 0.0,
-    "rsi_slope": -1.3898688140484714,
-    "wave_strength": 1.0364054748547837,
-    "adx": 42.35980105165943,
-    "atr": 4.158090976733798,
-    "obv_slope": 855006.8571428572,
-    "mom14": 0.0966018408749341,
+    "rsi_slope": -1.47693345502695,
+    "wave_strength": 1.0286367509204215,
+    "adx": 43.688485885745436,
+    "atr": 4.101798415446088,
+    "obv_slope": 920420.2142857143,
+    "mom14": 0.09936290946684186,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 80.42,
-    "score_0_10": 8.04,
-    "last_close": 170.38999938964844,
-    "avg_vol20": 3025459.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 71.89,
+    "score_0_10": 7.19,
+    "last_close": 170.8300018310547,
+    "avg_vol20": 3072224.15
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 134.22999572753906,
-      "High": 136.72999572753906,
-      "Low": 132.0500030517578,
-      "Close": 132.5399932861328,
-      "Volume": 4492200
-    },
     {
       "Date": "2023-12-21",
       "Open": 132.64999389648438,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-23",
       "Open": 166.6999969482422,
       "High": 172.02999877929688,
-      "Low": 166.97999572753906,
+      "Low": 166.6999969482422,
       "Close": 170.38999938964844,
-      "Volume": 4014796
+      "Volume": 4022400
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 170.99000549316406,
+      "High": 173.75999450683594,
+      "Low": 170.8000030517578,
+      "Close": 170.8300018310547,
+      "Volume": 3519483
     }
   ]
 }

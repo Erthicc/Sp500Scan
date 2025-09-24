@@ -1,34 +1,26 @@
 {
   "ticker": "CBOE",
   "indicators": {
-    "macd_hist": 0.5931607714529066,
-    "macd_slope": 0.19299845183231334,
+    "macd_hist": 1.0056727545912,
+    "macd_slope": 0.21286806782014883,
     "rsi": 0.0,
-    "rsi_slope": 1.4593346306662853,
-    "wave_strength": 1.0068259358006189,
-    "adx": 22.925167887063896,
-    "atr": 4.570471535541839,
-    "obv_slope": -145198.64285714287,
-    "mom14": 0.020857243047142728,
+    "rsi_slope": 1.8967565659252017,
+    "wave_strength": 1.0067339669971078,
+    "adx": 22.258861839869443,
+    "atr": 4.6229373313057796,
+    "obv_slope": -23437.571428571428,
+    "mom14": 0.038519043186537184,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 69.33,
-    "score_0_10": 6.93,
-    "last_close": 240.32000732421875,
-    "avg_vol20": 892405.95
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
+    "score_0_100": 78.76,
+    "score_0_10": 7.88,
+    "last_close": 243.19000244140625,
+    "avg_vol20": 867203.7
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 176.1300048828125,
-      "High": 177.13999938964844,
-      "Low": 173.52000427246094,
-      "Close": 174.10000610351562,
-      "Volume": 891200
-    },
     {
       "Date": "2023-12-21",
       "Open": 174.6300048828125,
@@ -3539,7 +3531,15 @@
       "High": 240.52000427246094,
       "Low": 234.85000610351562,
       "Close": 240.32000732421875,
-      "Volume": 1151019
+      "Volume": 1151000
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 240.05999755859375,
+      "High": 243.30499267578125,
+      "Low": 238.0,
+      "Close": 243.19000244140625,
+      "Volume": 958974
     }
   ]
 }

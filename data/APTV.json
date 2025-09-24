@@ -1,34 +1,26 @@
 {
   "ticker": "APTV",
   "indicators": {
-    "macd_hist": 0.007734297729039774,
-    "macd_slope": -0.02392895016406798,
+    "macd_hist": -0.062225334044543334,
+    "macd_slope": -0.02493941902615788,
     "rsi": 0.0,
-    "rsi_slope": 0.8219927216538768,
-    "wave_strength": 1.0401905988157885,
-    "adx": 43.21446936051901,
-    "atr": 2.035143581435871,
-    "obv_slope": 61458.857142857145,
-    "mom14": 0.0732136384797432,
-    "macd_bull": 1,
+    "rsi_slope": 0.15208198984600937,
+    "wave_strength": 1.038024023935112,
+    "adx": 43.06448030730005,
+    "atr": 1.9969190399813779,
+    "obv_slope": -160821.5,
+    "mom14": 0.0570541223294036,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.49,
-    "score_0_10": 7.35,
-    "last_close": 85.45999908447266,
-    "avg_vol20": 2430031.2
+    "explanation": "strong trend; price above SMA/EMA; RSI overbought",
+    "score_0_100": 47.24,
+    "score_0_10": 4.72,
+    "last_close": 85.04000091552734,
+    "avg_vol20": 2361615.05
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 88.6500015258789,
-      "High": 89.52999877929688,
-      "Low": 86.52999877929688,
-      "Close": 86.63999938964844,
-      "Volume": 1746800
-    },
     {
       "Date": "2023-12-21",
       "Open": 88.02999877929688,
@@ -3539,7 +3531,15 @@
       "High": 86.5,
       "Low": 85.1500015258789,
       "Close": 85.45999908447266,
-      "Volume": 1620924
+      "Volume": 2121900
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 84.81999969482422,
+      "High": 85.7300033569336,
+      "Low": 84.2300033569336,
+      "Close": 85.04000091552734,
+      "Volume": 1805201
     }
   ]
 }

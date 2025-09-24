@@ -1,34 +1,26 @@
 {
   "ticker": "JBL",
   "indicators": {
-    "macd_hist": 2.8485163215990394,
-    "macd_slope": 0.2913755308937427,
+    "macd_hist": 2.3305965873110983,
+    "macd_slope": 0.22223064038111623,
     "rsi": 0.0,
-    "rsi_slope": 4.3132496501034625,
-    "wave_strength": 1.0107810047932173,
-    "adx": 19.84887301432496,
-    "atr": 6.001159868535313,
-    "obv_slope": 887110.0714285715,
-    "mom14": 0.1537893723884248,
+    "rsi_slope": 2.2305345137615613,
+    "wave_strength": 1.0924925717115574,
+    "adx": 20.045042427315884,
+    "atr": 6.331412366838488,
+    "obv_slope": 647010.0714285715,
+    "mom14": 0.08323314640087892,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.76,
-    "score_0_10": 8.28,
-    "last_close": 234.4499969482422,
-    "avg_vol20": 1516972.05
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.57,
+    "score_0_10": 8.06,
+    "last_close": 225.27999877929688,
+    "avg_vol20": 1555022.95
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 130.8800048828125,
-      "High": 133.5,
-      "Low": 128.50999450683594,
-      "Close": 128.58999633789062,
-      "Volume": 1643900
-    },
     {
       "Date": "2023-12-21",
       "Open": 129.63999938964844,
@@ -3539,7 +3531,15 @@
       "High": 237.13999938964844,
       "Low": 232.44000244140625,
       "Close": 234.4499969482422,
-      "Volume": 1722741
+      "Volume": 2054200
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 235.0,
+      "High": 235.0,
+      "Low": 224.37530517578125,
+      "Close": 225.27999877929688,
+      "Volume": 2571359
     }
   ]
 }

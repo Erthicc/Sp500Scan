@@ -1,34 +1,26 @@
 {
   "ticker": "DGX",
   "indicators": {
-    "macd_hist": 0.2155388192724954,
-    "macd_slope": 0.0380647607901735,
+    "macd_hist": 0.30470548129514574,
+    "macd_slope": 0.04477945413728403,
     "rsi": 0.0,
-    "rsi_slope": 1.1920799674354292,
-    "wave_strength": 1.0091004215112958,
-    "adx": 25.654827795934448,
-    "atr": 2.857633612149468,
-    "obv_slope": 282626.14285714284,
-    "mom14": 0.04155761206701559,
+    "rsi_slope": 0.9033223074482061,
+    "wave_strength": 1.0265828843083715,
+    "adx": 26.557702155896287,
+    "atr": 2.793313279917672,
+    "obv_slope": 201260.64285714287,
+    "mom14": 0.037255047976950256,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 78.25,
-    "score_0_10": 7.83,
-    "last_close": 186.97000122070312,
-    "avg_vol20": 708063.3
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.42,
+    "score_0_10": 7.04,
+    "last_close": 186.82000732421875,
+    "avg_vol20": 683517.55
   },
   "history": [
-    {
-      "Date": "2023-12-20",
-      "Open": 136.69000244140625,
-      "High": 136.69000244140625,
-      "Low": 134.69000244140625,
-      "Close": 134.77000427246094,
-      "Volume": 717900
-    },
     {
       "Date": "2023-12-21",
       "Open": 135.19000244140625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-23",
       "Open": 184.72000122070312,
-      "High": 187.9199981689453,
-      "Low": 184.95599365234375,
+      "High": 187.9600067138672,
+      "Low": 184.72000122070312,
       "Close": 186.97000122070312,
-      "Volume": 774966
+      "Volume": 775000
+    },
+    {
+      "Date": "2025-09-24",
+      "Open": 186.49000549316406,
+      "High": 187.9199981689453,
+      "Low": 186.0,
+      "Close": 186.82000732421875,
+      "Volume": 553451
     }
   ]
 }
