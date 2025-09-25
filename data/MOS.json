@@ -1,34 +1,26 @@
 {
   "ticker": "MOS",
   "indicators": {
-    "macd_hist": 0.2475287412884134,
-    "macd_slope": 0.007891547406426074,
+    "macd_hist": 0.22944287073057162,
+    "macd_slope": 0.00948751395934963,
     "rsi": 0.0,
-    "rsi_slope": 1.3582681992130428,
-    "wave_strength": 1.022533210191806,
-    "adx": 17.620845181573113,
-    "atr": 0.8763348242536667,
-    "obv_slope": 880494.0,
-    "mom14": 0.1089901371255915,
+    "rsi_slope": 1.1952414437999859,
+    "wave_strength": 1.0711860482967621,
+    "adx": 19.516539333176357,
+    "atr": 1.0130505024999972,
+    "obv_slope": 535665.7857142857,
+    "mom14": 0.07942914705711429,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 78.87,
-    "score_0_10": 7.89,
-    "last_close": 35.93000030517578,
-    "avg_vol20": 3867050.8
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.31,
+    "score_0_10": 7.53,
+    "last_close": 34.790000915527344,
+    "avg_vol20": 4210923.95
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 36.15999984741211,
-      "High": 36.4900016784668,
-      "Low": 35.650001525878906,
-      "Close": 36.33000183105469,
-      "Volume": 3932900
-    },
     {
       "Date": "2023-12-22",
       "Open": 36.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-24",
       "Open": 34.16999816894531,
-      "High": 36.03499984741211,
+      "High": 36.029998779296875,
       "Low": 34.04999923706055,
       "Close": 35.93000030517578,
-      "Volume": 4450216
+      "Volume": 5158300
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 36.13999938964844,
+      "High": 36.994998931884766,
+      "Low": 34.20000076293945,
+      "Close": 34.790000915527344,
+      "Volume": 9808979
     }
   ]
 }

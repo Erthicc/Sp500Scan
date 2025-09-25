@@ -1,34 +1,26 @@
 {
   "ticker": "QCOM",
   "indicators": {
-    "macd_hist": 1.0339010404357625,
-    "macd_slope": 0.04646072599246127,
+    "macd_hist": 0.8258297532045695,
+    "macd_slope": 0.03184571756029716,
     "rsi": 0.0,
-    "rsi_slope": 1.9392703901516823,
-    "wave_strength": 1.0437922900104766,
-    "adx": 31.82315297765744,
-    "atr": 3.6020536713913835,
-    "obv_slope": 2861025.285714286,
-    "mom14": 0.0866570393593812,
+    "rsi_slope": 0.9543427793165365,
+    "wave_strength": 1.0638095604829005,
+    "adx": 33.41707015526488,
+    "atr": 3.74583594436114,
+    "obv_slope": 1730434.0,
+    "mom14": 0.061561540060909144,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.43,
-    "score_0_10": 8.24,
-    "last_close": 173.5500030517578,
-    "avg_vol20": 7881737.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.18,
+    "score_0_10": 7.12,
+    "last_close": 169.67999267578125,
+    "avg_vol20": 8068991.2
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 141.8000030517578,
-      "High": 142.69000244140625,
-      "Low": 140.99000549316406,
-      "Close": 142.44000244140625,
-      "Volume": 8361600
-    },
     {
       "Date": "2023-12-22",
       "Open": 143.25,
@@ -3539,7 +3531,15 @@
       "High": 174.44000244140625,
       "Low": 168.6699981689453,
       "Close": 173.5500030517578,
-      "Volume": 9003254
+      "Volume": 9213700
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 171.2100067138672,
+      "High": 171.94000244140625,
+      "Low": 167.93499755859375,
+      "Close": 169.67999267578125,
+      "Volume": 8084524
     }
   ]
 }

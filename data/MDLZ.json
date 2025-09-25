@@ -1,34 +1,26 @@
 {
   "ticker": "MDLZ",
   "indicators": {
-    "macd_hist": 0.3782758749677288,
-    "macd_slope": 0.022027155419808434,
+    "macd_hist": 0.25883712334511155,
+    "macd_slope": 0.010414666303002165,
     "rsi": 0.0,
-    "rsi_slope": 2.4336750771987434,
-    "wave_strength": 1.0219598545899151,
-    "adx": 16.47876571810009,
-    "atr": 1.0714683542006462,
-    "obv_slope": 2747077.285714286,
-    "mom14": 0.05730702424180545,
+    "rsi_slope": 0.6062015332713412,
+    "wave_strength": 1.0322053100266773,
+    "adx": 15.701921129997658,
+    "atr": 1.167150342627237,
+    "obv_slope": 1687964.857142857,
+    "mom14": 0.013281497773431579,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 79.08,
-    "score_0_10": 7.91,
-    "last_close": 64.38999938964844,
-    "avg_vol20": 7258829.1
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV",
+    "score_0_100": 58.11,
+    "score_0_10": 5.81,
+    "last_close": 62.560001373291016,
+    "avg_vol20": 7369649.6
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 69.62000274658203,
-      "High": 70.4800033569336,
-      "Low": 69.5,
-      "Close": 70.45999908447266,
-      "Volume": 5538100
-    },
     {
       "Date": "2023-12-22",
       "Open": 70.83000183105469,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-24",
       "Open": 63.81999969482422,
-      "High": 64.69889831542969,
+      "High": 64.69999694824219,
       "Low": 63.779998779296875,
       "Close": 64.38999938964844,
-      "Volume": 6187582
+      "Volume": 6188700
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 64.68000030517578,
+      "High": 64.94999694824219,
+      "Low": 62.540000915527344,
+      "Close": 62.560001373291016,
+      "Volume": 8679092
     }
   ]
 }

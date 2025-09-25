@@ -1,34 +1,26 @@
 {
   "ticker": "TRGP",
   "indicators": {
-    "macd_hist": 0.8028891119858796,
-    "macd_slope": 0.026344312117708463,
+    "macd_hist": 0.8898848435461947,
+    "macd_slope": 0.050799573012608325,
     "rsi": 0.0,
-    "rsi_slope": 0.41194295843997963,
-    "wave_strength": 1.0276763055941511,
-    "adx": 11.12130621664019,
-    "atr": 4.578076381853273,
-    "obv_slope": 226279.7142857143,
-    "mom14": 0.03392583993663397,
+    "rsi_slope": 1.1543654984677738,
+    "wave_strength": 1.038120910412831,
+    "adx": 11.352637822980922,
+    "atr": 4.442500064426696,
+    "obv_slope": 311083.4285714286,
+    "mom14": 0.05783799837778448,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.16,
-    "score_0_10": 7.62,
-    "last_close": 172.19000244140625,
-    "avg_vol20": 1441915.8
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 66.79,
+    "score_0_10": 6.68,
+    "last_close": 171.74000549316406,
+    "avg_vol20": 1429041.6
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 86.18000030517578,
-      "High": 87.16000366210938,
-      "Low": 85.61000061035156,
-      "Close": 87.11000061035156,
-      "Volume": 1028600
-    },
     {
       "Date": "2023-12-22",
       "Open": 87.54000091552734,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-24",
       "Open": 170.27999877929688,
       "High": 174.1300048828125,
-      "Low": 170.1925048828125,
+      "Low": 170.19000244140625,
       "Close": 172.19000244140625,
-      "Volume": 879216
+      "Volume": 1164100
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 171.4199981689453,
+      "High": 172.4600067138672,
+      "Low": 169.77999877929688,
+      "Close": 171.74000549316406,
+      "Volume": 734432
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "XEL",
   "indicators": {
-    "macd_hist": 0.37039824481595474,
-    "macd_slope": 0.041427380623536604,
+    "macd_hist": 0.5182518049275949,
+    "macd_slope": 0.0493386311488342,
     "rsi": 0.0,
-    "rsi_slope": 2.270675477680725,
-    "wave_strength": 0.9972197556653648,
-    "adx": 12.078787888811537,
-    "atr": 1.393430728110572,
-    "obv_slope": 2515140.9285714286,
-    "mom14": 0.08721390952118352,
+    "rsi_slope": 1.324582281498125,
+    "wave_strength": 1.0731422109019397,
+    "adx": 15.149939798335245,
+    "atr": 1.4270885987350632,
+    "obv_slope": 1339669.2857142857,
+    "mom14": 0.07120268498068827,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 83.66,
-    "score_0_10": 8.37,
-    "last_close": 77.93000030517578,
-    "avg_vol20": 5339423.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.98,
+    "score_0_10": 8.3,
+    "last_close": 77.25,
+    "avg_vol20": 5759026.5
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 61.310001373291016,
-      "High": 61.880001068115234,
-      "Low": 61.0,
-      "Close": 61.529998779296875,
-      "Volume": 2807700
-    },
     {
       "Date": "2023-12-22",
       "Open": 61.97999954223633,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-24",
-      "Open": 73.16000366210938,
-      "High": 78.125,
+      "Open": 73.18000030517578,
+      "High": 78.12999725341797,
       "Low": 72.55000305175781,
       "Close": 77.93000030517578,
-      "Volume": 13443973
+      "Volume": 14058700
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 78.16000366210938,
+      "High": 78.80000305175781,
+      "Low": 76.94000244140625,
+      "Close": 77.25,
+      "Volume": 10845430
     }
   ]
 }

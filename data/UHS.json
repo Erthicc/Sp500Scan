@@ -1,34 +1,26 @@
 {
   "ticker": "UHS",
   "indicators": {
-    "macd_hist": 0.6422654180536753,
-    "macd_slope": 0.031290154394772784,
+    "macd_hist": 0.6899437544431604,
+    "macd_slope": 0.011068671911358756,
     "rsi": 0.0,
-    "rsi_slope": 0.2711997039033532,
-    "wave_strength": 1.0217411946187565,
-    "adx": 29.10958090555857,
-    "atr": 4.534414906207262,
-    "obv_slope": 285170.21428571426,
-    "mom14": 0.07550627329537592,
+    "rsi_slope": -0.8108191675252036,
+    "wave_strength": 1.0599167642860259,
+    "adx": 30.513352044478136,
+    "atr": 4.677236407037834,
+    "obv_slope": 209720.2142857143,
+    "mom14": 0.03944877021155559,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 79.14,
-    "score_0_10": 7.91,
-    "last_close": 199.6999969482422,
-    "avg_vol20": 702069.15
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.3,
+    "score_0_10": 6.83,
+    "last_close": 197.6199951171875,
+    "avg_vol20": 704850.85
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 149.17999267578125,
-      "High": 151.3800048828125,
-      "Low": 149.02000427246094,
-      "Close": 151.00999450683594,
-      "Volume": 453700
-    },
     {
       "Date": "2023-12-22",
       "Open": 151.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-24",
       "Open": 194.32000732421875,
-      "High": 200.6750030517578,
-      "Low": 194.82000732421875,
+      "High": 200.7100067138672,
+      "Low": 194.32000732421875,
       "Close": 199.6999969482422,
-      "Volume": 613083
+      "Volume": 776500
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 199.9499969482422,
+      "High": 200.14999389648438,
+      "Low": 194.02000427246094,
+      "Close": 197.6199951171875,
+      "Volume": 564817
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CHTR",
   "indicators": {
-    "macd_hist": 2.3360858981191948,
-    "macd_slope": -0.0802576649249017,
+    "macd_hist": 2.5729849610420032,
+    "macd_slope": -0.052529812216805895,
     "rsi": 0.0,
-    "rsi_slope": 0.7454676708904674,
-    "wave_strength": 1.0127312220134785,
-    "adx": 31.41666310301118,
-    "atr": 7.765724718176585,
-    "obv_slope": 513246.21428571426,
-    "mom14": 0.014951272539801854,
+    "rsi_slope": 1.4367825628625357,
+    "wave_strength": 1.012458602087152,
+    "adx": 29.8083627825232,
+    "atr": 8.001360473689266,
+    "obv_slope": 493550.35714285716,
+    "mom14": 0.034684540436782985,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 61.61,
-    "score_0_10": 6.16,
-    "last_close": 263.3900146484375,
-    "avg_vol20": 1919267.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; rising OBV",
+    "score_0_100": 68.52,
+    "score_0_10": 6.85,
+    "last_close": 270.57000732421875,
+    "avg_vol20": 1952175.25
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 383.7200012207031,
-      "High": 386.8800048828125,
-      "Low": 381.989990234375,
-      "Close": 383.510009765625,
-      "Volume": 664500
-    },
     {
       "Date": "2023-12-22",
       "Open": 383.0799865722656,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-24",
-      "Open": 265.875,
-      "High": 267.19500732421875,
-      "Low": 261.6099853515625,
+      "Open": 266.29998779296875,
+      "High": 267.20001220703125,
+      "Low": 261.4700012207031,
       "Close": 263.3900146484375,
-      "Volume": 1358853
+      "Volume": 1438900
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 262.4800109863281,
+      "High": 271.1499938964844,
+      "Low": 260.2200012207031,
+      "Close": 270.57000732421875,
+      "Volume": 2050205
     }
   ]
 }

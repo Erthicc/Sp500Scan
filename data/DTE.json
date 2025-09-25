@@ -1,34 +1,26 @@
 {
   "ticker": "DTE",
   "indicators": {
-    "macd_hist": 0.39103231977478387,
-    "macd_slope": 0.0688392103424293,
+    "macd_hist": 0.3911589851500422,
+    "macd_slope": 0.06279505287750665,
     "rsi": 0.0,
-    "rsi_slope": 2.0260580856530908,
-    "wave_strength": 1.0066514809434723,
-    "adx": 14.576206923681742,
-    "atr": 1.7021294875682762,
-    "obv_slope": 749048.7142857143,
-    "mom14": 0.02539522781386282,
+    "rsi_slope": 1.3029437981960688,
+    "wave_strength": 1.0235602521482747,
+    "adx": 14.85115351751382,
+    "atr": 1.776594354503656,
+    "obv_slope": 654929.7857142857,
+    "mom14": 0.015851643114460467,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 77.25,
-    "score_0_10": 7.73,
-    "last_close": 138.75999450683594,
-    "avg_vol20": 997744.1
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 66.36,
+    "score_0_10": 6.64,
+    "last_close": 137.66000366210938,
+    "avg_vol20": 1010664.15
   },
   "history": [
-    {
-      "Date": "2023-12-21",
-      "Open": 109.62999725341797,
-      "High": 110.87000274658203,
-      "Low": 108.9800033569336,
-      "Close": 109.73999786376953,
-      "Volume": 897700
-    },
     {
       "Date": "2023-12-22",
       "Open": 110.47000122070312,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-24",
       "Open": 138.0,
-      "High": 138.9149932861328,
+      "High": 138.9199981689453,
       "Low": 137.7899932861328,
       "Close": 138.75999450683594,
-      "Volume": 401582
+      "Volume": 710200
+    },
+    {
+      "Date": "2025-09-25",
+      "Open": 139.33999633789062,
+      "High": 139.83999633789062,
+      "Low": 137.10000610351562,
+      "Close": 137.66000366210938,
+      "Volume": 650283
     }
   ]
 }
