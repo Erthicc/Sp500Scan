@@ -1,34 +1,26 @@
 {
   "ticker": "JBL",
   "indicators": {
-    "macd_hist": 0.9056432102697722,
-    "macd_slope": 0.08601848278694872,
+    "macd_hist": 0.3071150570345855,
+    "macd_slope": 0.02311319872368221,
     "rsi": 0.0,
-    "rsi_slope": 0.5047880778159006,
-    "wave_strength": 1.0919074415250483,
-    "adx": 19.473114373020156,
-    "atr": 7.431007090991393,
-    "obv_slope": 353539.4285714286,
-    "mom14": 0.0004759202371336311,
+    "rsi_slope": 0.981662098733941,
+    "wave_strength": 1.0903915696205706,
+    "adx": 18.510134326445506,
+    "atr": 7.3944993706816415,
+    "obv_slope": 535766.0714285715,
+    "mom14": 0.03188792956606519,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; volume spike; rising OBV; strong wave vs SMA20",
-    "score_0_100": 66.35,
-    "score_0_10": 6.64,
-    "last_close": 210.1999969482422,
-    "avg_vol20": 1648352.4
+    "vol_spike": 0,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.5,
+    "score_0_10": 6.85,
+    "last_close": 215.83999633789062,
+    "avg_vol20": 1680381.25
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 128.75999450683594,
-      "High": 129.10000610351562,
-      "Low": 127.02999877929688,
-      "Close": 127.87999725341797,
-      "Volume": 879800
-    },
     {
       "Date": "2023-12-26",
       "Open": 128.75999450683594,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-25",
       "Open": 206.7100067138672,
-      "High": 213.21890258789062,
-      "Low": 203.54989624023438,
+      "High": 213.22000122070312,
+      "Low": 203.5500030517578,
       "Close": 210.1999969482422,
-      "Volume": 2981648
+      "Volume": 3241700
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 213.55999755859375,
+      "High": 217.1199951171875,
+      "Low": 211.50999450683594,
+      "Close": 215.83999633789062,
+      "Volume": 1732825
     }
   ]
 }

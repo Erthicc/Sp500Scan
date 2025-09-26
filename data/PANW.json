@@ -1,34 +1,26 @@
 {
   "ticker": "PANW",
   "indicators": {
-    "macd_hist": 0.019366437317588137,
-    "macd_slope": -0.13285907452272122,
+    "macd_hist": -0.19853741598014096,
+    "macd_slope": -0.15282670873423895,
     "rsi": 0.0,
-    "rsi_slope": -1.3953021801876884,
-    "wave_strength": 1.0484912828793738,
-    "adx": 29.9999676526677,
-    "atr": 4.773827615092356,
-    "obv_slope": 1664010.4285714286,
-    "mom14": 0.03985395316479405,
-    "macd_bull": 1,
+    "rsi_slope": -2.0039995779351605,
+    "wave_strength": 1.0455031780689281,
+    "adx": 28.803573267065747,
+    "atr": 4.642118580093838,
+    "obv_slope": 1640539.4285714286,
+    "mom14": 0.02528113340222903,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.94,
-    "score_0_10": 6.69,
-    "last_close": 202.2100067138672,
-    "avg_vol20": 5789737.3
+    "explanation": "strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 41.9,
+    "score_0_10": 4.19,
+    "last_close": 202.3699951171875,
+    "avg_vol20": 5746907.6
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 150.1649932861328,
-      "High": 150.375,
-      "Low": 148.75,
-      "Close": 149.10499572753906,
-      "Volume": 4783000
-    },
     {
       "Date": "2023-12-26",
       "Open": 149.43499755859375,
@@ -3539,7 +3531,15 @@
       "High": 203.83999633789062,
       "Low": 197.69000244140625,
       "Close": 202.2100067138672,
-      "Volume": 7188446
+      "Volume": 7326400
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 201.77999877929688,
+      "High": 203.54989624023438,
+      "Low": 200.6199951171875,
+      "Close": 202.3699951171875,
+      "Volume": 5037252
     }
   ]
 }

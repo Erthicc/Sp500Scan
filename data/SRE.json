@@ -1,34 +1,26 @@
 {
   "ticker": "SRE",
   "indicators": {
-    "macd_hist": 0.4044057196616464,
-    "macd_slope": 0.04536688464099975,
+    "macd_hist": 0.5386191413828256,
+    "macd_slope": 0.06561526957941541,
     "rsi": 0.0,
-    "rsi_slope": 1.3249890489274085,
-    "wave_strength": 1.0527648701711367,
-    "adx": 27.089779120028428,
-    "atr": 1.6847267947201257,
-    "obv_slope": 9777.42857142857,
-    "mom14": 0.06632964138741916,
+    "rsi_slope": 2.5894206731216967,
+    "wave_strength": 1.0482446977343916,
+    "adx": 28.777329956932185,
+    "atr": 1.7190581302490495,
+    "obv_slope": 458236.64285714284,
+    "mom14": 0.11560247138184555,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 70.03,
-    "score_0_10": 7.0,
-    "last_close": 86.48999786376953,
-    "avg_vol20": 4748605.8
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 78.77,
+    "score_0_10": 7.88,
+    "last_close": 88.58999633789062,
+    "avg_vol20": 4778195.65
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 73.62999725341797,
-      "High": 74.0999984741211,
-      "Low": 73.29000091552734,
-      "Close": 73.69999694824219,
-      "Volume": 1843600
-    },
     {
       "Date": "2023-12-26",
       "Open": 73.62999725341797,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-25",
       "Open": 87.16999816894531,
       "High": 87.6500015258789,
-      "Low": 86.05500030517578,
+      "Low": 86.05999755859375,
       "Close": 86.48999786376953,
-      "Volume": 3035216
+      "Volume": 3868500
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 86.80999755859375,
+      "High": 88.66000366210938,
+      "Low": 86.51000213623047,
+      "Close": 88.58999633789062,
+      "Volume": 2293513
     }
   ]
 }

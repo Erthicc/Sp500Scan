@@ -1,34 +1,26 @@
 {
   "ticker": "NRG",
   "indicators": {
-    "macd_hist": 0.7459381258175632,
-    "macd_slope": 0.04935675607294586,
+    "macd_hist": 0.7224890766959549,
+    "macd_slope": 0.03936961925293409,
     "rsi": 0.0,
-    "rsi_slope": 1.478588325612366,
-    "wave_strength": 1.083387992921998,
-    "adx": 22.529955436182338,
-    "atr": 5.5603029280545115,
-    "obv_slope": 546155.1428571428,
-    "mom14": 0.10361643418869766,
+    "rsi_slope": 2.1370412286060647,
+    "wave_strength": 1.0765966063131498,
+    "adx": 22.323285508865304,
+    "atr": 5.6263527626061345,
+    "obv_slope": 492778.5,
+    "mom14": 0.14083658358839518,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 71.23,
-    "score_0_10": 7.12,
-    "last_close": 162.9600067138672,
-    "avg_vol20": 2268261.4
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.13,
+    "score_0_10": 7.11,
+    "last_close": 168.57000732421875,
+    "avg_vol20": 2301269.95
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 50.20000076293945,
-      "High": 50.22999954223633,
-      "Low": 49.75,
-      "Close": 50.0,
-      "Volume": 2251700
-    },
     {
       "Date": "2023-12-26",
       "Open": 50.0,
@@ -3539,7 +3531,15 @@
       "High": 164.9600067138672,
       "Low": 157.89999389648438,
       "Close": 162.9600067138672,
-      "Volume": 1813628
+      "Volume": 2226400
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 163.77999877929688,
+      "High": 169.44500732421875,
+      "Low": 163.97999572753906,
+      "Close": 168.57000732421875,
+      "Volume": 1999499
     }
   ]
 }

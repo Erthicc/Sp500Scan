@@ -1,34 +1,26 @@
 {
   "ticker": "ATO",
   "indicators": {
-    "macd_hist": -0.04828743534663438,
-    "macd_slope": 0.02194452582990264,
+    "macd_hist": 0.14023932670106887,
+    "macd_slope": 0.04504163503884601,
     "rsi": 0.0,
-    "rsi_slope": -0.5552673705885941,
-    "wave_strength": 1.0111378807595572,
-    "adx": 18.00587646058927,
-    "atr": 2.301334361149427,
-    "obv_slope": 91880.5,
-    "mom14": -0.00012006856189850577,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": 0.9740054503267304,
+    "wave_strength": 1.0102130059344372,
+    "adx": 18.235547895474138,
+    "atr": 2.3862383542819257,
+    "obv_slope": 200815.35714285713,
+    "mom14": 0.027948995957310027,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA; rising OBV",
-    "score_0_100": 39.95,
-    "score_0_10": 3.99,
-    "last_close": 166.4600067138672,
-    "avg_vol20": 841433.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.79,
+    "score_0_10": 7.28,
+    "last_close": 168.4499969482422,
+    "avg_vol20": 833635.75
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 114.27999877929688,
-      "High": 115.66999816894531,
-      "Low": 114.05000305175781,
-      "Close": 114.91000366210938,
-      "Volume": 375100
-    },
     {
       "Date": "2023-12-26",
       "Open": 114.73999786376953,
@@ -3539,7 +3531,15 @@
       "High": 168.86000061035156,
       "Low": 166.0,
       "Close": 166.4600067138672,
-      "Volume": 758673
+      "Volume": 758700
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 167.67999267578125,
+      "High": 169.9499969482422,
+      "Low": 167.0399932861328,
+      "Close": 168.4499969482422,
+      "Volume": 494715
     }
   ]
 }

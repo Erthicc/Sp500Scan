@@ -1,34 +1,26 @@
 {
   "ticker": "MCK",
   "indicators": {
-    "macd_hist": 5.330779909608918,
-    "macd_slope": 0.23264556833688108,
+    "macd_hist": 6.468908572517686,
+    "macd_slope": 0.2884327169804502,
     "rsi": 0.0,
-    "rsi_slope": 0.48425328937066986,
-    "wave_strength": 1.0803880056303303,
-    "adx": 16.752914940732996,
-    "atr": 18.940825901738545,
-    "obv_slope": 106424.71428571429,
-    "mom14": 0.07145765692844894,
+    "rsi_slope": 0.3113244646200961,
+    "wave_strength": 1.0742579715154819,
+    "adx": 16.89553799638612,
+    "atr": 19.41377459724769,
+    "obv_slope": 100592.5,
+    "mom14": 0.09120779521022268,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 1,
+    "bb_breakout": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 75.14,
-    "score_0_10": 7.51,
-    "last_close": 736.52001953125,
-    "avg_vol20": 725982.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 76.96,
+    "score_0_10": 7.7,
+    "last_close": 760.5499877929688,
+    "avg_vol20": 747469.75
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 454.2699890136719,
-      "High": 456.95001220703125,
-      "Low": 450.3299865722656,
-      "Close": 454.20001220703125,
-      "Volume": 519800
-    },
     {
       "Date": "2023-12-26",
       "Open": 453.19000244140625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-25",
       "Open": 762.5999755859375,
-      "High": 762.6199951171875,
+      "High": 763.010009765625,
       "Low": 715.3099975585938,
       "Close": 736.52001953125,
-      "Volume": 1227754
+      "Volume": 1536700
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 743.1799926757812,
+      "High": 761.719970703125,
+      "Low": 741.780029296875,
+      "Close": 760.5499877929688,
+      "Volume": 819495
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "INTU",
   "indicators": {
-    "macd_hist": 7.333839954979725,
-    "macd_slope": 0.4881463448315421,
+    "macd_hist": 7.093795397841777,
+    "macd_slope": 0.4058397293192534,
     "rsi": 0.0,
-    "rsi_slope": 2.450501674677126,
-    "wave_strength": 1.0456100431419109,
-    "adx": 29.652867677250345,
-    "atr": 15.247036457779837,
-    "obv_slope": 59129.07142857143,
-    "mom14": 0.029517530892912883,
+    "rsi_slope": 2.6994339125617857,
+    "wave_strength": 1.043274786590995,
+    "adx": 27.68393494703602,
+    "atr": 14.842632387188104,
+    "obv_slope": 275726.21428571426,
+    "mom14": 0.03957244131086375,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 64.38,
-    "score_0_10": 6.44,
-    "last_close": 692.6799926757812,
-    "avg_vol20": 2080479.65
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 71.32,
+    "score_0_10": 7.13,
+    "last_close": 698.260009765625,
+    "avg_vol20": 2050708.35
   },
   "history": [
-    {
-      "Date": "2023-12-22",
-      "Open": 622.8300170898438,
-      "High": 625.1500244140625,
-      "Low": 617.6799926757812,
-      "Close": 624.0700073242188,
-      "Volume": 820800
-    },
     {
       "Date": "2023-12-26",
       "Open": 625.1699829101562,
@@ -3537,9 +3529,17 @@
       "Date": "2025-09-25",
       "Open": 691.5900268554688,
       "High": 695.7899780273438,
-      "Low": 683.5250244140625,
+      "Low": 683.530029296875,
       "Close": 692.6799926757812,
-      "Volume": 1546993
+      "Volume": 1548000
+    },
+    {
+      "Date": "2025-09-26",
+      "Open": 692.6900024414062,
+      "High": 700.0,
+      "Low": 690.4099731445312,
+      "Close": 698.260009765625,
+      "Volume": 1474667
     }
   ]
 }
