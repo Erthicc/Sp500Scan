@@ -1,34 +1,26 @@
 {
   "ticker": "CF",
   "indicators": {
-    "macd_hist": 0.8835230319583928,
-    "macd_slope": 0.056589147684812484,
+    "macd_hist": 0.8406154869916178,
+    "macd_slope": 0.05408242772356139,
     "rsi": 0.0,
-    "rsi_slope": 1.5748651654997328,
-    "wave_strength": 1.0624424247740465,
-    "adx": 18.347409514017446,
-    "atr": 2.453210304865954,
-    "obv_slope": 414417.0714285714,
-    "mom14": 0.09029582548423631,
+    "rsi_slope": 0.883574635027688,
+    "wave_strength": 1.0656102429357361,
+    "adx": 19.517125965702267,
+    "atr": 2.502273246994282,
+    "obv_slope": 161319.7142857143,
+    "mom14": 0.06909990811563516,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 76.7,
-    "score_0_10": 7.67,
-    "last_close": 92.12999725341797,
-    "avg_vol20": 2783071.95
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.68,
+    "score_0_10": 7.37,
+    "last_close": 90.51000213623047,
+    "avg_vol20": 2817946.2
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 80.38999938964844,
-      "High": 81.63999938964844,
-      "Low": 80.31999969482422,
-      "Close": 80.6500015258789,
-      "Volume": 923400
-    },
     {
       "Date": "2023-12-27",
       "Open": 80.43000030517578,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-26",
       "Open": 89.83999633789062,
-      "High": 92.28990173339844,
+      "High": 92.29000091552734,
       "Low": 88.94000244140625,
       "Close": 92.12999725341797,
-      "Volume": 1746639
+      "Volume": 2161100
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 92.1500015258789,
+      "High": 92.45999908447266,
+      "Low": 89.31999969482422,
+      "Close": 90.51000213623047,
+      "Volume": 1663924
     }
   ]
 }

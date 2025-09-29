@@ -1,34 +1,26 @@
 {
   "ticker": "BKR",
   "indicators": {
-    "macd_hist": 0.3021612725067393,
-    "macd_slope": 0.016939563271535833,
+    "macd_hist": 0.29922967155472757,
+    "macd_slope": 0.019575051344197052,
     "rsi": 0.0,
-    "rsi_slope": 0.5582433980684901,
-    "wave_strength": 1.0040070924995141,
-    "adx": 40.91253205627391,
-    "atr": 1.1206717742304162,
-    "obv_slope": 4058893.285714286,
-    "mom14": 0.10692377592849098,
+    "rsi_slope": 0.8786253202501412,
+    "wave_strength": 0.9985411902058762,
+    "adx": 42.75161641315378,
+    "atr": 1.0983792411862514,
+    "obv_slope": 4727162.714285715,
+    "mom14": 0.11221118566580315,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 76.92,
-    "score_0_10": 7.69,
-    "last_close": 50.52000045776367,
-    "avg_vol20": 6391855.3
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 75.46,
+    "score_0_10": 7.55,
+    "last_close": 50.54999923706055,
+    "avg_vol20": 6453398.9
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 34.529998779296875,
-      "High": 34.880001068115234,
-      "Low": 34.45000076293945,
-      "Close": 34.779998779296875,
-      "Volume": 2872900
-    },
     {
       "Date": "2023-12-27",
       "Open": 34.720001220703125,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-26",
       "Open": 50.380001068115234,
-      "High": 50.91999816894531,
-      "Low": 49.83000183105469,
+      "High": 50.93000030517578,
+      "Low": 49.81999969482422,
       "Close": 50.52000045776367,
-      "Volume": 7728706
+      "Volume": 7750000
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 50.36000061035156,
+      "High": 50.58000183105469,
+      "Low": 49.790000915527344,
+      "Close": 50.54999923706055,
+      "Volume": 5996278
     }
   ]
 }

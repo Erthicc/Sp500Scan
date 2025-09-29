@@ -1,34 +1,26 @@
 {
   "ticker": "OXY",
   "indicators": {
-    "macd_hist": 0.016113671342921965,
-    "macd_slope": 0.004856962756080972,
+    "macd_hist": 0.07689057437758029,
+    "macd_slope": 0.015446788526994517,
     "rsi": 0.0,
-    "rsi_slope": 0.4426275492131881,
-    "wave_strength": 1.0199400550650513,
-    "adx": 14.688614750395669,
-    "atr": 1.177586871733203,
-    "obv_slope": 554052.1428571428,
-    "mom14": 0.0516469157124161,
+    "rsi_slope": 0.73423187960365,
+    "wave_strength": 1.0191245533961724,
+    "adx": 15.864665846400086,
+    "atr": 1.1947846614835491,
+    "obv_slope": 2366777.785714286,
+    "mom14": 0.07126950837555485,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 64.81,
-    "score_0_10": 6.48,
-    "last_close": 47.470001220703125,
-    "avg_vol20": 8296746.5
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.92,
+    "score_0_10": 7.69,
+    "last_close": 48.099998474121094,
+    "avg_vol20": 8971534.45
   },
   "history": [
-    {
-      "Date": "2023-12-26",
-      "Open": 61.29999923706055,
-      "High": 61.79999923706055,
-      "Low": 61.25,
-      "Close": 61.439998626708984,
-      "Volume": 7126500
-    },
     {
       "Date": "2023-12-27",
       "Open": 61.5099983215332,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-26",
       "Open": 47.209999084472656,
-      "High": 48.51100158691406,
+      "High": 48.52000045776367,
       "Low": 47.08000183105469,
       "Close": 47.470001220703125,
-      "Volume": 9373830
+      "Volume": 10174000
+    },
+    {
+      "Date": "2025-09-29",
+      "Open": 48.25,
+      "High": 48.880001068115234,
+      "Low": 47.685001373291016,
+      "Close": 48.099998474121094,
+      "Volume": 18492189
     }
   ]
 }
