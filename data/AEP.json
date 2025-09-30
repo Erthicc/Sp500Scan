@@ -1,34 +1,26 @@
 {
   "ticker": "AEP",
   "indicators": {
-    "macd_hist": 0.20012324449023633,
-    "macd_slope": 0.06918197841908638,
+    "macd_hist": 0.4386822215217808,
+    "macd_slope": 0.08090802753455154,
     "rsi": 0.0,
-    "rsi_slope": 2.003210281794675,
-    "wave_strength": 1.0048312575437186,
-    "adx": 22.376127659627855,
-    "atr": 1.581753884413983,
-    "obv_slope": 585582.0714285715,
-    "mom14": 0.013104449621142407,
+    "rsi_slope": 3.1333343467982115,
+    "wave_strength": 1.0037150545576052,
+    "adx": 22.65571825153225,
+    "atr": 1.671960846904859,
+    "obv_slope": 1087152.4285714286,
+    "mom14": 0.03839767216841287,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 71.68,
-    "score_0_10": 7.17,
-    "last_close": 109.77999877929688,
-    "avg_vol20": 3071497.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 83.92,
+    "score_0_10": 8.39,
+    "last_close": 112.5,
+    "avg_vol20": 3169736.7
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 80.70999908447266,
-      "High": 80.87000274658203,
-      "Low": 80.2300033569336,
-      "Close": 80.80999755859375,
-      "Volume": 2608500
-    },
     {
       "Date": "2023-12-28",
       "Open": 80.45999908447266,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-29",
-      "Open": 109.26000213623047,
+      "Open": 109.27999877929688,
       "High": 110.1500015258789,
-      "Low": 108.49500274658203,
+      "Low": 108.48999786376953,
       "Close": 109.77999877929688,
-      "Volume": 2614349
+      "Volume": 2879900
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 109.81999969482422,
+      "High": 112.62000274658203,
+      "Low": 109.80000305175781,
+      "Close": 112.5,
+      "Volume": 4227834
     }
   ]
 }

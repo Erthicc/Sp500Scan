@@ -1,34 +1,26 @@
 {
   "ticker": "YUM",
   "indicators": {
-    "macd_hist": 0.6057950972300017,
-    "macd_slope": 0.044527225176345574,
+    "macd_hist": 0.5398959507778585,
+    "macd_slope": 0.03853414111081039,
     "rsi": 0.0,
-    "rsi_slope": 2.812506093124867,
-    "wave_strength": 1.002447593411141,
-    "adx": 15.692389733179864,
-    "atr": 2.5753905939561315,
-    "obv_slope": 1087922.7142857143,
-    "mom14": 0.0559747820718752,
+    "rsi_slope": 1.7429125832951873,
+    "wave_strength": 1.0385492573472144,
+    "adx": 16.649844989816412,
+    "atr": 2.5778627379995798,
+    "obv_slope": 885438.9285714285,
+    "mom14": 0.04095326361161378,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 80.44,
-    "score_0_10": 8.04,
-    "last_close": 153.94000244140625,
-    "avg_vol20": 1930060.9
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.01,
+    "score_0_10": 7.4,
+    "last_close": 152.0,
+    "avg_vol20": 1921582.75
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 130.4499969482422,
-      "High": 131.1199951171875,
-      "Low": 130.1999969482422,
-      "Close": 130.83999633789062,
-      "Volume": 1050400
-    },
     {
       "Date": "2023-12-28",
       "Open": 130.83999633789062,
@@ -3539,7 +3531,15 @@
       "High": 155.0500030517578,
       "Low": 152.75,
       "Close": 153.94000244140625,
-      "Volume": 1461518
+      "Volume": 1742400
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 153.6199951171875,
+      "High": 154.47000122070312,
+      "Low": 151.86000061035156,
+      "Close": 152.0,
+      "Volume": 1168555
     }
   ]
 }

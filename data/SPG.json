@@ -1,34 +1,26 @@
 {
   "ticker": "SPG",
   "indicators": {
-    "macd_hist": -0.1099342231737821,
-    "macd_slope": -0.022782155581151247,
+    "macd_hist": 0.045772076536579664,
+    "macd_slope": -0.0015639054849392003,
     "rsi": 0.0,
-    "rsi_slope": -0.386715139049388,
-    "wave_strength": 1.0146914502817634,
-    "adx": 36.2069296076094,
-    "atr": 2.7975708170171054,
-    "obv_slope": 551795.5714285715,
-    "mom14": 0.03601096346422061,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": -0.35105005593639255,
+    "wave_strength": 1.011651250542838,
+    "adx": 36.95905009747033,
+    "atr": 2.800243719975541,
+    "obv_slope": 788762.0,
+    "mom14": 0.0470903456039609,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 46.79,
-    "score_0_10": 4.68,
-    "last_close": 185.85000610351562,
-    "avg_vol20": 2001916.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 83.04,
+    "score_0_10": 8.3,
+    "last_close": 187.6699981689453,
+    "avg_vol20": 1915343.4
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 143.86000061035156,
-      "High": 144.38999938964844,
-      "Low": 143.0800018310547,
-      "Close": 143.6699981689453,
-      "Volume": 1185300
-    },
     {
       "Date": "2023-12-28",
       "Open": 143.0,
@@ -3539,7 +3531,15 @@
       "High": 186.33999633789062,
       "Low": 184.82000732421875,
       "Close": 185.85000610351562,
-      "Volume": 1274938
+      "Volume": 1282600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 186.1699981689453,
+      "High": 188.13499450683594,
+      "Low": 185.3000030517578,
+      "Close": 187.6699981689453,
+      "Volume": 1086568
     }
   ]
 }

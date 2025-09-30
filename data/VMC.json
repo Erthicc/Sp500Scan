@@ -1,34 +1,26 @@
 {
   "ticker": "VMC",
   "indicators": {
-    "macd_hist": -0.03338189907507472,
-    "macd_slope": 0.025704950098626705,
+    "macd_hist": 0.46672393003421275,
+    "macd_slope": 0.062814078172223,
     "rsi": 0.0,
-    "rsi_slope": 0.9429118018950733,
-    "wave_strength": 1.0111265413402613,
-    "adx": 22.999879151507827,
-    "atr": 5.495026590159941,
-    "obv_slope": 29130.785714285714,
-    "mom14": 0.036178315155039185,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": 0.21378118699142742,
+    "wave_strength": 1.008545477995797,
+    "adx": 24.000928654491684,
+    "atr": 5.472092250501661,
+    "obv_slope": 52098.42857142857,
+    "mom14": 0.04479843348001147,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA; rising OBV",
-    "score_0_100": 45.79,
-    "score_0_10": 4.58,
-    "last_close": 303.0199890136719,
-    "avg_vol20": 739236.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 81.46,
+    "score_0_10": 8.15,
+    "last_close": 307.6199951171875,
+    "avg_vol20": 721778.9
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 225.0,
-      "High": 226.07000732421875,
-      "Low": 224.4600067138672,
-      "Close": 225.82000732421875,
-      "Volume": 461700
-    },
     {
       "Date": "2023-12-28",
       "Open": 225.88999938964844,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-29",
       "Open": 300.9800109863281,
-      "High": 303.7749938964844,
-      "Low": 299.4750061035156,
+      "High": 303.7900085449219,
+      "Low": 299.4800109863281,
       "Close": 303.0199890136719,
-      "Volume": 536831
+      "Volume": 788600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 304.0,
+      "High": 308.17999267578125,
+      "Low": 303.1099853515625,
+      "Close": 307.6199951171875,
+      "Volume": 542778
     }
   ]
 }

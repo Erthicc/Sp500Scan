@@ -1,34 +1,26 @@
 {
   "ticker": "GRMN",
   "indicators": {
-    "macd_hist": 0.2766385448527897,
-    "macd_slope": 0.02998061228519742,
+    "macd_hist": 0.5933396396091561,
+    "macd_slope": 0.06763444697133991,
     "rsi": 0.0,
-    "rsi_slope": 0.36954049153201346,
-    "wave_strength": 1.0007262113301023,
-    "adx": 14.912314068022766,
-    "atr": 4.054253131882417,
-    "obv_slope": -48166.57142857143,
-    "mom14": 0.03333192268255175,
+    "rsi_slope": 0.7039412422299353,
+    "wave_strength": 0.9980326698783041,
+    "adx": 16.605877099352846,
+    "atr": 4.011499758995631,
+    "obv_slope": 58699.857142857145,
+    "mom14": 0.04739043171602233,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
-    "score_0_100": 77.32,
-    "score_0_10": 7.73,
-    "last_close": 245.52999877929688,
-    "avg_vol20": 853363.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 80.5,
+    "score_0_10": 8.05,
+    "last_close": 246.22000122070312,
+    "avg_vol20": 822559.9
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 129.0,
-      "High": 129.32000732421875,
-      "Low": 128.33999633789062,
-      "Close": 128.6699981689453,
-      "Volume": 443300
-    },
     {
       "Date": "2023-12-28",
       "Open": 128.5399932861328,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-29",
       "Open": 242.47999572753906,
-      "High": 245.58999633789062,
+      "High": 245.64999389648438,
       "Low": 241.75,
       "Close": 245.52999877929688,
-      "Volume": 552368
+      "Volume": 759200
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 244.91000366210938,
+      "High": 246.64999389648438,
+      "Low": 243.25,
+      "Close": 246.22000122070312,
+      "Volume": 436298
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PSKY",
   "indicators": {
-    "macd_hist": 0.07152265957951687,
-    "macd_slope": 0.0067822515739026324,
+    "macd_hist": 0.010677155509861702,
+    "macd_slope": 0.0033040892339473715,
     "rsi": 0.0,
-    "rsi_slope": 0.5612077210146832,
-    "wave_strength": 1.1395574261969894,
-    "adx": 51.62063508116786,
-    "atr": 1.116115333966065,
-    "obv_slope": 4983030.285714285,
-    "mom14": 0.286317647213506,
+    "rsi_slope": 0.6205347469156725,
+    "wave_strength": 1.1118293576681728,
+    "adx": 52.417443730483775,
+    "atr": 1.1238673220931519,
+    "obv_slope": 4731332.142857143,
+    "mom14": 0.2554918034135557,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 84.97,
-    "score_0_10": 8.5,
-    "last_close": 19.5,
-    "avg_vol20": 12458451.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 85.23,
+    "score_0_10": 8.52,
+    "last_close": 18.920000076293945,
+    "avg_vol20": 12840722.5
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 14.979999542236328,
-      "High": 15.0,
-      "Low": 14.720000267028809,
-      "Close": 14.989999771118164,
-      "Volume": 9116200
-    },
     {
       "Date": "2023-12-28",
       "Open": 14.979999542236328,
@@ -3531,15 +3523,23 @@
       "High": 19.139999389648438,
       "Low": 18.68000030517578,
       "Close": 18.920000076293945,
-      "Volume": 4527300
+      "Volume": 4528900
     },
     {
       "Date": "2025-09-29",
-      "Open": 19.17329978942871,
-      "High": 19.69499969482422,
+      "Open": 19.170000076293945,
+      "High": 19.700000762939453,
       "Low": 18.309999465942383,
       "Close": 19.5,
-      "Volume": 6641324
+      "Volume": 8183600
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 19.309999465942383,
+      "High": 20.09000015258789,
+      "Low": 18.8700008392334,
+      "Close": 18.920000076293945,
+      "Volume": 11228750
     }
   ]
 }

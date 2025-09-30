@@ -1,34 +1,26 @@
 {
   "ticker": "BKR",
   "indicators": {
-    "macd_hist": 0.29922967155472757,
-    "macd_slope": 0.019575051344197052,
+    "macd_hist": 0.1533460648227516,
+    "macd_slope": 0.004874343659328143,
     "rsi": 0.0,
-    "rsi_slope": 0.8786253202501412,
-    "wave_strength": 0.9985411902058762,
-    "adx": 42.75161641315378,
-    "atr": 1.0983792411862514,
-    "obv_slope": 4727162.714285715,
-    "mom14": 0.11221118566580315,
+    "rsi_slope": -1.1096186458777382,
+    "wave_strength": 1.0649503746193942,
+    "adx": 41.5970835451693,
+    "atr": 1.1934950314854957,
+    "obv_slope": 3572026.0714285714,
+    "mom14": 0.038363237894352066,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 75.46,
-    "score_0_10": 7.55,
-    "last_close": 50.54999923706055,
-    "avg_vol20": 6453398.9
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.73,
+    "score_0_10": 8.27,
+    "last_close": 48.720001220703125,
+    "avg_vol20": 6581421.75
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 34.720001220703125,
-      "High": 34.91999816894531,
-      "Low": 34.439998626708984,
-      "Close": 34.4900016784668,
-      "Volume": 2961200
-    },
     {
       "Date": "2023-12-28",
       "Open": 34.36000061035156,
@@ -3531,7 +3523,7 @@
       "High": 50.93000030517578,
       "Low": 49.81999969482422,
       "Close": 50.52000045776367,
-      "Volume": 7750000
+      "Volume": 7751000
     },
     {
       "Date": "2025-09-29",
@@ -3539,7 +3531,15 @@
       "High": 50.58000183105469,
       "Low": 49.790000915527344,
       "Close": 50.54999923706055,
-      "Volume": 5996278
+      "Volume": 6319200
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 49.92499923706055,
+      "High": 50.260101318359375,
+      "Low": 48.119998931884766,
+      "Close": 48.720001220703125,
+      "Volume": 10816735
     }
   ]
 }

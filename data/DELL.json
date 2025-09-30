@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 0.6379994212104321,
-    "macd_slope": 0.1380561294753415,
+    "macd_hist": 1.1278267332074359,
+    "macd_slope": 0.15399643827618442,
     "rsi": 0.0,
-    "rsi_slope": 3.232762026267738,
-    "wave_strength": 1.059151390647012,
-    "adx": 13.915582191464674,
-    "atr": 4.12487264000172,
-    "obv_slope": 1528185.142857143,
-    "mom14": 0.10396564338175976,
+    "rsi_slope": 2.6153012659613393,
+    "wave_strength": 1.0506184756924855,
+    "adx": 15.153365258031883,
+    "atr": 4.39255927765024,
+    "obv_slope": 1672171.9285714286,
+    "mom14": 0.13917242064234048,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 75.48,
-    "score_0_10": 7.55,
-    "last_close": 133.89999389648438,
-    "avg_vol20": 6353404.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 92.33,
+    "score_0_10": 9.23,
+    "last_close": 141.77000427246094,
+    "avg_vol20": 6428170.35
   },
   "history": [
-    {
-      "Date": "2023-12-27",
-      "Open": 77.0199966430664,
-      "High": 77.44999694824219,
-      "Low": 76.91999816894531,
-      "Close": 77.26000213623047,
-      "Volume": 2050300
-    },
     {
       "Date": "2023-12-28",
       "Open": 77.0,
@@ -3531,15 +3523,23 @@
       "High": 131.11000061035156,
       "Low": 127.5999984741211,
       "Close": 130.75999450683594,
-      "Volume": 3839900
+      "Volume": 3841000
     },
     {
       "Date": "2025-09-29",
-      "Open": 132.125,
-      "High": 134.5800018310547,
-      "Low": 132.52000427246094,
+      "Open": 132.1300048828125,
+      "High": 134.58999633789062,
+      "Low": 132.1300048828125,
       "Close": 133.89999389648438,
-      "Volume": 3260392
+      "Volume": 3833400
+    },
+    {
+      "Date": "2025-09-30",
+      "Open": 134.0,
+      "High": 141.76319885253906,
+      "Low": 134.0,
+      "Close": 141.77000427246094,
+      "Volume": 9891107
     }
   ]
 }
