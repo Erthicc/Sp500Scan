@@ -1,34 +1,26 @@
 {
   "ticker": "CNC",
   "indicators": {
-    "macd_hist": 0.36147655581571536,
-    "macd_slope": -0.010241628946843804,
+    "macd_hist": 0.3415116254787258,
+    "macd_slope": -0.025096222055891182,
     "rsi": 0.0,
-    "rsi_slope": 0.7513147350217702,
-    "wave_strength": 1.0713623653416033,
-    "adx": 32.03034291686343,
-    "atr": 1.234597884466693,
-    "obv_slope": 2972725.285714286,
-    "mom14": 0.14102973402154848,
+    "rsi_slope": -0.9580582077467901,
+    "wave_strength": 1.0620364587007547,
+    "adx": 33.43224385920469,
+    "atr": 1.19674407917372,
+    "obv_slope": 925513.5714285715,
+    "mom14": 0.048708913093410376,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 78.56,
-    "score_0_10": 7.86,
-    "last_close": 35.68000030517578,
-    "avg_vol20": 14755367.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.81,
+    "score_0_10": 7.28,
+    "last_close": 35.7400016784668,
+    "avg_vol20": 14560269.5
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 73.5199966430664,
-      "High": 74.18000030517578,
-      "Low": 73.44999694824219,
-      "Close": 73.88999938964844,
-      "Volume": 2729500
-    },
     {
       "Date": "2023-12-29",
       "Open": 73.62999725341797,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-30",
-      "Open": 35.21500015258789,
-      "High": 35.80500030517578,
+      "Open": 35.220001220703125,
+      "High": 35.810001373291016,
       "Low": 34.959999084472656,
       "Close": 35.68000030517578,
-      "Volume": 7568754
+      "Volume": 9080800
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 35.75,
+      "High": 36.18000030517578,
+      "Low": 35.47999954223633,
+      "Close": 35.7400016784668,
+      "Volume": 6279690
     }
   ]
 }

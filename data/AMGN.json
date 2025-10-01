@@ -1,34 +1,26 @@
 {
   "ticker": "AMGN",
   "indicators": {
-    "macd_hist": 0.236311432028236,
-    "macd_slope": 0.08733401045179343,
+    "macd_hist": 1.6071642210517645,
+    "macd_slope": 0.1627957309807588,
     "rsi": 0.0,
-    "rsi_slope": 2.11118037281251,
-    "wave_strength": 1.0277773130017325,
-    "adx": 19.188850459974045,
-    "atr": 6.200764530979088,
-    "obv_slope": 1176864.5,
-    "mom14": 0.01324908373853961,
+    "rsi_slope": 1.9923515440324933,
+    "wave_strength": 1.0250865668268023,
+    "adx": 20.020874943659965,
+    "atr": 7.148184125031319,
+    "obv_slope": 1363018.5,
+    "mom14": 0.05577755597524615,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 64.85,
-    "score_0_10": 6.48,
-    "last_close": 282.20001220703125,
-    "avg_vol20": 2721020.15
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 88.24,
+    "score_0_10": 8.82,
+    "last_close": 298.5,
+    "avg_vol20": 2832777.95
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 287.8800048828125,
-      "High": 289.0400085449219,
-      "Low": 287.6300048828125,
-      "Close": 288.4599914550781,
-      "Volume": 1228400
-    },
     {
       "Date": "2023-12-29",
       "Open": 287.8599853515625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-30",
-      "Open": 274.2178039550781,
-      "High": 284.81500244140625,
+      "Open": 274.1400146484375,
+      "High": 284.82000732421875,
       "Low": 274.0199890136719,
       "Close": 282.20001220703125,
-      "Volume": 3503903
+      "Volume": 3508700
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 284.45001220703125,
+      "High": 301.6600036621094,
+      "Low": 283.0,
+      "Close": 298.5,
+      "Volume": 4834459
     }
   ]
 }

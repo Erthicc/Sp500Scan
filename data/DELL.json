@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 1.1278267332074359,
-    "macd_slope": 0.15399643827618442,
+    "macd_hist": 1.8739481321727012,
+    "macd_slope": 0.18664850283033013,
     "rsi": 0.0,
-    "rsi_slope": 2.6153012659613393,
-    "wave_strength": 1.0506184756924855,
-    "adx": 15.153365258031883,
-    "atr": 4.39255927765024,
-    "obv_slope": 1672171.9285714286,
-    "mom14": 0.13917242064234048,
+    "rsi_slope": 2.723131250563855,
+    "wave_strength": 1.0402843005613016,
+    "adx": 17.25479844754986,
+    "atr": 4.742469880322715,
+    "obv_slope": 2205369.8571428573,
+    "mom14": 0.19390595355045553,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 92.33,
-    "score_0_10": 9.23,
-    "last_close": 141.77000427246094,
-    "avg_vol20": 6428170.35
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 92.16,
+    "score_0_10": 9.22,
+    "last_close": 149.67999267578125,
+    "avg_vol20": 6811038.9
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 77.0,
-      "High": 77.18000030517578,
-      "Low": 76.6500015258789,
-      "Close": 76.68000030517578,
-      "Volume": 1546500
-    },
     {
       "Date": "2023-12-29",
       "Open": 76.81999969482422,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-30",
       "Open": 134.0,
-      "High": 141.76319885253906,
+      "High": 141.77000427246094,
       "Low": 134.0,
       "Close": 141.77000427246094,
-      "Volume": 9891107
+      "Volume": 9934600
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 140.91000366210938,
+      "High": 149.67999267578125,
+      "Low": 140.39500427246094,
+      "Close": 149.67999267578125,
+      "Volume": 13580678
     }
   ]
 }

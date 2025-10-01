@@ -1,34 +1,26 @@
 {
   "ticker": "NTRS",
   "indicators": {
-    "macd_hist": 0.3381523610556618,
-    "macd_slope": 0.05013433281345475,
+    "macd_hist": 0.14794501368654256,
+    "macd_slope": 0.02854377398487063,
     "rsi": 0.0,
-    "rsi_slope": 1.7278752168163105,
-    "wave_strength": 1.0118170529779502,
-    "adx": 14.60312202286916,
-    "atr": 2.686141769891458,
-    "obv_slope": 323626.21428571426,
-    "mom14": 0.059342111520542085,
+    "rsi_slope": -0.34701838292161724,
+    "wave_strength": 1.0325570465157319,
+    "adx": 14.356678779072398,
+    "atr": 2.788815684309378,
+    "obv_slope": 138677.35714285713,
+    "mom14": 0.013283914716235185,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 81.75,
-    "score_0_10": 8.18,
-    "last_close": 134.60000610351562,
-    "avg_vol20": 1216983.35
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 68.36,
+    "score_0_10": 6.84,
+    "last_close": 131.1999969482422,
+    "avg_vol20": 1239875.85
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 84.86000061035156,
-      "High": 85.04000091552734,
-      "Low": 84.43000030517578,
-      "Close": 84.95999908447266,
-      "Volume": 634300
-    },
     {
       "Date": "2023-12-29",
       "Open": 84.8499984741211,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-30",
       "Open": 134.00999450683594,
-      "High": 135.38999938964844,
+      "High": 135.47999572753906,
       "Low": 131.3000030517578,
       "Close": 134.60000610351562,
-      "Volume": 1394767
+      "Volume": 1433200
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 133.61000061035156,
+      "High": 134.5399932861328,
+      "Low": 130.55999755859375,
+      "Close": 131.1999969482422,
+      "Volume": 1251817
     }
   ]
 }

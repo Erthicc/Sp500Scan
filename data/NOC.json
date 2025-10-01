@@ -1,34 +1,26 @@
 {
   "ticker": "NOC",
   "indicators": {
-    "macd_hist": 2.333729626643775,
-    "macd_slope": 0.3969701078792302,
+    "macd_hist": 2.681795991124014,
+    "macd_slope": 0.3861871059982777,
     "rsi": 0.0,
-    "rsi_slope": 2.311843216961013,
-    "wave_strength": 1.0219738656365513,
-    "adx": 24.302757893321512,
-    "atr": 10.008571260911253,
-    "obv_slope": -93705.64285714286,
-    "mom14": 0.05078726689605593,
+    "rsi_slope": 1.9921715513396703,
+    "wave_strength": 1.0452219924587713,
+    "adx": 25.805389856311944,
+    "atr": 9.919997401532877,
+    "obv_slope": -175626.2857142857,
+    "mom14": 0.038545278724764695,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought",
-    "score_0_100": 85.5,
-    "score_0_10": 8.55,
-    "last_close": 609.3200073242188,
-    "avg_vol20": 750796.05
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA",
+    "score_0_100": 84.19,
+    "score_0_10": 8.42,
+    "last_close": 605.4199829101562,
+    "avg_vol20": 759683.4
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 463.3999938964844,
-      "High": 467.4100036621094,
-      "Low": 463.20001220703125,
-      "Close": 465.67999267578125,
-      "Volume": 387700
-    },
     {
       "Date": "2023-12-29",
       "Open": 466.2099914550781,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-09-30",
       "Open": 593.0999755859375,
-      "High": 610.010009765625,
-      "Low": 594.0449829101562,
+      "High": 610.1199951171875,
+      "Low": 593.0999755859375,
       "Close": 609.3200073242188,
-      "Volume": 605221
+      "Volume": 802800
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 607.219970703125,
+      "High": 610.8499755859375,
+      "Low": 603.010009765625,
+      "Close": 605.4199829101562,
+      "Volume": 443368
     }
   ]
 }

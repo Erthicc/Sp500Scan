@@ -1,34 +1,26 @@
 {
   "ticker": "NVDA",
   "indicators": {
-    "macd_hist": 0.8793513519616096,
-    "macd_slope": 0.1327132801077041,
+    "macd_hist": 1.1107537796795748,
+    "macd_slope": 0.11660951914241621,
     "rsi": 0.0,
-    "rsi_slope": 0.6719292943180655,
-    "wave_strength": 1.0433031953890148,
-    "adx": 17.382996847011466,
-    "atr": 5.426694399458112,
-    "obv_slope": 43230124.78571428,
-    "mom14": 0.052221938440960056,
+    "rsi_slope": 0.7057763115299233,
+    "wave_strength": 1.0383971663033957,
+    "adx": 17.7979067288292,
+    "atr": 5.341930904431853,
+    "obv_slope": 66490435.571428575,
+    "mom14": 0.05683810706266542,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 87.34,
-    "score_0_10": 8.73,
-    "last_close": 186.5800018310547,
-    "avg_vol20": 182889002.35
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 78.72,
+    "score_0_10": 7.87,
+    "last_close": 187.24000549316406,
+    "avg_vol20": 183392009.9
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 49.643001556396484,
-      "High": 49.88399887084961,
-      "Low": 49.4119987487793,
-      "Close": 49.52199935913086,
-      "Volume": 246587000
-    },
     {
       "Date": "2023-12-29",
       "Open": 49.8129997253418,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-09-30",
-      "Open": 182.22000122070312,
+      "Open": 182.0800018310547,
       "High": 187.35000610351562,
       "Low": 181.47999572753906,
       "Close": 186.5800018310547,
-      "Volume": 235430647
+      "Volume": 236981000
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 185.2100067138672,
+      "High": 188.13999938964844,
+      "Low": 183.89999389648438,
+      "Close": 187.24000549316406,
+      "Volume": 172934698
     }
   ]
 }

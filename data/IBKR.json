@@ -1,34 +1,26 @@
 {
   "ticker": "IBKR",
   "indicators": {
-    "macd_hist": 0.5494298355832011,
-    "macd_slope": 0.05635322648414098,
+    "macd_hist": 0.5684193980224457,
+    "macd_slope": 0.05023815536186569,
     "rsi": 0.0,
-    "rsi_slope": 1.672538753991787,
-    "wave_strength": 1.0223626894707045,
-    "adx": 14.904599764476666,
-    "atr": 1.964219586891965,
-    "obv_slope": 2206748.8571428573,
-    "mom14": 0.10078386508115371,
+    "rsi_slope": 1.3162344366761995,
+    "wave_strength": 1.0701565776637874,
+    "adx": 15.807851132947004,
+    "atr": 2.0696321029769438,
+    "obv_slope": 1421229.642857143,
+    "mom14": 0.08588567435433961,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 83.19,
-    "score_0_10": 8.32,
-    "last_close": 68.80999755859375,
-    "avg_vol20": 5180179.2
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.56,
+    "score_0_10": 7.36,
+    "last_close": 68.77999877929688,
+    "avg_vol20": 5264774.25
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 20.655000686645508,
-      "High": 20.924999237060547,
-      "Low": 20.577499389648438,
-      "Close": 20.787500381469727,
-      "Volume": 2914000
-    },
     {
       "Date": "2023-12-29",
       "Open": 20.75,
@@ -3539,7 +3531,15 @@
       "High": 70.2699966430664,
       "Low": 67.87000274658203,
       "Close": 68.80999755859375,
-      "Volume": 4710184
+      "Volume": 4920000
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 67.86000061035156,
+      "High": 70.48999786376953,
+      "Low": 67.05000305175781,
+      "Close": 68.77999877929688,
+      "Volume": 7260685
     }
   ]
 }

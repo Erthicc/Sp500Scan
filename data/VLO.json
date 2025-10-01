@@ -1,34 +1,26 @@
 {
   "ticker": "VLO",
   "indicators": {
-    "macd_hist": 0.3883530029148812,
-    "macd_slope": -0.06297781410649383,
+    "macd_hist": -0.09750933800953554,
+    "macd_slope": -0.07399785634725685,
     "rsi": 0.0,
-    "rsi_slope": -1.055882675273327,
-    "wave_strength": 1.0741896272982927,
-    "adx": 46.06519299262808,
-    "atr": 4.24685821757227,
-    "obv_slope": 735574.2142857143,
-    "mom14": 0.074195548939028,
-    "macd_bull": 1,
+    "rsi_slope": -1.175215113091659,
+    "wave_strength": 1.0701675015040573,
+    "adx": 44.778244573991124,
+    "atr": 4.215653884316029,
+    "obv_slope": 748696.5,
+    "mom14": 0.06396346256295377,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.64,
-    "score_0_10": 7.76,
-    "last_close": 170.25999450683594,
-    "avg_vol20": 3193158.05
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 47.62,
+    "score_0_10": 4.76,
+    "last_close": 167.6699981689453,
+    "avg_vol20": 3161012.45
   },
   "history": [
-    {
-      "Date": "2023-12-28",
-      "Open": 131.0,
-      "High": 132.0,
-      "Low": 129.9600067138672,
-      "Close": 130.08999633789062,
-      "Volume": 1661200
-    },
     {
       "Date": "2023-12-29",
       "Open": 130.75,
@@ -3539,7 +3531,15 @@
       "High": 172.0800018310547,
       "Low": 168.75,
       "Close": 170.25999450683594,
-      "Volume": 2385561
+      "Volume": 2385700
+    },
+    {
+      "Date": "2025-10-01",
+      "Open": 170.00999450683594,
+      "High": 169.88999938964844,
+      "Low": 166.4499969482422,
+      "Close": 167.6699981689453,
+      "Volume": 2437249
     }
   ]
 }
