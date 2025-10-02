@@ -1,34 +1,26 @@
 {
   "ticker": "EQT",
   "indicators": {
-    "macd_hist": 0.6685601178772657,
-    "macd_slope": 0.04762029443395993,
+    "macd_hist": 0.662608442050869,
+    "macd_slope": 0.046917823132171015,
     "rsi": 0.0,
-    "rsi_slope": 2.558707108719452,
-    "wave_strength": 1.0543842183393846,
-    "adx": 21.46870020005363,
-    "atr": 1.6673063311730074,
-    "obv_slope": 910934.3571428572,
-    "mom14": 0.10204083313109549,
+    "rsi_slope": 2.3038038044843896,
+    "wave_strength": 1.0831452887962527,
+    "adx": 23.047253339185882,
+    "atr": 1.7128559008830808,
+    "obv_slope": 561105.7857142857,
+    "mom14": 0.0946211194496771,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 84.31,
-    "score_0_10": 8.43,
-    "last_close": 56.15999984741211,
-    "avg_vol20": 9209144.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.52,
+    "score_0_10": 7.45,
+    "last_close": 55.7599983215332,
+    "avg_vol20": 9567205.95
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 38.95000076293945,
-      "High": 39.29999923706055,
-      "Low": 38.65999984741211,
-      "Close": 38.65999984741211,
-      "Volume": 2090900
-    },
     {
       "Date": "2024-01-02",
       "Open": 39.11000061035156,
@@ -3539,7 +3531,15 @@
       "High": 57.08000183105469,
       "Low": 54.0099983215332,
       "Close": 56.15999984741211,
-      "Volume": 10836581
+      "Volume": 12094100
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 55.959999084472656,
+      "High": 57.345001220703125,
+      "Low": 55.040000915527344,
+      "Close": 55.7599983215332,
+      "Volume": 10901619
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "LHX",
   "indicators": {
-    "macd_hist": 1.8839174174019728,
-    "macd_slope": 0.1411970410562872,
+    "macd_hist": 1.4291217962652407,
+    "macd_slope": 0.09425153328952034,
     "rsi": 0.0,
-    "rsi_slope": 0.8349097572102399,
-    "wave_strength": 1.0755615384952273,
-    "adx": 37.20830828086782,
-    "atr": 4.8568058393083815,
-    "obv_slope": 473512.5714285714,
-    "mom14": 0.07069805791499577,
+    "rsi_slope": 0.6831220472856978,
+    "wave_strength": 1.070977084187964,
+    "adx": 38.426198672619954,
+    "atr": 4.915249586990868,
+    "obv_slope": 452198.9285714286,
+    "mom14": 0.06053006145269349,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.06,
-    "score_0_10": 7.71,
-    "last_close": 300.4700012207031,
-    "avg_vol20": 1040851.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.49,
+    "score_0_10": 7.45,
+    "last_close": 296.1000061035156,
+    "avg_vol20": 1041580.75
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 210.67999267578125,
-      "High": 211.3800048828125,
-      "Low": 210.02000427246094,
-      "Close": 210.6199951171875,
-      "Volume": 628800
-    },
     {
       "Date": "2024-01-02",
       "Open": 210.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-01",
       "Open": 303.8500061035156,
-      "High": 304.30499267578125,
+      "High": 304.30999755859375,
       "Low": 298.17999267578125,
       "Close": 300.4700012207031,
-      "Volume": 1423624
+      "Volume": 1423800
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 299.95001220703125,
+      "High": 301.2950134277344,
+      "Low": 295.6199951171875,
+      "Close": 296.1000061035156,
+      "Volume": 1099015
     }
   ]
 }

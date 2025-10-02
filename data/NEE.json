@@ -1,34 +1,26 @@
 {
   "ticker": "NEE",
   "indicators": {
-    "macd_hist": 0.7549912384750368,
-    "macd_slope": 0.07670504901157041,
+    "macd_hist": 0.7765668027735226,
+    "macd_slope": 0.07111961742361937,
     "rsi": 0.0,
-    "rsi_slope": 3.759975986478128,
-    "wave_strength": 1.052268213061423,
-    "adx": 20.75774393802974,
-    "atr": 1.5403874207360388,
-    "obv_slope": 5116461.0,
-    "mom14": 0.10305662514822603,
+    "rsi_slope": 3.4557633320551924,
+    "wave_strength": 1.0807803052111045,
+    "adx": 22.796592667794567,
+    "atr": 1.5267882126411372,
+    "obv_slope": 4249744.0,
+    "mom14": 0.09128979580187344,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 85.88,
-    "score_0_10": 8.59,
-    "last_close": 78.66999816894531,
-    "avg_vol20": 10194717.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 76.02,
+    "score_0_10": 7.6,
+    "last_close": 78.18000030517578,
+    "avg_vol20": 10008494.2
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 60.79999923706055,
-      "High": 61.060001373291016,
-      "Low": 60.27000045776367,
-      "Close": 60.7400016784668,
-      "Volume": 6814600
-    },
     {
       "Date": "2024-01-02",
       "Open": 60.54999923706055,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 76.32499694824219,
+      "Open": 76.33000183105469,
       "High": 78.69999694824219,
       "Low": 76.22000122070312,
       "Close": 78.66999816894531,
-      "Volume": 11002854
+      "Volume": 15044800
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 78.63999938964844,
+      "High": 78.88999938964844,
+      "Low": 77.54000091552734,
+      "Close": 78.18000030517578,
+      "Volume": 6830384
     }
   ]
 }

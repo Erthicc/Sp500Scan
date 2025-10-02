@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 1.8739481321727012,
-    "macd_slope": 0.18664850283033013,
+    "macd_hist": 2.0851100484449994,
+    "macd_slope": 0.186749297045669,
     "rsi": 0.0,
-    "rsi_slope": 2.723131250563855,
-    "wave_strength": 1.0402843005613016,
-    "adx": 17.25479844754986,
-    "atr": 4.742469880322715,
-    "obv_slope": 2205369.8571428573,
-    "mom14": 0.19390595355045553,
+    "rsi_slope": 2.7972759280543116,
+    "wave_strength": 1.1385063062506486,
+    "adx": 19.442968661559686,
+    "atr": 4.938391479586296,
+    "obv_slope": 2051177.2857142857,
+    "mom14": 0.17858280580744335,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 92.16,
-    "score_0_10": 9.22,
-    "last_close": 149.67999267578125,
-    "avg_vol20": 6811038.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 88.69,
+    "score_0_10": 8.87,
+    "last_close": 147.3699951171875,
+    "avg_vol20": 6787700.9
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 76.81999969482422,
-      "High": 76.93000030517578,
-      "Low": 76.19999694824219,
-      "Close": 76.5,
-      "Volume": 2293400
-    },
     {
       "Date": "2024-01-02",
       "Open": 75.44999694824219,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-01",
       "Open": 140.91000366210938,
       "High": 149.67999267578125,
-      "Low": 140.39500427246094,
+      "Low": 140.39999389648438,
       "Close": 149.67999267578125,
-      "Volume": 13580678
+      "Volume": 13612000
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 150.49000549316406,
+      "High": 152.10000610351562,
+      "Low": 144.61000061035156,
+      "Close": 147.3699951171875,
+      "Volume": 6555718
     }
   ]
 }

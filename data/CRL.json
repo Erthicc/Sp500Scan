@@ -1,34 +1,26 @@
 {
   "ticker": "CRL",
   "indicators": {
-    "macd_hist": 1.1356296822860135,
-    "macd_slope": 0.11945447073133873,
+    "macd_hist": 2.256710747132943,
+    "macd_slope": 0.22355860357559346,
     "rsi": 0.0,
-    "rsi_slope": 0.16802031233864664,
-    "wave_strength": 0.9577811367790557,
-    "adx": 18.358457491550094,
-    "atr": 6.109390689778094,
-    "obv_slope": -220560.7857142857,
-    "mom14": 0.06723419221889665,
+    "rsi_slope": 2.5421006771193775,
+    "wave_strength": 0.9537688851341258,
+    "adx": 19.989542908546493,
+    "atr": 6.2366545647267335,
+    "obv_slope": -43234.142857142855,
+    "mom14": 0.1469684172307249,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
-    "score_0_100": 76.95,
-    "score_0_10": 7.69,
-    "last_close": 170.47999572753906,
-    "avg_vol20": 953512.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought",
+    "score_0_100": 85.92,
+    "score_0_10": 8.59,
+    "last_close": 175.36000061035156,
+    "avg_vol20": 1002066.1
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 237.11000061035156,
-      "High": 238.49000549316406,
-      "Low": 235.25999450683594,
-      "Close": 236.39999389648438,
-      "Volume": 226500
-    },
     {
       "Date": "2024-01-02",
       "Open": 234.55999755859375,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-01",
       "Open": 156.05999755859375,
-      "High": 170.65499877929688,
-      "Low": 156.25,
+      "High": 170.66000366210938,
+      "Low": 156.05999755859375,
       "Close": 170.47999572753906,
-      "Volume": 1292049
+      "Volume": 1292100
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 173.25,
+      "High": 178.19000244140625,
+      "Low": 173.14999389648438,
+      "Close": 175.36000061035156,
+      "Volume": 1713722
     }
   ]
 }

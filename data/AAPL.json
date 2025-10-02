@@ -1,34 +1,26 @@
 {
   "ticker": "AAPL",
   "indicators": {
-    "macd_hist": 0.7014204226356417,
-    "macd_slope": 0.12324859720198646,
+    "macd_hist": 0.5622317772703527,
+    "macd_slope": 0.10660905152716024,
     "rsi": 0.0,
-    "rsi_slope": 1.7839739761953897,
-    "wave_strength": 1.0528602321817517,
-    "adx": 33.21524248718926,
-    "atr": 4.685702534767872,
-    "obv_slope": 27391068.714285713,
-    "mom14": 0.11050731775786611,
+    "rsi_slope": 1.609208256982377,
+    "wave_strength": 1.0491298252065921,
+    "adx": 33.96267667921966,
+    "atr": 4.638866551573979,
+    "obv_slope": 26638176.35714286,
+    "mom14": 0.09851752397586129,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 79.49,
-    "score_0_10": 7.95,
-    "last_close": 255.4499969482422,
-    "avg_vol20": 60046128.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 76.46,
+    "score_0_10": 7.65,
+    "last_close": 257.1300048828125,
+    "avg_vol20": 59932843.45
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 193.89999389648438,
-      "High": 194.39999389648438,
-      "Low": 191.72999572753906,
-      "Close": 192.52999877929688,
-      "Volume": 42672100
-    },
     {
       "Date": "2024-01-02",
       "Open": 187.14999389648438,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-01",
       "Open": 255.0399932861328,
       "High": 258.7900085449219,
-      "Low": 254.9499969482422,
+      "Low": 254.92999267578125,
       "Close": 255.4499969482422,
-      "Volume": 45889562
+      "Volume": 48713900
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 256.5899963378906,
+      "High": 258.17999267578125,
+      "Low": 254.14999389648438,
+      "Close": 257.1300048828125,
+      "Volume": 42459369
     }
   ]
 }

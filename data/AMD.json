@@ -1,34 +1,26 @@
 {
   "ticker": "AMD",
   "indicators": {
-    "macd_hist": 0.6680131597280731,
-    "macd_slope": 0.16340340317100122,
+    "macd_hist": 1.1094114396411654,
+    "macd_slope": 0.16651941739983375,
     "rsi": 0.0,
-    "rsi_slope": 2.1862723221329072,
-    "wave_strength": 1.0144394477972054,
-    "adx": 9.566309784026542,
-    "atr": 5.491090352760267,
-    "obv_slope": 2164672.5,
-    "mom14": 0.053574847022477674,
+    "rsi_slope": 2.5597257843640997,
+    "wave_strength": 1.0119124427579989,
+    "adx": 10.145197952514556,
+    "atr": 5.602370415535115,
+    "obv_slope": 3212234.6428571427,
+    "mom14": 0.07037893603991668,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 70.78,
-    "score_0_10": 7.08,
-    "last_close": 164.00999450683594,
-    "avg_vol20": 44184860.75
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 78.85,
+    "score_0_10": 7.88,
+    "last_close": 169.72999572753906,
+    "avg_vol20": 45424619.25
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 149.5,
-      "High": 151.0500030517578,
-      "Low": 147.1999969482422,
-      "Close": 147.41000366210938,
-      "Volume": 62079200
-    },
     {
       "Date": "2024-01-02",
       "Open": 144.27999877929688,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 160.9199981689453,
+      "Open": 160.92999267578125,
       "High": 164.17999267578125,
       "Low": 160.49000549316406,
       "Close": 164.00999450683594,
-      "Volume": 37551015
+      "Volume": 39895200
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 168.6300048828125,
+      "High": 171.0590057373047,
+      "Low": 166.1199951171875,
+      "Close": 169.72999572753906,
+      "Volume": 54554485
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "TMO",
   "indicators": {
-    "macd_hist": 2.740605911244793,
-    "macd_slope": 0.36990360094256813,
+    "macd_hist": 4.773021901397982,
+    "macd_slope": 0.5361778893340668,
     "rsi": 0.0,
-    "rsi_slope": 0.6933039762744916,
-    "wave_strength": 0.9672652876231732,
-    "adx": 15.954972398733572,
-    "atr": 14.781089780850447,
-    "obv_slope": -567223.6428571428,
-    "mom14": 0.08098411488604514,
+    "rsi_slope": 2.2227159449962173,
+    "wave_strength": 1.1016789518785672,
+    "adx": 18.0267228441236,
+    "atr": 14.912125341349347,
+    "obv_slope": -689102.4285714285,
+    "mom14": 0.09588137852336526,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA",
-    "score_0_100": 84.93,
-    "score_0_10": 8.49,
-    "last_close": 530.72998046875,
-    "avg_vol20": 2444648.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; strong wave vs SMA20",
+    "score_0_100": 86.53,
+    "score_0_10": 8.65,
+    "last_close": 524.9600219726562,
+    "avg_vol20": 2537686.7
   },
   "history": [
-    {
-      "Date": "2023-12-29",
-      "Open": 531.2100219726562,
-      "High": 533.969970703125,
-      "Low": 529.52001953125,
-      "Close": 530.7899780273438,
-      "Volume": 804300
-    },
     {
       "Date": "2024-01-02",
       "Open": 529.5599975585938,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-01",
-      "Open": 486.9949951171875,
-      "High": 534.8400268554688,
+      "Open": 487.0,
+      "High": 534.9000244140625,
       "Low": 486.94000244140625,
       "Close": 530.72998046875,
-      "Volume": 6084969
+      "Volume": 6092700
+    },
+    {
+      "Date": "2025-10-02",
+      "Open": 525.7100219726562,
+      "High": 539.5599975585938,
+      "Low": 523.0001220703125,
+      "Close": 524.9600219726562,
+      "Volume": 3257234
     }
   ]
 }
