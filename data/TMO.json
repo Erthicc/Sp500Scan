@@ -1,34 +1,26 @@
 {
   "ticker": "TMO",
   "indicators": {
-    "macd_hist": 4.773021901397982,
-    "macd_slope": 0.5361778893340668,
+    "macd_hist": 6.958012539909939,
+    "macd_slope": 0.7208935427064247,
     "rsi": 0.0,
-    "rsi_slope": 2.2227159449962173,
-    "wave_strength": 1.1016789518785672,
-    "adx": 18.0267228441236,
-    "atr": 14.912125341349347,
-    "obv_slope": -689102.4285714285,
-    "mom14": 0.09588137852336526,
+    "rsi_slope": 2.497945559903124,
+    "wave_strength": 1.095859898762943,
+    "adx": 20.163651719369593,
+    "atr": 15.33239017715975,
+    "obv_slope": -352872.85714285716,
+    "mom14": 0.14513345089005317,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; strong wave vs SMA20",
-    "score_0_100": 86.53,
-    "score_0_10": 8.65,
-    "last_close": 524.9600219726562,
-    "avg_vol20": 2537686.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; strong wave vs SMA20",
+    "score_0_100": 89.29,
+    "score_0_10": 8.93,
+    "last_close": 543.3200073242188,
+    "avg_vol20": 2618219.0
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 529.5599975585938,
-      "High": 546.0999755859375,
-      "Low": 527.3699951171875,
-      "Close": 544.1500244140625,
-      "Volume": 2310800
-    },
     {
       "Date": "2024-01-03",
       "Open": 542.8099975585938,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-02",
       "Open": 525.7100219726562,
-      "High": 539.5599975585938,
-      "Low": 523.0001220703125,
+      "High": 539.9000244140625,
+      "Low": 523.0,
       "Close": 524.9600219726562,
-      "Volume": 3257234
+      "Volume": 3262000
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 525.3599853515625,
+      "High": 545.4400024414062,
+      "Low": 525.3599853515625,
+      "Close": 543.3200073242188,
+      "Volume": 3048480
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CAH",
   "indicators": {
-    "macd_hist": 1.0938018701148293,
-    "macd_slope": 0.030798800174811784,
+    "macd_hist": 0.8334542050515085,
+    "macd_slope": 0.019772057253060964,
     "rsi": 0.0,
-    "rsi_slope": -0.15096361511874537,
-    "wave_strength": 1.0172255873388887,
-    "adx": 19.735010156262085,
-    "atr": 3.62264360606327,
-    "obv_slope": 449724.85714285716,
-    "mom14": 0.04425625299216599,
+    "rsi_slope": -0.4459706932342843,
+    "wave_strength": 1.044037529085729,
+    "adx": 19.61034004556263,
+    "atr": 3.9685270339644423,
+    "obv_slope": 95955.5,
+    "mom14": 0.031240522520655747,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.7,
-    "score_0_10": 7.67,
-    "last_close": 158.4600067138672,
-    "avg_vol20": 2403232.4
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.01,
+    "score_0_10": 7.0,
+    "last_close": 154.4600067138672,
+    "avg_vol20": 2670696.15
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 100.68000030517578,
-      "High": 102.87999725341797,
-      "Low": 100.56999969482422,
-      "Close": 102.62000274658203,
-      "Volume": 1704500
-    },
     {
       "Date": "2024-01-03",
       "Open": 103.4000015258789,
@@ -3539,7 +3531,15 @@
       "High": 158.72000122070312,
       "Low": 156.0,
       "Close": 158.4600067138672,
-      "Volume": 2766848
+      "Volume": 3219100
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 158.22000122070312,
+      "High": 159.24000549316406,
+      "Low": 150.77499389648438,
+      "Close": 154.4600067138672,
+      "Volume": 6612423
     }
   ]
 }

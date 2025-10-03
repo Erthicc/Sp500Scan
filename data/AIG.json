@@ -1,34 +1,26 @@
 {
   "ticker": "AIG",
   "indicators": {
-    "macd_hist": 0.34187925163955823,
-    "macd_slope": 0.04935318248337285,
+    "macd_hist": 0.4573882654939014,
+    "macd_slope": 0.0626071854807107,
     "rsi": 0.0,
-    "rsi_slope": 2.482574845937612,
-    "wave_strength": 1.0023059274637387,
-    "adx": 22.723312375028634,
-    "atr": 1.248768203132134,
-    "obv_slope": 108956.78571428571,
-    "mom14": 0.014924342805050736,
+    "rsi_slope": 3.9289352473095556,
+    "wave_strength": 1.0008440837791805,
+    "adx": 23.18427258445237,
+    "atr": 1.2881421208273136,
+    "obv_slope": 748019.4285714285,
+    "mom14": 0.057978515354529726,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 69.44,
-    "score_0_10": 6.94,
-    "last_close": 79.63999938964844,
-    "avg_vol20": 5095664.75
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 77.93,
+    "score_0_10": 7.79,
+    "last_close": 81.0199966430664,
+    "avg_vol20": 5050068.6
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 67.3499984741211,
-      "High": 68.87999725341797,
-      "Low": 67.3499984741211,
-      "Close": 68.83999633789062,
-      "Volume": 3897700
-    },
     {
       "Date": "2024-01-03",
       "Open": 68.87000274658203,
@@ -3539,7 +3531,15 @@
       "High": 80.08999633789062,
       "Low": 78.80999755859375,
       "Close": 79.63999938964844,
-      "Volume": 2727295
+      "Volume": 2727300
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 79.69000244140625,
+      "High": 81.44000244140625,
+      "Low": 79.7300033569336,
+      "Close": 81.0199966430664,
+      "Volume": 3753672
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "EXE",
   "indicators": {
-    "macd_hist": 1.1180866648307406,
-    "macd_slope": 0.055812660134344445,
+    "macd_hist": 0.951208560095357,
+    "macd_slope": 0.04689846031281559,
     "rsi": 0.0,
-    "rsi_slope": 1.7041445873444556,
-    "wave_strength": 1.088653798391752,
-    "adx": 27.362340323968034,
-    "atr": 2.705018473024389,
-    "obv_slope": -38772.42857142857,
-    "mom14": 0.12097276285571198,
+    "rsi_slope": 1.9432305526429157,
+    "wave_strength": 1.0822169763499092,
+    "adx": 28.99438492198406,
+    "atr": 2.6418028461124408,
+    "obv_slope": 13575.214285714286,
+    "mom14": 0.12408454052255684,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; RSI overbought; strong wave vs SMA20",
-    "score_0_100": 81.8,
-    "score_0_10": 8.18,
-    "last_close": 107.86000061035156,
-    "avg_vol20": 4028305.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.38,
+    "score_0_10": 7.14,
+    "last_close": 107.44000244140625,
+    "avg_vol20": 4061677.35
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 77.86000061035156,
-      "High": 78.33999633789062,
-      "Low": 76.6449966430664,
-      "Close": 76.98999786376953,
-      "Volume": 929000
-    },
     {
       "Date": "2024-01-03",
       "Open": 76.54000091552734,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 108.94499969482422,
+      "Open": 108.91999816894531,
       "High": 110.08999633789062,
       "Low": 107.25,
       "Close": 107.86000061035156,
-      "Volume": 6155614
+      "Volume": 6168400
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 108.01000213623047,
+      "High": 108.5,
+      "Low": 106.68000030517578,
+      "Close": 107.44000244140625,
+      "Volume": 3030247
     }
   ]
 }

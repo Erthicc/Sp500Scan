@@ -1,34 +1,26 @@
 {
   "ticker": "WYNN",
   "indicators": {
-    "macd_hist": 0.23939464494896212,
-    "macd_slope": 0.04701327489598201,
+    "macd_hist": -0.34364370138391553,
+    "macd_slope": 0.009085514853827041,
     "rsi": 0.0,
-    "rsi_slope": 0.24292398111126903,
-    "wave_strength": 1.0515992242653183,
-    "adx": 29.089583491257546,
-    "atr": 3.482593398571175,
-    "obv_slope": 659083.4285714285,
-    "mom14": 0.09790036795732113,
-    "macd_bull": 1,
+    "rsi_slope": -0.6161383556055091,
+    "wave_strength": 1.0576663525353571,
+    "adx": 27.03489790148732,
+    "atr": 3.97238220264907,
+    "obv_slope": 312639.14285714284,
+    "mom14": 0.006593448905568465,
+    "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 71.64,
-    "score_0_10": 7.16,
-    "last_close": 133.33999633789062,
-    "avg_vol20": 1595493.4
+    "vol_spike": 1,
+    "above_trend": 0,
+    "explanation": "strong trend; volume spike; rising OBV; strong wave vs SMA20",
+    "score_0_100": 26.72,
+    "score_0_10": 2.67,
+    "last_close": 123.66000366210938,
+    "avg_vol20": 1653597.6
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 90.83000183105469,
-      "High": 95.68000030517578,
-      "Low": 90.68000030517578,
-      "Close": 94.5999984741211,
-      "Volume": 3013600
-    },
     {
       "Date": "2024-01-03",
       "Open": 93.69000244140625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-02",
-      "Open": 132.02000427246094,
-      "High": 134.15499877929688,
+      "Open": 132.02999877929688,
+      "High": 134.22999572753906,
       "Low": 131.39999389648438,
       "Close": 133.33999633789062,
-      "Volume": 1167868
+      "Volume": 1286100
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 132.77000427246094,
+      "High": 132.77000427246094,
+      "Low": 123.06999969482422,
+      "Close": 123.66000366210938,
+      "Volume": 3485252
     }
   ]
 }

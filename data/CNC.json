@@ -1,34 +1,26 @@
 {
   "ticker": "CNC",
   "indicators": {
-    "macd_hist": 0.3700768259966134,
-    "macd_slope": -0.02533993167360126,
+    "macd_hist": 0.4777731833003265,
+    "macd_slope": -0.01362025632210768,
     "rsi": 0.0,
-    "rsi_slope": 0.3811739165600656,
-    "wave_strength": 1.0489034644953052,
-    "adx": 35.06292102706158,
-    "atr": 1.2140173608091795,
-    "obv_slope": 2813042.285714286,
-    "mom14": 0.10703552474283193,
+    "rsi_slope": 1.2636791398609657,
+    "wave_strength": 1.0336958409088308,
+    "adx": 37.153142671023886,
+    "atr": 1.2730161861461913,
+    "obv_slope": 4656146.857142857,
+    "mom14": 0.1856618102515316,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 72.92,
-    "score_0_10": 7.29,
-    "last_close": 36.81999969482422,
-    "avg_vol20": 13838819.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.04,
+    "score_0_10": 8.2,
+    "last_close": 38.70000076293945,
+    "avg_vol20": 13844017.8
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 75.0,
-      "High": 77.52999877929688,
-      "Low": 75.0,
-      "Close": 76.83000183105469,
-      "Volume": 3730900
-    },
     {
       "Date": "2024-01-03",
       "Open": 77.87999725341797,
@@ -3539,7 +3531,15 @@
       "High": 37.0,
       "Low": 35.58000183105469,
       "Close": 36.81999969482422,
-      "Volume": 8589292
+      "Volume": 9820900
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 36.91999816894531,
+      "High": 38.86000061035156,
+      "Low": 36.915000915527344,
+      "Close": 38.70000076293945,
+      "Volume": 12986056
     }
   ]
 }

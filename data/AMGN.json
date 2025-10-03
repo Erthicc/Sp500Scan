@@ -1,34 +1,26 @@
 {
   "ticker": "AMGN",
   "indicators": {
-    "macd_hist": 2.333142837573673,
-    "macd_slope": 0.22552040327234987,
+    "macd_hist": 2.7130239137346734,
+    "macd_slope": 0.2638786398138299,
     "rsi": 0.0,
-    "rsi_slope": 2.8043632903261786,
-    "wave_strength": 1.0635796086196956,
-    "adx": 20.79269904415616,
-    "atr": 6.9976001546153,
-    "obv_slope": 1364580.4285714286,
-    "mom14": 0.07601569570004597,
+    "rsi_slope": 2.8032804335000177,
+    "wave_strength": 1.0608863417199201,
+    "adx": 21.612008025095754,
+    "atr": 6.919199707631308,
+    "obv_slope": 1726754.857142857,
+    "mom14": 0.08560503379899703,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 83.82,
-    "score_0_10": 8.38,
-    "last_close": 297.3999938964844,
-    "avg_vol20": 2807863.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.34,
+    "score_0_10": 7.13,
+    "last_close": 297.8900146484375,
+    "avg_vol20": 2818303.4
   },
   "history": [
-    {
-      "Date": "2024-01-02",
-      "Open": 287.2799987792969,
-      "High": 300.6499938964844,
-      "Low": 287.2799987792969,
-      "Close": 297.3900146484375,
-      "Volume": 3374900
-    },
     {
       "Date": "2024-01-03",
       "Open": 300.04998779296875,
@@ -3539,7 +3531,15 @@
       "High": 300.5,
       "Low": 295.4599914550781,
       "Close": 297.3999938964844,
-      "Volume": 2122774
+      "Volume": 2123200
+    },
+    {
+      "Date": "2025-10-03",
+      "Open": 297.7200012207031,
+      "High": 301.5299987792969,
+      "Low": 295.6300048828125,
+      "Close": 297.8900146484375,
+      "Volume": 2507768
     }
   ]
 }
