@@ -1,34 +1,26 @@
 {
   "ticker": "AFL",
   "indicators": {
-    "macd_hist": 0.1704635943460029,
-    "macd_slope": 0.012363264459848382,
+    "macd_hist": 0.23112163197779734,
+    "macd_slope": 0.021101433354563954,
     "rsi": 0.0,
-    "rsi_slope": 0.9514334067971966,
-    "wave_strength": 1.0240753687987472,
-    "adx": 24.335070000481835,
-    "atr": 1.6365976985090482,
-    "obv_slope": 534989.0714285715,
-    "mom14": 0.03606674569351975,
+    "rsi_slope": 1.8433400511007325,
+    "wave_strength": 1.0209257484932817,
+    "adx": 25.51360226341151,
+    "atr": 1.6254118432074338,
+    "obv_slope": 855092.0,
+    "mom14": 0.05054355272905569,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 63.76,
-    "score_0_10": 6.38,
-    "last_close": 112.31999969482422,
-    "avg_vol20": 2439117.35
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 60.13,
+    "score_0_10": 6.01,
+    "last_close": 113.06999969482422,
+    "avg_vol20": 2370899.4
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 83.37000274658203,
-      "High": 83.93000030517578,
-      "Low": 82.66000366210938,
-      "Close": 83.19000244140625,
-      "Volume": 2042300
-    },
     {
       "Date": "2024-01-04",
       "Open": 82.7300033569336,
@@ -3539,7 +3531,15 @@
       "High": 112.41999816894531,
       "Low": 110.05999755859375,
       "Close": 112.31999969482422,
-      "Volume": 1621347
+      "Volume": 1621300
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 112.38999938964844,
+      "High": 113.38999938964844,
+      "Low": 111.91000366210938,
+      "Close": 113.06999969482422,
+      "Volume": 1606988
     }
   ]
 }

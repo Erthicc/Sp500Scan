@@ -1,34 +1,26 @@
 {
   "ticker": "CNP",
   "indicators": {
-    "macd_hist": 0.015936001362116148,
-    "macd_slope": -0.001884430442328918,
+    "macd_hist": 0.060944640453206855,
+    "macd_slope": 0.0034967158002719373,
     "rsi": 0.0,
-    "rsi_slope": -0.32319291803304295,
-    "wave_strength": 1.022258237184337,
-    "adx": 19.39225777194527,
-    "atr": 0.7479580842226268,
-    "obv_slope": 714566.5,
-    "mom14": 0.014886384988125521,
+    "rsi_slope": 1.2854654947282427,
+    "wave_strength": 1.0194086449079358,
+    "adx": 21.30966087459108,
+    "atr": 0.7445322888265273,
+    "obv_slope": 1406451.9285714286,
+    "mom14": 0.04807430239676457,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 60.62,
-    "score_0_10": 6.06,
-    "last_close": 38.86000061035156,
-    "avg_vol20": 5789186.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 69.05,
+    "score_0_10": 6.9,
+    "last_close": 39.459999084472656,
+    "avg_vol20": 5860986.35
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 29.020000457763672,
-      "High": 29.18000030517578,
-      "Low": 28.8799991607666,
-      "Close": 29.1299991607666,
-      "Volume": 3598200
-    },
     {
       "Date": "2024-01-04",
       "Open": 29.25,
@@ -3539,7 +3531,15 @@
       "High": 39.119998931884766,
       "Low": 38.31999969482422,
       "Close": 38.86000061035156,
-      "Volume": 6228031
+      "Volume": 6228000
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 38.93000030517578,
+      "High": 39.5099983215332,
+      "Low": 38.810001373291016,
+      "Close": 39.459999084472656,
+      "Volume": 5405527
     }
   ]
 }

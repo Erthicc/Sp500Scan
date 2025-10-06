@@ -1,34 +1,26 @@
 {
   "ticker": "J",
   "indicators": {
-    "macd_hist": 0.5992418511708446,
-    "macd_slope": 0.05834264931144866,
+    "macd_hist": 0.6694902347736664,
+    "macd_slope": 0.0627896029878621,
     "rsi": 0.0,
-    "rsi_slope": 1.5843151880632054,
-    "wave_strength": 1.015203432980367,
-    "adx": 29.197892019134844,
-    "atr": 2.6378787448230128,
-    "obv_slope": 159757.5,
-    "mom14": 0.0535641291816479,
+    "rsi_slope": 2.139434919306748,
+    "wave_strength": 1.0117084223374677,
+    "adx": 30.74646014849417,
+    "atr": 2.5705042370978455,
+    "obv_slope": 253383.7857142857,
+    "mom14": 0.06055001794598915,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 76.77,
-    "score_0_10": 7.68,
-    "last_close": 154.60000610351562,
-    "avg_vol20": 722280.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 61.44,
+    "score_0_10": 6.14,
+    "last_close": 155.00999450683594,
+    "avg_vol20": 732238.65
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 105.48648834228516,
-      "High": 105.66018676757812,
-      "Low": 104.57662200927734,
-      "Close": 104.89921569824219,
-      "Volume": 877591
-    },
     {
       "Date": "2024-01-04",
       "Open": 105.06464385986328,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-03",
       "Open": 153.99000549316406,
-      "High": 155.89500427246094,
+      "High": 155.89999389648438,
       "Low": 153.3800048828125,
       "Close": 154.60000610351562,
-      "Volume": 823905
+      "Volume": 824000
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 155.02000427246094,
+      "High": 155.80999755859375,
+      "Low": 154.1199951171875,
+      "Close": 155.00999450683594,
+      "Volume": 699073
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PANW",
   "indicators": {
-    "macd_hist": -0.06212661860608382,
-    "macd_slope": -0.09605655738982079,
+    "macd_hist": 0.21954770951330005,
+    "macd_slope": -0.07090432001509298,
     "rsi": 0.0,
-    "rsi_slope": -1.7918833023422098,
-    "wave_strength": 1.0325426224085765,
-    "adx": 28.480437650095332,
-    "atr": 4.623797843373114,
-    "obv_slope": 1858709.142857143,
-    "mom14": 0.029362101043083184,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": -1.410332634577891,
+    "wave_strength": 1.0286857525641295,
+    "adx": 29.484229202465436,
+    "atr": 4.769255284769281,
+    "obv_slope": 1937277.2857142857,
+    "mom14": 0.05582599432604033,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 27.8,
-    "score_0_10": 2.78,
-    "last_close": 207.19000244140625,
-    "avg_vol20": 5550023.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.64,
+    "score_0_10": 6.76,
+    "last_close": 212.5800018310547,
+    "avg_vol20": 5598229.1
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 142.33999633789062,
-      "High": 144.55999755859375,
-      "Low": 141.41000366210938,
-      "Close": 143.23500061035156,
-      "Volume": 4936400
-    },
     {
       "Date": "2024-01-04",
       "Open": 143.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-03",
       "Open": 210.10000610351562,
-      "High": 212.0998992919922,
-      "Low": 206.9001007080078,
+      "High": 212.10000610351562,
+      "Low": 206.89999389648438,
       "Close": 207.19000244140625,
-      "Volume": 4961272
+      "Volume": 4962500
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 209.22000122070312,
+      "High": 213.85000610351562,
+      "Low": 209.1300048828125,
+      "Close": 212.5800018310547,
+      "Volume": 6466682
     }
   ]
 }

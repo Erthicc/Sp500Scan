@@ -1,34 +1,26 @@
 {
   "ticker": "JNJ",
   "indicators": {
-    "macd_hist": 0.9840763845360523,
-    "macd_slope": 0.10985767513338598,
+    "macd_hist": 0.9920774932124088,
+    "macd_slope": 0.11535676740597992,
     "rsi": 0.0,
-    "rsi_slope": 1.6398176300521072,
-    "wave_strength": 1.0389559761944351,
-    "adx": 30.22830835848344,
-    "atr": 2.6608861177693384,
-    "obv_slope": 5377470.142857143,
-    "mom14": 0.0633596723781331,
+    "rsi_slope": 1.8378749156472622,
+    "wave_strength": 1.0504773695560923,
+    "adx": 32.23892436660491,
+    "atr": 2.6523715847870766,
+    "obv_slope": 5658067.214285715,
+    "mom14": 0.06630395842166052,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 79.7,
-    "score_0_10": 7.97,
-    "last_close": 188.63999938964844,
-    "avg_vol20": 8825479.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 64.69,
+    "score_0_10": 6.47,
+    "last_close": 188.16000366210938,
+    "avg_vol20": 8608862.95
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 160.63999938964844,
-      "High": 161.44000244140625,
-      "Low": 159.8000030517578,
-      "Close": 160.97000122070312,
-      "Volume": 8232000
-    },
     {
       "Date": "2024-01-04",
       "Open": 161.58999633789062,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-03",
       "Open": 187.05999755859375,
-      "High": 189.78250122070312,
+      "High": 189.77999877929688,
       "Low": 186.91000366210938,
       "Close": 188.63999938964844,
-      "Volume": 8664382
+      "Volume": 8674000
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 188.0,
+      "High": 189.91400146484375,
+      "Low": 187.3699951171875,
+      "Close": 188.16000366210938,
+      "Volume": 4040559
     }
   ]
 }

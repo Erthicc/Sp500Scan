@@ -1,34 +1,26 @@
 {
   "ticker": "DD",
   "indicators": {
-    "macd_hist": 0.1953364110152952,
-    "macd_slope": 0.017488871189526998,
+    "macd_hist": 0.2815662558745625,
+    "macd_slope": 0.025758331474959564,
     "rsi": 0.0,
-    "rsi_slope": 0.48802754036868784,
-    "wave_strength": 1.0455246411439887,
-    "adx": 28.455025169619805,
-    "atr": 1.7923705656963034,
-    "obv_slope": 1084168.0,
-    "mom14": 0.033847757614998454,
+    "rsi_slope": 0.7975901093071417,
+    "wave_strength": 1.0434502263455854,
+    "adx": 29.590812751853054,
+    "atr": 1.824726930681924,
+    "obv_slope": 1142111.0,
+    "mom14": 0.047298193760327664,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 65.14,
-    "score_0_10": 6.51,
-    "last_close": 79.72000122070312,
-    "avg_vol20": 3296402.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 71.38,
+    "score_0_10": 7.14,
+    "last_close": 80.81999969482422,
+    "avg_vol20": 3309597.7
   },
   "history": [
-    {
-      "Date": "2024-01-03",
-      "Open": 76.94000244140625,
-      "High": 77.54000091552734,
-      "Low": 76.31999969482422,
-      "Close": 77.0199966430664,
-      "Volume": 2886900
-    },
     {
       "Date": "2024-01-04",
       "Open": 76.83999633789062,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-03",
-      "Open": 81.17500305175781,
+      "Open": 81.18000030517578,
       "High": 81.79000091552734,
-      "Low": 79.66500091552734,
+      "Low": 79.66999816894531,
       "Close": 79.72000122070312,
-      "Volume": 3970948
+      "Volume": 3972100
+    },
+    {
+      "Date": "2025-10-06",
+      "Open": 80.08000183105469,
+      "High": 81.97000122070312,
+      "Low": 79.94999694824219,
+      "Close": 80.81999969482422,
+      "Volume": 3181754
     }
   ]
 }
