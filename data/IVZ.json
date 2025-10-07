@@ -1,34 +1,26 @@
 {
   "ticker": "IVZ",
   "indicators": {
-    "macd_hist": 0.10608290515728991,
-    "macd_slope": 0.012028223257369495,
+    "macd_hist": 0.11046539010927225,
+    "macd_slope": 0.013225350626421375,
     "rsi": 0.0,
-    "rsi_slope": 1.931684763017362,
-    "wave_strength": 1.0127920021557293,
-    "adx": 38.99679114769249,
-    "atr": 0.5411723511656895,
-    "obv_slope": 1027481.3571428572,
-    "mom14": 0.09185514679895554,
+    "rsi_slope": 1.9308590380030621,
+    "wave_strength": 1.0581940572778223,
+    "adx": 40.668477475604405,
+    "atr": 0.5353233754183309,
+    "obv_slope": 516820.35714285716,
+    "mom14": 0.08705459172458471,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.67,
-    "score_0_10": 7.37,
-    "last_close": 24.1299991607666,
-    "avg_vol20": 4272226.95
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 67.63,
+    "score_0_10": 6.76,
+    "last_close": 24.100000381469727,
+    "avg_vol20": 4217765.75
   },
   "history": [
-    {
-      "Date": "2024-01-04",
-      "Open": 17.360000610351562,
-      "High": 17.6299991607666,
-      "Low": 17.25,
-      "Close": 17.5,
-      "Volume": 4227700
-    },
     {
       "Date": "2024-01-05",
       "Open": 17.389999389648438,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-06",
       "Open": 24.079999923706055,
       "High": 24.540000915527344,
-      "Low": 23.739999771118164,
+      "Low": 23.729999542236328,
       "Close": 24.1299991607666,
-      "Volume": 4159139
+      "Volume": 4159200
+    },
+    {
+      "Date": "2025-10-07",
+      "Open": 24.1200008392334,
+      "High": 24.290000915527344,
+      "Low": 23.84000015258789,
+      "Close": 24.100000381469727,
+      "Volume": 3996215
     }
   ]
 }
