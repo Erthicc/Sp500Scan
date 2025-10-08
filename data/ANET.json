@@ -1,34 +1,26 @@
 {
   "ticker": "ANET",
   "indicators": {
-    "macd_hist": -0.4317829103128856,
-    "macd_slope": 0.004229644445788073,
+    "macd_hist": 0.2601137218352445,
+    "macd_slope": 0.04603452425119262,
     "rsi": 0.0,
-    "rsi_slope": -0.431341760284334,
-    "wave_strength": 1.027265486732066,
-    "adx": 16.27864066518335,
-    "atr": 5.683776167986054,
-    "obv_slope": 1410802.0,
-    "mom14": 0.017152037321862393,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": 0.14649225451356937,
+    "wave_strength": 1.0249273353570043,
+    "adx": 16.666846239353543,
+    "atr": 6.222077957351351,
+    "obv_slope": 1648070.4285714286,
+    "mom14": 0.07295783909084004,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "rising OBV",
-    "score_0_100": 17.03,
-    "score_0_10": 1.7,
-    "last_close": 145.2899932861328,
-    "avg_vol20": 9607513.6
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 73.02,
+    "score_0_10": 7.3,
+    "last_close": 157.36000061035156,
+    "avg_vol20": 9132519.3
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 57.89500045776367,
-      "High": 58.00749969482422,
-      "Low": 57.4375,
-      "Close": 57.72999954223633,
-      "Volume": 4916000
-    },
     {
       "Date": "2024-01-08",
       "Open": 58.75,
@@ -3531,7 +3523,7 @@
       "High": 153.72999572753906,
       "Low": 149.5,
       "Close": 149.5,
-      "Volume": 7274900
+      "Volume": 7277600
     },
     {
       "Date": "2025-10-07",
@@ -3539,7 +3531,15 @@
       "High": 151.5500030517578,
       "Low": 143.27999877929688,
       "Close": 145.2899932861328,
-      "Volume": 7342772
+      "Volume": 7348700
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 147.99000549316406,
+      "High": 158.50999450683594,
+      "Low": 147.40499877929688,
+      "Close": 157.36000061035156,
+      "Volume": 10263986
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CINF",
   "indicators": {
-    "macd_hist": 1.0118128074082353,
-    "macd_slope": 0.08015286541490473,
+    "macd_hist": 0.9928273633211324,
+    "macd_slope": 0.07365067866395103,
     "rsi": 0.0,
-    "rsi_slope": 2.7907986529016227,
-    "wave_strength": 1.0000430600384098,
-    "adx": 30.629701642496848,
-    "atr": 2.424295738522596,
-    "obv_slope": 251538.7142857143,
-    "mom14": 0.07857697679084745,
+    "rsi_slope": 2.2529507679505705,
+    "wave_strength": 1.051347985246199,
+    "adx": 32.78302550484927,
+    "atr": 2.3943198444924625,
+    "obv_slope": 192823.85714285713,
+    "mom14": 0.06764433416078877,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.6,
-    "score_0_10": 7.36,
-    "last_close": 165.69000244140625,
-    "avg_vol20": 460307.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 69.99,
+    "score_0_10": 7.0,
+    "last_close": 165.5500030517578,
+    "avg_vol20": 461063.3
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 106.88999938964844,
-      "High": 108.06999969482422,
-      "Low": 106.7300033569336,
-      "Close": 107.36000061035156,
-      "Volume": 475600
-    },
     {
       "Date": "2024-01-08",
       "Open": 107.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-07",
       "Open": 165.2100067138672,
-      "High": 166.89500427246094,
+      "High": 166.89999389648438,
       "Low": 165.0,
       "Close": 165.69000244140625,
-      "Volume": 374942
+      "Volume": 406100
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 165.42999267578125,
+      "High": 166.77000427246094,
+      "Low": 164.77000427246094,
+      "Close": 165.5500030517578,
+      "Volume": 427066
     }
   ]
 }

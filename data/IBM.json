@@ -1,34 +1,26 @@
 {
   "ticker": "IBM",
   "indicators": {
-    "macd_hist": 1.8041439534838304,
-    "macd_slope": -0.011575040993102899,
+    "macd_hist": 1.33716077489267,
+    "macd_slope": -0.060284560019575065,
     "rsi": 0.0,
-    "rsi_slope": 0.8514937587369228,
-    "wave_strength": 1.0423277233444788,
-    "adx": 46.629992297354484,
-    "atr": 6.428394244181957,
-    "obv_slope": 4657449.785714285,
-    "mom14": 0.1342828869385395,
+    "rsi_slope": -0.06080803718920639,
+    "wave_strength": 1.0709801749933194,
+    "adx": 46.745573656234015,
+    "atr": 6.520987267102666,
+    "obv_slope": 3981832.3571428573,
+    "mom14": 0.09230185454746462,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 67.94,
-    "score_0_10": 6.79,
-    "last_close": 293.8699951171875,
-    "avg_vol20": 5324304.85
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.64,
+    "score_0_10": 7.16,
+    "last_close": 289.4599914550781,
+    "avg_vol20": 5290987.35
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 159.91000366210938,
-      "High": 160.5500030517578,
-      "Low": 158.6699981689453,
-      "Close": 159.16000366210938,
-      "Volume": 4199400
-    },
     {
       "Date": "2024-01-08",
       "Open": 158.69000244140625,
@@ -3531,15 +3523,23 @@
       "High": 291.45001220703125,
       "Low": 287.79998779296875,
       "Close": 289.4200134277344,
-      "Volume": 2879800
+      "Volume": 2881900
     },
     {
       "Date": "2025-10-07",
       "Open": 295.54998779296875,
-      "High": 301.0425109863281,
-      "Low": 293.2850036621094,
+      "High": 301.0400085449219,
+      "Low": 293.2900085449219,
       "Close": 293.8699951171875,
-      "Volume": 7167797
+      "Volume": 7190100
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 294.1600036621094,
+      "High": 294.20001220703125,
+      "Low": 286.4729919433594,
+      "Close": 289.4599914550781,
+      "Volume": 4494647
     }
   ]
 }

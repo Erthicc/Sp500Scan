@@ -1,34 +1,26 @@
 {
   "ticker": "HUM",
   "indicators": {
-    "macd_hist": 4.017601540139847,
-    "macd_slope": 0.6797153136105617,
+    "macd_hist": 4.818933595448497,
+    "macd_slope": 0.7408733749713932,
     "rsi": 0.0,
-    "rsi_slope": 2.2896676196848595,
-    "wave_strength": 0.9757400119139784,
-    "adx": 32.11921529084891,
-    "atr": 12.069548146430506,
-    "obv_slope": 837872.5714285715,
-    "mom14": 0.09982019326183428,
+    "rsi_slope": 2.735686883606106,
+    "wave_strength": 0.9711124867531769,
+    "adx": 30.63525547582955,
+    "atr": 11.875652634881396,
+    "obv_slope": 1057825.0,
+    "mom14": 0.12920153492807743,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.36,
-    "score_0_10": 7.54,
-    "last_close": 295.25,
-    "avg_vol20": 2364785.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 69.9,
+    "score_0_10": 6.99,
+    "last_close": 298.0400085449219,
+    "avg_vol20": 2235212.5
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 464.0299987792969,
-      "High": 464.75,
-      "Low": 453.7300109863281,
-      "Close": 458.2699890136719,
-      "Volume": 1693100
-    },
     {
       "Date": "2024-01-08",
       "Open": 458.9800109863281,
@@ -3531,7 +3523,7 @@
       "High": 296.25,
       "Low": 283.0,
       "Close": 295.20001220703125,
-      "Volume": 2776800
+      "Volume": 2777800
     },
     {
       "Date": "2025-10-07",
@@ -3539,7 +3531,15 @@
       "High": 298.75,
       "Low": 290.7900085449219,
       "Close": 295.25,
-      "Volume": 1347916
+      "Volume": 1787400
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 295.6700134277344,
+      "High": 302.7850036621094,
+      "Low": 293.42999267578125,
+      "Close": 298.0400085449219,
+      "Volume": 1283750
     }
   ]
 }

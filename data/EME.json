@@ -1,34 +1,26 @@
 {
   "ticker": "EME",
   "indicators": {
-    "macd_hist": 2.8179801255109034,
-    "macd_slope": 0.3778877213413566,
+    "macd_hist": 4.284902121269816,
+    "macd_slope": 0.45237706404808137,
     "rsi": 0.0,
-    "rsi_slope": 1.8017936439573476,
-    "wave_strength": 1.0297238275087792,
-    "adx": 15.580062721619113,
-    "atr": 18.18203718441938,
-    "obv_slope": 943302.0714285715,
-    "mom14": 0.09138677043725765,
+    "rsi_slope": 1.8373211974682049,
+    "wave_strength": 1.0248785060739574,
+    "adx": 17.304522594719316,
+    "atr": 18.494644941569643,
+    "obv_slope": 923774.7142857143,
+    "mom14": 0.10511678461990107,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 63.08,
-    "score_0_10": 6.31,
-    "last_close": 673.0800170898438,
-    "avg_vol20": 990431.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 77.67,
+    "score_0_10": 7.77,
+    "last_close": 695.030029296875,
+    "avg_vol20": 973692.3
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 211.13999938964844,
-      "High": 212.7899932861328,
-      "Low": 211.11000061035156,
-      "Close": 212.4499969482422,
-      "Volume": 526800
-    },
     {
       "Date": "2024-01-08",
       "Open": 213.1699981689453,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-07",
       "Open": 680.77001953125,
-      "High": 685.8198852539062,
-      "Low": 663.4210205078125,
+      "High": 685.8200073242188,
+      "Low": 663.2999877929688,
       "Close": 673.0800170898438,
-      "Volume": 395529
+      "Volume": 485300
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 676.8699951171875,
+      "High": 695.4000244140625,
+      "Low": 672.9539794921875,
+      "Close": 695.030029296875,
+      "Volume": 343146
     }
   ]
 }

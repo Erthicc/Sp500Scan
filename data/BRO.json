@@ -1,34 +1,26 @@
 {
   "ticker": "BRO",
   "indicators": {
-    "macd_hist": 0.46712355299636965,
-    "macd_slope": 0.04929636438279221,
+    "macd_hist": 0.5161046459306525,
+    "macd_slope": 0.050189169950285176,
     "rsi": 0.0,
-    "rsi_slope": 2.1469172768979052,
-    "wave_strength": 1.0208085502960642,
-    "adx": 15.842150635811455,
-    "atr": 1.6598319923247886,
-    "obv_slope": -321644.21428571426,
-    "mom14": 0.03622171131598659,
+    "rsi_slope": 2.4897862880719734,
+    "wave_strength": 1.018913448136737,
+    "adx": 16.15662312365224,
+    "atr": 1.6505587363022287,
+    "obv_slope": 124438.92857142857,
+    "mom14": 0.04451938843599078,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout",
-    "score_0_100": 60.44,
-    "score_0_10": 6.04,
-    "last_close": 95.55000305175781,
-    "avg_vol20": 2609734.05
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 64.69,
+    "score_0_10": 6.47,
+    "last_close": 95.95999908447266,
+    "avg_vol20": 2626992.25
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 70.55999755859375,
-      "High": 70.66000366210938,
-      "Low": 69.23999786376953,
-      "Close": 69.5999984741211,
-      "Volume": 1737200
-    },
     {
       "Date": "2024-01-08",
       "Open": 71.08999633789062,
@@ -3539,7 +3531,15 @@
       "High": 95.5999984741211,
       "Low": 94.61000061035156,
       "Close": 95.55000305175781,
-      "Volume": 2026281
+      "Volume": 2526700
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 95.63999938964844,
+      "High": 96.55000305175781,
+      "Low": 95.0199966430664,
+      "Close": 95.95999908447266,
+      "Volume": 2555345
     }
   ]
 }

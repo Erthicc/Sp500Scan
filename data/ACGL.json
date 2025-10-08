@@ -1,34 +1,26 @@
 {
   "ticker": "ACGL",
   "indicators": {
-    "macd_hist": 0.3991512533150878,
-    "macd_slope": 0.06674891600509306,
+    "macd_hist": 0.44677137844209264,
+    "macd_slope": 0.06991935495129435,
     "rsi": 0.0,
-    "rsi_slope": 2.7287564364034247,
-    "wave_strength": 1.0079879491996633,
-    "adx": 14.962713200181598,
-    "atr": 1.7798599583513963,
-    "obv_slope": 754949.8571428572,
-    "mom14": 0.07727533048555005,
+    "rsi_slope": 1.9115199825646185,
+    "wave_strength": 1.0439779711813453,
+    "adx": 16.305741724674863,
+    "atr": 1.7934414770282043,
+    "obv_slope": 483386.28571428574,
+    "mom14": 0.05567520009966053,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 71.16,
-    "score_0_10": 7.12,
-    "last_close": 94.0999984741211,
-    "avg_vol20": 2064869.9
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 66.2,
+    "score_0_10": 6.62,
+    "last_close": 93.0999984741211,
+    "avg_vol20": 2047149.6
   },
   "history": [
-    {
-      "Date": "2024-01-05",
-      "Open": 77.6500015258789,
-      "High": 78.0,
-      "Low": 76.48999786376953,
-      "Close": 76.80999755859375,
-      "Volume": 2073900
-    },
     {
       "Date": "2024-01-08",
       "Open": 77.1500015258789,
@@ -3539,7 +3531,15 @@
       "High": 94.11000061035156,
       "Low": 91.6500015258789,
       "Close": 94.0999984741211,
-      "Volume": 2063098
+      "Volume": 2143800
+    },
+    {
+      "Date": "2025-10-08",
+      "Open": 94.66999816894531,
+      "High": 94.80500030517578,
+      "Low": 92.83499908447266,
+      "Close": 93.0999984741211,
+      "Volume": 1632792
     }
   ]
 }
