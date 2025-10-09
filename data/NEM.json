@@ -1,34 +1,26 @@
 {
   "ticker": "NEM",
   "indicators": {
-    "macd_hist": 0.01023127122458245,
-    "macd_slope": 0.006044512043737793,
+    "macd_hist": -0.22903397600635955,
+    "macd_slope": -0.019002948551552823,
     "rsi": 0.0,
-    "rsi_slope": 0.20500122093415435,
-    "wave_strength": 1.0608003913076474,
-    "adx": 44.61697431041552,
-    "atr": 2.2595784230929135,
-    "obv_slope": 6932384.857142857,
-    "mom14": 0.12870278179688022,
-    "macd_bull": 1,
+    "rsi_slope": -1.398817377106256,
+    "wave_strength": 1.0559637074308048,
+    "adx": 42.6904441849217,
+    "atr": 2.4242255263354875,
+    "obv_slope": 3220124.9285714286,
+    "mom14": 0.04270677694122901,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 72.04,
-    "score_0_10": 7.2,
-    "last_close": 88.4000015258789,
-    "avg_vol20": 12467669.4
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 35.14,
+    "score_0_10": 3.51,
+    "last_close": 85.20999908447266,
+    "avg_vol20": 12478607.55
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 39.63999938964844,
-      "High": 40.4900016784668,
-      "Low": 39.349998474121094,
-      "Close": 40.22999954223633,
-      "Volume": 6704000
-    },
     {
       "Date": "2024-01-09",
       "Open": 39.54999923706055,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 88.80999755859375,
-      "High": 88.99500274658203,
+      "High": 89.0,
       "Low": 87.26000213623047,
       "Close": 88.4000015258789,
-      "Volume": 10153088
+      "Volume": 10212000
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 88.54000091552734,
+      "High": 88.95999908447266,
+      "Low": 84.4000015258789,
+      "Close": 85.20999908447266,
+      "Volume": 9490351
     }
   ]
 }

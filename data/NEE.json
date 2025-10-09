@@ -1,34 +1,26 @@
 {
   "ticker": "NEE",
   "indicators": {
-    "macd_hist": 1.1313967345224514,
-    "macd_slope": 0.09092060370900935,
+    "macd_hist": 1.0627287620669021,
+    "macd_slope": 0.08154736062659615,
     "rsi": 0.0,
-    "rsi_slope": 3.5731790188563,
-    "wave_strength": 1.0465332629225699,
-    "adx": 33.903682005819505,
-    "atr": 1.7635410131532476,
-    "obv_slope": 8127806.857142857,
-    "mom14": 0.18717332714560955,
+    "rsi_slope": 3.2693204541659107,
+    "wave_strength": 1.1088314815908966,
+    "adx": 36.54142420857604,
+    "atr": 1.7358086379939668,
+    "obv_slope": 6642153.714285715,
+    "mom14": 0.17768706989396774,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 74.38,
-    "score_0_10": 7.44,
-    "last_close": 84.04000091552734,
-    "avg_vol20": 11054049.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 69.88,
+    "score_0_10": 6.99,
+    "last_close": 83.70999908447266,
+    "avg_vol20": 10990287.4
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 61.779998779296875,
-      "High": 63.060001373291016,
-      "Low": 61.59000015258789,
-      "Close": 62.91999816894531,
-      "Volume": 7766600
-    },
     {
       "Date": "2024-01-09",
       "Open": 62.939998626708984,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 83.69999694824219,
-      "High": 84.38500213623047,
-      "Low": 82.87069702148438,
+      "High": 84.38999938964844,
+      "Low": 82.87000274658203,
       "Close": 84.04000091552734,
-      "Volume": 13693996
+      "Volume": 13775600
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 84.45999908447266,
+      "High": 84.81999969482422,
+      "Low": 83.44999694824219,
+      "Close": 83.70999908447266,
+      "Volume": 6061448
     }
   ]
 }

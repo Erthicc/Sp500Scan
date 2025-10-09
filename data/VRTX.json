@@ -1,34 +1,26 @@
 {
   "ticker": "VRTX",
   "indicators": {
-    "macd_hist": 4.170873828269359,
-    "macd_slope": 0.22040733327413697,
+    "macd_hist": 3.9780683658134666,
+    "macd_slope": 0.23853450985003527,
     "rsi": 0.0,
-    "rsi_slope": 2.0233996528714013,
-    "wave_strength": 1.0378787279276946,
-    "adx": 24.993559518220625,
-    "atr": 9.467306957230225,
-    "obv_slope": 273018.28571428574,
-    "mom14": 0.08793368766762161,
+    "rsi_slope": 2.061022807406063,
+    "wave_strength": 1.0667345458616682,
+    "adx": 26.467452715456012,
+    "atr": 9.282084253447264,
+    "obv_slope": 463707.0714285714,
+    "mom14": 0.08284608122493443,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 78.89,
-    "score_0_10": 7.89,
-    "last_close": 421.1499938964844,
-    "avg_vol20": 1788817.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 64.4,
+    "score_0_10": 6.44,
+    "last_close": 414.8599853515625,
+    "avg_vol20": 1770040.05
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 416.07000732421875,
-      "High": 419.2799987792969,
-      "Low": 412.8500061035156,
-      "Close": 419.1199951171875,
-      "Volume": 1142200
-    },
     {
       "Date": "2024-01-09",
       "Open": 418.69000244140625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 410.92999267578125,
-      "High": 422.7254943847656,
+      "High": 422.7300109863281,
       "Low": 410.0199890136719,
       "Close": 421.1499938964844,
-      "Volume": 1815156
+      "Volume": 1930200
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 419.30999755859375,
+      "High": 421.010009765625,
+      "Low": 414.2799987792969,
+      "Close": 414.8599853515625,
+      "Volume": 839401
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PEP",
   "indicators": {
-    "macd_hist": -0.12101824030160313,
-    "macd_slope": 0.05054679977883025,
+    "macd_hist": 0.19337941341629705,
+    "macd_slope": 0.06260567734243362,
     "rsi": 0.0,
-    "rsi_slope": 0.3620362097979038,
-    "wave_strength": 0.9967503895988096,
-    "adx": 14.112533428030746,
-    "atr": 2.251094223073114,
-    "obv_slope": 110725.5,
-    "mom14": -0.013429968358043436,
-    "macd_bull": 0,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "rising OBV",
-    "score_0_100": 21.49,
-    "score_0_10": 2.15,
-    "last_close": 138.83999633789062,
-    "avg_vol20": 7000557.15
+    "rsi_slope": 1.4519014712234681,
+    "wave_strength": 0.9965810539351482,
+    "adx": 13.90109639709293,
+    "atr": 2.5295881495294004,
+    "obv_slope": 142370.35714285713,
+    "mom14": 0.0208099063300189,
+    "macd_bull": 1,
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 71.58,
+    "score_0_10": 7.16,
+    "last_close": 144.7100067138672,
+    "avg_vol20": 7417739.25
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 168.94000244140625,
-      "High": 169.72999572753906,
-      "Low": 167.7899932861328,
-      "Close": 169.11000061035156,
-      "Volume": 5735600
-    },
     {
       "Date": "2024-01-09",
       "Open": 167.7899932861328,
@@ -3539,7 +3531,15 @@
       "High": 140.97999572753906,
       "Low": 138.69000244140625,
       "Close": 138.83999633789062,
-      "Volume": 7416943
+      "Volume": 8256700
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 140.55999755859375,
+      "High": 144.74000549316406,
+      "Low": 138.58999633789062,
+      "Close": 144.7100067138672,
+      "Volume": 13648285
     }
   ]
 }

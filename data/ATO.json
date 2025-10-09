@@ -1,34 +1,26 @@
 {
   "ticker": "ATO",
   "indicators": {
-    "macd_hist": 0.82309899921855,
-    "macd_slope": 0.10331312934560923,
+    "macd_hist": 0.777556251205926,
+    "macd_slope": 0.10034214579847403,
     "rsi": 0.0,
-    "rsi_slope": 3.44877936000278,
-    "wave_strength": 1.0180506408020402,
-    "adx": 24.03543170247349,
-    "atr": 2.3769426376980545,
-    "obv_slope": 484335.21428571426,
-    "mom14": 0.08193793005755956,
+    "rsi_slope": 3.2072491503689844,
+    "wave_strength": 1.0452008416052505,
+    "adx": 25.749019425170783,
+    "atr": 2.371012467790661,
+    "obv_slope": 333861.28571428574,
+    "mom14": 0.07365126458870665,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 77.36,
-    "score_0_10": 7.74,
-    "last_close": 175.75,
-    "avg_vol20": 809229.65
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 63.16,
+    "score_0_10": 6.32,
+    "last_close": 174.92999267578125,
+    "avg_vol20": 799672.1
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 118.2300033569336,
-      "High": 118.91999816894531,
-      "Low": 117.37999725341797,
-      "Close": 118.8499984741211,
-      "Volume": 492600
-    },
     {
       "Date": "2024-01-09",
       "Open": 118.4800033569336,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 175.57000732421875,
-      "High": 176.10499572753906,
-      "Low": 173.21620178222656,
+      "High": 176.11000061035156,
+      "Low": 173.22000122070312,
       "Close": 175.75,
-      "Volume": 740293
+      "Volume": 740300
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 176.61000061035156,
+      "High": 177.01280212402344,
+      "Low": 174.72000122070312,
+      "Close": 174.92999267578125,
+      "Volume": 500942
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "LLY",
   "indicators": {
-    "macd_hist": 10.410310879762996,
-    "macd_slope": 0.47769858423478034,
+    "macd_hist": 10.023369405428642,
+    "macd_slope": 0.534849297397532,
     "rsi": 0.0,
-    "rsi_slope": 0.22201013839864053,
-    "wave_strength": 1.0909797324612995,
-    "adx": 24.254501197574054,
-    "atr": 21.482334096255272,
-    "obv_slope": 833141.7857142857,
-    "mom14": 0.10851582559623739,
+    "rsi_slope": 1.1566491183820453,
+    "wave_strength": 1.084047160427779,
+    "adx": 26.062902433220255,
+    "atr": 20.987166505687743,
+    "obv_slope": 1527479.9285714286,
+    "mom14": 0.1374486185904522,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 74.16,
-    "score_0_10": 7.42,
-    "last_close": 845.719970703125,
-    "avg_vol20": 3937519.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 67.61,
+    "score_0_10": 6.76,
+    "last_close": 855.3499755859375,
+    "avg_vol20": 3946205.95
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 622.4299926757812,
-      "High": 626.0599975585938,
-      "Low": 609.5900268554688,
-      "Close": 626.030029296875,
-      "Volume": 2453900
-    },
     {
       "Date": "2024-01-09",
       "Open": 630.1099853515625,
@@ -3539,7 +3531,15 @@
       "High": 856.0,
       "Low": 844.989990234375,
       "Close": 845.719970703125,
-      "Volume": 1710585
+      "Volume": 2180900
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 851.6900024414062,
+      "High": 860.25,
+      "Low": 845.7000122070312,
+      "Close": 855.3499755859375,
+      "Volume": 1900919
     }
   ]
 }

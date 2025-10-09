@@ -1,34 +1,26 @@
 {
   "ticker": "ELV",
   "indicators": {
-    "macd_hist": 4.2859647400896925,
-    "macd_slope": 0.29896750959659874,
+    "macd_hist": 3.950061664546771,
+    "macd_slope": 0.2689098546906746,
     "rsi": 0.0,
-    "rsi_slope": 2.0169099376127364,
-    "wave_strength": 1.0750198165285538,
-    "adx": 30.30634002076272,
-    "atr": 8.891797466842908,
-    "obv_slope": 1002172.8571428572,
-    "mom14": 0.14748078963958292,
+    "rsi_slope": 2.321923539065111,
+    "wave_strength": 1.1040135139955851,
+    "adx": 32.7509382791284,
+    "atr": 8.733911679520302,
+    "obv_slope": 1134200.5714285714,
+    "mom14": 0.1415957879495691,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 83.88,
-    "score_0_10": 8.39,
-    "last_close": 362.3399963378906,
-    "avg_vol20": 2026796.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.27,
+    "score_0_10": 6.83,
+    "last_close": 358.1300048828125,
+    "avg_vol20": 1912779.6
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 481.6300048828125,
-      "High": 484.70001220703125,
-      "Low": 468.67999267578125,
-      "Close": 480.04998779296875,
-      "Volume": 815800
-    },
     {
       "Date": "2024-01-09",
       "Open": 480.04998779296875,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 358.1099853515625,
-      "High": 364.7799987792969,
-      "Low": 357.93499755859375,
+      "High": 364.8299865722656,
+      "Low": 357.5,
       "Close": 362.3399963378906,
-      "Volume": 1811320
+      "Volume": 1833900
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 363.8999938964844,
+      "High": 364.739990234375,
+      "Low": 358.1050109863281,
+      "Close": 358.1300048828125,
+      "Volume": 1291592
     }
   ]
 }

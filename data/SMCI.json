@@ -1,34 +1,26 @@
 {
   "ticker": "SMCI",
   "indicators": {
-    "macd_hist": 1.2549188245800014,
-    "macd_slope": 0.03885404657641719,
+    "macd_hist": 1.250565507422952,
+    "macd_slope": 0.039344987115677466,
     "rsi": 0.0,
-    "rsi_slope": 2.170777815063993,
-    "wave_strength": 1.0852376641395098,
-    "adx": 32.51662968041671,
-    "atr": 2.6022024561847386,
-    "obv_slope": 17404946.07142857,
-    "mom14": 0.2773182860101329,
+    "rsi_slope": 0.9724489042735617,
+    "wave_strength": 1.1956477489522224,
+    "adx": 34.64742481862378,
+    "atr": 2.5246881456187977,
+    "obv_slope": 17363396.5,
+    "mom14": 0.26566247116597747,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 87.6,
-    "score_0_10": 8.76,
-    "last_close": 58.68000030517578,
-    "avg_vol20": 30664512.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.65,
+    "score_0_10": 7.37,
+    "last_close": 57.97999954223633,
+    "avg_vol20": 30951947.45
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 29.48900032043457,
-      "High": 32.18199920654297,
-      "Low": 29.351999282836914,
-      "Close": 32.02799987792969,
-      "Volume": 42626000
-    },
     {
       "Date": "2024-01-09",
       "Open": 31.83300018310547,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-08",
-      "Open": 55.25,
+      "Open": 55.27000045776367,
       "High": 58.689998626708984,
       "Low": 54.58000183105469,
       "Close": 58.68000030517578,
-      "Volume": 44693245
+      "Volume": 45151400
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 57.5,
+      "High": 58.775001525878906,
+      "Low": 57.257999420166016,
+      "Close": 57.97999954223633,
+      "Volume": 29728249
     }
   ]
 }

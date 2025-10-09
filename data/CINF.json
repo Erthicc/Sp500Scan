@@ -1,34 +1,26 @@
 {
   "ticker": "CINF",
   "indicators": {
-    "macd_hist": 0.9928273633211324,
-    "macd_slope": 0.07365067866395103,
+    "macd_hist": 0.6620463548039099,
+    "macd_slope": 0.04649538861774738,
     "rsi": 0.0,
-    "rsi_slope": 2.2529507679505705,
-    "wave_strength": 1.051347985246199,
-    "adx": 32.78302550484927,
-    "atr": 2.3943198444924625,
-    "obv_slope": 192823.85714285713,
-    "mom14": 0.06764433416078877,
+    "rsi_slope": 0.8356703549655268,
+    "wave_strength": 1.0494190417804448,
+    "adx": 32.49555805524728,
+    "atr": 2.590336737320873,
+    "obv_slope": 74112.57142857143,
+    "mom14": 0.04148406953580513,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 69.99,
-    "score_0_10": 7.0,
-    "last_close": 165.5500030517578,
-    "avg_vol20": 461063.3
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 61.47,
+    "score_0_10": 6.15,
+    "last_close": 161.67999267578125,
+    "avg_vol20": 468236.2
   },
   "history": [
-    {
-      "Date": "2024-01-08",
-      "Open": 107.5,
-      "High": 107.73999786376953,
-      "Low": 106.25,
-      "Close": 107.48999786376953,
-      "Volume": 643400
-    },
     {
       "Date": "2024-01-09",
       "Open": 107.02999877929688,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-08",
       "Open": 165.42999267578125,
-      "High": 166.77000427246094,
+      "High": 166.7899932861328,
       "Low": 164.77000427246094,
       "Close": 165.5500030517578,
-      "Volume": 427066
+      "Volume": 445100
+    },
+    {
+      "Date": "2025-10-09",
+      "Open": 165.61000061035156,
+      "High": 166.17999267578125,
+      "Low": 161.05999755859375,
+      "Close": 161.67999267578125,
+      "Volume": 520724
     }
   ]
 }
