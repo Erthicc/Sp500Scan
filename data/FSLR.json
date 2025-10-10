@@ -1,34 +1,26 @@
 {
   "ticker": "FSLR",
   "indicators": {
-    "macd_hist": 0.5057752403759768,
-    "macd_slope": 0.01755588655272357,
+    "macd_hist": -0.09983134748095335,
+    "macd_slope": -0.060420996357153874,
     "rsi": 0.0,
-    "rsi_slope": -0.3936877221179133,
-    "wave_strength": 1.0555634015930266,
-    "adx": 29.946573423462716,
-    "atr": 8.042328299048306,
-    "obv_slope": 413293.64285714284,
-    "mom14": 0.10264011009823891,
-    "macd_bull": 1,
+    "rsi_slope": -1.76507980511314,
+    "wave_strength": 1.0595984606407154,
+    "adx": 29.688957729052003,
+    "atr": 8.212160304164513,
+    "obv_slope": 72755.71428571429,
+    "mom14": 0.030611344923748167,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 61.01,
-    "score_0_10": 6.1,
-    "last_close": 234.3000030517578,
-    "avg_vol20": 2152920.55
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 36.37,
+    "score_0_10": 3.64,
+    "last_close": 225.91000366210938,
+    "avg_vol20": 2194871.0
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 164.7899932861328,
-      "High": 167.7100067138672,
-      "Low": 163.39999389648438,
-      "Close": 166.91000366210938,
-      "Volume": 1224000
-    },
     {
       "Date": "2024-01-10",
       "Open": 166.69000244140625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-09",
-      "Open": 231.33999633789062,
-      "High": 237.1999053955078,
+      "Open": 231.1699981689453,
+      "High": 237.1999969482422,
       "Low": 228.89999389648438,
       "Close": 234.3000030517578,
-      "Volume": 1516111
+      "Volume": 1517600
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 232.89999389648438,
+      "High": 234.4199981689453,
+      "Low": 224.00010681152344,
+      "Close": 225.91000366210938,
+      "Volume": 2076520
     }
   ]
 }

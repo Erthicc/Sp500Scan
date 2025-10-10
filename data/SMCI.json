@@ -1,34 +1,26 @@
 {
   "ticker": "SMCI",
   "indicators": {
-    "macd_hist": 1.250565507422952,
-    "macd_slope": 0.039344987115677466,
+    "macd_hist": 0.8391509560504833,
+    "macd_slope": 0.007608337000217093,
     "rsi": 0.0,
-    "rsi_slope": 0.9724489042735617,
-    "wave_strength": 1.1956477489522224,
-    "adx": 34.64742481862378,
-    "atr": 2.5246881456187977,
-    "obv_slope": 17363396.5,
-    "mom14": 0.26566247116597747,
+    "rsi_slope": -1.164738659375061,
+    "wave_strength": 1.186149465091285,
+    "adx": 33.83837027383983,
+    "atr": 2.76955193038098,
+    "obv_slope": 11374949.5,
+    "mom14": 0.1278003374220671,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 73.65,
-    "score_0_10": 7.37,
-    "last_close": 57.97999954223633,
-    "avg_vol20": 30951947.45
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.38,
+    "score_0_10": 7.44,
+    "last_close": 52.86000061035156,
+    "avg_vol20": 31240415.35
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 31.83300018310547,
-      "High": 34.917999267578125,
-      "Low": 31.72100067138672,
-      "Close": 34.37300109863281,
-      "Volume": 67033000
-    },
     {
       "Date": "2024-01-10",
       "Open": 34.70000076293945,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-09",
-      "Open": 57.5,
-      "High": 58.775001525878906,
-      "Low": 57.257999420166016,
+      "Open": 57.630001068115234,
+      "High": 58.779998779296875,
+      "Low": 57.2599983215332,
       "Close": 57.97999954223633,
-      "Volume": 29728249
+      "Volume": 29801500
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 58.2400016784668,
+      "High": 58.5099983215332,
+      "Low": 52.560001373291016,
+      "Close": 52.86000061035156,
+      "Volume": 43834407
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DUK",
   "indicators": {
-    "macd_hist": 0.2882397527640486,
-    "macd_slope": 0.03356818034432358,
+    "macd_hist": 0.395031452999561,
+    "macd_slope": 0.03637250362195271,
     "rsi": 0.0,
-    "rsi_slope": 1.561978488869207,
-    "wave_strength": 1.0230045485827859,
-    "adx": 14.340071627300748,
-    "atr": 1.6017119247198388,
-    "obv_slope": 343208.0,
-    "mom14": 0.029980155257042163,
+    "rsi_slope": 1.4540794664280214,
+    "wave_strength": 1.0208959898549337,
+    "adx": 15.909093925425482,
+    "atr": 1.6745201629901634,
+    "obv_slope": 384303.85714285716,
+    "mom14": 0.04474415800364138,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 58.09,
-    "score_0_10": 5.81,
-    "last_close": 124.70999908447266,
-    "avg_vol20": 2725384.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.82,
+    "score_0_10": 7.28,
+    "last_close": 127.0199966430664,
+    "avg_vol20": 2781942.7
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 98.75,
-      "High": 99.38999938964844,
-      "Low": 98.5199966430664,
-      "Close": 99.08999633789062,
-      "Volume": 2024900
-    },
     {
       "Date": "2024-01-10",
       "Open": 99.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-09",
       "Open": 125.9000015258789,
-      "High": 126.0199966430664,
-      "Low": 124.61100006103516,
+      "High": 126.08999633789062,
+      "Low": 124.61000061035156,
       "Close": 124.70999908447266,
-      "Volume": 1185688
+      "Volume": 1500800
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 125.29000091552734,
+      "High": 127.26509857177734,
+      "Low": 125.0199966430664,
+      "Close": 127.0199966430664,
+      "Volume": 2952454
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ALB",
   "indicators": {
-    "macd_hist": 1.0795589404737718,
-    "macd_slope": 0.07424308036776546,
+    "macd_hist": 0.7337044083404929,
+    "macd_slope": 0.04998048806728956,
     "rsi": 0.0,
-    "rsi_slope": 1.799497030972044,
-    "wave_strength": 1.085957344828838,
-    "adx": 23.065138876215148,
-    "atr": 4.749636669162003,
-    "obv_slope": 1229408.5714285714,
-    "mom14": 0.17913006253791858,
+    "rsi_slope": 0.667738443091152,
+    "wave_strength": 1.1294541695286737,
+    "adx": 23.355179737560412,
+    "atr": 4.8924412904456585,
+    "obv_slope": 1108857.2142857143,
+    "mom14": 0.11793983180971655,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 79.81,
-    "score_0_10": 7.98,
-    "last_close": 96.5,
-    "avg_vol20": 3350256.0
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 70.65,
+    "score_0_10": 7.07,
+    "last_close": 89.86000061035156,
+    "avg_vol20": 3439429.95
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 133.99000549316406,
-      "High": 135.1199951171875,
-      "Low": 131.10000610351562,
-      "Close": 133.6699981689453,
-      "Volume": 1832400
-    },
     {
       "Date": "2024-01-10",
       "Open": 131.7899932861328,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-09",
       "Open": 95.62000274658203,
       "High": 99.86000061035156,
-      "Low": 94.45249938964844,
+      "Low": 94.44999694824219,
       "Close": 96.5,
-      "Volume": 5561420
+      "Volume": 5594900
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 95.4000015258789,
+      "High": 96.16000366210938,
+      "Low": 89.7510986328125,
+      "Close": 89.86000061035156,
+      "Volume": 4258599
     }
   ]
 }

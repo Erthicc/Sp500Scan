@@ -1,34 +1,26 @@
 {
   "ticker": "LRCX",
   "indicators": {
-    "macd_hist": 0.1611740226490923,
-    "macd_slope": -0.14887262976468568,
+    "macd_hist": -0.8476026327084565,
+    "macd_slope": -0.2340081658497917,
     "rsi": 0.0,
-    "rsi_slope": -1.7587188367765105,
-    "wave_strength": 1.0748214928825963,
-    "adx": 45.358478772718705,
-    "atr": 4.696774457349214,
-    "obv_slope": 2334997.8571428573,
-    "mom14": 0.11312975772325669,
-    "macd_bull": 1,
+    "rsi_slope": -3.6126414593731595,
+    "wave_strength": 1.0689212337412837,
+    "adx": 42.616464274334454,
+    "atr": 5.131290480350198,
+    "obv_slope": 54163.142857142855,
+    "mom14": -0.004316170692344033,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 62.67,
-    "score_0_10": 6.27,
-    "last_close": 141.0,
-    "avg_vol20": 12395866.5
+    "above_trend": 0,
+    "explanation": "strong trend; rising OBV; strong wave vs SMA20",
+    "score_0_100": 26.43,
+    "score_0_10": 2.64,
+    "last_close": 131.3699951171875,
+    "avg_vol20": 12769240.8
   },
   "history": [
-    {
-      "Date": "2024-01-09",
-      "Open": 74.63300323486328,
-      "High": 75.68399810791016,
-      "Low": 74.46499633789062,
-      "Close": 75.2020034790039,
-      "Volume": 5904000
-    },
     {
       "Date": "2024-01-10",
       "Open": 75.37799835205078,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-09",
-      "Open": 141.8625030517578,
+      "Open": 141.75,
       "High": 142.86000061035156,
       "Low": 140.5800018310547,
       "Close": 141.0,
-      "Volume": 8097230
+      "Volume": 8102500
+    },
+    {
+      "Date": "2025-10-10",
+      "Open": 140.60000610351562,
+      "High": 141.8000030517578,
+      "Low": 131.02000427246094,
+      "Close": 131.3699951171875,
+      "Volume": 18522716
     }
   ]
 }
