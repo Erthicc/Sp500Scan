@@ -1,24 +1,24 @@
 {
   "ticker": "GEV",
   "indicators": {
-    "macd_hist": 0.18524682929870606,
-    "macd_slope": -0.12396520960097956,
-    "rsi": 0.09684941766558808,
-    "rsi_slope": -2.3126374081122116,
-    "wave_strength": 1.0301349014998702,
-    "adx": 13.089938660685936,
-    "atr": 22.379166739598336,
-    "obv_slope": -474910.21428571426,
-    "mom14": -0.06178127141279097,
+    "macd_hist": 2.3908913050784038,
+    "macd_slope": 0.026813369060493062,
+    "rsi": 0.0,
+    "rsi_slope": -0.7985409471118012,
+    "wave_strength": 1.0285003998054456,
+    "adx": 12.527122943016339,
+    "atr": 24.454245976480795,
+    "obv_slope": -66096.57142857143,
+    "mom14": 0.023428786227972065,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover",
-    "score_0_100": 48.35,
-    "score_0_10": 4.84,
-    "last_close": 604.5599975585938,
-    "avg_vol20": 2396732.15
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
+    "score_0_100": 73.48,
+    "score_0_10": 7.35,
+    "last_close": 648.25,
+    "avg_vol20": 2470322.4
   },
   "history": [
     {
@@ -3112,10 +3112,18 @@
     {
       "Date": "2025-10-10",
       "Open": 630.0,
-      "High": 634.0,
-      "Low": 602.5952758789062,
+      "High": 634.27001953125,
+      "Low": 602.594970703125,
       "Close": 604.5599975585938,
-      "Volume": 2952043
+      "Volume": 2965800
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 613.1799926757812,
+      "High": 655.989990234375,
+      "Low": 613.1400756835938,
+      "Close": 648.25,
+      "Volume": 3309948
     }
   ]
 }

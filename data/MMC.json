@@ -1,34 +1,26 @@
 {
   "ticker": "MMC",
   "indicators": {
-    "macd_hist": 1.2053411343632883,
-    "macd_slope": 0.12915485728406662,
+    "macd_hist": 1.0927828584491723,
+    "macd_slope": 0.11018018972406803,
     "rsi": 0.0,
-    "rsi_slope": 3.7138278246552607,
-    "wave_strength": 1.0051211085128215,
-    "adx": 15.836213040561033,
-    "atr": 2.816946878109985,
-    "obv_slope": 1362520.642857143,
-    "mom14": 0.05536838931518366,
+    "rsi_slope": 3.0162560549310604,
+    "wave_strength": 1.0350301399290216,
+    "adx": 15.757219093865343,
+    "atr": 2.8485676851788213,
+    "obv_slope": 982852.5,
+    "mom14": 0.044678988291359405,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 75.21,
-    "score_0_10": 7.52,
-    "last_close": 207.02000427246094,
-    "avg_vol20": 2351634.45
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.75,
+    "score_0_10": 7.07,
+    "last_close": 205.36000061035156,
+    "avg_vol20": 2374323.25
   },
   "history": [
-    {
-      "Date": "2024-01-10",
-      "Open": 190.94000244140625,
-      "High": 192.58999633789062,
-      "Low": 190.52000427246094,
-      "Close": 192.44000244140625,
-      "Volume": 1541700
-    },
     {
       "Date": "2024-01-11",
       "Open": 192.7100067138672,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-10",
       "Open": 207.2899932861328,
-      "High": 207.82000732421875,
-      "Low": 205.73500061035156,
+      "High": 207.8300018310547,
+      "Low": 205.74000549316406,
       "Close": 207.02000427246094,
-      "Volume": 2840889
+      "Volume": 2841000
+    },
+    {
+      "Date": "2025-10-13",
+      "Open": 205.50999450683594,
+      "High": 207.0,
+      "Low": 203.76499938964844,
+      "Close": 205.36000061035156,
+      "Volume": 2576365
     }
   ]
 }
