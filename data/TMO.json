@@ -1,34 +1,26 @@
 {
   "ticker": "TMO",
   "indicators": {
-    "macd_hist": 3.012054321661159,
-    "macd_slope": 0.4005188828807631,
+    "macd_hist": 1.9476534146865276,
+    "macd_slope": 0.33556885721244434,
     "rsi": 0.0,
-    "rsi_slope": 2.072062931098486,
-    "wave_strength": 1.0879326643860583,
-    "adx": 26.585339949497456,
-    "atr": 13.641480368775078,
-    "obv_slope": -207812.5,
-    "mom14": 0.1167216968384114,
+    "rsi_slope": 2.457455715439359,
+    "wave_strength": 1.0830490468079528,
+    "adx": 26.214620850504854,
+    "atr": 13.410275397561852,
+    "obv_slope": 77558.64285714286,
+    "mom14": 0.12356841258513622,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; strong wave vs SMA20",
-    "score_0_100": 77.16,
-    "score_0_10": 7.72,
-    "last_close": 524.5800170898438,
-    "avg_vol20": 2698873.75
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.52,
+    "score_0_10": 7.55,
+    "last_close": 525.8300170898438,
+    "avg_vol20": 2689696.05
   },
   "history": [
-    {
-      "Date": "2024-01-11",
-      "Open": 543.530029296875,
-      "High": 548.5399780273438,
-      "Low": 540.4099731445312,
-      "Close": 546.0,
-      "Volume": 1983100
-    },
     {
       "Date": "2024-01-12",
       "Open": 548.510009765625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-13",
       "Open": 527.530029296875,
-      "High": 530.8250122070312,
+      "High": 530.8300170898438,
       "Low": 523.8900146484375,
       "Close": 524.5800170898438,
-      "Volume": 1671275
+      "Volume": 1686600
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 521.739990234375,
+      "High": 529.8499755859375,
+      "Low": 519.4500122070312,
+      "Close": 525.8300170898438,
+      "Volume": 1600921
     }
   ]
 }

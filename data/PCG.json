@@ -1,34 +1,26 @@
 {
   "ticker": "PCG",
   "indicators": {
-    "macd_hist": 0.08015604677475374,
-    "macd_slope": 0.011740779186049417,
+    "macd_hist": 0.08279268974633963,
+    "macd_slope": 0.012180736976939787,
     "rsi": 0.0,
-    "rsi_slope": 1.9014003041715672,
-    "wave_strength": 1.0877142174160317,
-    "adx": 20.338255799958713,
-    "atr": 0.4534597199528473,
-    "obv_slope": 9869727.5,
-    "mom14": 0.08598475838080234,
+    "rsi_slope": 2.193107728270815,
+    "wave_strength": 1.0825211595182547,
+    "adx": 21.563282344090492,
+    "atr": 0.47214124755117187,
+    "obv_slope": 12658101.285714285,
+    "mom14": 0.12055043310553487,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 74.54,
-    "score_0_10": 7.45,
-    "last_close": 15.970000267028809,
-    "avg_vol20": 24076264.25
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.7,
+    "score_0_10": 7.47,
+    "last_close": 16.399999618530273,
+    "avg_vol20": 24430550.9
   },
   "history": [
-    {
-      "Date": "2024-01-11",
-      "Open": 18.110000610351562,
-      "High": 18.170000076293945,
-      "Low": 17.559999465942383,
-      "Close": 17.56999969482422,
-      "Volume": 16454900
-    },
     {
       "Date": "2024-01-12",
       "Open": 17.700000762939453,
@@ -3531,7 +3523,7 @@
       "High": 16.350000381469727,
       "Low": 15.850000381469727,
       "Close": 15.859999656677246,
-      "Volume": 19746100
+      "Volume": 19749700
     },
     {
       "Date": "2025-10-13",
@@ -3539,7 +3531,15 @@
       "High": 16.1200008392334,
       "Low": 15.880000114440918,
       "Close": 15.970000267028809,
-      "Volume": 15377385
+      "Volume": 15379000
+    },
+    {
+      "Date": "2025-10-14",
+      "Open": 16.0,
+      "High": 16.665000915527344,
+      "Low": 15.949999809265137,
+      "Close": 16.399999618530273,
+      "Volume": 24583018
     }
   ]
 }
