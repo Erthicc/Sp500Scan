@@ -1,34 +1,26 @@
 {
   "ticker": "FFIV",
   "indicators": {
-    "macd_hist": 1.2060371260035367,
-    "macd_slope": 0.09571256089362011,
+    "macd_hist": 0.4382551849508669,
+    "macd_slope": 0.05918208810832194,
     "rsi": 0.0,
-    "rsi_slope": 0.6618142981293447,
-    "wave_strength": 1.0384232507045472,
-    "adx": 39.250869151539455,
-    "atr": 8.293053123967914,
-    "obv_slope": 209393.14285714287,
-    "mom14": 0.0576324841639569,
+    "rsi_slope": -0.15650704198111295,
+    "wave_strength": 1.0391187636900436,
+    "adx": 37.797538954233055,
+    "atr": 9.167835654076372,
+    "obv_slope": 131757.7857142857,
+    "mom14": 0.020833333333333332,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.71,
-    "score_0_10": 7.07,
-    "last_close": 343.1700134277344,
-    "avg_vol20": 490635.2
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 73.52,
+    "score_0_10": 7.35,
+    "last_close": 330.75,
+    "avg_vol20": 548889.55
   },
   "history": [
-    {
-      "Date": "2024-01-12",
-      "Open": 176.8000030517578,
-      "High": 177.57000732421875,
-      "Low": 176.10000610351562,
-      "Close": 176.14999389648438,
-      "Volume": 206600
-    },
     {
       "Date": "2024-01-16",
       "Open": 175.44000244140625,
@@ -3539,7 +3531,15 @@
       "High": 345.4700012207031,
       "Low": 335.1199951171875,
       "Close": 343.1700134277344,
-      "Volume": 722704
+      "Volume": 746200
+    },
+    {
+      "Date": "2025-10-15",
+      "Open": 341.4200134277344,
+      "High": 343.1700134277344,
+      "Low": 322.6300048828125,
+      "Close": 330.75,
+      "Volume": 1399591
     }
   ]
 }
