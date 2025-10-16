@@ -1,34 +1,26 @@
 {
   "ticker": "WMT",
   "indicators": {
-    "macd_hist": 0.4265092680889715,
-    "macd_slope": 0.03142074031778362,
+    "macd_hist": 0.4325413718998573,
+    "macd_slope": 0.03316589174725491,
     "rsi": 0.0,
-    "rsi_slope": 1.0024464264193946,
-    "wave_strength": 1.0009258688164495,
-    "adx": 18.879947916490273,
-    "atr": 2.043428955694649,
-    "obv_slope": 2616220.1428571427,
-    "mom14": 0.05803003930563257,
+    "rsi_slope": 0.5019015087389163,
+    "wave_strength": 1.0555921217297646,
+    "adx": 18.742991047285646,
+    "atr": 2.1774435726334493,
+    "obv_slope": 1066802.5714285714,
+    "mom14": 0.03208605507067765,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.71,
-    "score_0_10": 7.37,
-    "last_close": 109.02999877929688,
-    "avg_vol20": 16272449.1
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.9,
+    "score_0_10": 6.89,
+    "last_close": 106.47000122070312,
+    "avg_vol20": 16362378.2
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 53.813331604003906,
-      "High": 54.133331298828125,
-      "Low": 53.74333190917969,
-      "Close": 53.94333267211914,
-      "Volume": 17032500
-    },
     {
       "Date": "2024-01-17",
       "Open": 53.793331146240234,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-15",
       "Open": 107.31999969482422,
-      "High": 109.55500030517578,
+      "High": 109.55999755859375,
       "Low": 107.30000305175781,
       "Close": 109.02999877929688,
-      "Volume": 17998582
+      "Volume": 21416300
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 109.19999694824219,
+      "High": 109.57499694824219,
+      "Low": 105.66000366210938,
+      "Close": 106.47000122070312,
+      "Volume": 13250264
     }
   ]
 }

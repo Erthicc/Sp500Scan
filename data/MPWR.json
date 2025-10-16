@@ -1,34 +1,26 @@
 {
   "ticker": "MPWR",
   "indicators": {
-    "macd_hist": 3.772185689148351,
-    "macd_slope": 0.13673119325340824,
+    "macd_hist": 5.804031447639609,
+    "macd_slope": 0.4141844399201354,
     "rsi": 0.0,
-    "rsi_slope": 0.5044205166030226,
-    "wave_strength": 1.0524847394047732,
-    "adx": 31.02470337940147,
-    "atr": 39.20280802138187,
-    "obv_slope": -30005.35714285714,
-    "mom14": 0.13273267270907824,
+    "rsi_slope": 0.7269074772170546,
+    "wave_strength": 1.0462778101054369,
+    "adx": 31.139589906969835,
+    "atr": 38.80112031157262,
+    "obv_slope": 30841.0,
+    "mom14": 0.1589655383120168,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; strong wave vs SMA20",
-    "score_0_100": 79.29,
-    "score_0_10": 7.93,
-    "last_close": 1007.9299926757812,
-    "avg_vol20": 550936.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 83.79,
+    "score_0_10": 8.38,
+    "last_close": 1026.8299560546875,
+    "avg_vol20": 535648.7
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 573.2100219726562,
-      "High": 596.9299926757812,
-      "Low": 570.0,
-      "Close": 596.4099731445312,
-      "Volume": 577300
-    },
     {
       "Date": "2024-01-17",
       "Open": 588.1599731445312,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-15",
-      "Open": 998.989990234375,
-      "High": 1016.9500122070312,
-      "Low": 987.3049926757812,
+      "Open": 1000.0,
+      "High": 1016.9600219726562,
+      "Low": 987.3099975585938,
       "Close": 1007.9299926757812,
-      "Volume": 601725
+      "Volume": 631900
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 1011.52001953125,
+      "High": 1041.4998779296875,
+      "Low": 1007.9299926757812,
+      "Close": 1026.8299560546875,
+      "Volume": 517374
     }
   ]
 }

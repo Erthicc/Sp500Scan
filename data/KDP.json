@@ -1,34 +1,26 @@
 {
   "ticker": "KDP",
   "indicators": {
-    "macd_hist": 0.3510664615810104,
-    "macd_slope": 0.024036749131123525,
+    "macd_hist": 0.41329822383166304,
+    "macd_slope": 0.02796600744995669,
     "rsi": 0.0,
-    "rsi_slope": 3.6773161718871035,
-    "wave_strength": 0.9959124392264085,
-    "adx": 41.8266724200382,
-    "atr": 0.6193841454549834,
-    "obv_slope": 6615804.071428572,
-    "mom14": 0.055250776728852306,
+    "rsi_slope": 3.725353125573117,
+    "wave_strength": 0.9944508997827214,
+    "adx": 40.33708942132092,
+    "atr": 0.6358567340907085,
+    "obv_slope": 10131605.5,
+    "mom14": 0.08705879660213695,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; RSI overbought; rising OBV",
-    "score_0_100": 61.33,
-    "score_0_10": 6.13,
-    "last_close": 26.93000030517578,
-    "avg_vol20": 18048692.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; RSI overbought; rising OBV",
+    "score_0_100": 81.27,
+    "score_0_10": 8.13,
+    "last_close": 27.719999313354492,
+    "avg_vol20": 18875638.85
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 31.90999984741211,
-      "High": 31.940000534057617,
-      "Low": 31.6200008392334,
-      "Close": 31.829999923706055,
-      "Volume": 8093300
-    },
     {
       "Date": "2024-01-17",
       "Open": 31.760000228881836,
@@ -3539,7 +3531,15 @@
       "High": 26.979999542236328,
       "Low": 26.520000457763672,
       "Close": 26.93000030517578,
-      "Volume": 12166857
+      "Volume": 12270100
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 27.059999465942383,
+      "High": 27.780000686645508,
+      "Low": 27.030000686645508,
+      "Close": 27.719999313354492,
+      "Volume": 28800377
     }
   ]
 }

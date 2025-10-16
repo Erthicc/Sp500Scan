@@ -1,34 +1,26 @@
 {
   "ticker": "ATO",
   "indicators": {
-    "macd_hist": 0.7239177595400248,
-    "macd_slope": 0.055157513928370185,
+    "macd_hist": 0.5083088612974396,
+    "macd_slope": 0.026290681019180726,
     "rsi": 0.0,
-    "rsi_slope": 2.2723614169147135,
-    "wave_strength": 1.0342119473978728,
-    "adx": 30.917413449845434,
-    "atr": 2.4087714727536698,
-    "obv_slope": 326002.28571428574,
-    "mom14": 0.07647480003662989,
+    "rsi_slope": 0.20276353183512544,
+    "wave_strength": 1.045824506564456,
+    "adx": 31.3403181300818,
+    "atr": 2.487692618684432,
+    "obv_slope": 201053.5,
+    "mom14": 0.047016908948824765,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 69.51,
-    "score_0_10": 6.95,
-    "last_close": 179.19000244140625,
-    "avg_vol20": 748376.6
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.34,
+    "score_0_10": 7.03,
+    "last_close": 176.3699951171875,
+    "avg_vol20": 751267.55
   },
   "history": [
-    {
-      "Date": "2024-01-16",
-      "Open": 115.1500015258789,
-      "High": 115.87999725341797,
-      "Low": 113.76000213623047,
-      "Close": 114.08000183105469,
-      "Volume": 692500
-    },
     {
       "Date": "2024-01-17",
       "Open": 113.51000213623047,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-15",
       "Open": 177.82000732421875,
-      "High": 179.61000061035156,
+      "High": 179.6999969482422,
       "Low": 177.64999389648438,
       "Close": 179.19000244140625,
-      "Volume": 578232
+      "Volume": 578300
+    },
+    {
+      "Date": "2025-10-16",
+      "Open": 178.6300048828125,
+      "High": 179.60009765625,
+      "Low": 176.1699981689453,
+      "Close": 176.3699951171875,
+      "Volume": 1062051
     }
   ]
 }
