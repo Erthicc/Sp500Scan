@@ -1,34 +1,26 @@
 {
   "ticker": "CAT",
   "indicators": {
-    "macd_hist": 3.885834913803823,
-    "macd_slope": 0.09529507021849401,
+    "macd_hist": 3.0802839765690067,
+    "macd_slope": 0.06065004005941864,
     "rsi": 0.0,
-    "rsi_slope": 0.06051673973394348,
-    "wave_strength": 1.0236608846631632,
-    "adx": 45.46377226135779,
-    "atr": 13.382987230978571,
-    "obv_slope": 1473113.142857143,
-    "mom14": 0.16145656696647837,
+    "rsi_slope": -1.1295528822261443,
+    "wave_strength": 1.096079194172845,
+    "adx": 45.741410557065045,
+    "atr": 13.516805229052547,
+    "obv_slope": 1092906.4285714286,
+    "mom14": 0.11761844206273753,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 83.97,
-    "score_0_10": 8.4,
-    "last_close": 540.9600219726562,
-    "avg_vol20": 3217479.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.76,
+    "score_0_10": 7.58,
+    "last_close": 527.0800170898438,
+    "avg_vol20": 3122935.5
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 278.8299865722656,
-      "High": 282.0199890136719,
-      "Low": 276.94000244140625,
-      "Close": 278.6300048828125,
-      "Volume": 3789200
-    },
     {
       "Date": "2024-01-18",
       "Open": 280.0199890136719,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-16",
       "Open": 538.0599975585938,
-      "High": 544.9400024414062,
+      "High": 544.989990234375,
       "Low": 534.7000122070312,
       "Close": 540.9600219726562,
-      "Volume": 3089284
+      "Volume": 3463100
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 537.375,
+      "High": 542.2100219726562,
+      "Low": 527.0,
+      "Close": 527.0800170898438,
+      "Volume": 2804610
     }
   ]
 }

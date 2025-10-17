@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 0.3428478651743241,
-    "macd_slope": -0.018230563306999927,
+    "macd_hist": -0.058193707630213254,
+    "macd_slope": -0.049728080765144414,
     "rsi": 0.0,
-    "rsi_slope": -0.34449173006257083,
-    "wave_strength": 1.0658437519456396,
-    "adx": 30.21280837999939,
-    "atr": 6.808528777539943,
-    "obv_slope": 2535559.1428571427,
-    "mom14": 0.157158182280923,
-    "macd_bull": 1,
+    "rsi_slope": -1.2092782434458904,
+    "wave_strength": 1.059360720700945,
+    "adx": 30.314635234123706,
+    "atr": 6.609348455745625,
+    "obv_slope": 1888976.642857143,
+    "mom14": 0.11717702133381651,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 72.86,
-    "score_0_10": 7.29,
-    "last_close": 151.30999755859375,
-    "avg_vol20": 8860218.6
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 43.91,
+    "score_0_10": 4.39,
+    "last_close": 149.58999633789062,
+    "avg_vol20": 8668556.35
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 78.5,
-      "High": 78.80000305175781,
-      "Low": 76.9000015258789,
-      "Close": 77.66000366210938,
-      "Volume": 4928300
-    },
     {
       "Date": "2024-01-18",
       "Open": 78.70999908447266,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-16",
-      "Open": 155.2949981689453,
+      "Open": 155.2899932861328,
       "High": 158.5,
       "Low": 149.6699981689453,
       "Close": 151.30999755859375,
-      "Volume": 6424772
+      "Volume": 6947600
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 150.4149932861328,
+      "High": 151.23989868164062,
+      "Low": 147.2899932861328,
+      "Close": 149.58999633789062,
+      "Volume": 4695927
     }
   ]
 }

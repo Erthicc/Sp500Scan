@@ -1,34 +1,26 @@
 {
   "ticker": "GNRC",
   "indicators": {
-    "macd_hist": 3.1400706752141185,
-    "macd_slope": 0.3947545747661244,
+    "macd_hist": 3.2067482203184112,
+    "macd_slope": 0.3951440773726853,
     "rsi": 0.0,
-    "rsi_slope": 3.0201166629636833,
-    "wave_strength": 0.9942658390146334,
-    "adx": 25.232254762244896,
-    "atr": 6.3888440424008115,
-    "obv_slope": 369135.71428571426,
-    "mom14": 0.1448267338112613,
+    "rsi_slope": 3.070744993410012,
+    "wave_strength": 1.1114572783951135,
+    "adx": 26.67259967979508,
+    "atr": 6.297601469049717,
+    "obv_slope": 381424.85714285716,
+    "mom14": 0.14877576335351028,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.68,
-    "score_0_10": 8.27,
-    "last_close": 192.63999938964844,
-    "avg_vol20": 1134310.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.1,
+    "score_0_10": 8.01,
+    "last_close": 190.49000549316406,
+    "avg_vol20": 1089767.6
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 114.25,
-      "High": 115.22000122070312,
-      "Low": 112.66999816894531,
-      "Close": 114.48999786376953,
-      "Volume": 1051300
-    },
     {
       "Date": "2024-01-18",
       "Open": 115.5199966430664,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-16",
       "Open": 193.3800048828125,
-      "High": 193.83999633789062,
+      "High": 194.10000610351562,
       "Low": 188.75999450683594,
       "Close": 192.63999938964844,
-      "Volume": 1068300
+      "Volume": 1068800
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 190.86000061035156,
+      "High": 192.99000549316406,
+      "Low": 188.1199951171875,
+      "Close": 190.49000549316406,
+      "Volume": 703552
     }
   ]
 }

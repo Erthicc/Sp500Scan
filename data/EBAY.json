@@ -1,34 +1,26 @@
 {
   "ticker": "EBAY",
   "indicators": {
-    "macd_hist": 0.022526608497627637,
-    "macd_slope": 0.003345978792631786,
+    "macd_hist": 0.11096907193358585,
+    "macd_slope": 0.011226660355412822,
     "rsi": 0.0,
-    "rsi_slope": 0.4558379911533846,
-    "wave_strength": 1.0013855975247115,
-    "adx": 11.321355042384143,
-    "atr": 2.6487159978898247,
-    "obv_slope": 108877.78571428571,
-    "mom14": 0.00043889527973693405,
+    "rsi_slope": 0.4834101819854776,
+    "wave_strength": 1.0008902917021385,
+    "adx": 11.336716558296956,
+    "atr": 2.6516650295663298,
+    "obv_slope": 297249.28571428574,
+    "mom14": 0.009213600791441956,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 63.71,
-    "score_0_10": 6.37,
-    "last_close": 91.18000030517578,
-    "avg_vol20": 5711379.45
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 69.19,
+    "score_0_10": 6.92,
+    "last_close": 92.01000213623047,
+    "avg_vol20": 5610249.5
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 40.56999969482422,
-      "High": 40.880001068115234,
-      "Low": 40.279998779296875,
-      "Close": 40.66999816894531,
-      "Volume": 6416400
-    },
     {
       "Date": "2024-01-18",
       "Open": 40.630001068115234,
@@ -3539,7 +3531,15 @@
       "High": 91.9800033569336,
       "Low": 90.2699966430664,
       "Close": 91.18000030517578,
-      "Volume": 4088689
+      "Volume": 4229600
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 90.98999786376953,
+      "High": 93.44000244140625,
+      "Low": 90.75,
+      "Close": 92.01000213623047,
+      "Volume": 8877490
     }
   ]
 }

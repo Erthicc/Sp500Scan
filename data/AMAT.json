@@ -1,34 +1,26 @@
 {
   "ticker": "AMAT",
   "indicators": {
-    "macd_hist": 0.2315029139808864,
-    "macd_slope": -0.2723888183844532,
+    "macd_hist": 0.01662552921794358,
+    "macd_slope": -0.2633018294742985,
     "rsi": 0.0,
-    "rsi_slope": -1.9583263817066034,
-    "wave_strength": 1.034990074015992,
-    "adx": 35.923967384018155,
-    "atr": 8.199813246003417,
-    "obv_slope": 1860682.5,
-    "mom14": 0.11671245226296928,
+    "rsi_slope": -2.1292749315318176,
+    "wave_strength": 1.0650851623942927,
+    "adx": 35.218144334621066,
+    "atr": 7.9726840336207045,
+    "obv_slope": 824057.2857142857,
+    "mom14": 0.09777998947705646,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 68.62,
-    "score_0_10": 6.86,
-    "last_close": 227.72000122070312,
-    "avg_vol20": 9945552.75
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.48,
+    "score_0_10": 6.85,
+    "last_close": 224.99000549316406,
+    "avg_vol20": 9266509.9
   },
   "history": [
-    {
-      "Date": "2024-01-17",
-      "Open": 153.11000061035156,
-      "High": 153.75,
-      "Low": 150.1999969482422,
-      "Close": 153.3699951171875,
-      "Volume": 6630600
-    },
     {
       "Date": "2024-01-18",
       "Open": 158.66000366210938,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-16",
-      "Open": 230.59500122070312,
+      "Open": 230.60000610351562,
       "High": 232.07000732421875,
       "Low": 224.02999877929688,
       "Close": 227.72000122070312,
-      "Volume": 7690155
+      "Volume": 7742800
+    },
+    {
+      "Date": "2025-10-17",
+      "Open": 226.47000122070312,
+      "High": 227.36000061035156,
+      "Low": 222.6999969482422,
+      "Close": 224.99000549316406,
+      "Volume": 5269998
     }
   ]
 }
