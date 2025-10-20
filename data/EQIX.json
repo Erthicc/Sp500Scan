@@ -1,34 +1,26 @@
 {
   "ticker": "EQIX",
   "indicators": {
-    "macd_hist": 2.7464381734439964,
-    "macd_slope": 0.19503674764984075,
+    "macd_hist": 2.9942457636626463,
+    "macd_slope": 0.2401070107146126,
     "rsi": 0.0,
-    "rsi_slope": 1.1564780004636392,
-    "wave_strength": 1.0331770297584202,
-    "adx": 16.60129641908043,
-    "atr": 14.766074207360772,
-    "obv_slope": 106030.92857142857,
-    "mom14": 0.0412040413188941,
+    "rsi_slope": 1.3609651970657741,
+    "wave_strength": 1.031422861380481,
+    "adx": 17.726504411785452,
+    "atr": 14.679218988788756,
+    "obv_slope": 92771.64285714286,
+    "mom14": 0.053495767499721805,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 68.44,
-    "score_0_10": 6.84,
-    "last_close": 813.9299926757812,
-    "avg_vol20": 460441.65
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.17,
+    "score_0_10": 7.02,
+    "last_close": 825.1400146484375,
+    "avg_vol20": 454950.15
   },
   "history": [
-    {
-      "Date": "2024-01-18",
-      "Open": 802.22998046875,
-      "High": 802.239990234375,
-      "Low": 787.8400268554688,
-      "Close": 793.739990234375,
-      "Volume": 607000
-    },
     {
       "Date": "2024-01-19",
       "Open": 794.25,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-17",
       "Open": 812.77001953125,
       "High": 816.2899780273438,
-      "Low": 806.9901123046875,
+      "Low": 806.989990234375,
       "Close": 813.9299926757812,
-      "Volume": 321133
+      "Volume": 350600
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 817.739990234375,
+      "High": 827.47998046875,
+      "Low": 814.0,
+      "Close": 825.1400146484375,
+      "Volume": 374303
     }
   ]
 }

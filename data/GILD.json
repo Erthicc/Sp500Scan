@@ -1,34 +1,26 @@
 {
   "ticker": "GILD",
   "indicators": {
-    "macd_hist": 0.7718991281173744,
-    "macd_slope": 0.06596103785209599,
+    "macd_hist": 0.8791270827323268,
+    "macd_slope": 0.07874987093923781,
     "rsi": 0.0,
-    "rsi_slope": 2.3235628118627747,
-    "wave_strength": 1.0303280947500175,
-    "adx": 25.295673658293243,
-    "atr": 3.168005714191804,
-    "obv_slope": 3175141.214285714,
-    "mom14": 0.09048121615607917,
+    "rsi_slope": 3.0179518655626802,
+    "wave_strength": 1.0255922240439082,
+    "adx": 27.40202142285958,
+    "atr": 3.069576799694979,
+    "obv_slope": 4487268.928571428,
+    "mom14": 0.10909910459776183,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 86.27,
-    "score_0_10": 8.63,
-    "last_close": 122.80999755859375,
-    "avg_vol20": 7913443.85
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 73.44,
+    "score_0_10": 7.34,
+    "last_close": 123.11000061035156,
+    "avg_vol20": 7953783.25
   },
   "history": [
-    {
-      "Date": "2024-01-18",
-      "Open": 85.76000213623047,
-      "High": 86.55000305175781,
-      "Low": 85.33000183105469,
-      "Close": 86.4000015258789,
-      "Volume": 6260500
-    },
     {
       "Date": "2024-01-19",
       "Open": 86.37999725341797,
@@ -3539,7 +3531,15 @@
       "High": 124.11000061035156,
       "Low": 119.08999633789062,
       "Close": 122.80999755859375,
-      "Volume": 15795477
+      "Volume": 15843700
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 122.58999633789062,
+      "High": 123.98999786376953,
+      "Low": 122.19999694824219,
+      "Close": 123.11000061035156,
+      "Volume": 8019865
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ON",
   "indicators": {
-    "macd_hist": 0.3997095117004573,
-    "macd_slope": 0.016320500228131054,
+    "macd_hist": 0.5893942299988917,
+    "macd_slope": 0.03547193639860075,
     "rsi": 0.0,
-    "rsi_slope": 0.06623751554082753,
-    "wave_strength": 1.060630355464562,
-    "adx": 11.578727452803639,
-    "atr": 2.3325948621467445,
-    "obv_slope": 23068.285714285714,
-    "mom14": 0.055667213649502445,
+    "rsi_slope": 0.43173381877909023,
+    "wave_strength": 1.0570428194106525,
+    "adx": 12.286165211905185,
+    "atr": 2.413124007739248,
+    "obv_slope": 1320207.357142857,
+    "mom14": 0.1131615871213472,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 67.17,
-    "score_0_10": 6.72,
-    "last_close": 52.529998779296875,
-    "avg_vol20": 8098177.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.14,
+    "score_0_10": 7.81,
+    "last_close": 54.88999938964844,
+    "avg_vol20": 8271140.15
   },
   "history": [
-    {
-      "Date": "2024-01-18",
-      "Open": 74.01000213623047,
-      "High": 74.55999755859375,
-      "Low": 71.93000030517578,
-      "Close": 73.22000122070312,
-      "Volume": 11314600
-    },
     {
       "Date": "2024-01-19",
       "Open": 74.19999694824219,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-17",
-      "Open": 52.84000015258789,
+      "Open": 52.970001220703125,
       "High": 53.06999969482422,
       "Low": 51.220001220703125,
       "Close": 52.529998779296875,
-      "Volume": 8030144
+      "Volume": 8035400
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 53.400001525878906,
+      "High": 55.9900016784668,
+      "Low": 53.099998474121094,
+      "Close": 54.88999938964844,
+      "Volume": 9594703
     }
   ]
 }

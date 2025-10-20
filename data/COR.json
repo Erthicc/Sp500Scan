@@ -1,34 +1,26 @@
 {
   "ticker": "COR",
   "indicators": {
-    "macd_hist": 1.1217954836020283,
-    "macd_slope": -0.02160940297507644,
+    "macd_hist": 1.2958822249346635,
+    "macd_slope": -0.034931066353468085,
     "rsi": 0.0,
-    "rsi_slope": 1.0198301525019937,
-    "wave_strength": 1.0302621618386467,
-    "adx": 11.518597972690229,
-    "atr": 6.525208760896109,
-    "obv_slope": 164161.14285714287,
-    "mom14": 0.0539487607428668,
+    "rsi_slope": 0.5751064723248024,
+    "wave_strength": 1.0238921680424264,
+    "adx": 12.839534458103758,
+    "atr": 6.504389923362142,
+    "obv_slope": 157717.85714285713,
+    "mom14": 0.047547486408287175,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 66.44,
-    "score_0_10": 6.64,
-    "last_close": 324.69000244140625,
-    "avg_vol20": 1204802.8
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 74.72,
+    "score_0_10": 7.47,
+    "last_close": 327.3900146484375,
+    "avg_vol20": 1219107.5
   },
   "history": [
-    {
-      "Date": "2024-01-18",
-      "Open": 218.61000061035156,
-      "High": 221.10000610351562,
-      "Low": 216.89999389648438,
-      "Close": 220.7899932861328,
-      "Volume": 1045400
-    },
     {
       "Date": "2024-01-19",
       "Open": 221.00999450683594,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-17",
       "Open": 319.75,
-      "High": 325.69000244140625,
-      "Low": 319.3747863769531,
+      "High": 325.70001220703125,
+      "Low": 319.3699951171875,
       "Close": 324.69000244140625,
-      "Volume": 844656
+      "Volume": 1177600
+    },
+    {
+      "Date": "2025-10-20",
+      "Open": 325.30499267578125,
+      "High": 329.5799865722656,
+      "Low": 323.3599853515625,
+      "Close": 327.3900146484375,
+      "Volume": 1050450
     }
   ]
 }
