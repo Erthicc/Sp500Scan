@@ -1,34 +1,26 @@
 {
   "ticker": "ISRG",
   "indicators": {
-    "macd_hist": 2.206859112037897,
-    "macd_slope": 0.0504113023741452,
+    "macd_hist": 3.186662298936307,
+    "macd_slope": 0.13489714971361697,
     "rsi": 0.0,
-    "rsi_slope": 0.5812021236103619,
-    "wave_strength": 0.9862088348223647,
-    "adx": 28.822273241353646,
-    "atr": 11.014921038936196,
-    "obv_slope": 2327.0,
-    "mom14": 0.02513245971482582,
+    "rsi_slope": 1.923192495735854,
+    "wave_strength": 0.9845412062178713,
+    "adx": 27.86115743861945,
+    "atr": 10.990276061905307,
+    "obv_slope": 484899.28571428574,
+    "mom14": 0.0563875016154377,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.48,
-    "score_0_10": 7.55,
-    "last_close": 458.4700012207031,
-    "avg_vol20": 2260268.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 85.44,
+    "score_0_10": 8.54,
+    "last_close": 462.739990234375,
+    "avg_vol20": 2360879.5
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 374.0,
-      "High": 376.8999938964844,
-      "Low": 370.6600036621094,
-      "Close": 374.82000732421875,
-      "Volume": 2392500
-    },
     {
       "Date": "2024-01-22",
       "Open": 377.9100036621094,
@@ -3531,7 +3523,7 @@
       "High": 449.0899963378906,
       "Low": 434.57000732421875,
       "Close": 446.1300048828125,
-      "Volume": 2179500
+      "Volume": 2209200
     },
     {
       "Date": "2025-10-20",
@@ -3539,7 +3531,15 @@
       "High": 461.8299865722656,
       "Low": 451.3500061035156,
       "Close": 458.4700012207031,
-      "Volume": 3161378
+      "Volume": 3410000
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 459.95001220703125,
+      "High": 466.9798889160156,
+      "Low": 456.30999755859375,
+      "Close": 462.739990234375,
+      "Volume": 3975390
     }
   ]
 }

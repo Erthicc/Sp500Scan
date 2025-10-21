@@ -1,34 +1,26 @@
 {
   "ticker": "COR",
   "indicators": {
-    "macd_hist": 1.2958822249346635,
-    "macd_slope": -0.034931066353468085,
+    "macd_hist": 1.3778075973054031,
+    "macd_slope": -0.033817626643661204,
     "rsi": 0.0,
-    "rsi_slope": 0.5751064723248024,
-    "wave_strength": 1.0238921680424264,
-    "adx": 12.839534458103758,
-    "atr": 6.504389923362142,
-    "obv_slope": 157717.85714285713,
-    "mom14": 0.047547486408287175,
+    "rsi_slope": 1.1000153742924057,
+    "wave_strength": 1.0195774032944611,
+    "adx": 14.064965167173202,
+    "atr": 6.364626284350719,
+    "obv_slope": 335600.21428571426,
+    "mom14": 0.05468781124343303,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 74.72,
-    "score_0_10": 7.47,
-    "last_close": 327.3900146484375,
-    "avg_vol20": 1219107.5
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 64.92,
+    "score_0_10": 6.49,
+    "last_close": 328.82000732421875,
+    "avg_vol20": 1201315.15
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 221.00999450683594,
-      "High": 221.30999755859375,
-      "Low": 218.05999755859375,
-      "Close": 218.27999877929688,
-      "Volume": 1401100
-    },
     {
       "Date": "2024-01-22",
       "Open": 218.27999877929688,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-20",
-      "Open": 325.30499267578125,
+      "Open": 325.30999755859375,
       "High": 329.5799865722656,
       "Low": 323.3599853515625,
       "Close": 327.3900146484375,
-      "Volume": 1050450
+      "Volume": 1051000
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 326.70001220703125,
+      "High": 328.8927001953125,
+      "Low": 324.3450012207031,
+      "Close": 328.82000732421875,
+      "Volume": 972203
     }
   ]
 }

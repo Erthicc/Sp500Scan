@@ -1,34 +1,26 @@
 {
   "ticker": "BSX",
   "indicators": {
-    "macd_hist": 0.6745519574004173,
-    "macd_slope": 0.06981226178130015,
+    "macd_hist": 0.7155414158817899,
+    "macd_slope": 0.07371648333903377,
     "rsi": 0.0,
-    "rsi_slope": 3.191634024715634,
-    "wave_strength": 1.000483368397675,
-    "adx": 29.49277872602613,
-    "atr": 2.1720524143001088,
-    "obv_slope": 1571240.5,
-    "mom14": 0.029704000895865834,
+    "rsi_slope": 3.66226047217626,
+    "wave_strength": 1.0327345886000228,
+    "adx": 27.461670657817166,
+    "atr": 2.1061399902490865,
+    "obv_slope": 2715944.785714286,
+    "mom14": 0.04225355363830588,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 79.23,
-    "score_0_10": 7.92,
-    "last_close": 100.52999877929688,
-    "avg_vol20": 10032388.35
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
+    "score_0_100": 61.72,
+    "score_0_10": 6.17,
+    "last_close": 99.9000015258789,
+    "avg_vol20": 9754533.65
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 61.08000183105469,
-      "High": 61.15999984741211,
-      "Low": 60.61000061035156,
-      "Close": 60.939998626708984,
-      "Volume": 6584100
-    },
     {
       "Date": "2024-01-22",
       "Open": 61.29999923706055,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-20",
       "Open": 99.69999694824219,
-      "High": 101.01000213623047,
+      "High": 101.0199966430664,
       "Low": 99.58999633789062,
       "Close": 100.52999877929688,
-      "Volume": 7960767
+      "Volume": 9309700
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 99.83000183105469,
+      "High": 100.33000183105469,
+      "Low": 99.29000091552734,
+      "Close": 99.9000015258789,
+      "Volume": 7686773
     }
   ]
 }

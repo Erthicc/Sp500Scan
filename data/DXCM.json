@@ -1,34 +1,26 @@
 {
   "ticker": "DXCM",
   "indicators": {
-    "macd_hist": 0.5383607638759242,
-    "macd_slope": 0.08263748983267506,
+    "macd_hist": 0.7198081043774951,
+    "macd_slope": 0.09080841296862492,
     "rsi": 0.0,
-    "rsi_slope": 1.9945181847435336,
-    "wave_strength": 0.9911899016574666,
-    "adx": 39.39835948263145,
-    "atr": 2.405202554551964,
-    "obv_slope": 1115428.7142857143,
-    "mom14": 0.016941586775716326,
+    "rsi_slope": 2.790943402026433,
+    "wave_strength": 0.9900412479111529,
+    "adx": 37.877723488554196,
+    "atr": 2.3648312269527167,
+    "obv_slope": 1995019.142857143,
+    "mom14": 0.05553871167147237,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 60.84,
-    "score_0_10": 6.08,
-    "last_close": 68.43000030517578,
-    "avg_vol20": 5026100.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; rising OBV",
+    "score_0_100": 70.41,
+    "score_0_10": 7.04,
+    "last_close": 69.75,
+    "avg_vol20": 4953038.4
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 127.12000274658203,
-      "High": 127.98999786376953,
-      "Low": 125.05999755859375,
-      "Close": 127.29000091552734,
-      "Volume": 2819300
-    },
     {
       "Date": "2024-01-22",
       "Open": 129.1999969482422,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-20",
-      "Open": 66.99839782714844,
+      "Open": 67.05000305175781,
       "High": 68.47000122070312,
       "Low": 66.69999694824219,
       "Close": 68.43000030517578,
-      "Volume": 4503402
+      "Volume": 4724700
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 68.75749969482422,
+      "High": 69.83000183105469,
+      "Low": 67.98999786376953,
+      "Close": 69.75,
+      "Volume": 4473468
     }
   ]
 }

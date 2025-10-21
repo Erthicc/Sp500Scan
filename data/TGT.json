@@ -1,34 +1,26 @@
 {
   "ticker": "TGT",
   "indicators": {
-    "macd_hist": 0.6318911173201465,
-    "macd_slope": 0.016758187597650003,
+    "macd_hist": 0.8316294315874974,
+    "macd_slope": 0.02603146563623581,
     "rsi": 0.0,
-    "rsi_slope": 0.6899498964233618,
-    "wave_strength": 1.021776443255766,
-    "adx": 15.415552730501389,
-    "atr": 2.1505052234587696,
-    "obv_slope": 113144.0,
-    "mom14": 0.020401358899829365,
+    "rsi_slope": 1.65335143502037,
+    "wave_strength": 1.0175733677116667,
+    "adx": 16.244854683885087,
+    "atr": 2.212612298039665,
+    "obv_slope": 1424244.4285714286,
+    "mom14": 0.05900832591705511,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 56.82,
-    "score_0_10": 5.68,
-    "last_close": 91.52999877929688,
-    "avg_vol20": 8355875.8
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.44,
+    "score_0_10": 7.64,
+    "last_close": 94.4000015258789,
+    "avg_vol20": 8350831.1
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 137.22000122070312,
-      "High": 138.60000610351562,
-      "Low": 135.8000030517578,
-      "Close": 138.13999938964844,
-      "Volume": 3592600
-    },
     {
       "Date": "2024-01-22",
       "Open": 138.39999389648438,
@@ -3531,15 +3523,23 @@
       "High": 90.95999908447266,
       "Low": 89.80999755859375,
       "Close": 90.83999633789062,
-      "Volume": 6458100
+      "Volume": 6461400
     },
     {
       "Date": "2025-10-20",
       "Open": 91.08000183105469,
       "High": 92.16999816894531,
-      "Low": 90.99500274658203,
+      "Low": 91.0,
       "Close": 91.52999877929688,
-      "Volume": 3998716
+      "Volume": 4886300
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 91.87999725341797,
+      "High": 94.55000305175781,
+      "Low": 91.73500061035156,
+      "Close": 94.4000015258789,
+      "Volume": 7086022
     }
   ]
 }

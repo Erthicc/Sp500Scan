@@ -1,34 +1,26 @@
 {
   "ticker": "GNRC",
   "indicators": {
-    "macd_hist": 3.4254621325851735,
-    "macd_slope": 0.39096818404575107,
+    "macd_hist": 3.1745556082997437,
+    "macd_slope": 0.3492528024625587,
     "rsi": 0.0,
-    "rsi_slope": 3.341709109641485,
-    "wave_strength": 1.108288855873938,
-    "adx": 28.35119699811778,
-    "atr": 6.309710599805496,
-    "obv_slope": 374538.71428571426,
-    "mom14": 0.16947438118498265,
+    "rsi_slope": 3.195690273935592,
+    "wave_strength": 1.1180213091483944,
+    "adx": 29.43453577956546,
+    "atr": 6.243303048736797,
+    "obv_slope": 256414.2142857143,
+    "mom14": 0.146584077073199,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 91.71,
-    "score_0_10": 9.17,
-    "last_close": 195.77000427246094,
-    "avg_vol20": 1058572.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.43,
+    "score_0_10": 8.24,
+    "last_close": 192.5,
+    "avg_vol20": 993770.05
   },
   "history": [
-    {
-      "Date": "2024-01-19",
-      "Open": 116.3499984741211,
-      "High": 117.4800033569336,
-      "Low": 114.22000122070312,
-      "Close": 116.81999969482422,
-      "Volume": 711000
-    },
     {
       "Date": "2024-01-22",
       "Open": 118.54000091552734,
@@ -3539,7 +3531,15 @@
       "High": 196.9199981689453,
       "Low": 192.4600067138672,
       "Close": 195.77000427246094,
-      "Volume": 677742
+      "Volume": 679300
+    },
+    {
+      "Date": "2025-10-21",
+      "Open": 193.74000549316406,
+      "High": 195.9250030517578,
+      "Low": 190.5449981689453,
+      "Close": 192.5,
+      "Volume": 1022701
     }
   ]
 }
