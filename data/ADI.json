@@ -1,34 +1,26 @@
 {
   "ticker": "ADI",
   "indicators": {
-    "macd_hist": 0.9795127010184608,
-    "macd_slope": 0.1473954608154467,
+    "macd_hist": 0.7521609167849945,
+    "macd_slope": 0.13555444390447874,
     "rsi": 0.0,
-    "rsi_slope": 1.6343289592633994,
-    "wave_strength": 0.9873023529259914,
-    "adx": 26.7713796420564,
-    "atr": 5.905939533177261,
-    "obv_slope": 1662181.357142857,
-    "mom14": 0.029630543188150792,
+    "rsi_slope": 0.3675431653786373,
+    "wave_strength": 1.0240774657794012,
+    "adx": 26.68977547213825,
+    "atr": 6.1598794032750845,
+    "obv_slope": 1099276.5714285714,
+    "mom14": -0.0054206048269093135,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.2,
-    "score_0_10": 6.62,
-    "last_close": 246.3699951171875,
-    "avg_vol20": 3165676.95
+    "vol_spike": 1,
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; rising OBV",
+    "score_0_100": 68.66,
+    "score_0_10": 6.87,
+    "last_close": 240.36000061035156,
+    "avg_vol20": 3297531.4
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 196.0,
-      "High": 197.85000610351562,
-      "Low": 195.47000122070312,
-      "Close": 197.30999755859375,
-      "Volume": 2861800
-    },
     {
       "Date": "2024-01-23",
       "Open": 197.13999938964844,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-21",
-      "Open": 247.82000732421875,
-      "High": 248.82989501953125,
+      "Open": 247.83999633789062,
+      "High": 248.8300018310547,
       "Low": 245.61000061035156,
       "Close": 246.3699951171875,
-      "Volume": 2356539
+      "Volume": 2361300
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 240.9199981689453,
+      "High": 241.63999938964844,
+      "Low": 236.90899658203125,
+      "Close": 240.36000061035156,
+      "Volume": 5111328
     }
   ]
 }

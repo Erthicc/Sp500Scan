@@ -1,34 +1,26 @@
 {
   "ticker": "DOV",
   "indicators": {
-    "macd_hist": 1.2370914029152087,
-    "macd_slope": 0.11672695112146649,
+    "macd_hist": 1.124230789078215,
+    "macd_slope": 0.1000510012087205,
     "rsi": 0.0,
-    "rsi_slope": 3.312361642532546,
-    "wave_strength": 0.9940657748192697,
-    "adx": 20.877629610093766,
-    "atr": 3.193462560721548,
-    "obv_slope": 354595.9285714286,
-    "mom14": 0.03990384394953229,
+    "rsi_slope": 1.5168372983363692,
+    "wave_strength": 1.0439850074925943,
+    "adx": 20.20660465934595,
+    "atr": 3.4186751516951337,
+    "obv_slope": 150288.85714285713,
+    "mom14": 0.0051574249496345575,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 77.67,
-    "score_0_10": 7.77,
-    "last_close": 173.0399932861328,
-    "avg_vol20": 1196052.15
+    "bb_breakout": 0,
+    "vol_spike": 1,
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; volume spike; rising OBV",
+    "score_0_100": 70.52,
+    "score_0_10": 7.05,
+    "last_close": 167.61000061035156,
+    "avg_vol20": 1239107.8
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 148.91000366210938,
-      "High": 150.25,
-      "Low": 148.35000610351562,
-      "Close": 148.4600067138672,
-      "Volume": 598800
-    },
     {
       "Date": "2024-01-23",
       "Open": 149.47999572753906,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-21",
       "Open": 168.2899932861328,
-      "High": 173.6199951171875,
-      "Low": 168.39999389648438,
+      "High": 173.6300048828125,
+      "Low": 168.2899932861328,
       "Close": 173.0399932861328,
-      "Volume": 1453243
+      "Volume": 1453300
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 172.9199981689453,
+      "High": 173.5749969482422,
+      "Low": 167.33999633789062,
+      "Close": 167.61000061035156,
+      "Volume": 2066956
     }
   ]
 }

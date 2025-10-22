@@ -1,34 +1,26 @@
 {
   "ticker": "WST",
   "indicators": {
-    "macd_hist": 0.6794066135618495,
-    "macd_slope": -0.010445308826618507,
+    "macd_hist": 0.80770849279941,
+    "macd_slope": -0.032821545362732456,
     "rsi": 0.0,
-    "rsi_slope": 0.27895556934655474,
-    "wave_strength": 0.9864104101979285,
-    "adx": 33.922691719145625,
-    "atr": 6.097603673764945,
-    "obv_slope": 123059.14285714286,
-    "mom14": 0.029364088226401696,
+    "rsi_slope": -1.0987011796165536,
+    "wave_strength": 1.0466436673314645,
+    "adx": 35.157789582396354,
+    "atr": 6.237704755264919,
+    "obv_slope": -3696.714285714286,
+    "mom14": 0.014057681528810432,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 0,
+    "bb_breakout": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.07,
-    "score_0_10": 7.51,
-    "last_close": 279.3900146484375,
-    "avg_vol20": 636536.4
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA",
+    "score_0_100": 80.88,
+    "score_0_10": 8.09,
+    "last_close": 277.0,
+    "avg_vol20": 638977.7
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 344.8399963378906,
-      "High": 349.8900146484375,
-      "Low": 343.489990234375,
-      "Close": 347.1099853515625,
-      "Volume": 304800
-    },
     {
       "Date": "2024-01-23",
       "Open": 348.489990234375,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-21",
       "Open": 277.5799865722656,
-      "High": 281.42999267578125,
-      "Low": 274.4320068359375,
+      "High": 282.0299987792969,
+      "Low": 274.42999267578125,
       "Close": 279.3900146484375,
-      "Volume": 793628
+      "Volume": 795100
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 277.3800048828125,
+      "High": 283.5400085449219,
+      "Low": 276.0400085449219,
+      "Close": 277.0,
+      "Volume": 1213654
     }
   ]
 }

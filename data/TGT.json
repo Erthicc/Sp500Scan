@@ -1,34 +1,26 @@
 {
   "ticker": "TGT",
   "indicators": {
-    "macd_hist": 0.8316294315874974,
-    "macd_slope": 0.02603146563623581,
+    "macd_hist": 0.8968301478116641,
+    "macd_slope": 0.02590243792280423,
     "rsi": 0.0,
-    "rsi_slope": 1.65335143502037,
-    "wave_strength": 1.0175733677116667,
-    "adx": 16.244854683885087,
-    "atr": 2.212612298039665,
-    "obv_slope": 1424244.4285714286,
-    "mom14": 0.05900832591705511,
+    "rsi_slope": 1.0300310271422188,
+    "wave_strength": 1.0532716985539958,
+    "adx": 17.089062433164166,
+    "atr": 2.1459975916227223,
+    "obv_slope": 582370.8571428572,
+    "mom14": 0.050385369223563584,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.44,
-    "score_0_10": 7.64,
-    "last_close": 94.4000015258789,
-    "avg_vol20": 8350831.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 84.53,
+    "score_0_10": 8.45,
+    "last_close": 94.0199966430664,
+    "avg_vol20": 8096095.4
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 138.39999389648438,
-      "High": 140.75999450683594,
-      "Low": 137.91000366210938,
-      "Close": 140.36000061035156,
-      "Volume": 2778700
-    },
     {
       "Date": "2024-01-23",
       "Open": 140.83999633789062,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-21",
       "Open": 91.87999725341797,
       "High": 94.55000305175781,
-      "Low": 91.73500061035156,
+      "Low": 91.73999786376953,
       "Close": 94.4000015258789,
-      "Volume": 7086022
+      "Volume": 7770100
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 94.29000091552734,
+      "High": 94.7300033569336,
+      "Low": 93.44999694824219,
+      "Close": 94.0199966430664,
+      "Volume": 4912908
     }
   ]
 }

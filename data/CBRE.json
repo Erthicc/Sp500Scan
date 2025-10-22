@@ -1,34 +1,26 @@
 {
   "ticker": "CBRE",
   "indicators": {
-    "macd_hist": 0.8099692988881524,
-    "macd_slope": 0.13886754551973848,
+    "macd_hist": 1.1190561223006914,
+    "macd_slope": 0.16137664022910342,
     "rsi": 0.0,
-    "rsi_slope": 2.0632912386587194,
-    "wave_strength": 1.007054299864631,
-    "adx": 23.79709088609823,
-    "atr": 3.035725909851973,
-    "obv_slope": 171557.5,
-    "mom14": 0.027593302194591277,
+    "rsi_slope": 2.4857694769762384,
+    "wave_strength": 1.0049085938127045,
+    "adx": 23.828101942627654,
+    "atr": 3.092689875983751,
+    "obv_slope": 498462.5714285714,
+    "mom14": 0.05230353488569096,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 67.14,
-    "score_0_10": 6.71,
-    "last_close": 160.8800048828125,
-    "avg_vol20": 1316590.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 91.92,
+    "score_0_10": 9.19,
+    "last_close": 163.77000427246094,
+    "avg_vol20": 1370113.8
   },
   "history": [
-    {
-      "Date": "2024-01-22",
-      "Open": 86.11000061035156,
-      "High": 87.81999969482422,
-      "Low": 85.30000305175781,
-      "Close": 87.41000366210938,
-      "Volume": 1324000
-    },
     {
       "Date": "2024-01-23",
       "Open": 88.29000091552734,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-21",
       "Open": 159.6999969482422,
       "High": 162.24000549316406,
-      "Low": 159.18499755859375,
+      "Low": 159.16000366210938,
       "Close": 160.8800048828125,
-      "Volume": 1289705
+      "Volume": 1289700
+    },
+    {
+      "Date": "2025-10-22",
+      "Open": 161.4499969482422,
+      "High": 164.60000610351562,
+      "Low": 160.7899932861328,
+      "Close": 163.77000427246094,
+      "Volume": 3265176
     }
   ]
 }
