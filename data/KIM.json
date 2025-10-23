@@ -1,34 +1,26 @@
 {
   "ticker": "KIM",
   "indicators": {
-    "macd_hist": 0.1259196313412996,
-    "macd_slope": 0.015803653924399617,
+    "macd_hist": 0.12384374258520892,
+    "macd_slope": 0.01511999651521415,
     "rsi": 0.0,
-    "rsi_slope": 2.8629274842434165,
-    "wave_strength": 1.0066071202166755,
-    "adx": 17.879282856099284,
-    "atr": 0.36169384045578307,
-    "obv_slope": 1339283.2857142857,
-    "mom14": 0.049157266248002464,
+    "rsi_slope": 2.181351494511817,
+    "wave_strength": 1.037283891758581,
+    "adx": 18.173079208636505,
+    "atr": 0.3651442692223582,
+    "obv_slope": 903042.3571428572,
+    "mom14": 0.03493246502031766,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 82.76,
-    "score_0_10": 8.28,
-    "last_close": 22.40999984741211,
-    "avg_vol20": 4246243.3
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.84,
+    "score_0_10": 7.28,
+    "last_close": 22.219999313354492,
+    "avg_vol20": 4320995.35
   },
   "history": [
-    {
-      "Date": "2024-01-23",
-      "Open": 20.479999542236328,
-      "High": 20.489999771118164,
-      "Low": 20.1299991607666,
-      "Close": 20.34000015258789,
-      "Volume": 4480500
-    },
     {
       "Date": "2024-01-24",
       "Open": 20.6200008392334,
@@ -3539,7 +3531,15 @@
       "High": 22.440000534057617,
       "Low": 22.15999984741211,
       "Close": 22.40999984741211,
-      "Volume": 3853066
+      "Volume": 4590800
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 22.3799991607666,
+      "High": 22.39259910583496,
+      "Low": 22.0,
+      "Close": 22.219999313354492,
+      "Volume": 3664507
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DOW",
   "indicators": {
-    "macd_hist": -0.017378958069750428,
-    "macd_slope": 0.0007118205365602941,
-    "rsi": 0.17961977765452133,
-    "rsi_slope": -0.38897524050649884,
-    "wave_strength": 0.9727191438130338,
-    "adx": 19.152175362337285,
-    "atr": 0.8030942292813033,
-    "obv_slope": -3098327.285714286,
-    "mom14": -0.08400167692091298,
-    "macd_bull": 0,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "no significant signals",
-    "score_0_100": 25.55,
-    "score_0_10": 2.55,
-    "last_close": 21.700000762939453,
-    "avg_vol20": 12626179.1
+    "macd_hist": 0.17642808157388135,
+    "macd_slope": 0.010617158593656787,
+    "rsi": 0.0,
+    "rsi_slope": 0.5404443925644244,
+    "wave_strength": 0.9677204102784956,
+    "adx": 19.38217590939491,
+    "atr": 0.9617741880171148,
+    "obv_slope": -1519245.0,
+    "mom14": 0.02896727719973672,
+    "macd_bull": 1,
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA",
+    "score_0_100": 82.23,
+    "score_0_10": 8.22,
+    "last_close": 24.510000228881836,
+    "avg_vol20": 13354528.5
   },
   "history": [
-    {
-      "Date": "2024-01-23",
-      "Open": 54.0,
-      "High": 54.45500183105469,
-      "Low": 53.744998931884766,
-      "Close": 53.90999984741211,
-      "Volume": 4668100
-    },
     {
       "Date": "2024-01-24",
       "Open": 53.720001220703125,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-22",
       "Open": 21.75,
-      "High": 22.007400512695312,
+      "High": 22.010000228881836,
       "Low": 21.565000534057617,
       "Close": 21.700000762939453,
-      "Volume": 11754682
+      "Volume": 12026100
+    },
+    {
+      "Date": "2025-10-23",
+      "Open": 23.459999084472656,
+      "High": 24.722200393676758,
+      "Low": 23.350000381469727,
+      "Close": 24.510000228881836,
+      "Volume": 30733170
     }
   ]
 }
