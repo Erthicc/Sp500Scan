@@ -1,34 +1,26 @@
 {
   "ticker": "ISRG",
   "indicators": {
-    "macd_hist": 11.811748573255766,
-    "macd_slope": 0.6840330268788816,
+    "macd_hist": 13.41065136916762,
+    "macd_slope": 0.7805582860444087,
     "rsi": 0.0,
-    "rsi_slope": 1.1107205609803228,
-    "wave_strength": 0.963220664748941,
-    "adx": 32.64008484313876,
-    "atr": 17.202270996480493,
-    "obv_slope": 1128493.142857143,
-    "mom14": 0.21874650238605156,
+    "rsi_slope": 1.250222596105336,
+    "wave_strength": 1.202864758740726,
+    "adx": 34.8047924580968,
+    "atr": 16.76811886445749,
+    "obv_slope": 1116539.357142857,
+    "mom14": 0.2153038911218272,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 92.15,
-    "score_0_10": 9.22,
-    "last_close": 551.2999877929688,
-    "avg_vol20": 2738510.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 100.0,
+    "score_0_10": 10.0,
+    "last_close": 546.510009765625,
+    "avg_vol20": 2778217.45
   },
   "history": [
-    {
-      "Date": "2024-01-24",
-      "Open": 383.92999267578125,
-      "High": 384.0,
-      "Low": 362.1400146484375,
-      "Close": 370.07000732421875,
-      "Volume": 4949700
-    },
     {
       "Date": "2024-01-25",
       "Open": 372.6099853515625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-23",
       "Open": 525.3699951171875,
-      "High": 552.3599853515625,
-      "Low": 525.08447265625,
+      "High": 552.5,
+      "Low": 525.0800170898438,
       "Close": 551.2999877929688,
-      "Volume": 3967104
+      "Volume": 4011300
+    },
+    {
+      "Date": "2025-10-24",
+      "Open": 548.010009765625,
+      "High": 552.4500122070312,
+      "Low": 541.4600219726562,
+      "Close": 546.510009765625,
+      "Volume": 2690449
     }
   ]
 }

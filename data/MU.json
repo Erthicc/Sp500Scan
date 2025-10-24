@@ -1,34 +1,26 @@
 {
   "ticker": "MU",
   "indicators": {
-    "macd_hist": -0.27299198006589265,
-    "macd_slope": -0.14208824685638355,
+    "macd_hist": 0.4514045671768674,
+    "macd_slope": -0.10969952466639109,
     "rsi": 0.0,
-    "rsi_slope": -0.9784381100857799,
-    "wave_strength": 1.09410069821825,
-    "adx": 40.55175428893347,
-    "atr": 9.142085254394098,
-    "obv_slope": 2654976.4285714286,
-    "mom14": 0.10051644944237546,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": -0.7722834213585382,
+    "wave_strength": 1.076485934045737,
+    "adx": 40.564511874214794,
+    "atr": 9.562140276448563,
+    "obv_slope": 1897336.642857143,
+    "mom14": 0.14694174995834916,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 48.97,
-    "score_0_10": 4.9,
-    "last_close": 206.7100067138672,
-    "avg_vol20": 25140758.5
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.31,
+    "score_0_10": 7.93,
+    "last_close": 219.02000427246094,
+    "avg_vol20": 25227775.65
   },
   "history": [
-    {
-      "Date": "2024-01-24",
-      "Open": 88.41000366210938,
-      "High": 88.56999969482422,
-      "Low": 86.61000061035156,
-      "Close": 88.08000183105469,
-      "Volume": 19752800
-    },
     {
       "Date": "2024-01-25",
       "Open": 89.1500015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-23",
       "Open": 196.6999969482422,
-      "High": 206.94000244140625,
+      "High": 209.0,
       "Low": 195.1999969482422,
       "Close": 206.7100067138672,
-      "Volume": 19314870
+      "Volume": 19397900
+    },
+    {
+      "Date": "2025-10-24",
+      "Open": 212.38999938964844,
+      "High": 219.82000732421875,
+      "Low": 209.97999572753906,
+      "Close": 219.02000427246094,
+      "Volume": 25702313
     }
   ]
 }

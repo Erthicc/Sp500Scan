@@ -1,34 +1,26 @@
 {
   "ticker": "SBAC",
   "indicators": {
-    "macd_hist": 1.400295191472468,
-    "macd_slope": 0.0794914838193334,
+    "macd_hist": 1.402487659484137,
+    "macd_slope": 0.09326129452208298,
     "rsi": 0.0,
-    "rsi_slope": 2.038816876110011,
-    "wave_strength": 1.025494735237695,
-    "adx": 27.391851171265376,
-    "atr": 3.9292022278157606,
-    "obv_slope": -197590.57142857142,
-    "mom14": 0.020875682451319863,
+    "rsi_slope": 3.873231880156322,
+    "wave_strength": 1.0243102475730255,
+    "adx": 25.69308551322237,
+    "atr": 3.930330073762845,
+    "obv_slope": -66034.64285714286,
+    "mom14": 0.05311135810013926,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 63.79,
-    "score_0_10": 6.38,
-    "last_close": 196.10000610351562,
-    "avg_vol20": 954788.4
+    "explanation": "recent MACD bullish crossover; strong trend; RSI overbought",
+    "score_0_100": 56.15,
+    "score_0_10": 5.62,
+    "last_close": 198.67999267578125,
+    "avg_vol20": 938675.75
   },
   "history": [
-    {
-      "Date": "2024-01-24",
-      "Open": 235.47999572753906,
-      "High": 237.94000244140625,
-      "Low": 227.0,
-      "Close": 227.27999877929688,
-      "Volume": 1112300
-    },
     {
       "Date": "2024-01-25",
       "Open": 230.14999389648438,
@@ -3539,7 +3531,15 @@
       "High": 198.4600067138672,
       "Low": 194.3800048828125,
       "Close": 196.10000610351562,
-      "Volume": 940568
+      "Volume": 1018700
+    },
+    {
+      "Date": "2025-10-24",
+      "Open": 198.75,
+      "High": 199.8699951171875,
+      "Low": 195.9250030517578,
+      "Close": 198.67999267578125,
+      "Volume": 847815
     }
   ]
 }
