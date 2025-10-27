@@ -1,34 +1,26 @@
 {
   "ticker": "AMD",
   "indicators": {
-    "macd_hist": 1.7163882405108133,
-    "macd_slope": -0.11957665004892497,
+    "macd_hist": 2.1737137816841035,
+    "macd_slope": -0.2160013165123505,
     "rsi": 0.0,
-    "rsi_slope": -1.0073538520325533,
-    "wave_strength": 1.1300236482363928,
-    "adx": 36.21576174565793,
-    "atr": 11.771976895448969,
-    "obv_slope": 17128755.214285713,
-    "mom14": 0.2415688470532471,
+    "rsi_slope": -1.264194014702719,
+    "wave_strength": 1.1045198190159475,
+    "adx": 37.25928088116485,
+    "atr": 11.68968703306526,
+    "obv_slope": 13404365.285714285,
+    "mom14": 0.2276961853892059,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.81,
-    "score_0_10": 7.78,
-    "last_close": 252.9199981689453,
-    "avg_vol20": 79338398.65
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.16,
+    "score_0_10": 7.42,
+    "last_close": 259.6700134277344,
+    "avg_vol20": 80527290.7
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 183.41000366210938,
-      "High": 184.9199981689453,
-      "Low": 177.6300048828125,
-      "Close": 180.3300018310547,
-      "Volume": 127171400
-    },
     {
       "Date": "2024-01-26",
       "Open": 175.2899932861328,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-24",
-      "Open": 243.38999938964844,
+      "Open": 243.36000061035156,
       "High": 253.38999938964844,
       "Low": 241.9499969482422,
       "Close": 252.9199981689453,
-      "Volume": 70772673
+      "Volume": 70976100
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 258.20001220703125,
+      "High": 260.4200134277344,
+      "Low": 249.8000946044922,
+      "Close": 259.6700134277344,
+      "Volume": 63403214
     }
   ]
 }

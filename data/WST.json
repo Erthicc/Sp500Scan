@@ -1,34 +1,26 @@
 {
   "ticker": "WST",
   "indicators": {
-    "macd_hist": 3.135617551933856,
-    "macd_slope": 0.14635133933501127,
+    "macd_hist": 2.5146646133376542,
+    "macd_slope": 0.13281444643724846,
     "rsi": 0.0,
-    "rsi_slope": 0.7226941211007605,
-    "wave_strength": 1.1321971378071092,
-    "adx": 40.268909120262876,
-    "atr": 9.29904880933832,
-    "obv_slope": 154444.57142857142,
-    "mom14": 0.10967282087968308,
+    "rsi_slope": 0.25275616912383014,
+    "wave_strength": 1.1266133713139466,
+    "adx": 40.15912135393482,
+    "atr": 10.019014182012503,
+    "obv_slope": 123298.5,
+    "mom14": 0.07989622853130211,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 85.37,
-    "score_0_10": 8.54,
-    "last_close": 297.4700012207031,
-    "avg_vol20": 707253.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.43,
+    "score_0_10": 7.24,
+    "last_close": 287.2200012207031,
+    "avg_vol20": 724481.05
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 349.8299865722656,
-      "High": 354.5400085449219,
-      "Low": 349.010009765625,
-      "Close": 354.2200012207031,
-      "Volume": 382100
-    },
     {
       "Date": "2024-01-26",
       "Open": 358.9800109863281,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-24",
       "Open": 307.94000244140625,
-      "High": 309.9700012207031,
+      "High": 310.69000244140625,
       "Low": 297.20001220703125,
       "Close": 297.4700012207031,
-      "Volume": 803576
+      "Volume": 819500
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 299.989990234375,
+      "High": 301.0,
+      "Low": 282.2900085449219,
+      "Close": 287.2200012207031,
+      "Volume": 917721
     }
   ]
 }

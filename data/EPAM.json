@@ -1,34 +1,26 @@
 {
   "ticker": "EPAM",
   "indicators": {
-    "macd_hist": 1.8703831498794177,
-    "macd_slope": 0.12412651398257801,
+    "macd_hist": 2.2037387116458804,
+    "macd_slope": 0.15560357955338372,
     "rsi": 0.0,
-    "rsi_slope": 0.8880099449927802,
-    "wave_strength": 0.9776246273918344,
-    "adx": 20.89295511235358,
-    "atr": 5.28649315426071,
-    "obv_slope": 228358.7142857143,
-    "mom14": 0.04517736304383388,
+    "rsi_slope": 1.5649579907650921,
+    "wave_strength": 0.9750466668175255,
+    "adx": 21.18099065005229,
+    "atr": 5.254236726820529,
+    "obv_slope": 333076.0,
+    "mom14": 0.08393942911133102,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 58.36,
-    "score_0_10": 5.84,
-    "last_close": 159.39999389648438,
-    "avg_vol20": 592926.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 77.46,
+    "score_0_10": 7.75,
+    "last_close": 162.4499969482422,
+    "avg_vol20": 602728.2
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 291.3699951171875,
-      "High": 292.239990234375,
-      "Low": 283.6300048828125,
-      "Close": 285.1300048828125,
-      "Volume": 635400
-    },
     {
       "Date": "2024-01-26",
       "Open": 286.0799865722656,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-24",
       "Open": 157.8000030517578,
-      "High": 160.06500244140625,
-      "Low": 156.2572021484375,
+      "High": 160.1999969482422,
+      "Low": 156.14999389648438,
       "Close": 159.39999389648438,
-      "Volume": 742922
+      "Volume": 743100
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 161.2899932861328,
+      "High": 164.00999450683594,
+      "Low": 160.0399932861328,
+      "Close": 162.4499969482422,
+      "Volume": 1005864
     }
   ]
 }

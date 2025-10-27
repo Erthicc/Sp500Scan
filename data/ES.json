@@ -1,34 +1,26 @@
 {
   "ticker": "ES",
   "indicators": {
-    "macd_hist": -0.017819120638423502,
-    "macd_slope": -0.04426709011806784,
+    "macd_hist": 0.012601506042889454,
+    "macd_slope": -0.03701476213601832,
     "rsi": 0.0,
-    "rsi_slope": -2.2321875519710495,
-    "wave_strength": 1.0120125552324573,
-    "adx": 34.38321344924983,
-    "atr": 1.3140871757378538,
-    "obv_slope": 440343.71428571426,
-    "mom14": 0.02709767955156369,
-    "macd_bull": 0,
-    "bb_breakout": 1,
+    "rsi_slope": -2.332988492726023,
+    "wave_strength": 1.0090971776608233,
+    "adx": 35.27400175737571,
+    "atr": 1.2952239851393081,
+    "obv_slope": 318469.9285714286,
+    "mom14": 0.02567274630146123,
+    "macd_bull": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 39.51,
-    "score_0_10": 3.95,
-    "last_close": 74.66999816894531,
-    "avg_vol20": 2568740.6
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 58.57,
+    "score_0_10": 5.86,
+    "last_close": 74.70999908447266,
+    "avg_vol20": 2529298.95
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 54.470001220703125,
-      "High": 55.060001373291016,
-      "Low": 53.869998931884766,
-      "Close": 54.86000061035156,
-      "Volume": 4503500
-    },
     {
       "Date": "2024-01-26",
       "Open": 55.220001220703125,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-24",
       "Open": 73.88999938964844,
-      "High": 75.04499816894531,
-      "Low": 73.69499969482422,
+      "High": 75.05000305175781,
+      "Low": 73.69999694824219,
       "Close": 74.66999816894531,
-      "Volume": 1781312
+      "Volume": 1807300
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 74.16999816894531,
+      "High": 74.77999877929688,
+      "Low": 73.7300033569336,
+      "Close": 74.70999908447266,
+      "Volume": 1647679
     }
   ]
 }

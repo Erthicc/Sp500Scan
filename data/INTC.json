@@ -1,34 +1,26 @@
 {
   "ticker": "INTC",
   "indicators": {
-    "macd_hist": -0.3023737942894291,
-    "macd_slope": -0.06449951841694228,
+    "macd_hist": -0.21873758827527245,
+    "macd_slope": -0.051684938278002565,
     "rsi": 0.0,
-    "rsi_slope": -1.3637088793050702,
-    "wave_strength": 1.0346184466646156,
-    "adx": 47.41760612051285,
-    "atr": 1.8942496523356238,
-    "obv_slope": 48260380.35714286,
-    "mom14": 0.04618744519435199,
+    "rsi_slope": -1.325541209208423,
+    "wave_strength": 1.0275624849294522,
+    "adx": 47.37877123824628,
+    "atr": 1.9332317219970823,
+    "obv_slope": 51565841.14285714,
+    "mom14": 0.06376117469282296,
     "macd_bull": 0,
-    "bb_breakout": 0,
-    "vol_spike": 1,
+    "bb_breakout": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 48.56,
-    "score_0_10": 4.86,
-    "last_close": 38.279998779296875,
-    "avg_vol20": 122269251.25
+    "explanation": "Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 51.6,
+    "score_0_10": 5.16,
+    "last_close": 39.540000915527344,
+    "avg_vol20": 122509788.8
   },
   "history": [
-    {
-      "Date": "2024-01-25",
-      "Open": 50.0,
-      "High": 50.29999923706055,
-      "Low": 48.970001220703125,
-      "Close": 49.54999923706055,
-      "Volume": 84845100
-    },
     {
       "Date": "2024-01-26",
       "Open": 44.18000030517578,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-24",
-      "Open": 40.0099983215332,
+      "Open": 40.02000045776367,
       "High": 41.119998931884766,
       "Low": 37.83000183105469,
       "Close": 38.279998779296875,
-      "Volume": 244850225
+      "Volume": 245771300
+    },
+    {
+      "Date": "2025-10-27",
+      "Open": 38.314998626708984,
+      "High": 40.66999816894531,
+      "Low": 38.22999954223633,
+      "Close": 39.540000915527344,
+      "Volume": 156495576
     }
   ]
 }
