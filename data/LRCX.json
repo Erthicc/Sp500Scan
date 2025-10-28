@@ -1,34 +1,26 @@
 {
   "ticker": "LRCX",
   "indicators": {
-    "macd_hist": 0.24320370497460608,
-    "macd_slope": -0.059572699306035225,
+    "macd_hist": 0.42953317392891055,
+    "macd_slope": -0.015433191293057076,
     "rsi": 0.0,
-    "rsi_slope": -0.3276457791505751,
-    "wave_strength": 1.0124461381068333,
-    "adx": 26.754566148640624,
-    "atr": 5.927657323561013,
-    "obv_slope": 2681038.285714286,
-    "mom14": 0.11791939489309498,
+    "rsi_slope": -0.43868459062781284,
+    "wave_strength": 1.0869941540674286,
+    "adx": 26.516283579175624,
+    "atr": 5.691727692268292,
+    "obv_slope": 1138377.9285714286,
+    "mom14": 0.09176373261641785,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 71.91,
-    "score_0_10": 7.19,
-    "last_close": 156.89999389648438,
-    "avg_vol20": 12010276.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.67,
+    "score_0_10": 7.47,
+    "last_close": 155.6199951171875,
+    "avg_vol20": 11890250.45
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 85.30000305175781,
-      "High": 86.0,
-      "Low": 83.66300201416016,
-      "Close": 83.90399932861328,
-      "Volume": 16751000
-    },
     {
       "Date": "2024-01-29",
       "Open": 83.56999969482422,
@@ -3531,15 +3523,23 @@
       "High": 153.2100067138672,
       "Low": 148.0,
       "Close": 151.67999267578125,
-      "Volume": 10958900
+      "Volume": 10966400
     },
     {
       "Date": "2025-10-27",
-      "Open": 156.11000061035156,
-      "High": 158.2449951171875,
+      "Open": 156.13999938964844,
+      "High": 158.25,
       "Low": 155.74000549316406,
       "Close": 156.89999389648438,
-      "Volume": 13307236
+      "Volume": 13313100
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 155.49000549316406,
+      "High": 156.125,
+      "Low": 154.27999877929688,
+      "Close": 155.6199951171875,
+      "Volume": 7914909
     }
   ]
 }

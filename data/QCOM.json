@@ -1,34 +1,26 @@
 {
   "ticker": "QCOM",
   "indicators": {
-    "macd_hist": 1.582523280346161,
-    "macd_slope": 0.1491437149040395,
+    "macd_hist": 1.8028019041670786,
+    "macd_slope": 0.16484131878034616,
     "rsi": 0.0,
-    "rsi_slope": 1.4404811379001896,
-    "wave_strength": 1.0188178306245206,
-    "adx": 25.525252098688636,
-    "atr": 6.580329613636751,
-    "obv_slope": 7192981.357142857,
-    "mom14": 0.13429218578686186,
+    "rsi_slope": 0.8588358466457185,
+    "wave_strength": 1.1196553712791226,
+    "adx": 28.636278450210977,
+    "atr": 6.727549778004332,
+    "obv_slope": 5240903.285714285,
+    "mom14": 0.0790367417843151,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 83.15,
-    "score_0_10": 8.31,
-    "last_close": 187.67999267578125,
-    "avg_vol20": 11175376.95
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 88.21,
+    "score_0_10": 8.82,
+    "last_close": 181.02999877929688,
+    "avg_vol20": 11919812.7
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 152.2100067138672,
-      "High": 152.97999572753906,
-      "Low": 150.3800048828125,
-      "Close": 150.72000122070312,
-      "Volume": 7744700
-    },
     {
       "Date": "2024-01-29",
       "Open": 150.39999389648438,
@@ -3531,15 +3523,23 @@
       "High": 172.4199981689453,
       "Low": 168.47000122070312,
       "Close": 168.94000244140625,
-      "Volume": 6249100
+      "Volume": 6256000
     },
     {
       "Date": "2025-10-27",
-      "Open": 169.08999633789062,
-      "High": 205.5500030517578,
+      "Open": 168.9499969482422,
+      "High": 205.9499969482422,
       "Low": 168.82000732421875,
       "Close": 187.67999267578125,
-      "Volume": 81571739
+      "Volume": 81799300
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 183.9250030517578,
+      "High": 185.91000366210938,
+      "Low": 179.41000366210938,
+      "Close": 181.02999877929688,
+      "Volume": 20247554
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "AAPL",
   "indicators": {
-    "macd_hist": 0.7229554904852069,
-    "macd_slope": 0.055357150924000544,
+    "macd_hist": 0.951055295000522,
+    "macd_slope": 0.07971410897940208,
     "rsi": 0.0,
-    "rsi_slope": -0.8991128479055698,
-    "wave_strength": 1.0274586846570872,
-    "adx": 25.272153418090813,
-    "atr": 5.250892809762239,
-    "obv_slope": 18630090.85714286,
-    "mom14": 0.048073869479531815,
+    "rsi_slope": -1.2215874743024067,
+    "wave_strength": 1.024580218047791,
+    "adx": 25.79790331252241,
+    "atr": 5.00133989534841,
+    "obv_slope": 19000039.214285713,
+    "mom14": 0.042393251743413934,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 72.21,
-    "score_0_10": 7.22,
-    "last_close": 268.80999755859375,
-    "avg_vol20": 44293598.6
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.34,
+    "score_0_10": 7.03,
+    "last_close": 269.0,
+    "avg_vol20": 44492192.45
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 194.27000427246094,
-      "High": 194.75999450683594,
-      "Low": 191.94000244140625,
-      "Close": 192.4199981689453,
-      "Volume": 44594000
-    },
     {
       "Date": "2024-01-29",
       "Open": 192.00999450683594,
@@ -3531,15 +3523,23 @@
       "High": 264.1300048828125,
       "Low": 259.17999267578125,
       "Close": 262.82000732421875,
-      "Volume": 38221700
+      "Volume": 38253700
     },
     {
       "Date": "2025-10-27",
       "Open": 264.8800048828125,
-      "High": 269.0799865722656,
-      "Low": 264.65008544921875,
+      "High": 269.1199951171875,
+      "Low": 264.6499938964844,
       "Close": 268.80999755859375,
-      "Volume": 44620772
+      "Volume": 44888200
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 269.135009765625,
+      "High": 269.8699951171875,
+      "Low": 268.1499938964844,
+      "Close": 269.0,
+      "Volume": 41376749
     }
   ]
 }

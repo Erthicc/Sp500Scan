@@ -1,34 +1,26 @@
 {
   "ticker": "CRM",
   "indicators": {
-    "macd_hist": 1.584909783595978,
-    "macd_slope": 0.11300273450820286,
+    "macd_hist": 1.2805613987512505,
+    "macd_slope": 0.0895805668688784,
     "rsi": 0.0,
-    "rsi_slope": 0.9799539862542933,
-    "wave_strength": 1.071044480926354,
-    "adx": 24.89701110665295,
-    "atr": 7.741552758325031,
-    "obv_slope": 1295671.142857143,
-    "mom14": 0.06561272781812624,
+    "rsi_slope": 0.988129058209573,
+    "wave_strength": 1.0351275622437155,
+    "adx": 25.769063525959577,
+    "atr": 7.523584879825422,
+    "obv_slope": 474270.71428571426,
+    "mom14": 0.05752194922579556,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 65.53,
-    "score_0_10": 6.55,
-    "last_close": 255.47000122070312,
-    "avg_vol20": 9621584.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.05,
+    "score_0_10": 7.21,
+    "last_close": 254.25999450683594,
+    "avg_vol20": 9400430.5
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 279.2799987792969,
-      "High": 283.3399963378906,
-      "Low": 278.69000244140625,
-      "Close": 279.94000244140625,
-      "Volume": 4877400
-    },
     {
       "Date": "2024-01-29",
       "Open": 281.3999938964844,
@@ -3531,7 +3523,7 @@
       "High": 258.5,
       "Low": 254.0,
       "Close": 254.8300018310547,
-      "Volume": 5485100
+      "Volume": 5490800
     },
     {
       "Date": "2025-10-27",
@@ -3539,7 +3531,15 @@
       "High": 258.1000061035156,
       "Low": 254.9199981689453,
       "Close": 255.47000122070312,
-      "Volume": 3943096
+      "Volume": 4942400
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 255.47000122070312,
+      "High": 258.8399963378906,
+      "Low": 254.14999389648438,
+      "Close": 254.25999450683594,
+      "Volume": 5373010
     }
   ]
 }

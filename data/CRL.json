@@ -1,34 +1,26 @@
 {
   "ticker": "CRL",
   "indicators": {
-    "macd_hist": 2.186779523360089,
-    "macd_slope": -0.04014588367859874,
+    "macd_hist": 1.4935069771831397,
+    "macd_slope": -0.07713028038750479,
     "rsi": 0.0,
-    "rsi_slope": 0.9195693371229733,
-    "wave_strength": 1.1116595808612344,
-    "adx": 30.261538455613586,
-    "atr": 6.153646036736613,
-    "obv_slope": 332703.0,
-    "mom14": 0.14803052188286095,
+    "rsi_slope": 0.01775620521369246,
+    "wave_strength": 1.1018778114118637,
+    "adx": 30.42395056720549,
+    "atr": 6.329584868362232,
+    "obv_slope": 188361.92857142858,
+    "mom14": 0.08335730301103134,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 71.73,
-    "score_0_10": 7.17,
-    "last_close": 195.27999877929688,
-    "avg_vol20": 1029532.9
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 77.26,
+    "score_0_10": 7.73,
+    "last_close": 187.92999267578125,
+    "avg_vol20": 1032216.65
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 216.35000610351562,
-      "High": 224.02999877929688,
-      "Low": 216.35000610351562,
-      "Close": 220.27999877929688,
-      "Volume": 924500
-    },
     {
       "Date": "2024-01-29",
       "Open": 219.39999389648438,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-27",
       "Open": 197.24000549316406,
-      "High": 197.76499938964844,
-      "Low": 193.57000732421875,
+      "High": 198.0,
+      "Low": 193.41000366210938,
       "Close": 195.27999877929688,
-      "Volume": 936858
+      "Volume": 936900
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 193.4499969482422,
+      "High": 193.46499633789062,
+      "Low": 187.02999877929688,
+      "Close": 187.92999267578125,
+      "Volume": 1102933
     }
   ]
 }

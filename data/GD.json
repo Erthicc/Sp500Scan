@@ -1,34 +1,26 @@
 {
   "ticker": "GD",
   "indicators": {
-    "macd_hist": 1.0632608552711504,
-    "macd_slope": -0.03240077715465382,
+    "macd_hist": 0.9038938534649699,
+    "macd_slope": -0.03885989283304741,
     "rsi": 0.0,
-    "rsi_slope": -1.3215208025746545,
-    "wave_strength": 1.0031631269363492,
-    "adx": 32.02638035596355,
-    "atr": 6.3835895521770585,
-    "obv_slope": 387900.78571428574,
-    "mom14": 0.034635732975660076,
+    "rsi_slope": -2.3011186060985094,
+    "wave_strength": 1.0405784188522262,
+    "adx": 33.56818213967386,
+    "atr": 6.439760497970736,
+    "obv_slope": 266460.0714285714,
+    "mom14": 0.005091100456997534,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.91,
-    "score_0_10": 7.59,
-    "last_close": 353.7699890136719,
-    "avg_vol20": 1045135.55
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.86,
+    "score_0_10": 6.79,
+    "last_close": 346.67999267578125,
+    "avg_vol20": 1010317.95
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 266.55999755859375,
-      "High": 267.9700012207031,
-      "Low": 262.04998779296875,
-      "Close": 265.07000732421875,
-      "Volume": 1329900
-    },
     {
       "Date": "2024-01-29",
       "Open": 264.57000732421875,
@@ -3539,7 +3531,15 @@
       "High": 355.8399963378906,
       "Low": 346.3299865722656,
       "Close": 353.7699890136719,
-      "Volume": 1674811
+      "Volume": 1674900
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 352.0299987792969,
+      "High": 352.6499938964844,
+      "Low": 346.6000061035156,
+      "Close": 346.67999267578125,
+      "Volume": 926359
     }
   ]
 }

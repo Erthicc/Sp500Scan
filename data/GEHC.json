@@ -1,34 +1,26 @@
 {
   "ticker": "GEHC",
   "indicators": {
-    "macd_hist": 0.5485417377357292,
-    "macd_slope": 0.0338429384095595,
+    "macd_hist": 0.6208770848224817,
+    "macd_slope": 0.041081012558276155,
     "rsi": 0.0,
-    "rsi_slope": 1.6699165178330422,
-    "wave_strength": 1.000651960316696,
-    "adx": 16.295369030264844,
-    "atr": 1.7272126511868886,
-    "obv_slope": 1499155.4285714286,
-    "mom14": 0.052295747674229155,
+    "rsi_slope": 0.9057343765245973,
+    "wave_strength": 0.9977708595599758,
+    "adx": 16.268412392602478,
+    "atr": 1.7516974401552268,
+    "obv_slope": 1761890.857142857,
+    "mom14": 0.057313853591870266,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 59.23,
-    "score_0_10": 5.92,
-    "last_close": 78.3499984741211,
-    "avg_vol20": 2801863.8
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.46,
+    "score_0_10": 7.45,
+    "last_close": 79.4000015258789,
+    "avg_vol20": 2905188.6
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 73.0,
-      "High": 73.29000091552734,
-      "Low": 72.47000122070312,
-      "Close": 73.1500015258789,
-      "Volume": 2334500
-    },
     {
       "Date": "2024-01-29",
       "Open": 72.91000366210938,
@@ -3539,7 +3531,15 @@
       "High": 79.1500015258789,
       "Low": 78.27999877929688,
       "Close": 78.3499984741211,
-      "Volume": 3546176
+      "Volume": 4093600
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 78.12000274658203,
+      "High": 79.75,
+      "Low": 77.68000030517578,
+      "Close": 79.4000015258789,
+      "Volume": 5608772
     }
   ]
 }

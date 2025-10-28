@@ -1,34 +1,26 @@
 {
   "ticker": "ZBRA",
   "indicators": {
-    "macd_hist": 2.8031351960804667,
-    "macd_slope": 0.25698831078268347,
-    "rsi": 0.0,
-    "rsi_slope": 1.7800950837752205,
-    "wave_strength": 1.052358109117286,
-    "adx": 16.239160898494095,
-    "atr": 9.620387669791041,
-    "obv_slope": 147022.2142857143,
-    "mom14": 0.0469592502289024,
+    "macd_hist": 0.3979625899372303,
+    "macd_slope": 0.03011769639986626,
+    "rsi": 0.09096561271548982,
+    "rsi_slope": -0.10092187148037368,
+    "wave_strength": 1.0452309786611644,
+    "adx": 17.437955989112208,
+    "atr": 12.630615093845071,
+    "obv_slope": -115147.5,
+    "mom14": -0.10729628141004957,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 70.24,
-    "score_0_10": 7.02,
-    "last_close": 310.57000732421875,
-    "avg_vol20": 557135.55
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; volume spike",
+    "score_0_100": 61.05,
+    "score_0_10": 6.1,
+    "last_close": 274.30999755859375,
+    "avg_vol20": 689438.25
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 256.9800109863281,
-      "High": 258.4200134277344,
-      "Low": 251.6199951171875,
-      "Close": 252.1699981689453,
-      "Volume": 268300
-    },
     {
       "Date": "2024-01-29",
       "Open": 250.72000122070312,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-27",
       "Open": 311.92999267578125,
-      "High": 314.3500061035156,
+      "High": 314.5799865722656,
       "Low": 309.29998779296875,
       "Close": 310.57000732421875,
-      "Volume": 948311
+      "Volume": 975400
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 288.0899963378906,
+      "High": 291.92498779296875,
+      "Low": 259.0199890136719,
+      "Close": 274.30999755859375,
+      "Volume": 3119665
     }
   ]
 }

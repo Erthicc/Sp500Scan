@@ -1,34 +1,26 @@
 {
   "ticker": "UHS",
   "indicators": {
-    "macd_hist": 0.24155475203462817,
-    "macd_slope": -0.04571038271040236,
+    "macd_hist": 0.6806214549943652,
+    "macd_slope": 0.01263550912262731,
     "rsi": 0.0,
-    "rsi_slope": -2.3223396691506486,
-    "wave_strength": 1.0230153893965392,
-    "adx": 30.57111581914275,
-    "atr": 4.884696011222873,
-    "obv_slope": 94049.64285714286,
-    "mom14": 0.02064855457352921,
+    "rsi_slope": -0.5358822194555627,
+    "wave_strength": 1.0193279621530313,
+    "adx": 30.97634325333963,
+    "atr": 5.616197678010001,
+    "obv_slope": 231419.7142857143,
+    "mom14": 0.06881096776788972,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 64.9,
-    "score_0_10": 6.49,
-    "last_close": 214.02999877929688,
-    "avg_vol20": 559794.75
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 88.96,
+    "score_0_10": 8.9,
+    "last_close": 219.32000732421875,
+    "avg_vol20": 597523.8
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 157.72999572753906,
-      "High": 159.42999267578125,
-      "Low": 156.86000061035156,
-      "Close": 157.57000732421875,
-      "Volume": 458300
-    },
     {
       "Date": "2024-01-29",
       "Open": 156.80999755859375,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-27",
       "Open": 211.42999267578125,
       "High": 214.27999877929688,
-      "Low": 210.08999633789062,
+      "Low": 210.02999877929688,
       "Close": 214.02999877929688,
-      "Volume": 921195
+      "Volume": 925200
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 220.10000610351562,
+      "High": 226.72000122070312,
+      "Low": 211.64999389648438,
+      "Close": 219.32000732421875,
+      "Volume": 1422376
     }
   ]
 }

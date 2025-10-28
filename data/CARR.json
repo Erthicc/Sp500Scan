@@ -1,34 +1,26 @@
 {
   "ticker": "CARR",
   "indicators": {
-    "macd_hist": 0.2819880537112651,
-    "macd_slope": 0.0027511504573095274,
+    "macd_hist": 0.34070034037540076,
+    "macd_slope": 0.0038466455617342443,
     "rsi": 0.0,
-    "rsi_slope": 0.6889883518740305,
-    "wave_strength": 1.0284800548674715,
-    "adx": 30.78338409884711,
-    "atr": 1.6269878139726206,
-    "obv_slope": 190413.7857142857,
-    "mom14": -0.015038854090215334,
+    "rsi_slope": 0.47087576437631234,
+    "wave_strength": 1.0293295183581965,
+    "adx": 30.723001177822994,
+    "atr": 1.672917288537078,
+    "obv_slope": 273623.71428571426,
+    "mom14": -0.01772571190831764,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 50.81,
-    "score_0_10": 5.08,
-    "last_close": 58.290000915527344,
-    "avg_vol20": 5990284.65
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; rising OBV",
+    "score_0_100": 65.9,
+    "score_0_10": 6.59,
+    "last_close": 58.7400016784668,
+    "avg_vol20": 6165056.6
   },
   "history": [
-    {
-      "Date": "2024-01-26",
-      "Open": 56.38999938964844,
-      "High": 56.470001220703125,
-      "Low": 55.290000915527344,
-      "Close": 55.5099983215332,
-      "Volume": 4136800
-    },
     {
       "Date": "2024-01-29",
       "Open": 55.59000015258789,
@@ -3539,7 +3531,15 @@
       "High": 58.93000030517578,
       "Low": 57.849998474121094,
       "Close": 58.290000915527344,
-      "Volume": 6351293
+      "Volume": 6363700
+    },
+    {
+      "Date": "2025-10-28",
+      "Open": 60.0,
+      "High": 60.560001373291016,
+      "Low": 58.44499969482422,
+      "Close": 58.7400016784668,
+      "Volume": 9609832
     }
   ]
 }
