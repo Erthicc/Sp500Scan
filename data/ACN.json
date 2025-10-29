@@ -1,34 +1,26 @@
 {
   "ticker": "ACN",
   "indicators": {
-    "macd_hist": 1.2715034582016214,
-    "macd_slope": -0.060126888968710844,
+    "macd_hist": 0.9753844102951695,
+    "macd_slope": -0.07974807046235324,
     "rsi": 0.0,
-    "rsi_slope": -1.1157145743291028,
-    "wave_strength": 1.0150710404110057,
-    "adx": 15.672728493030533,
-    "atr": 6.155489937525656,
-    "obv_slope": 282486.35714285716,
-    "mom14": 0.001462607250476302,
+    "rsi_slope": -1.3002563175189625,
+    "wave_strength": 1.028611129437508,
+    "adx": 15.43098976568115,
+    "atr": 6.280812346504448,
+    "obv_slope": 226525.64285714287,
+    "mom14": -0.017021081575980375,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 62.78,
-    "score_0_10": 6.28,
-    "last_close": 253.35000610351562,
-    "avg_vol20": 4119410.45
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV",
+    "score_0_100": 50.03,
+    "score_0_10": 5.0,
+    "last_close": 247.75,
+    "avg_vol20": 4109517.05
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 370.5199890136719,
-      "High": 375.42999267578125,
-      "Low": 370.0799865722656,
-      "Close": 373.3500061035156,
-      "Volume": 1683100
-    },
     {
       "Date": "2024-01-30",
       "Open": 374.0,
@@ -3539,7 +3531,15 @@
       "High": 254.67999267578125,
       "Low": 249.19000244140625,
       "Close": 253.35000610351562,
-      "Volume": 2856909
+      "Volume": 3425100
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 253.14999389648438,
+      "High": 255.44000244140625,
+      "Low": 247.52999877929688,
+      "Close": 247.75,
+      "Volume": 5779041
     }
   ]
 }

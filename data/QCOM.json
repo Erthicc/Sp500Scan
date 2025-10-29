@@ -1,34 +1,26 @@
 {
   "ticker": "QCOM",
   "indicators": {
-    "macd_hist": 1.8028019041670786,
-    "macd_slope": 0.16484131878034616,
+    "macd_hist": 1.680081182464762,
+    "macd_slope": 0.16551337696581284,
     "rsi": 0.0,
-    "rsi_slope": 0.8588358466457185,
-    "wave_strength": 1.1196553712791226,
-    "adx": 28.636278450210977,
-    "atr": 6.727549778004332,
-    "obv_slope": 5240903.285714285,
-    "mom14": 0.0790367417843151,
+    "rsi_slope": 0.9470833432952064,
+    "wave_strength": 1.1156022202067783,
+    "adx": 31.20987823081531,
+    "atr": 6.624153278004477,
+    "obv_slope": 4904302.285714285,
+    "mom14": 0.07853431256329045,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 88.21,
-    "score_0_10": 8.82,
-    "last_close": 181.02999877929688,
-    "avg_vol20": 11919812.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.89,
+    "score_0_10": 7.89,
+    "last_close": 178.6699981689453,
+    "avg_vol20": 12194203.4
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 150.39999389648438,
-      "High": 151.24000549316406,
-      "Low": 148.4199981689453,
-      "Close": 149.63999938964844,
-      "Volume": 10770700
-    },
     {
       "Date": "2024-01-30",
       "Open": 148.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-28",
-      "Open": 183.9250030517578,
+      "Open": 183.92999267578125,
       "High": 185.91000366210938,
       "Low": 179.41000366210938,
       "Close": 181.02999877929688,
-      "Volume": 20247554
+      "Volume": 20323100
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 181.82000732421875,
+      "High": 183.47999572753906,
+      "Low": 178.1999969482422,
+      "Close": 178.6699981689453,
+      "Volume": 11565268
     }
   ]
 }

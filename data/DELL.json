@@ -1,34 +1,26 @@
 {
   "ticker": "DELL",
   "indicators": {
-    "macd_hist": 0.731352321005021,
-    "macd_slope": -0.1384079808705467,
+    "macd_hist": 0.7992427073029038,
+    "macd_slope": -0.12093061344616547,
     "rsi": 0.0,
-    "rsi_slope": -1.8465500942625361,
-    "wave_strength": 1.006892471248934,
-    "adx": 33.60650594617709,
-    "atr": 6.1259345144489314,
-    "obv_slope": -276070.71428571426,
-    "mom14": 0.005697968840381764,
+    "rsi_slope": -0.5522423621355793,
+    "wave_strength": 1.0788565183789287,
+    "adx": 35.007267786642394,
+    "atr": 6.1147514256126145,
+    "obv_slope": 405421.71428571426,
+    "mom14": 0.0527920465457122,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA",
-    "score_0_100": 76.62,
-    "score_0_10": 7.66,
-    "last_close": 164.8800048828125,
-    "avg_vol20": 8611995.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.41,
+    "score_0_10": 7.24,
+    "last_close": 163.60000610351562,
+    "avg_vol20": 8160509.8
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 84.37999725341797,
-      "High": 84.66999816894531,
-      "Low": 83.3499984741211,
-      "Close": 83.41000366210938,
-      "Volume": 2710300
-    },
     {
       "Date": "2024-01-30",
       "Open": 85.72000122070312,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-28",
       "Open": 162.4199981689453,
-      "High": 166.99000549316406,
-      "Low": 160.6800994873047,
+      "High": 167.0,
+      "Low": 160.67999267578125,
       "Close": 164.8800048828125,
-      "Volume": 6022610
+      "Volume": 6446400
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 167.0,
+      "High": 167.92999267578125,
+      "Low": 161.97000122070312,
+      "Close": 163.60000610351562,
+      "Volume": 4158496
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CRL",
   "indicators": {
-    "macd_hist": 1.4935069771831397,
-    "macd_slope": -0.07713028038750479,
+    "macd_hist": 0.42212913526703666,
+    "macd_slope": -0.12912796275547853,
     "rsi": 0.0,
-    "rsi_slope": 0.01775620521369246,
-    "wave_strength": 1.1018778114118637,
-    "adx": 30.42395056720549,
-    "atr": 6.329584868362232,
-    "obv_slope": 188361.92857142858,
-    "mom14": 0.08335730301103134,
+    "rsi_slope": -0.5410035637287051,
+    "wave_strength": 1.0989065817333883,
+    "adx": 28.512838341087278,
+    "atr": 7.008186080038184,
+    "obv_slope": 137863.0,
+    "mom14": 0.04653186089948142,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.26,
-    "score_0_10": 7.73,
-    "last_close": 187.92999267578125,
-    "avg_vol20": 1032216.65
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.38,
+    "score_0_10": 7.94,
+    "last_close": 180.14999389648438,
+    "avg_vol20": 1047145.9
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 219.39999389648438,
-      "High": 225.16000366210938,
-      "Low": 218.42999267578125,
-      "Close": 224.55999755859375,
-      "Volume": 571600
-    },
     {
       "Date": "2024-01-30",
       "Open": 224.11000061035156,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-28",
       "Open": 193.4499969482422,
-      "High": 193.46499633789062,
+      "High": 193.47000122070312,
       "Low": 187.02999877929688,
       "Close": 187.92999267578125,
-      "Volume": 1102933
+      "Volume": 1102900
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 186.7100067138672,
+      "High": 191.41000366210938,
+      "Low": 175.5800018310547,
+      "Close": 180.14999389648438,
+      "Volume": 1590718
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "UPS",
   "indicators": {
-    "macd_hist": 0.9280232768451683,
-    "macd_slope": 0.033788178420011784,
+    "macd_hist": 1.2474594586984964,
+    "macd_slope": 0.06307293359669577,
     "rsi": 0.0,
-    "rsi_slope": 1.4945233977829078,
-    "wave_strength": 1.0186352300089152,
-    "adx": 20.356275103523007,
-    "atr": 2.443185419525072,
-    "obv_slope": 4702793.928571428,
-    "mom14": 0.11721739838088768,
+    "rsi_slope": 1.8576228899867182,
+    "wave_strength": 1.0110217771210717,
+    "adx": 23.49632489580471,
+    "atr": 2.451879550982922,
+    "obv_slope": 5878170.357142857,
+    "mom14": 0.14212010928785757,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 91.37,
-    "score_0_10": 9.14,
-    "last_close": 96.36000061035156,
-    "avg_vol20": 7853305.75
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.63,
+    "score_0_10": 8.26,
+    "last_close": 97.4000015258789,
+    "avg_vol20": 8033094.25
   },
   "history": [
-    {
-      "Date": "2024-01-29",
-      "Open": 158.41000366210938,
-      "High": 158.75,
-      "Low": 156.5,
-      "Close": 158.02000427246094,
-      "Volume": 5459700
-    },
     {
       "Date": "2024-01-30",
       "Open": 146.8000030517578,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-28",
       "Open": 98.44999694824219,
       "High": 100.56999969482422,
-      "Low": 95.05000305175781,
+      "Low": 95.0,
       "Close": 96.36000061035156,
-      "Volume": 28451715
+      "Volume": 30027000
+    },
+    {
+      "Date": "2025-10-29",
+      "Open": 96.9000015258789,
+      "High": 98.29000091552734,
+      "Low": 95.72509765625,
+      "Close": 97.4000015258789,
+      "Volume": 9095285
     }
   ]
 }
