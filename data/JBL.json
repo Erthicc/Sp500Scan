@@ -1,34 +1,26 @@
 {
   "ticker": "JBL",
   "indicators": {
-    "macd_hist": 2.057310477154167,
-    "macd_slope": 0.27694941486236846,
+    "macd_hist": 2.3368286439663,
+    "macd_slope": 0.3317407473636352,
     "rsi": 0.0,
-    "rsi_slope": 2.036813159013556,
-    "wave_strength": 1.0299522033759503,
-    "adx": 16.948770344601385,
-    "atr": 7.612646517613533,
-    "obv_slope": 163531.7857142857,
-    "mom14": 0.08602413185871216,
+    "rsi_slope": 3.8662992100825653,
+    "wave_strength": 1.0763443714777523,
+    "adx": 16.997964611715044,
+    "atr": 7.778835312089342,
+    "obv_slope": 199082.14285714287,
+    "mom14": 0.14165676039690311,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 80.98,
-    "score_0_10": 8.1,
-    "last_close": 222.32000732421875,
-    "avg_vol20": 1256117.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 86.38,
+    "score_0_10": 8.64,
+    "last_close": 221.47000122070312,
+    "avg_vol20": 1235327.5
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 127.0,
-      "High": 128.4499969482422,
-      "Low": 126.12000274658203,
-      "Close": 127.5999984741211,
-      "Volume": 1067300
-    },
     {
       "Date": "2024-01-31",
       "Open": 126.25,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 212.7100067138672,
-      "High": 226.82989501953125,
-      "Low": 212.3800048828125,
+      "High": 226.8300018310547,
+      "Low": 212.22999572753906,
       "Close": 222.32000732421875,
-      "Volume": 1540645
+      "Volume": 1540700
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 220.88999938964844,
+      "High": 228.88999938964844,
+      "Low": 219.09010314941406,
+      "Close": 221.47000122070312,
+      "Volume": 910750
     }
   ]
 }

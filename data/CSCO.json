@@ -1,34 +1,26 @@
 {
   "ticker": "CSCO",
   "indicators": {
-    "macd_hist": 0.20187946689054836,
-    "macd_slope": -0.007646870986232073,
+    "macd_hist": 0.25187992413679183,
+    "macd_slope": 0.0056385032318678795,
     "rsi": 0.0,
-    "rsi_slope": -0.6779777489003861,
-    "wave_strength": 1.0410872931790425,
-    "adx": 22.844316440955975,
-    "atr": 1.3474511924665435,
-    "obv_slope": 2044561.142857143,
-    "mom14": 0.01958265815480975,
+    "rsi_slope": 1.4734025909854793,
+    "wave_strength": 1.037361920173796,
+    "adx": 24.18665016312076,
+    "atr": 1.3780159979359037,
+    "obv_slope": 4802718.857142857,
+    "mom14": 0.07315279720499601,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.09,
-    "score_0_10": 6.61,
-    "last_close": 71.33000183105469,
-    "avg_vol20": 17090507.2
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 69.11,
+    "score_0_10": 6.91,
+    "last_close": 72.91000366210938,
+    "avg_vol20": 17228763.2
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 52.29999923706055,
-      "High": 52.41999816894531,
-      "Low": 52.0,
-      "Close": 52.2400016784668,
-      "Volume": 14322100
-    },
     {
       "Date": "2024-01-31",
       "Open": 51.849998474121094,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-29",
       "Open": 72.68000030517578,
       "High": 72.81999969482422,
-      "Low": 70.91500091552734,
+      "Low": 70.91999816894531,
       "Close": 71.33000183105469,
-      "Volume": 17610244
+      "Volume": 18020600
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 71.51000213623047,
+      "High": 73.11000061035156,
+      "Low": 71.33999633789062,
+      "Close": 72.91000366210938,
+      "Volume": 18063064
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SPGI",
   "indicators": {
-    "macd_hist": 2.485169121319556,
-    "macd_slope": 0.16517747049119894,
+    "macd_hist": 2.7941714452875663,
+    "macd_slope": 0.13874554357348126,
     "rsi": 0.0,
-    "rsi_slope": 0.6191392767704151,
-    "wave_strength": 1.0300593273891527,
-    "adx": 29.278726217483356,
-    "atr": 9.72448266085535,
-    "obv_slope": -148426.85714285713,
-    "mom14": -0.02985992493179999,
+    "rsi_slope": 1.405383924413462,
+    "wave_strength": 1.0284659043130526,
+    "adx": 27.829544878751612,
+    "atr": 10.972734771628101,
+    "obv_slope": 168650.57142857142,
+    "mom14": 0.01125283100600966,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 57.33,
-    "score_0_10": 5.73,
-    "last_close": 473.04998779296875,
-    "avg_vol20": 1627398.8
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; rising OBV",
+    "score_0_100": 65.38,
+    "score_0_10": 6.54,
+    "last_close": 491.57000732421875,
+    "avg_vol20": 1701545.4
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 450.19000244140625,
-      "High": 455.3299865722656,
-      "Low": 448.5,
-      "Close": 454.55999755859375,
-      "Volume": 1098700
-    },
     {
       "Date": "2024-01-31",
       "Open": 455.010009765625,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 489.3599853515625,
-      "High": 489.9999084472656,
+      "High": 490.0,
       "Low": 470.9700012207031,
       "Close": 473.04998779296875,
-      "Volume": 2126876
+      "Volume": 2540700
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 487.7699890136719,
+      "High": 500.25,
+      "Low": 486.8900146484375,
+      "Close": 491.57000732421875,
+      "Volume": 2629808
     }
   ]
 }

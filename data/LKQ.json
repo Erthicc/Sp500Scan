@@ -1,34 +1,26 @@
 {
   "ticker": "LKQ",
   "indicators": {
-    "macd_hist": 0.14049638155257352,
-    "macd_slope": 0.016569149234265425,
+    "macd_hist": 0.15982710592476865,
+    "macd_slope": 0.022564042331989314,
     "rsi": 0.0,
-    "rsi_slope": 1.6207589503154125,
-    "wave_strength": 1.0414013086594136,
-    "adx": 14.453331938437758,
-    "atr": 0.6670881638079679,
-    "obv_slope": 511679.78571428574,
-    "mom14": 0.024906225277595367,
+    "rsi_slope": 2.7712471798620726,
+    "wave_strength": 1.0416597544397042,
+    "adx": 14.906668625258934,
+    "atr": 0.7972959995424738,
+    "obv_slope": 1069499.2142857143,
+    "mom14": 0.08647139176594677,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; volume spike; rising OBV",
-    "score_0_100": 63.44,
-    "score_0_10": 6.34,
-    "last_close": 30.040000915527344,
-    "avg_vol20": 2414089.15
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 75.75,
+    "score_0_10": 7.58,
+    "last_close": 31.15999984741211,
+    "avg_vol20": 2582809.45
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 47.470001220703125,
-      "High": 47.880001068115234,
-      "Low": 47.08000183105469,
-      "Close": 47.529998779296875,
-      "Volume": 1678200
-    },
     {
       "Date": "2024-01-31",
       "Open": 47.54999923706055,
@@ -3539,7 +3531,15 @@
       "High": 30.8799991607666,
       "Low": 30.020000457763672,
       "Close": 30.040000915527344,
-      "Volume": 4117483
+      "Volume": 4170600
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 31.549999237060547,
+      "High": 32.529998779296875,
+      "Low": 30.440000534057617,
+      "Close": 31.15999984741211,
+      "Volume": 5602389
     }
   ]
 }

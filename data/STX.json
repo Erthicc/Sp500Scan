@@ -1,34 +1,26 @@
 {
   "ticker": "STX",
   "indicators": {
-    "macd_hist": 1.496421636127681,
-    "macd_slope": 0.32869126164659773,
+    "macd_hist": 3.2051000114969,
+    "macd_slope": 0.5323552376097621,
     "rsi": 0.0,
-    "rsi_slope": 1.265309421688335,
-    "wave_strength": 1.0265629295333443,
-    "adx": 26.73837208350299,
-    "atr": 14.009055433536057,
-    "obv_slope": 606790.4285714285,
-    "mom14": 0.19810554250570794,
+    "rsi_slope": 2.2116549126571945,
+    "wave_strength": 1.023512303960598,
+    "adx": 27.78276449204288,
+    "atr": 14.185552258825348,
+    "obv_slope": 1487508.2142857143,
+    "mom14": 0.2516791927575488,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 92.36,
-    "score_0_10": 9.24,
-    "last_close": 265.6199951171875,
-    "avg_vol20": 4918323.3
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 86.49,
+    "score_0_10": 8.65,
+    "last_close": 268.3349914550781,
+    "avg_vol20": 5035210.75
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 88.80000305175781,
-      "High": 89.18000030517578,
-      "Low": 87.19000244140625,
-      "Close": 87.58999633789062,
-      "Volume": 2406100
-    },
     {
       "Date": "2024-01-31",
       "Open": 87.3499984741211,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-29",
-      "Open": 240.82000732421875,
+      "Open": 240.52000427246094,
       "High": 268.9100036621094,
       "Low": 240.05999755859375,
       "Close": 265.6199951171875,
-      "Volume": 9878566
+      "Volume": 9900800
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 258.2099914550781,
+      "High": 274.4800109863281,
+      "Low": 258.0,
+      "Close": 268.3349914550781,
+      "Volume": 7116815
     }
   ]
 }

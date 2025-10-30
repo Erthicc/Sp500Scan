@@ -1,34 +1,26 @@
 {
   "ticker": "PCAR",
   "indicators": {
-    "macd_hist": 0.42884152446837226,
-    "macd_slope": 0.05919968909587577,
+    "macd_hist": 0.34594079782563913,
+    "macd_slope": 0.06520693804724552,
     "rsi": 0.0,
-    "rsi_slope": 1.4974820929361374,
-    "wave_strength": 1.0394685550311131,
-    "adx": 15.48501480622863,
-    "atr": 2.5447564904733397,
-    "obv_slope": -22157.85714285714,
-    "mom14": 0.03140094334633797,
+    "rsi_slope": 2.300103302399034,
+    "wave_strength": 1.0396075382786716,
+    "adx": 14.544804267393832,
+    "atr": 2.561559511108914,
+    "obv_slope": 317724.71428571426,
+    "mom14": 0.06258064187983031,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 66.96,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 67.02,
     "score_0_10": 6.7,
-    "last_close": 98.20999908447266,
-    "avg_vol20": 2958530.5
+    "last_close": 98.81999969482422,
+    "avg_vol20": 2946752.3
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 100.63999938964844,
-      "High": 102.25,
-      "Low": 100.44999694824219,
-      "Close": 101.97000122070312,
-      "Volume": 1713000
-    },
     {
       "Date": "2024-01-31",
       "Open": 101.94999694824219,
@@ -3539,7 +3531,15 @@
       "High": 100.87999725341797,
       "Low": 97.52999877929688,
       "Close": 98.20999908447266,
-      "Volume": 2962210
+      "Volume": 3037500
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 97.7699966430664,
+      "High": 99.77999877929688,
+      "Low": 97.0,
+      "Close": 98.81999969482422,
+      "Volume": 2160446
     }
   ]
 }

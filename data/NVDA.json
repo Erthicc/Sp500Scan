@@ -1,34 +1,26 @@
 {
   "ticker": "NVDA",
   "indicators": {
-    "macd_hist": 1.9734564341527348,
-    "macd_slope": 0.07254236092259493,
+    "macd_hist": 2.154196757220582,
+    "macd_slope": 0.12559864061418044,
     "rsi": 0.0,
-    "rsi_slope": -0.6193775173790463,
-    "wave_strength": 0.9805201828658816,
-    "adx": 18.643926755863824,
-    "atr": 6.253321511162462,
-    "obv_slope": 28580379.35714286,
-    "mom14": 0.07514143122792638,
+    "rsi_slope": 1.4254808132680832,
+    "wave_strength": 1.10386006320414,
+    "adx": 19.614576057759134,
+    "atr": 6.208804889485805,
+    "obv_slope": 35712706.35714286,
+    "mom14": 0.1077200007264503,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 86.19,
-    "score_0_10": 8.62,
-    "last_close": 207.0399932861328,
-    "avg_vol20": 174663090.55
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.81,
+    "score_0_10": 7.98,
+    "last_close": 202.88999938964844,
+    "avg_vol20": 176793300.55
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 62.900001525878906,
-      "High": 63.49300003051758,
-      "Low": 62.2599983215332,
-      "Close": 62.77399826049805,
-      "Volume": 410735000
-    },
     {
       "Date": "2024-01-31",
       "Open": 61.439998626708984,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 207.97999572753906,
-      "High": 212.1898956298828,
+      "High": 212.19000244140625,
       "Low": 204.77999877929688,
       "Close": 207.0399932861328,
-      "Volume": 303585511
+      "Volume": 308829600
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 205.2050018310547,
+      "High": 206.16000366210938,
+      "Low": 201.41000366210938,
+      "Close": 202.88999938964844,
+      "Volume": 174165911
     }
   ]
 }

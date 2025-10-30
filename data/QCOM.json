@@ -1,34 +1,26 @@
 {
   "ticker": "QCOM",
   "indicators": {
-    "macd_hist": 1.680081182464762,
-    "macd_slope": 0.16551337696581284,
+    "macd_hist": 1.4056056783708906,
+    "macd_slope": 0.20608745599241243,
     "rsi": 0.0,
-    "rsi_slope": 0.9470833432952064,
-    "wave_strength": 1.1156022202067783,
-    "adx": 31.20987823081531,
-    "atr": 6.624153278004477,
-    "obv_slope": 4904302.285714285,
-    "mom14": 0.07853431256329045,
+    "rsi_slope": 3.3361809664435063,
+    "wave_strength": 1.1128207014719207,
+    "adx": 33.34236581878336,
+    "atr": 6.34380641681715,
+    "obv_slope": 5471838.642857143,
+    "mom14": 0.15411158755985938,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 78.89,
-    "score_0_10": 7.89,
-    "last_close": 178.6699981689453,
-    "avg_vol20": 12194203.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.24,
+    "score_0_10": 8.22,
+    "last_close": 177.25999450683594,
+    "avg_vol20": 12312882.95
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 148.0,
-      "High": 148.8000030517578,
-      "Low": 145.57000732421875,
-      "Close": 145.97999572753906,
-      "Volume": 9132800
-    },
     {
       "Date": "2024-01-31",
       "Open": 145.33999633789062,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-29",
-      "Open": 181.82000732421875,
-      "High": 183.47999572753906,
+      "Open": 182.0,
+      "High": 183.49000549316406,
       "Low": 178.1999969482422,
       "Close": 178.6699981689453,
-      "Volume": 11565268
+      "Volume": 11614600
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 178.6699981689453,
+      "High": 179.8800048828125,
+      "Low": 177.19000244140625,
+      "Close": 177.25999450683594,
+      "Volume": 7823759
     }
   ]
 }

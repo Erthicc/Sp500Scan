@@ -1,34 +1,26 @@
 {
   "ticker": "EBAY",
   "indicators": {
-    "macd_hist": 0.8528351163032379,
-    "macd_slope": 0.057655712975653035,
+    "macd_hist": -0.20810484445446686,
+    "macd_slope": -0.005913847027098977,
     "rsi": 0.0,
-    "rsi_slope": 2.52996321932874,
-    "wave_strength": 1.0670410063797846,
-    "adx": 18.249541172274032,
-    "atr": 2.843113409644814,
-    "obv_slope": 2080035.5714285714,
-    "mom14": 0.10440479250932766,
-    "macd_bull": 1,
+    "rsi_slope": -0.22557144933739387,
+    "wave_strength": 1.0697174912424956,
+    "adx": 18.914530103457675,
+    "atr": 3.787508519688265,
+    "obv_slope": 1222976.0,
+    "mom14": -0.054432518675430315,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 81.08,
-    "score_0_10": 8.11,
-    "last_close": 99.54000091552734,
-    "avg_vol20": 5472500.1
+    "above_trend": 0,
+    "explanation": "volume spike; rising OBV; strong wave vs SMA20",
+    "score_0_100": 29.36,
+    "score_0_10": 2.94,
+    "last_close": 83.7300033569336,
+    "avg_vol20": 5977411.8
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 42.380001068115234,
-      "High": 42.40999984741211,
-      "Low": 41.91999816894531,
-      "Close": 41.95000076293945,
-      "Volume": 5073300
-    },
     {
       "Date": "2024-01-31",
       "Open": 41.970001220703125,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-29",
-      "Open": 98.7699966430664,
-      "High": 101.11499786376953,
+      "Open": 98.94999694824219,
+      "High": 101.12000274658203,
       "Low": 95.77999877929688,
       "Close": 99.54000091552734,
-      "Volume": 9078602
+      "Volume": 9165200
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 85.08999633789062,
+      "High": 87.87999725341797,
+      "Low": 83.4800033569336,
+      "Close": 83.7300033569336,
+      "Volume": 16033436
     }
   ]
 }

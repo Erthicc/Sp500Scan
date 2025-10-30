@@ -1,34 +1,26 @@
 {
   "ticker": "SWKS",
   "indicators": {
-    "macd_hist": 0.4873120870491717,
-    "macd_slope": 0.07915572690411889,
+    "macd_hist": 0.5455707151272984,
+    "macd_slope": 0.10760068829984169,
     "rsi": 0.0,
-    "rsi_slope": 1.6647974376028765,
-    "wave_strength": 1.0659123471866636,
-    "adx": 24.56520452737257,
-    "atr": 3.666867891328191,
-    "obv_slope": 675705.2142857143,
-    "mom14": 0.06925581907104143,
+    "rsi_slope": 4.073913154055632,
+    "wave_strength": 1.0646468791830503,
+    "adx": 25.674062132459834,
+    "atr": 3.593163194560173,
+    "obv_slope": 1171622.5714285714,
+    "mom14": 0.14459224219906586,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.32,
-    "score_0_10": 8.03,
-    "last_close": 78.73999786376953,
-    "avg_vol20": 2763226.35
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.78,
+    "score_0_10": 7.58,
+    "last_close": 79.16000366210938,
+    "avg_vol20": 2870830.8
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 105.11000061035156,
-      "High": 106.56999969482422,
-      "Low": 103.66999816894531,
-      "Close": 104.33000183105469,
-      "Volume": 3671500
-    },
     {
       "Date": "2024-01-31",
       "Open": 107.5,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-29",
-      "Open": 83.01000213623047,
+      "Open": 83.13999938964844,
       "High": 84.52999877929688,
       "Low": 78.58999633789062,
       "Close": 78.73999786376953,
-      "Volume": 7435827
+      "Volume": 7443100
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 78.73999786376953,
+      "High": 81.12000274658203,
+      "Low": 78.48500061035156,
+      "Close": 79.16000366210938,
+      "Volume": 3887416
     }
   ]
 }

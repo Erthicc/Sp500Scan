@@ -1,34 +1,26 @@
 {
   "ticker": "GLW",
   "indicators": {
-    "macd_hist": -0.12004103836303015,
-    "macd_slope": -0.02034443854382625,
+    "macd_hist": -0.020723126961693428,
+    "macd_slope": 0.008058721131211153,
     "rsi": 0.0,
-    "rsi_slope": -1.55302631082326,
-    "wave_strength": 1.0413232119760287,
-    "adx": 31.945264309798866,
-    "atr": 2.8619897399661505,
-    "obv_slope": 1672217.857142857,
-    "mom14": 0.03555451757447038,
+    "rsi_slope": 0.3518238270616309,
+    "wave_strength": 1.0473080823293894,
+    "adx": 30.694019625848316,
+    "atr": 2.8925109354675342,
+    "obv_slope": 1907101.357142857,
+    "mom14": 0.08797294681904001,
     "macd_bull": 0,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 53.16,
-    "score_0_10": 5.32,
-    "last_close": 90.29000091552734,
-    "avg_vol20": 7412622.5
+    "explanation": "Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 48.42,
+    "score_0_10": 4.84,
+    "last_close": 90.27999877929688,
+    "avg_vol20": 7283969.05
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 32.79999923706055,
-      "High": 33.869998931884766,
-      "Low": 32.59000015258789,
-      "Close": 33.29999923706055,
-      "Volume": 11379800
-    },
     {
       "Date": "2024-01-31",
       "Open": 33.31999969482422,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-29",
       "Open": 87.3499984741211,
-      "High": 91.91999816894531,
+      "High": 91.93000030517578,
       "Low": 86.5,
       "Close": 90.29000091552734,
-      "Volume": 13111050
+      "Volume": 13123000
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 88.80999755859375,
+      "High": 91.77999877929688,
+      "Low": 88.5,
+      "Close": 90.27999877929688,
+      "Volume": 4622081
     }
   ]
 }

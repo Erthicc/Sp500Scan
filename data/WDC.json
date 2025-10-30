@@ -1,34 +1,26 @@
 {
   "ticker": "WDC",
   "indicators": {
-    "macd_hist": 0.28502053477200917,
-    "macd_slope": 0.05929596101471368,
+    "macd_hist": 0.6160718373148688,
+    "macd_slope": 0.1308160572907528,
     "rsi": 0.0,
-    "rsi_slope": 0.3088530465932143,
-    "wave_strength": 1.0437229346422487,
-    "adx": 39.13580366339885,
-    "atr": 7.608897780308426,
-    "obv_slope": 1293825.857142857,
-    "mom14": 0.1811195362347809,
+    "rsi_slope": 1.1040275757338338,
+    "wave_strength": 1.1369384799211375,
+    "adx": 39.609990461789316,
+    "atr": 7.564476475334942,
+    "obv_slope": 939677.2142857143,
+    "mom14": 0.19675972166128053,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 94.25,
-    "score_0_10": 9.42,
-    "last_close": 141.3800048828125,
-    "avg_vol20": 9399513.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.59,
+    "score_0_10": 8.26,
+    "last_close": 138.1300048828125,
+    "avg_vol20": 9241500.95
   },
   "history": [
-    {
-      "Date": "2024-01-30",
-      "Open": 45.04157257080078,
-      "High": 45.16250991821289,
-      "Low": 43.696144104003906,
-      "Close": 43.93046188354492,
-      "Volume": 12855723
-    },
     {
       "Date": "2024-01-31",
       "Open": 43.60544204711914,
@@ -3539,7 +3531,15 @@
       "High": 145.67999267578125,
       "Low": 131.25,
       "Close": 141.3800048828125,
-      "Volume": 18196462
+      "Volume": 18267300
+    },
+    {
+      "Date": "2025-10-30",
+      "Open": 137.66000366210938,
+      "High": 141.9969940185547,
+      "Low": 135.00999450683594,
+      "Close": 138.1300048828125,
+      "Volume": 12075119
     }
   ]
 }
