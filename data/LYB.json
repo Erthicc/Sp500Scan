@@ -1,34 +1,26 @@
 {
   "ticker": "LYB",
   "indicators": {
-    "macd_hist": 0.2367133191579529,
-    "macd_slope": 0.0364772558910204,
+    "macd_hist": 0.22689781796368624,
+    "macd_slope": 0.03544160842111366,
     "rsi": 0.0,
-    "rsi_slope": 1.909918639644223,
-    "wave_strength": 1.0452130828623454,
-    "adx": 28.298495586795436,
-    "atr": 1.5781080006801762,
-    "obv_slope": -35711.71428571428,
-    "mom14": 0.006457379570533548,
+    "rsi_slope": 1.1933058249781148,
+    "wave_strength": 1.0486179437048415,
+    "adx": 26.698022239999897,
+    "atr": 1.6703859240853467,
+    "obv_slope": 247324.57142857142,
+    "mom14": 0.0032417918672501852,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; volume spike",
-    "score_0_100": 66.04,
-    "score_0_10": 6.6,
-    "last_close": 45.20000076293945,
-    "avg_vol20": 4379778.2
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; rising OBV",
+    "score_0_100": 59.55,
+    "score_0_10": 5.96,
+    "last_close": 46.41999816894531,
+    "avg_vol20": 4674152.2
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 95.83000183105469,
-      "High": 95.83000183105469,
-      "Low": 93.81999969482422,
-      "Close": 94.12000274658203,
-      "Volume": 2451400
-    },
     {
       "Date": "2024-02-01",
       "Open": 94.3499984741211,
@@ -3539,7 +3531,15 @@
       "High": 46.27000045776367,
       "Low": 45.09000015258789,
       "Close": 45.20000076293945,
-      "Volume": 6798764
+      "Volume": 6806000
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 48.06999969482422,
+      "High": 48.06999969482422,
+      "Low": 45.310001373291016,
+      "Close": 46.41999816894531,
+      "Volume": 8532444
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "AMZN",
   "indicators": {
-    "macd_hist": 1.2758114349019176,
-    "macd_slope": 0.0971795108330445,
+    "macd_hist": 2.3186121998491385,
+    "macd_slope": 0.17407160447492423,
     "rsi": 0.0,
-    "rsi_slope": 1.5021625278624822,
-    "wave_strength": 1.0415630374505347,
-    "adx": 18.08058513838728,
-    "atr": 5.254334086346824,
-    "obv_slope": 1211388.7857142857,
-    "mom14": 0.029994942180633827,
+    "rsi_slope": 1.4679662188180411,
+    "wave_strength": 1.0357754164671724,
+    "adx": 20.16721065814668,
+    "atr": 6.853310179439796,
+    "obv_slope": 9754042.785714285,
+    "mom14": 0.10973777930995081,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 1,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; volume spike; rising OBV",
-    "score_0_100": 63.92,
-    "score_0_10": 6.39,
-    "last_close": 222.86000061035156,
-    "avg_vol20": 46833077.85
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 83.39,
+    "score_0_10": 8.34,
+    "last_close": 244.22000122070312,
+    "avg_vol20": 53389674.95
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 157.0,
-      "High": 159.00999450683594,
-      "Low": 154.80999755859375,
-      "Close": 155.1999969482422,
-      "Volume": 50284400
-    },
     {
       "Date": "2024-02-01",
       "Open": 155.8699951171875,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-30",
-      "Open": 226.87249755859375,
-      "High": 228.42999267578125,
+      "Open": 227.05999755859375,
+      "High": 228.44000244140625,
       "Low": 222.75,
       "Close": 222.86000061035156,
-      "Volume": 93570857
+      "Volume": 102252900
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 250.1999969482422,
+      "High": 250.5,
+      "Low": 243.97999572753906,
+      "Close": 244.22000122070312,
+      "Volume": 166088899
     }
   ]
 }

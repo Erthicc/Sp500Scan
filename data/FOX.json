@@ -1,34 +1,26 @@
 {
   "ticker": "FOX",
   "indicators": {
-    "macd_hist": 0.552155547420812,
-    "macd_slope": 0.07436342077726095,
+    "macd_hist": 0.6836667142029558,
+    "macd_slope": 0.08680454419323348,
     "rsi": 0.0,
-    "rsi_slope": 4.2022360148081495,
-    "wave_strength": 1.0265486924195948,
-    "adx": 17.860267414309522,
-    "atr": 1.506170426224651,
-    "obv_slope": 500100.4285714286,
-    "mom14": 0.14455253082891292,
+    "rsi_slope": 3.5073925839344438,
+    "wave_strength": 1.0991023251351368,
+    "adx": 19.882928866591808,
+    "atr": 1.4885869769375872,
+    "obv_slope": 356158.64285714284,
+    "mom14": 0.1243503174129142,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 89.12,
-    "score_0_10": 8.91,
-    "last_close": 58.83000183105469,
-    "avg_vol20": 1075090.3
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.62,
+    "score_0_10": 8.06,
+    "last_close": 58.40999984741211,
+    "avg_vol20": 1076018.95
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 29.90999984741211,
-      "High": 30.405000686645508,
-      "Low": 29.70199966430664,
-      "Close": 30.010000228881836,
-      "Volume": 1813000
-    },
     {
       "Date": "2024-02-01",
       "Open": 30.010000228881836,
@@ -3539,7 +3531,15 @@
       "High": 59.9900016784668,
       "Low": 56.0,
       "Close": 58.83000183105469,
-      "Volume": 2363906
+      "Volume": 2436600
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 58.790000915527344,
+      "High": 58.79999923706055,
+      "Low": 57.56999969482422,
+      "Close": 58.40999984741211,
+      "Volume": 1442979
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "JBL",
   "indicators": {
-    "macd_hist": 2.3368286439663,
-    "macd_slope": 0.3317407473636352,
+    "macd_hist": 2.36130402366713,
+    "macd_slope": 0.31883283132975115,
     "rsi": 0.0,
-    "rsi_slope": 3.8662992100825653,
-    "wave_strength": 1.0763443714777523,
-    "adx": 16.997964611715044,
-    "atr": 7.778835312089342,
-    "obv_slope": 199082.14285714287,
-    "mom14": 0.14165676039690311,
+    "rsi_slope": 3.2308802464655293,
+    "wave_strength": 1.0714656089943915,
+    "adx": 17.082784371210455,
+    "atr": 7.883873506027378,
+    "obv_slope": 53980.21428571428,
+    "mom14": 0.1050025319362114,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 86.38,
-    "score_0_10": 8.64,
-    "last_close": 221.47000122070312,
-    "avg_vol20": 1235327.5
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 68.47,
+    "score_0_10": 6.85,
+    "last_close": 220.88999938964844,
+    "avg_vol20": 1177113.85
   },
   "history": [
-    {
-      "Date": "2024-01-31",
-      "Open": 126.25,
-      "High": 127.20999908447266,
-      "Low": 124.56999969482422,
-      "Close": 125.29000091552734,
-      "Volume": 1139200
-    },
     {
       "Date": "2024-02-01",
       "Open": 125.75,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-30",
       "Open": 220.88999938964844,
-      "High": 228.88999938964844,
-      "Low": 219.09010314941406,
+      "High": 228.89999389648438,
+      "Low": 219.08999633789062,
       "Close": 221.47000122070312,
-      "Volume": 910750
+      "Volume": 911400
+    },
+    {
+      "Date": "2025-10-31",
+      "Open": 223.16000366210938,
+      "High": 229.22999572753906,
+      "Low": 219.99000549316406,
+      "Close": 220.88999938964844,
+      "Volume": 885377
     }
   ]
 }
