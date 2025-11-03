@@ -1,34 +1,26 @@
 {
   "ticker": "CAH",
   "indicators": {
-    "macd_hist": 3.224216820910084,
-    "macd_slope": 0.21891878576674664,
+    "macd_hist": 3.5682606730770345,
+    "macd_slope": 0.25743743892960486,
     "rsi": 0.0,
-    "rsi_slope": 2.9171955583177307,
-    "wave_strength": 1.0155809333547863,
-    "adx": 23.483345861137575,
-    "atr": 5.300656007687358,
-    "obv_slope": 1271140.5714285714,
-    "mom14": 0.2362776702139652,
+    "rsi_slope": 2.8653712419329826,
+    "wave_strength": 1.1700917459973763,
+    "adx": 26.53636693119839,
+    "atr": 5.230609673069269,
+    "obv_slope": 1360491.0,
+    "mom14": 0.23367272980612758,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 86.19,
-    "score_0_10": 8.62,
-    "last_close": 190.77000427246094,
-    "avg_vol20": 2094613.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 96.43,
+    "score_0_10": 9.64,
+    "last_close": 190.22000122070312,
+    "avg_vol20": 2170361.3
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 104.0,
-      "High": 105.16999816894531,
-      "Low": 101.7699966430664,
-      "Close": 105.0999984741211,
-      "Volume": 4648400
-    },
     {
       "Date": "2024-02-02",
       "Open": 105.80000305175781,
@@ -3537,9 +3529,17 @@
       "Date": "2025-10-31",
       "Open": 192.07000732421875,
       "High": 197.6699981689453,
-      "Low": 190.24009704589844,
+      "Low": 190.24000549316406,
       "Close": 190.77000427246094,
-      "Volume": 3143368
+      "Volume": 4080700
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 191.07000732421875,
+      "High": 192.47000122070312,
+      "Low": 188.14999389648438,
+      "Close": 190.22000122070312,
+      "Volume": 2002826
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DD",
   "indicators": {
-    "macd_hist": 0.16384582836705452,
-    "macd_slope": 0.04244054755612835,
-    "rsi": 0.0,
-    "rsi_slope": 2.061990767295182,
-    "wave_strength": 1.0321478904672698,
-    "adx": 18.810438216875752,
-    "atr": 1.9467806770505567,
-    "obv_slope": 1414320.5714285714,
-    "mom14": 0.07504943787583182,
-    "macd_bull": 1,
+    "macd_hist": -2.8826271639940115,
+    "macd_slope": -0.1811977874810948,
+    "rsi": 0.697049987969104,
+    "rsi_slope": -3.0058782834502376,
+    "wave_strength": 1.0563494448190252,
+    "adx": 23.036362192739734,
+    "atr": 5.258796517320405,
+    "obv_slope": 416044.78571428574,
+    "mom14": -0.5528487005935744,
+    "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 62.33,
-    "score_0_10": 6.23,
-    "last_close": 81.6500015258789,
-    "avg_vol20": 2899694.4
+    "vol_spike": 1,
+    "above_trend": 0,
+    "explanation": "volume spike; RSI oversold; rising OBV; strong wave vs SMA20",
+    "score_0_100": 28.4,
+    "score_0_10": 2.84,
+    "last_close": 34.689998626708984,
+    "avg_vol20": 3387348.65
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 62.20000076293945,
-      "High": 62.33000183105469,
-      "Low": 61.290000915527344,
-      "Close": 61.959999084472656,
-      "Volume": 3643700
-    },
     {
       "Date": "2024-02-02",
       "Open": 61.310001373291016,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-10-31",
-      "Open": 81.375,
+      "Open": 81.37999725341797,
       "High": 83.12999725341797,
       "Low": 81.06999969482422,
       "Close": 81.6500015258789,
-      "Volume": 3153888
+      "Volume": 4005200
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 33.689998626708984,
+      "High": 34.89500045776367,
+      "Low": 33.334999084472656,
+      "Close": 34.689998626708984,
+      "Volume": 12083573
     }
   ]
 }

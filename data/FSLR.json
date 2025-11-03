@@ -1,34 +1,26 @@
 {
   "ticker": "FSLR",
   "indicators": {
-    "macd_hist": 1.4552594110080799,
-    "macd_slope": 0.14179293484666505,
+    "macd_hist": 2.337005527732206,
+    "macd_slope": 0.23486641453323248,
     "rsi": 0.0,
-    "rsi_slope": 0.4472473825182414,
-    "wave_strength": 1.030131289510543,
-    "adx": 23.321114155167045,
-    "atr": 11.873769355751389,
-    "obv_slope": 163504.64285714287,
-    "mom14": 0.18036705569663947,
+    "rsi_slope": 0.8382366382089563,
+    "wave_strength": 1.128964566352548,
+    "adx": 24.534665042418492,
+    "atr": 11.781933174925076,
+    "obv_slope": 146166.2142857143,
+    "mom14": 0.18391032947236938,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 81.23,
-    "score_0_10": 8.12,
-    "last_close": 266.94000244140625,
-    "avg_vol20": 2342328.25
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 89.34,
+    "score_0_10": 8.93,
+    "last_close": 265.7049865722656,
+    "avg_vol20": 2378503.65
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 149.77999877929688,
-      "High": 154.30999755859375,
-      "Low": 146.80999755859375,
-      "Close": 147.88999938964844,
-      "Volume": 2311900
-    },
     {
       "Date": "2024-02-02",
       "Open": 143.97999572753906,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-10-31",
       "Open": 249.1300048828125,
-      "High": 269.6719970703125,
+      "High": 269.6700134277344,
       "Low": 246.16000366210938,
       "Close": 266.94000244140625,
-      "Volume": 5997565
+      "Volume": 6157500
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 269.4700012207031,
+      "High": 271.58990478515625,
+      "Low": 261.0,
+      "Close": 265.7049865722656,
+      "Volume": 2594173
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "IEX",
   "indicators": {
-    "macd_hist": 0.5676661237731759,
-    "macd_slope": 0.03161056085358998,
+    "macd_hist": 0.32359225442585293,
+    "macd_slope": 0.013962421414430912,
     "rsi": 0.0,
-    "rsi_slope": 0.9623288078544461,
-    "wave_strength": 1.0410535479032232,
-    "adx": 25.922083140228075,
-    "atr": 4.0672905938649295,
-    "obv_slope": 57324.71428571428,
-    "mom14": 0.06602841717097642,
+    "rsi_slope": -0.26418837907036724,
+    "wave_strength": 1.028814846777238,
+    "adx": 26.46586091296728,
+    "atr": 4.067484646389014,
+    "obv_slope": -2879.785714285714,
+    "mom14": 0.028108807058222843,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 62.88,
-    "score_0_10": 6.29,
-    "last_close": 171.4600067138672,
-    "avg_vol20": 632662.3
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA",
+    "score_0_100": 68.43,
+    "score_0_10": 6.84,
+    "last_close": 168.25,
+    "avg_vol20": 654665.85
   },
   "history": [
-    {
-      "Date": "2024-02-01",
-      "Open": 213.0,
-      "High": 222.63999938964844,
-      "Low": 211.99000549316406,
-      "Close": 220.17999267578125,
-      "Volume": 920000
-    },
     {
       "Date": "2024-02-02",
       "Open": 219.30999755859375,
@@ -3539,7 +3531,15 @@
       "High": 172.41000366210938,
       "Low": 169.5,
       "Close": 171.4600067138672,
-      "Volume": 484946
+      "Volume": 633100
+    },
+    {
+      "Date": "2025-11-03",
+      "Open": 170.52000427246094,
+      "High": 170.2050018310547,
+      "Low": 167.38999938964844,
+      "Close": 168.25,
+      "Volume": 626717
     }
   ]
 }
