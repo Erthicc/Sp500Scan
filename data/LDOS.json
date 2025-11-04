@@ -1,34 +1,26 @@
 {
   "ticker": "LDOS",
   "indicators": {
-    "macd_hist": -0.043082048348204616,
-    "macd_slope": 0.06601686966396025,
+    "macd_hist": 0.5060082767648995,
+    "macd_slope": 0.11942110929583619,
     "rsi": 0.0,
-    "rsi_slope": 0.725979173631475,
-    "wave_strength": 1.0051065892880988,
-    "adx": 14.573936496004606,
-    "atr": 4.383764646231919,
-    "obv_slope": 94830.92857142857,
-    "mom14": 0.030864519930738608,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": 0.8684659807619971,
+    "wave_strength": 1.0044323840698604,
+    "adx": 15.791367873347697,
+    "atr": 5.33278132595325,
+    "obv_slope": 233916.2142857143,
+    "mom14": 0.06957171687827941,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 39.92,
-    "score_0_10": 3.99,
-    "last_close": 193.0500030517578,
-    "avg_vol20": 740371.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 90.43,
+    "score_0_10": 9.04,
+    "last_close": 199.5500030517578,
+    "avg_vol20": 779481.35
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 110.62000274658203,
-      "High": 111.44999694824219,
-      "Low": 110.04000091552734,
-      "Close": 110.93000030517578,
-      "Volume": 428400
-    },
     {
       "Date": "2024-02-05",
       "Open": 110.1500015258789,
@@ -3539,7 +3531,15 @@
       "High": 194.1199951171875,
       "Low": 188.25,
       "Close": 193.0500030517578,
-      "Volume": 1630133
+      "Volume": 1639500
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 189.64999389648438,
+      "High": 205.77000427246094,
+      "Low": 188.10000610351562,
+      "Close": 199.5500030517578,
+      "Volume": 1441827
     }
   ]
 }

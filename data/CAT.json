@@ -1,34 +1,26 @@
 {
   "ticker": "CAT",
   "indicators": {
-    "macd_hist": 3.4809312963907395,
-    "macd_slope": 0.09176357600854677,
+    "macd_hist": 1.263335086601586,
+    "macd_slope": -0.13523511228119744,
     "rsi": 0.0,
-    "rsi_slope": -0.6874603331247532,
-    "wave_strength": 1.1065155680610996,
-    "adx": 44.48464258921896,
-    "atr": 15.973854635842988,
-    "obv_slope": 254075.0,
-    "mom14": 0.08485675924389398,
+    "rsi_slope": -1.8587297599117545,
+    "wave_strength": 1.1000432856728408,
+    "adx": 43.215571551942254,
+    "atr": 16.646437490694062,
+    "obv_slope": -238427.64285714287,
+    "mom14": 0.02828062233575799,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.71,
-    "score_0_10": 7.77,
-    "last_close": 570.5900268554688,
-    "avg_vol20": 3234417.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; strong wave vs SMA20",
+    "score_0_100": 74.84,
+    "score_0_10": 7.48,
+    "last_close": 547.5800170898438,
+    "avg_vol20": 3300044.35
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 307.0,
-      "High": 317.3699951171875,
-      "Low": 306.0,
-      "Close": 315.0899963378906,
-      "Volume": 4661500
-    },
     {
       "Date": "2024-02-05",
       "Open": 334.8699951171875,
@@ -3531,7 +3523,7 @@
       "High": 587.0499877929688,
       "Low": 571.3499755859375,
       "Close": 577.260009765625,
-      "Volume": 2973200
+      "Volume": 2974800
     },
     {
       "Date": "2025-11-03",
@@ -3539,7 +3531,15 @@
       "High": 576.219970703125,
       "Low": 565.3900146484375,
       "Close": 570.5900268554688,
-      "Volume": 2431450
+      "Volume": 2439400
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 565.0,
+      "High": 566.5,
+      "Low": 545.2000122070312,
+      "Close": 547.5800170898438,
+      "Volume": 3438387
     }
   ]
 }

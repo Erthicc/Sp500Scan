@@ -1,34 +1,26 @@
 {
   "ticker": "UBER",
   "indicators": {
-    "macd_hist": 0.5119702902378118,
-    "macd_slope": 0.08218672534159037,
+    "macd_hist": 0.3040434594983999,
+    "macd_slope": 0.0657555173477945,
     "rsi": 0.0,
-    "rsi_slope": 1.8838361980674263,
-    "wave_strength": 1.0138321357515525,
-    "adx": 11.623328638153746,
-    "atr": 2.6952281995900145,
-    "obv_slope": 3033902.0714285714,
-    "mom14": 0.05803714823027188,
+    "rsi_slope": 0.5981639995536544,
+    "wave_strength": 1.0502591067681493,
+    "adx": 11.555557584431051,
+    "atr": 3.1918798955387886,
+    "obv_slope": -1339422.4285714286,
+    "mom14": 0.001586981921353144,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 1,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 87.9,
-    "score_0_10": 8.79,
-    "last_close": 99.72000122070312,
-    "avg_vol20": 14140231.45
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; volume spike; strong wave vs SMA20",
+    "score_0_100": 65.98,
+    "score_0_10": 6.6,
+    "last_close": 94.66999816894531,
+    "avg_vol20": 16032240.7
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 66.9800033569336,
-      "High": 68.25,
-      "Low": 66.51000213623047,
-      "Close": 68.06999969482422,
-      "Volume": 18671800
-    },
     {
       "Date": "2024-02-05",
       "Open": 68.23999786376953,
@@ -3531,15 +3523,23 @@
       "High": 98.44999694824219,
       "Low": 96.1500015258789,
       "Close": 96.5,
-      "Volume": 15317000
+      "Volume": 15333400
     },
     {
       "Date": "2025-11-03",
       "Open": 97.66000366210938,
-      "High": 100.34100341796875,
+      "High": 100.3499984741211,
       "Low": 96.77999877929688,
       "Close": 99.72000122070312,
-      "Volume": 27080729
+      "Volume": 28836500
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 91.97000122070312,
+      "High": 95.02999877929688,
+      "Low": 90.08000183105469,
+      "Close": 94.66999816894531,
+      "Volume": 48651614
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "AMZN",
   "indicators": {
-    "macd_hist": 3.4759345211192785,
-    "macd_slope": 0.27349820292527943,
+    "macd_hist": 3.7136427561163092,
+    "macd_slope": 0.3022619276742661,
     "rsi": 0.0,
-    "rsi_slope": 2.3239162498305697,
-    "wave_strength": 1.0281227164660112,
-    "adx": 22.613518740020485,
-    "atr": 7.390931229789808,
-    "obv_slope": 19595528.07142857,
-    "mom14": 0.1738065562938891,
+    "rsi_slope": 1.9221170733250525,
+    "wave_strength": 1.1269980320493505,
+    "adx": 24.10437678316864,
+    "atr": 7.459436577887678,
+    "obv_slope": 19729904.714285713,
+    "mom14": 0.1565616683829294,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 99.13,
-    "score_0_10": 9.91,
-    "last_close": 254.0,
-    "avg_vol20": 55810889.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 98.05,
+    "score_0_10": 9.81,
+    "last_close": 249.32000732421875,
+    "avg_vol20": 56866016.7
   },
   "history": [
-    {
-      "Date": "2024-02-02",
-      "Open": 169.19000244140625,
-      "High": 172.5,
-      "Low": 167.3300018310547,
-      "Close": 171.80999755859375,
-      "Volume": 117218300
-    },
     {
       "Date": "2024-02-05",
       "Open": 170.1999969482422,
@@ -3531,15 +3523,23 @@
       "High": 250.5,
       "Low": 243.97999572753906,
       "Close": 244.22000122070312,
-      "Volume": 166210300
+      "Volume": 166340800
     },
     {
       "Date": "2025-11-03",
-      "Open": 255.63999938964844,
+      "Open": 255.36000061035156,
       "High": 258.6000061035156,
       "Low": 252.89999389648438,
       "Close": 254.0,
-      "Volume": 91993793
+      "Volume": 95997800
+    },
+    {
+      "Date": "2025-11-04",
+      "Open": 250.3800048828125,
+      "High": 257.010009765625,
+      "Low": 248.66000366210938,
+      "Close": 249.32000732421875,
+      "Volume": 48162734
     }
   ]
 }
