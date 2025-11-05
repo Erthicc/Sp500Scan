@@ -1,34 +1,26 @@
 {
   "ticker": "HSIC",
   "indicators": {
-    "macd_hist": 0.7207164440761225,
-    "macd_slope": 0.07116568813713971,
+    "macd_hist": 1.0375988149633,
+    "macd_slope": 0.09628572557359019,
     "rsi": 0.0,
-    "rsi_slope": 3.090580182292516,
-    "wave_strength": 0.9993425376862957,
-    "adx": 21.386920499578434,
-    "atr": 1.930846876160259,
-    "obv_slope": 788375.7857142857,
-    "mom14": 0.13217392269330533,
+    "rsi_slope": 4.1969186813924875,
+    "wave_strength": 0.9936805412637758,
+    "adx": 24.10541777527394,
+    "atr": 1.936143331699151,
+    "obv_slope": 1064138.642857143,
+    "mom14": 0.16088994927184358,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 96.27,
-    "score_0_10": 9.63,
-    "last_close": 71.61000061035156,
-    "avg_vol20": 1732853.05
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 86.85,
+    "score_0_10": 8.68,
+    "last_close": 72.01000213623047,
+    "avg_vol20": 1768352.05
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 75.80000305175781,
-      "High": 76.06999969482422,
-      "Low": 74.23999786376953,
-      "Close": 74.91000366210938,
-      "Volume": 885200
-    },
     {
       "Date": "2024-02-06",
       "Open": 75.38999938964844,
@@ -3539,7 +3531,15 @@
       "High": 73.52999877929688,
       "Low": 68.0,
       "Close": 71.61000061035156,
-      "Volume": 4252561
+      "Volume": 4359300
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 71.33000183105469,
+      "High": 72.8949966430664,
+      "Low": 70.88999938964844,
+      "Close": 72.01000213623047,
+      "Volume": 2302641
     }
   ]
 }

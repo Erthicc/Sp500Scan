@@ -1,34 +1,26 @@
 {
   "ticker": "ROL",
   "indicators": {
-    "macd_hist": 0.33533355476204474,
-    "macd_slope": 0.03787964669073907,
+    "macd_hist": 0.4069126063324499,
+    "macd_slope": 0.048261477943676315,
     "rsi": 0.0,
-    "rsi_slope": 1.300708438247726,
-    "wave_strength": 1.0192869207089372,
-    "adx": 16.612048894397255,
-    "atr": 1.397310497748504,
-    "obv_slope": 258329.42857142858,
-    "mom14": 0.0642627355355935,
+    "rsi_slope": 2.973753368518344,
+    "wave_strength": 1.0178955320890748,
+    "adx": 16.765088334898273,
+    "atr": 1.3620943632001712,
+    "obv_slope": 529660.5714285715,
+    "mom14": 0.08019544453065033,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 83.4,
-    "score_0_10": 8.34,
-    "last_close": 59.619998931884766,
-    "avg_vol20": 2085245.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.16,
+    "score_0_10": 8.22,
+    "last_close": 59.66999816894531,
+    "avg_vol20": 2110337.4
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 43.88999938964844,
-      "High": 43.95000076293945,
-      "Low": 43.290000915527344,
-      "Close": 43.52000045776367,
-      "Volume": 1263600
-    },
     {
       "Date": "2024-02-06",
       "Open": 43.59000015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-04",
       "Open": 59.119998931884766,
-      "High": 59.650001525878906,
+      "High": 59.65999984741211,
       "Low": 58.439998626708984,
       "Close": 59.619998931884766,
-      "Volume": 2837612
+      "Volume": 3035800
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 59.90999984741211,
+      "High": 60.279998779296875,
+      "Low": 59.3849983215332,
+      "Close": 59.66999816894531,
+      "Volume": 1938348
     }
   ]
 }

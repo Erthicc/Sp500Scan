@@ -1,34 +1,26 @@
 {
   "ticker": "JCI",
   "indicators": {
-    "macd_hist": 0.1208508473348262,
-    "macd_slope": 0.0077880889720077385,
+    "macd_hist": 0.583527756555561,
+    "macd_slope": 0.036740882485564334,
     "rsi": 0.0,
-    "rsi_slope": -1.0881934539358866,
-    "wave_strength": 1.0351005685552694,
-    "adx": 14.195667087762207,
-    "atr": 2.5112978249274023,
-    "obv_slope": 373208.14285714284,
-    "mom14": 0.001985212247870093,
+    "rsi_slope": 1.0422398133096908,
+    "wave_strength": 1.0293118477355128,
+    "adx": 16.47024232721517,
+    "atr": 3.1897767042688754,
+    "obv_slope": 1308189.9285714286,
+    "mom14": 0.10505620897160131,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.98,
-    "score_0_10": 6.7,
-    "last_close": 111.04000091552734,
-    "avg_vol20": 3628199.3
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 88.61,
+    "score_0_10": 8.86,
+    "last_close": 120.86000061035156,
+    "avg_vol20": 4112637.95
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 53.790000915527344,
-      "High": 54.150001525878906,
-      "Low": 53.310001373291016,
-      "Close": 53.34000015258789,
-      "Volume": 5822500
-    },
     {
       "Date": "2024-02-06",
       "Open": 53.099998474121094,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-04",
       "Open": 111.56999969482422,
-      "High": 112.31999969482422,
+      "High": 112.3499984741211,
       "Low": 110.69999694824219,
       "Close": 111.04000091552734,
-      "Volume": 4680186
+      "Volume": 6765600
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 120.92500305175781,
+      "High": 123.05000305175781,
+      "Low": 118.06999969482422,
+      "Close": 120.86000061035156,
+      "Volume": 11496359
     }
   ]
 }

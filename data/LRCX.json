@@ -1,34 +1,26 @@
 {
   "ticker": "LRCX",
   "indicators": {
-    "macd_hist": 0.1889731112440023,
-    "macd_slope": 0.08087367028437654,
+    "macd_hist": 0.41146713517311273,
+    "macd_slope": 0.09551445721597839,
     "rsi": 0.0,
-    "rsi_slope": -0.1490800610732812,
-    "wave_strength": 1.0902219348512996,
-    "adx": 26.80917485927308,
-    "atr": 5.81819495383241,
-    "obv_slope": 1603180.2142857143,
-    "mom14": 0.07597734557774405,
+    "rsi_slope": 0.7212335951387244,
+    "wave_strength": 1.0819879469981568,
+    "adx": 26.762490434792902,
+    "atr": 6.198323842138875,
+    "obv_slope": 3207329.785714286,
+    "mom14": 0.15930328518942463,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 75.7,
-    "score_0_10": 7.57,
-    "last_close": 155.77999877929688,
-    "avg_vol20": 11010898.85
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.29,
+    "score_0_10": 7.53,
+    "last_close": 165.0500030517578,
+    "avg_vol20": 10896295.85
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 83.87899780273438,
-      "High": 85.73300170898438,
-      "Low": 83.2490005493164,
-      "Close": 85.13200378417969,
-      "Volume": 8651000
-    },
     {
       "Date": "2024-02-06",
       "Open": 85.29000091552734,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-04",
-      "Open": 156.02999877929688,
-      "High": 161.093505859375,
+      "Open": 155.6300048828125,
+      "High": 161.08999633789062,
       "Low": 155.16000366210938,
       "Close": 155.77999877929688,
-      "Volume": 10913177
+      "Volume": 11211100
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 157.57000732421875,
+      "High": 166.9199981689453,
+      "Low": 157.0,
+      "Close": 165.0500030517578,
+      "Volume": 11105717
     }
   ]
 }

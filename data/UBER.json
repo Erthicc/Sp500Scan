@@ -1,34 +1,26 @@
 {
   "ticker": "UBER",
   "indicators": {
-    "macd_hist": 0.3040434594983999,
-    "macd_slope": 0.0657555173477945,
+    "macd_hist": 0.03586955101308285,
+    "macd_slope": 0.05274578842695004,
     "rsi": 0.0,
-    "rsi_slope": 0.5981639995536544,
-    "wave_strength": 1.0502591067681493,
-    "adx": 11.555557584431051,
-    "atr": 3.1918798955387886,
-    "obv_slope": -1339422.4285714286,
-    "mom14": 0.001586981921353144,
+    "rsi_slope": 1.0794741499852312,
+    "wave_strength": 1.0538831196572307,
+    "adx": 11.33675847632135,
+    "atr": 3.172460317229117,
+    "obv_slope": -1549864.857142857,
+    "mom14": 0.0024859853575322256,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; volume spike; strong wave vs SMA20",
-    "score_0_100": 65.98,
-    "score_0_10": 6.6,
-    "last_close": 94.66999816894531,
-    "avg_vol20": 16032240.7
+    "explanation": "recent MACD bullish crossover; strong wave vs SMA20",
+    "score_0_100": 55.29,
+    "score_0_10": 5.53,
+    "last_close": 92.75,
+    "avg_vol20": 16536730.4
   },
   "history": [
-    {
-      "Date": "2024-02-05",
-      "Open": 68.23999786376953,
-      "High": 69.98999786376953,
-      "Low": 67.8550033569336,
-      "Close": 68.98999786376953,
-      "Volume": 26079500
-    },
     {
       "Date": "2024-02-06",
       "Open": 69.05999755859375,
@@ -3539,7 +3531,15 @@
       "High": 95.02999877929688,
       "Low": 90.08000183105469,
       "Close": 94.66999816894531,
-      "Volume": 48651614
+      "Volume": 48787300
+    },
+    {
+      "Date": "2025-11-05",
+      "Open": 95.01000213623047,
+      "High": 95.44000244140625,
+      "Low": 92.5199966430664,
+      "Close": 92.75,
+      "Volume": 20025308
     }
   ]
 }
