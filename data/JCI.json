@@ -1,34 +1,26 @@
 {
   "ticker": "JCI",
   "indicators": {
-    "macd_hist": 0.583527756555561,
-    "macd_slope": 0.036740882485564334,
+    "macd_hist": 0.9191529559637674,
+    "macd_slope": 0.06105900172053012,
     "rsi": 0.0,
-    "rsi_slope": 1.0422398133096908,
-    "wave_strength": 1.0293118477355128,
-    "adx": 16.47024232721517,
-    "atr": 3.1897767042688754,
-    "obv_slope": 1308189.9285714286,
-    "mom14": 0.10505620897160131,
+    "rsi_slope": 1.6158083975981141,
+    "wave_strength": 1.0226449755558347,
+    "adx": 18.633605649441428,
+    "atr": 3.2726502326899864,
+    "obv_slope": 2167034.214285714,
+    "mom14": 0.12331156797900476,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 88.61,
-    "score_0_10": 8.86,
-    "last_close": 120.86000061035156,
-    "avg_vol20": 4112637.95
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.81,
+    "score_0_10": 8.18,
+    "last_close": 122.25,
+    "avg_vol20": 4321093.95
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 53.099998474121094,
-      "High": 53.56999969482422,
-      "Low": 52.790000915527344,
-      "Close": 53.2599983215332,
-      "Volume": 8325100
-    },
     {
       "Date": "2024-02-07",
       "Open": 53.939998626708984,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-05",
-      "Open": 120.92500305175781,
+      "Open": 120.93000030517578,
       "High": 123.05000305175781,
-      "Low": 118.06999969482422,
+      "Low": 118.0,
       "Close": 120.86000061035156,
-      "Volume": 11496359
+      "Volume": 13299800
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 120.6449966430664,
+      "High": 123.37000274658203,
+      "Low": 119.0199966430664,
+      "Close": 122.25,
+      "Volume": 5991679
     }
   ]
 }

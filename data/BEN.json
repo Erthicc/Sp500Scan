@@ -1,34 +1,26 @@
 {
   "ticker": "BEN",
   "indicators": {
-    "macd_hist": 0.036886698867435064,
-    "macd_slope": 0.006299512233961905,
+    "macd_hist": 0.06804028614454027,
+    "macd_slope": 0.009323026232272566,
     "rsi": 0.0,
-    "rsi_slope": 1.4287358198887934,
-    "wave_strength": 1.0021060042722951,
-    "adx": 16.329257659978254,
-    "atr": 0.4779000765644776,
-    "obv_slope": 747259.3571428572,
-    "mom14": 0.029864245973746772,
+    "rsi_slope": 1.634632169970629,
+    "wave_strength": 1.0029420808502576,
+    "adx": 15.93658436919775,
+    "atr": 0.48803671156555556,
+    "obv_slope": 977519.2142857143,
+    "mom14": 0.043536772148122224,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 55.87,
-    "score_0_10": 5.59,
-    "last_close": 22.760000228881836,
-    "avg_vol20": 4367351.55
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 75.01,
+    "score_0_10": 7.5,
+    "last_close": 23.25,
+    "avg_vol20": 4524163.45
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 26.25,
-      "High": 26.6299991607666,
-      "Low": 26.25,
-      "Close": 26.6299991607666,
-      "Volume": 2423400
-    },
     {
       "Date": "2024-02-07",
       "Open": 26.68000030517578,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-05",
       "Open": 22.6200008392334,
       "High": 22.8700008392334,
-      "Low": 22.519800186157227,
+      "Low": 22.520000457763672,
       "Close": 22.760000228881836,
-      "Volume": 3276631
+      "Volume": 3915000
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 22.850000381469727,
+      "High": 23.3799991607666,
+      "Low": 22.799999237060547,
+      "Close": 23.25,
+      "Volume": 7722269
     }
   ]
 }

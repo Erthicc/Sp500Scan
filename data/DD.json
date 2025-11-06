@@ -1,34 +1,26 @@
 {
   "ticker": "DD",
   "indicators": {
-    "macd_hist": 0.49955937105309145,
-    "macd_slope": 0.04042331884279498,
+    "macd_hist": 0.5763133429823604,
+    "macd_slope": 0.04190175597318206,
     "rsi": 0.0,
-    "rsi_slope": 2.4158260884307805,
-    "wave_strength": 1.0131819401180477,
-    "adx": 22.004303145424863,
-    "atr": 1.1552450512372876,
-    "obv_slope": 7196744.857142857,
-    "mom14": 0.21228341719191568,
+    "rsi_slope": 1.9231488194463233,
+    "wave_strength": 1.1567979017939065,
+    "adx": 24.384846023645682,
+    "atr": 1.1609163612171283,
+    "obv_slope": 5794426.785714285,
+    "mom14": 0.17592684574824197,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 94.43,
-    "score_0_10": 9.44,
-    "last_close": 39.630001068115234,
-    "avg_vol20": 8998393.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 89.83,
+    "score_0_10": 8.98,
+    "last_close": 39.150001525878906,
+    "avg_vol20": 9281051.65
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 26.958158493041992,
-      "High": 27.623430252075195,
-      "Low": 26.619247436523438,
-      "Close": 27.506275177001953,
-      "Volume": 19532275
-    },
     {
       "Date": "2024-02-07",
       "Open": 27.656904220581055,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-05",
-      "Open": 38.07500076293945,
-      "High": 39.85499954223633,
+      "Open": 38.08000183105469,
+      "High": 39.86000061035156,
       "Low": 37.95000076293945,
       "Close": 39.630001068115234,
-      "Volume": 15435351
+      "Volume": 15789100
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 38.07500076293945,
+      "High": 40.11000061035156,
+      "Low": 38.880001068115234,
+      "Close": 39.150001525878906,
+      "Volume": 11074609
     }
   ]
 }

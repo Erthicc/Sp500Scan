@@ -1,34 +1,26 @@
 {
   "ticker": "JPM",
   "indicators": {
-    "macd_hist": 1.1869392844527822,
-    "macd_slope": 0.19334470419967253,
+    "macd_hist": 1.284109707570028,
+    "macd_slope": 0.21220969378513302,
     "rsi": 0.0,
-    "rsi_slope": 2.5532727548871086,
-    "wave_strength": 1.024658046039367,
-    "adx": 16.586324404909778,
-    "atr": 6.477095004086072,
-    "obv_slope": 1373736.857142857,
-    "mom14": 0.04401414803631647,
+    "rsi_slope": 2.8248114264257245,
+    "wave_strength": 1.023328467792478,
+    "adx": 16.100268897295415,
+    "atr": 6.33873168526256,
+    "obv_slope": 2719365.6428571427,
+    "mom14": 0.053300228522879876,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.99,
-    "score_0_10": 7.1,
-    "last_close": 311.67999267578125,
-    "avg_vol20": 8231635.8
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 71.95,
+    "score_0_10": 7.2,
+    "last_close": 313.4200134277344,
+    "avg_vol20": 8312885.95
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 174.61000061035156,
-      "High": 175.8699951171875,
-      "Low": 173.75999450683594,
-      "Close": 175.10000610351562,
-      "Volume": 6764800
-    },
     {
       "Date": "2024-02-07",
       "Open": 175.69000244140625,
@@ -3539,7 +3531,15 @@
       "High": 313.1000061035156,
       "Low": 305.6300048828125,
       "Close": 311.67999267578125,
-      "Volume": 5371416
+      "Volume": 6865200
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 310.989990234375,
+      "High": 314.8399963378906,
+      "Low": 310.29998779296875,
+      "Close": 313.4200134277344,
+      "Volume": 7191519
     }
   ]
 }

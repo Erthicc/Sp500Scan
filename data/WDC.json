@@ -1,34 +1,26 @@
 {
   "ticker": "WDC",
   "indicators": {
-    "macd_hist": 2.7529736148873365,
-    "macd_slope": 0.2896126631006513,
+    "macd_hist": 2.9534909592461105,
+    "macd_slope": 0.2814843193744636,
     "rsi": 0.0,
-    "rsi_slope": 0.6261779978403682,
-    "wave_strength": 1.2109554917715313,
-    "adx": 45.149320020727274,
-    "atr": 8.96354091990781,
-    "obv_slope": 1518799.2142857143,
-    "mom14": 0.27144225247455467,
+    "rsi_slope": 1.1440725793110056,
+    "wave_strength": 1.1909230255493233,
+    "adx": 46.71718160270205,
+    "atr": 8.87328777894157,
+    "obv_slope": 1607999.857142857,
+    "mom14": 0.29635507178825155,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 100.0,
-    "score_0_10": 10.0,
-    "last_close": 160.10000610351562,
-    "avg_vol20": 9812254.45
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 88.63,
+    "score_0_10": 8.86,
+    "last_close": 163.60000610351562,
+    "avg_vol20": 9906399.9
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 44.63340759277344,
-      "High": 44.77702331542969,
-      "Low": 44.03628158569336,
-      "Close": 44.179893493652344,
-      "Volume": 6862666
-    },
     {
       "Date": "2024-02-07",
       "Open": 44.195011138916016,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-05",
       "Open": 153.1999969482422,
       "High": 165.38999938964844,
-      "Low": 152.99000549316406,
+      "Low": 152.97999572753906,
       "Close": 160.10000610351562,
-      "Volume": 9725489
+      "Volume": 9749000
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 159.99000549316406,
+      "High": 167.5,
+      "Low": 159.8000030517578,
+      "Close": 163.60000610351562,
+      "Volume": 8093698
     }
   ]
 }

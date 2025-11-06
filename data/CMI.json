@@ -1,34 +1,26 @@
 {
   "ticker": "CMI",
   "indicators": {
-    "macd_hist": 1.393862321649296,
-    "macd_slope": 0.2587057815499293,
+    "macd_hist": 2.912882438315842,
+    "macd_slope": 0.3991713953349424,
     "rsi": 0.0,
-    "rsi_slope": 0.3687413714388507,
-    "wave_strength": 1.0347166885697825,
-    "adx": 23.37235256824626,
-    "atr": 11.08768224138487,
-    "obv_slope": -30950.64285714286,
-    "mom14": 0.03906115580368621,
+    "rsi_slope": 1.9904398524872653,
+    "wave_strength": 1.030319206213028,
+    "adx": 25.34844633015883,
+    "atr": 13.391967811801047,
+    "obv_slope": 217140.7857142857,
+    "mom14": 0.12376466717476192,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA",
-    "score_0_100": 70.25,
-    "score_0_10": 7.02,
-    "last_close": 439.17999267578125,
-    "avg_vol20": 877459.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 93.56,
+    "score_0_10": 9.36,
+    "last_close": 462.79998779296875,
+    "avg_vol20": 934268.55
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 242.24000549316406,
-      "High": 251.57000732421875,
-      "Low": 236.0,
-      "Close": 251.5399932861328,
-      "Volume": 2127600
-    },
     {
       "Date": "2024-02-07",
       "Open": 252.88999938964844,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-05",
       "Open": 429.1199951171875,
-      "High": 441.9999084472656,
+      "High": 442.0,
       "Low": 427.5,
       "Close": 439.17999267578125,
-      "Volume": 710991
+      "Volume": 884400
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 461.0299987792969,
+      "High": 482.527587890625,
+      "Low": 461.0,
+      "Close": 462.79998779296875,
+      "Volume": 1558071
     }
   ]
 }

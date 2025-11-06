@@ -1,34 +1,26 @@
 {
   "ticker": "FSLR",
   "indicators": {
-    "macd_hist": 3.357421320381219,
-    "macd_slope": 0.22753121642692534,
+    "macd_hist": 3.289030422169155,
+    "macd_slope": 0.24938957222891048,
     "rsi": 0.0,
-    "rsi_slope": 0.3268856564036139,
-    "wave_strength": 1.1099907085393907,
-    "adx": 26.16740074953812,
-    "atr": 12.901649330608143,
-    "obv_slope": 45311.78571428572,
-    "mom14": 0.16653359048063038,
+    "rsi_slope": 0.8804821016329072,
+    "wave_strength": 1.1444780748788272,
+    "adx": 27.13054706372997,
+    "atr": 12.61564474908867,
+    "obv_slope": 52671.42857142857,
+    "mom14": 0.1730860635168385,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 88.37,
-    "score_0_10": 8.84,
-    "last_close": 277.3900146484375,
-    "avg_vol20": 2565728.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.48,
+    "score_0_10": 7.95,
+    "last_close": 271.9800109863281,
+    "avg_vol20": 2605620.0
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 139.9499969482422,
-      "High": 142.44000244140625,
-      "Low": 138.41000366210938,
-      "Close": 141.11000061035156,
-      "Volume": 2027200
-    },
     {
       "Date": "2024-02-07",
       "Open": 148.39999389648438,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-05",
       "Open": 262.3999938964844,
       "High": 281.54998779296875,
-      "Low": 261.02740478515625,
+      "Low": 261.0299987792969,
       "Close": 277.3900146484375,
-      "Volume": 3599065
+      "Volume": 3644300
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 278.0,
+      "High": 279.5199890136719,
+      "Low": 270.6199951171875,
+      "Close": 271.9800109863281,
+      "Volume": 2270200
     }
   ]
 }

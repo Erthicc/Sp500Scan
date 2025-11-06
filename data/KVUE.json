@@ -1,34 +1,26 @@
 {
   "ticker": "KVUE",
   "indicators": {
-    "macd_hist": 0.26071607417637144,
-    "macd_slope": 0.016730684406587766,
+    "macd_hist": 0.3016198370851385,
+    "macd_slope": 0.019842587443929187,
     "rsi": 0.0,
-    "rsi_slope": 3.010394076806523,
-    "wave_strength": 1.0496195286304186,
-    "adx": 41.83811643530276,
-    "atr": 0.7421097787177491,
-    "obv_slope": 6338737.642857143,
-    "mom14": 0.1502480465728317,
+    "rsi_slope": 1.5627228923393548,
+    "wave_strength": 1.0509180588619182,
+    "adx": 40.03310056643917,
+    "atr": 0.7276732951044381,
+    "obv_slope": 7740280.357142857,
+    "mom14": 0.0765205445087414,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; RSI overbought; rising OBV",
-    "score_0_100": 69.54,
-    "score_0_10": 6.95,
-    "last_close": 16.229999542236328,
-    "avg_vol20": 45446721.35
+    "explanation": "recent MACD bullish crossover; strong trend; rising OBV; strong wave vs SMA20",
+    "score_0_100": 66.39,
+    "score_0_10": 6.64,
+    "last_close": 16.459999084472656,
+    "avg_vol20": 47069466.25
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 20.440000534057617,
-      "High": 20.75,
-      "Low": 20.399999618530273,
-      "Close": 20.600000381469727,
-      "Volume": 13267100
-    },
     {
       "Date": "2024-02-07",
       "Open": 20.739999771118164,
@@ -3539,7 +3531,15 @@
       "High": 16.450000762939453,
       "Low": 15.949999809265137,
       "Close": 16.229999542236328,
-      "Volume": 51856727
+      "Volume": 59492800
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 16.219999313354492,
+      "High": 16.739999771118164,
+      "Low": 16.200000762939453,
+      "Close": 16.459999084472656,
+      "Volume": 63882025
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "EXPD",
   "indicators": {
-    "macd_hist": 2.005414289001169,
-    "macd_slope": 0.18324126753161704,
+    "macd_hist": 2.0807981159976503,
+    "macd_slope": 0.1693864204021695,
     "rsi": 0.0,
-    "rsi_slope": 2.960889265624244,
-    "wave_strength": 0.9940143284530331,
-    "adx": 18.700728674441454,
-    "atr": 3.6533036566200066,
-    "obv_slope": 832161.5,
-    "mom14": 0.1663424792299815,
+    "rsi_slope": 2.1208229975367123,
+    "wave_strength": 1.1371422115870309,
+    "adx": 21.697352275764846,
+    "atr": 3.697480364070594,
+    "obv_slope": 702516.2142857143,
+    "mom14": 0.12191457088408728,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 92.85,
-    "score_0_10": 9.28,
-    "last_close": 137.9199981689453,
-    "avg_vol20": 1376798.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 77.9,
+    "score_0_10": 7.79,
+    "last_close": 134.5399932861328,
+    "avg_vol20": 1419253.65
   },
   "history": [
-    {
-      "Date": "2024-02-06",
-      "Open": 125.0,
-      "High": 127.45999908447266,
-      "Low": 124.86000061035156,
-      "Close": 126.01000213623047,
-      "Volume": 800000
-    },
     {
       "Date": "2024-02-07",
       "Open": 126.95999908447266,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-05",
       "Open": 134.1699981689453,
-      "High": 140.7100067138672,
+      "High": 140.72000122070312,
       "Low": 133.27000427246094,
       "Close": 137.9199981689453,
-      "Volume": 2790761
+      "Volume": 3413500
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 138.0,
+      "High": 138.22000122070312,
+      "Low": 133.95750427246094,
+      "Close": 134.5399932861328,
+      "Volume": 1682673
     }
   ]
 }
