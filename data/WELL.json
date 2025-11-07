@@ -1,34 +1,26 @@
 {
   "ticker": "WELL",
   "indicators": {
-    "macd_hist": 0.909364152836412,
-    "macd_slope": 0.07591787516224995,
+    "macd_hist": 1.05158670503562,
+    "macd_slope": 0.11073931695901493,
     "rsi": 0.0,
-    "rsi_slope": 1.703105649783941,
-    "wave_strength": 1.02983887554758,
-    "adx": 30.610251840448775,
-    "atr": 4.044177959083487,
-    "obv_slope": 1160286.7857142857,
-    "mom14": 0.07236277590922219,
+    "rsi_slope": 2.282548650683513,
+    "wave_strength": 1.0346791133687354,
+    "adx": 29.236620402049844,
+    "atr": 4.268894770513618,
+    "obv_slope": 1125335.7857142857,
+    "mom14": 0.10559041129476694,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 73.3,
-    "score_0_10": 7.33,
-    "last_close": 187.75999450683594,
-    "avg_vol20": 3016095.75
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 85.5,
+    "score_0_10": 8.55,
+    "last_close": 190.25,
+    "avg_vol20": 2955025.05
   },
   "history": [
-    {
-      "Date": "2024-02-07",
-      "Open": 86.75,
-      "High": 87.41000366210938,
-      "Low": 85.62999725341797,
-      "Close": 86.76000213623047,
-      "Volume": 2645100
-    },
     {
       "Date": "2024-02-08",
       "Open": 86.58999633789062,
@@ -3526,20 +3518,12 @@
       "Volume": 2578100
     },
     {
-      "Date": "2025-11-05",
-      "Open": 186.02000427246094,
-      "High": 188.1199951171875,
-      "Low": 185.19000244140625,
-      "Close": 186.35000610351562,
-      "Volume": 3129600
-    },
-    {
-      "Date": "2025-11-06",
-      "Open": 187.08999633789062,
-      "High": 188.9199981689453,
-      "Low": 185.4199981689453,
-      "Close": 187.75999450683594,
-      "Volume": 3825515
+      "Date": "2025-11-07",
+      "Open": 188.02999877929688,
+      "High": 190.67999267578125,
+      "Low": 186.22999572753906,
+      "Close": 190.25,
+      "Volume": 3313401
     }
   ]
 }

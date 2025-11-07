@@ -1,34 +1,26 @@
 {
   "ticker": "CAH",
   "indicators": {
-    "macd_hist": 3.7663402294979127,
-    "macd_slope": 0.2813314349296644,
+    "macd_hist": 4.365131466460191,
+    "macd_slope": 0.33029423626392845,
     "rsi": 0.0,
-    "rsi_slope": 2.8942620410666495,
-    "wave_strength": 1.129063781544837,
-    "adx": 35.385605973620834,
-    "atr": 5.279494687271366,
-    "obv_slope": 1814431.857142857,
-    "mom14": 0.26583978554772913,
+    "rsi_slope": 3.3078059735483474,
+    "wave_strength": 1.1405050778841093,
+    "adx": 32.74539130201219,
+    "atr": 5.58659789447085,
+    "obv_slope": 1790031.0,
+    "mom14": 0.32883142488135286,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 86.03,
-    "score_0_10": 8.6,
-    "last_close": 197.99000549316406,
-    "avg_vol20": 2411677.3
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 99.39,
+    "score_0_10": 9.94,
+    "last_close": 203.6699981689453,
+    "avg_vol20": 2377261.7
   },
   "history": [
-    {
-      "Date": "2024-02-07",
-      "Open": 104.30999755859375,
-      "High": 106.20999908447266,
-      "Low": 104.19999694824219,
-      "Close": 105.66999816894531,
-      "Volume": 2054800
-    },
     {
       "Date": "2024-02-08",
       "Open": 105.3499984741211,
@@ -3526,20 +3518,12 @@
       "Volume": 3906600
     },
     {
-      "Date": "2025-11-05",
-      "Open": 196.5,
-      "High": 200.13999938964844,
-      "Low": 194.14999389648438,
-      "Close": 196.7899932861328,
-      "Volume": 2608800
-    },
-    {
-      "Date": "2025-11-06",
-      "Open": 197.6199951171875,
-      "High": 198.27000427246094,
-      "Low": 194.80999755859375,
-      "Close": 197.99000549316406,
-      "Volume": 2003146
+      "Date": "2025-11-07",
+      "Open": 199.91000366210938,
+      "High": 203.6699981689453,
+      "Low": 197.19000244140625,
+      "Close": 203.6699981689453,
+      "Volume": 2339334
     }
   ]
 }
