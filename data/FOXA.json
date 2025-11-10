@@ -1,34 +1,26 @@
 {
   "ticker": "FOXA",
   "indicators": {
-    "macd_hist": 0.7073582104621354,
-    "macd_slope": 0.09257455953291398,
+    "macd_hist": 0.5973495532048974,
+    "macd_slope": 0.06377538557593983,
     "rsi": 0.0,
-    "rsi_slope": 3.7391729334268686,
-    "wave_strength": 1.0862932673342087,
-    "adx": 22.662011705841675,
-    "atr": 1.7878634468949877,
-    "obv_slope": 743181.2857142857,
-    "mom14": 0.15736844246847587,
+    "rsi_slope": 3.4443972496850117,
+    "wave_strength": 1.0661567556601173,
+    "adx": 25.784927774148944,
+    "atr": 1.7326089861191298,
+    "obv_slope": 1187862.7142857143,
+    "mom14": 0.1328111578044725,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.37,
-    "score_0_10": 7.74,
-    "last_close": 65.97000122070312,
-    "avg_vol20": 3043571.9
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.29,
+    "score_0_10": 7.53,
+    "last_close": 66.52999877929688,
+    "avg_vol20": 3302123.9
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 29.75,
-      "High": 29.860000610351562,
-      "Low": 28.514999389648438,
-      "Close": 28.780000686645508,
-      "Volume": 7354100
-    },
     {
       "Date": "2024-02-09",
       "Open": 28.889999389648438,
@@ -3518,12 +3510,36 @@
       "Volume": 3779400
     },
     {
+      "Date": "2025-11-05",
+      "Open": 64.33999633789062,
+      "High": 65.6449966430664,
+      "Low": 63.61000061035156,
+      "Close": 64.77999877929688,
+      "Volume": 4906100
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 64.69000244140625,
+      "High": 66.125,
+      "Low": 64.6500015258789,
+      "Close": 65.70999908447266,
+      "Volume": 3889000
+    },
+    {
       "Date": "2025-11-07",
       "Open": 65.55000305175781,
       "High": 66.63999938964844,
       "Low": 65.16000366210938,
       "Close": 65.97000122070312,
-      "Volume": 3756538
+      "Volume": 4029900
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 66.12000274658203,
+      "High": 67.16999816894531,
+      "Low": 65.54000091552734,
+      "Close": 66.52999877929688,
+      "Volume": 3178278
     }
   ]
 }

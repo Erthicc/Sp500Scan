@@ -1,34 +1,26 @@
 {
   "ticker": "AMGN",
   "indicators": {
-    "macd_hist": 1.2947453650260976,
-    "macd_slope": 0.0376279114054214,
+    "macd_hist": 2.8439006505865,
+    "macd_slope": 0.1319621368960869,
     "rsi": 0.0,
-    "rsi_slope": -0.07337159253125135,
-    "wave_strength": 1.0069337533169878,
-    "adx": 18.49333619596514,
-    "atr": 7.516118081974211,
-    "obv_slope": 223891.7142857143,
-    "mom14": 0.08245162384549343,
+    "rsi_slope": 1.1456457733912409,
+    "wave_strength": 1.0646650547191885,
+    "adx": 26.60866139168595,
+    "atr": 7.614836148699642,
+    "obv_slope": 390126.5714285714,
+    "mom14": 0.07478245307241078,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 78.03,
-    "score_0_10": 7.8,
-    "last_close": 320.20001220703125,
-    "avg_vol20": 2107459.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 83.42,
+    "score_0_10": 8.34,
+    "last_close": 323.6600036621094,
+    "avg_vol20": 2365428.6
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 297.0,
-      "High": 298.0,
-      "Low": 288.7799987792969,
-      "Close": 294.8500061035156,
-      "Volume": 5946100
-    },
     {
       "Date": "2024-02-09",
       "Open": 294.8500061035156,
@@ -3518,12 +3510,36 @@
       "Volume": 3412500
     },
     {
+      "Date": "2025-11-05",
+      "Open": 303.1300048828125,
+      "High": 322.9800109863281,
+      "Low": 302.1300048828125,
+      "Close": 319.8599853515625,
+      "Volume": 5486200
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 319.1000061035156,
+      "High": 321.30999755859375,
+      "Low": 312.5199890136719,
+      "Close": 315.5899963378906,
+      "Volume": 3330300
+    },
+    {
       "Date": "2025-11-07",
       "Open": 316.0799865722656,
       "High": 321.4200134277344,
       "Low": 314.0,
       "Close": 320.20001220703125,
-      "Volume": 2663584
+      "Volume": 2665200
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 320.5950012207031,
+      "High": 326.17999267578125,
+      "Low": 319.5400085449219,
+      "Close": 323.6600036621094,
+      "Volume": 2209172
     }
   ]
 }

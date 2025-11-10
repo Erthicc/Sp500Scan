@@ -1,34 +1,26 @@
 {
   "ticker": "INCY",
   "indicators": {
-    "macd_hist": 1.6458049912901997,
-    "macd_slope": 0.1117758955218217,
+    "macd_hist": 1.5003030778579936,
+    "macd_slope": 0.10259310901335043,
     "rsi": 0.0,
-    "rsi_slope": 1.2682644419105091,
-    "wave_strength": 1.0252004761178468,
-    "adx": 23.329566859317946,
-    "atr": 3.72643410641899,
-    "obv_slope": 1215283.2857142857,
-    "mom14": 0.21383583003550538,
+    "rsi_slope": 2.4506255414362728,
+    "wave_strength": 1.124803103477796,
+    "adx": 27.856985298382053,
+    "atr": 3.789179989161835,
+    "obv_slope": 1359951.857142857,
+    "mom14": 0.21397479555757762,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 85.23,
-    "score_0_10": 8.52,
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.0,
+    "score_0_10": 7.9,
     "last_close": 105.9800033569336,
-    "avg_vol20": 2650608.3
+    "avg_vol20": 2844181.3
   },
   "history": [
-    {
-      "Date": "2024-02-08",
-      "Open": 57.349998474121094,
-      "High": 57.720001220703125,
-      "Low": 56.099998474121094,
-      "Close": 57.36000061035156,
-      "Volume": 1703700
-    },
     {
       "Date": "2024-02-09",
       "Open": 57.369998931884766,
@@ -3518,12 +3510,36 @@
       "Volume": 3530900
     },
     {
+      "Date": "2025-11-05",
+      "Open": 101.91000366210938,
+      "High": 106.47000122070312,
+      "Low": 101.5,
+      "Close": 105.69999694824219,
+      "Volume": 2764000
+    },
+    {
+      "Date": "2025-11-06",
+      "Open": 106.29000091552734,
+      "High": 106.43000030517578,
+      "Low": 103.0199966430664,
+      "Close": 105.19999694824219,
+      "Volume": 2392100
+    },
+    {
       "Date": "2025-11-07",
       "Open": 105.5,
       "High": 106.4000015258789,
       "Low": 103.80999755859375,
       "Close": 105.9800033569336,
-      "Volume": 1904466
+      "Volume": 2019800
+    },
+    {
+      "Date": "2025-11-10",
+      "Open": 107.0,
+      "High": 108.80999755859375,
+      "Low": 104.06999969482422,
+      "Close": 105.9800033569336,
+      "Volume": 2645526
     }
   ]
 }
