@@ -1,34 +1,26 @@
 {
   "ticker": "CINF",
   "indicators": {
-    "macd_hist": 1.2095483389506572,
-    "macd_slope": 0.15731752423603895,
+    "macd_hist": 1.3133679087479817,
+    "macd_slope": 0.15705606340334666,
     "rsi": 0.0,
-    "rsi_slope": 1.8878256331666807,
-    "wave_strength": 0.9870890916396426,
-    "adx": 18.969712164033034,
-    "atr": 3.0174742813755095,
-    "obv_slope": 326303.14285714284,
-    "mom14": 0.06468744669943367,
+    "rsi_slope": 2.2008197161779663,
+    "wave_strength": 1.0600008545956112,
+    "adx": 20.480637368587356,
+    "atr": 2.9765582491156173,
+    "obv_slope": 338348.4285714286,
+    "mom14": 0.06856630590088295,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 78.55,
-    "score_0_10": 7.86,
-    "last_close": 166.39999389648438,
-    "avg_vol20": 610907.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 81.97,
+    "score_0_10": 8.2,
+    "last_close": 166.1300048828125,
+    "avg_vol20": 604546.1
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 107.6500015258789,
-      "High": 109.4800033569336,
-      "Low": 107.12000274658203,
-      "Close": 108.88999938964844,
-      "Volume": 647200
-    },
     {
       "Date": "2024-02-12",
       "Open": 109.33000183105469,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-10",
       "Open": 164.24000549316406,
-      "High": 167.08999633789062,
-      "Low": 163.68499755859375,
+      "High": 167.10000610351562,
+      "Low": 163.69000244140625,
       "Close": 166.39999389648438,
-      "Volume": 408844
+      "Volume": 431100
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 166.77000427246094,
+      "High": 168.0,
+      "Low": 165.55999755859375,
+      "Close": 166.1300048828125,
+      "Volume": 349522
     }
   ]
 }

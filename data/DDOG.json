@@ -1,34 +1,26 @@
 {
   "ticker": "DDOG",
   "indicators": {
-    "macd_hist": 3.7856643403630015,
-    "macd_slope": 0.32253668198709384,
+    "macd_hist": 4.134262250415723,
+    "macd_slope": 0.3624142574238115,
     "rsi": 0.0,
-    "rsi_slope": 2.065981806851373,
-    "wave_strength": 1.0013299822080466,
-    "adx": 28.654771230221684,
-    "atr": 8.17088202381483,
-    "obv_slope": 1686467.0,
-    "mom14": 0.2782080078125,
+    "rsi_slope": 2.1526911568451537,
+    "wave_strength": 1.2145260314215376,
+    "adx": 31.20913860296625,
+    "atr": 7.988209021815396,
+    "obv_slope": 1523994.2857142857,
+    "mom14": 0.2830555216658271,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 87.31,
-    "score_0_10": 8.73,
-    "last_close": 199.72000122070312,
-    "avg_vol20": 4643651.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 96.25,
+    "score_0_10": 9.63,
+    "last_close": 197.86000061035156,
+    "avg_vol20": 4754994.0
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 135.80999755859375,
-      "High": 137.85000610351562,
-      "Low": 134.67999267578125,
-      "Close": 134.91000366210938,
-      "Volume": 6683400
-    },
     {
       "Date": "2024-02-12",
       "Open": 135.1300048828125,
@@ -3531,15 +3523,23 @@
       "High": 191.32000732421875,
       "Low": 180.77000427246094,
       "Close": 191.24000549316406,
-      "Volume": 9283200
+      "Volume": 9288200
     },
     {
       "Date": "2025-11-10",
-      "Open": 192.5,
-      "High": 201.4199981689453,
+      "Open": 192.91000366210938,
+      "High": 201.4600067138672,
       "Low": 191.6699981689453,
       "Close": 199.72000122070312,
-      "Volume": 6376038
+      "Volume": 6580000
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 198.64999389648438,
+      "High": 201.69000244140625,
+      "Low": 196.1136932373047,
+      "Close": 197.86000061035156,
+      "Volume": 4954580
     }
   ]
 }

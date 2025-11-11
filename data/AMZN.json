@@ -1,34 +1,26 @@
 {
   "ticker": "AMZN",
   "indicators": {
-    "macd_hist": 2.260394760711481,
-    "macd_slope": 0.1634944955043189,
+    "macd_hist": 1.9925917660570391,
+    "macd_slope": 0.1374147139737048,
     "rsi": 0.0,
-    "rsi_slope": 1.1748929352761084,
-    "wave_strength": 1.086833747943529,
-    "adx": 25.133840838561895,
-    "atr": 7.277720645931604,
-    "obv_slope": 24777416.07142857,
-    "mom14": 0.11876771275128414,
+    "rsi_slope": 1.9399272662303422,
+    "wave_strength": 1.0791669312134193,
+    "adx": 25.396512449550364,
+    "atr": 6.93787613234373,
+    "obv_slope": 29767356.92857143,
+    "mom14": 0.14292273269758662,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.13,
-    "score_0_10": 7.71,
-    "last_close": 248.39999389648438,
-    "avg_vol20": 55223081.25
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.92,
+    "score_0_10": 7.99,
+    "last_close": 249.10000610351562,
+    "avg_vol20": 54217334.85
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 170.89999389648438,
-      "High": 175.0,
-      "Low": 170.5800018310547,
-      "Close": 174.4499969482422,
-      "Volume": 56986000
-    },
     {
       "Date": "2024-02-12",
       "Open": 174.8000030517578,
@@ -3531,15 +3523,23 @@
       "High": 244.89999389648438,
       "Low": 238.49000549316406,
       "Close": 244.41000366210938,
-      "Volume": 46294900
+      "Volume": 46374300
     },
     {
       "Date": "2025-11-10",
-      "Open": 248.30999755859375,
+      "Open": 248.33999633789062,
       "High": 251.75,
       "Low": 245.58999633789062,
       "Close": 248.39999389648438,
-      "Volume": 34123225
+      "Volume": 36476500
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 248.44500732421875,
+      "High": 249.74989318847656,
+      "Low": 247.22999572753906,
+      "Close": 249.10000610351562,
+      "Volume": 23117997
     }
   ]
 }

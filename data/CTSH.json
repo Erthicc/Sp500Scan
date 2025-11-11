@@ -1,34 +1,26 @@
 {
   "ticker": "CTSH",
   "indicators": {
-    "macd_hist": 0.4499444508764967,
-    "macd_slope": 0.018350871898726123,
+    "macd_hist": 0.3594997613909616,
+    "macd_slope": 0.0064815229050256195,
     "rsi": 0.0,
-    "rsi_slope": 0.637550578718952,
-    "wave_strength": 1.0479373673035397,
-    "adx": 30.77418271498149,
-    "atr": 1.9257560154833928,
-    "obv_slope": 960792.0714285715,
-    "mom14": 0.05976444395778439,
+    "rsi_slope": 1.146945056959863,
+    "wave_strength": 1.0435600364973605,
+    "adx": 30.772035621515034,
+    "atr": 1.8764628985876233,
+    "obv_slope": 1444689.642857143,
+    "mom14": 0.06977759801751815,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.78,
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.82,
     "score_0_10": 7.08,
-    "last_close": 72.87999725341797,
-    "avg_vol20": 4986525.55
+    "last_close": 73.12999725341797,
+    "avg_vol20": 4943432.75
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 78.56999969482422,
-      "High": 78.58000183105469,
-      "Low": 76.87000274658203,
-      "Close": 77.0999984741211,
-      "Volume": 5330000
-    },
     {
       "Date": "2024-02-12",
       "Open": 76.73999786376953,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-10",
-      "Open": 73.69999694824219,
-      "High": 74.10929870605469,
+      "Open": 73.58999633789062,
+      "High": 74.11000061035156,
       "Low": 72.0,
       "Close": 72.87999725341797,
-      "Volume": 4037411
+      "Volume": 4043300
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 72.86000061035156,
+      "High": 73.58000183105469,
+      "Low": 72.34500122070312,
+      "Close": 73.12999725341797,
+      "Volume": 3224555
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "JKHY",
   "indicators": {
-    "macd_hist": 1.212783685960809,
-    "macd_slope": -0.0022478514294429963,
+    "macd_hist": 1.4407331294931385,
+    "macd_slope": 0.012165561388639144,
     "rsi": 0.0,
-    "rsi_slope": -1.8927684793472719,
-    "wave_strength": 1.050884922196902,
-    "adx": 23.0776470649346,
-    "atr": 3.5225501066065505,
-    "obv_slope": 123298.28571428571,
-    "mom14": 0.03626053089345695,
+    "rsi_slope": -1.6149116312485106,
+    "wave_strength": 1.0469684927031242,
+    "adx": 23.47651667811564,
+    "atr": 3.5144090123429463,
+    "obv_slope": 107491.14285714286,
+    "mom14": 0.05560506832827428,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 66.22,
-    "score_0_10": 6.62,
-    "last_close": 162.61000061035156,
-    "avg_vol20": 1064858.8
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.43,
+    "score_0_10": 7.64,
+    "last_close": 165.72999572753906,
+    "avg_vol20": 1051998.8
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 175.0,
-      "High": 176.10000610351562,
-      "Low": 173.69000244140625,
-      "Close": 175.92999267578125,
-      "Volume": 461700
-    },
     {
       "Date": "2024-02-12",
       "Open": 178.3699951171875,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-10",
       "Open": 160.74000549316406,
-      "High": 162.9499969482422,
+      "High": 162.97000122070312,
       "Low": 159.77999877929688,
       "Close": 162.61000061035156,
-      "Volume": 793976
+      "Volume": 850700
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 162.5,
+      "High": 165.88999938964844,
+      "Low": 162.5,
+      "Close": 165.72999572753906,
+      "Volume": 741676
     }
   ]
 }

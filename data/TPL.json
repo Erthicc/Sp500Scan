@@ -1,34 +1,26 @@
 {
   "ticker": "TPL",
   "indicators": {
-    "macd_hist": 7.519486497788416,
-    "macd_slope": 0.5568376800758803,
+    "macd_hist": 7.64611400658208,
+    "macd_slope": 0.5782978780579461,
     "rsi": 0.0,
-    "rsi_slope": 1.4996148691788334,
-    "wave_strength": 1.078414436566048,
-    "adx": 16.946496097716018,
-    "atr": 38.85708003934474,
-    "obv_slope": 24712.071428571428,
-    "mom14": 0.07024324017721313,
+    "rsi_slope": 1.7038831857729768,
+    "wave_strength": 1.0553986995207374,
+    "adx": 18.470653582896652,
+    "atr": 37.58230674498651,
+    "obv_slope": 32669.14285714286,
+    "mom14": 0.06840128971098845,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 85.48,
-    "score_0_10": 8.55,
-    "last_close": 993.8599853515625,
-    "avg_vol20": 123493.45
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 73.85,
+    "score_0_10": 7.38,
+    "last_close": 989.1900024414062,
+    "avg_vol20": 120591.6
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 493.1766662597656,
-      "High": 495.0,
-      "Low": 486.53668212890625,
-      "Close": 488.7033386230469,
-      "Volume": 50100
-    },
     {
       "Date": "2024-02-12",
       "Open": 491.99334716796875,
@@ -3539,7 +3531,15 @@
       "High": 1000.0,
       "Low": 960.0,
       "Close": 993.8599853515625,
-      "Volume": 73469
+      "Volume": 98800
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 998.4099731445312,
+      "High": 1006.1102294921875,
+      "Low": 985.0999755859375,
+      "Close": 989.1900024414062,
+      "Volume": 55232
     }
   ]
 }

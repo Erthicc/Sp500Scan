@@ -1,34 +1,26 @@
 {
   "ticker": "MCO",
   "indicators": {
-    "macd_hist": 0.9767207474398611,
-    "macd_slope": 0.03847719805204884,
+    "macd_hist": 1.3557745836676596,
+    "macd_slope": 0.08202461246841242,
     "rsi": 0.0,
-    "rsi_slope": -0.25562803012731244,
-    "wave_strength": 1.0130950186443777,
-    "adx": 21.56957795234036,
-    "atr": 10.102389163868407,
-    "obv_slope": 73111.35714285714,
-    "mom14": 2.057916310018862e-05,
+    "rsi_slope": 1.27767927993597,
+    "wave_strength": 1.0118608434635619,
+    "adx": 20.42171848751149,
+    "atr": 10.100076174963645,
+    "obv_slope": 221802.14285714287,
+    "mom14": 0.04274623213226784,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 55.09,
-    "score_0_10": 5.51,
-    "last_close": 484.92999267578125,
-    "avg_vol20": 921372.05
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.34,
+    "score_0_10": 6.73,
+    "last_close": 493.0,
+    "avg_vol20": 887146.5
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 398.0,
-      "High": 405.3399963378906,
-      "Low": 396.1199951171875,
-      "Close": 405.1700134277344,
-      "Volume": 939500
-    },
     {
       "Date": "2024-02-12",
       "Open": 407.6000061035156,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-10",
       "Open": 487.0299987792969,
-      "High": 487.25,
+      "High": 487.67999267578125,
       "Low": 480.1600036621094,
       "Close": 484.92999267578125,
-      "Volume": 572541
+      "Volume": 572600
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 486.8599853515625,
+      "High": 495.0,
+      "Low": 485.4200134277344,
+      "Close": 493.0,
+      "Volume": 395930
     }
   ]
 }

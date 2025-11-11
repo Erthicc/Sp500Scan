@@ -1,34 +1,26 @@
 {
   "ticker": "TRGP",
   "indicators": {
-    "macd_hist": 2.652909227971097,
-    "macd_slope": 0.2793423804951464,
+    "macd_hist": 2.779807505251946,
+    "macd_slope": 0.2509974166497352,
     "rsi": 0.0,
-    "rsi_slope": 3.2358189189704722,
-    "wave_strength": 1.1104236799283256,
-    "adx": 20.318025617341565,
-    "atr": 5.382095437689195,
-    "obv_slope": 745437.7142857143,
-    "mom14": 0.12678124008985,
+    "rsi_slope": 2.5688251993597624,
+    "wave_strength": 1.1019457420333416,
+    "adx": 22.03009898041792,
+    "atr": 5.313129295910017,
+    "obv_slope": 657561.2857142857,
+    "mom14": 0.12897107096413116,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 77.74,
-    "score_0_10": 7.77,
-    "last_close": 169.47999572753906,
-    "avg_vol20": 1648398.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 86.64,
+    "score_0_10": 8.66,
+    "last_close": 173.22999572753906,
+    "avg_vol20": 1635397.9
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 88.05999755859375,
-      "High": 88.62999725341797,
-      "Low": 87.05999755859375,
-      "Close": 87.08999633789062,
-      "Volume": 1358100
-    },
     {
       "Date": "2024-02-12",
       "Open": 87.37000274658203,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-10",
       "Open": 173.4499969482422,
       "High": 174.27999877929688,
-      "Low": 168.49630737304688,
+      "Low": 168.5,
       "Close": 169.47999572753906,
-      "Volume": 1050272
+      "Volume": 1593100
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 170.91000366210938,
+      "High": 173.89999389648438,
+      "Low": 170.03500366210938,
+      "Close": 173.22999572753906,
+      "Volume": 894758
     }
   ]
 }

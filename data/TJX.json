@@ -1,34 +1,26 @@
 {
   "ticker": "TJX",
   "indicators": {
-    "macd_hist": 0.24724852389979834,
-    "macd_slope": 0.020705350177224507,
+    "macd_hist": 0.3245454894382859,
+    "macd_slope": 0.029644830451909552,
     "rsi": 0.0,
-    "rsi_slope": 0.705603007568386,
-    "wave_strength": 0.9940130942766633,
-    "adx": 19.242561949728685,
-    "atr": 2.2910810325982256,
-    "obv_slope": 1517462.4285714286,
-    "mom14": 0.019526075235127,
+    "rsi_slope": 0.6121467726696643,
+    "wave_strength": 1.0242233887559,
+    "adx": 20.526594775577934,
+    "atr": 2.2678877501525845,
+    "obv_slope": 1576454.2857142857,
+    "mom14": 0.02166927272766058,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.66,
-    "score_0_10": 7.57,
-    "last_close": 146.72000122070312,
-    "avg_vol20": 4441848.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 66.5,
+    "score_0_10": 6.65,
+    "last_close": 146.16000366210938,
+    "avg_vol20": 4369537.0
   },
   "history": [
-    {
-      "Date": "2024-02-09",
-      "Open": 98.23999786376953,
-      "High": 99.06999969482422,
-      "Low": 98.01000213623047,
-      "Close": 98.75,
-      "Volume": 3488200
-    },
     {
       "Date": "2024-02-12",
       "Open": 98.66000366210938,
@@ -3531,15 +3523,23 @@
       "High": 145.11000061035156,
       "Low": 143.33999633789062,
       "Close": 144.61000061035156,
-      "Volume": 5633500
+      "Volume": 5638000
     },
     {
       "Date": "2025-11-10",
       "Open": 144.11000061035156,
       "High": 146.92999267578125,
-      "Low": 143.7550048828125,
+      "Low": 143.75999450683594,
       "Close": 146.72000122070312,
-      "Volume": 4055074
+      "Volume": 4056300
+    },
+    {
+      "Date": "2025-11-11",
+      "Open": 147.19000244140625,
+      "High": 147.58900451660156,
+      "Low": 145.6179962158203,
+      "Close": 146.16000366210938,
+      "Volume": 2979840
     }
   ]
 }
