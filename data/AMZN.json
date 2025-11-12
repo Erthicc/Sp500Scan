@@ -1,34 +1,26 @@
 {
   "ticker": "AMZN",
   "indicators": {
-    "macd_hist": 1.9925917660570391,
-    "macd_slope": 0.1374147139737048,
+    "macd_hist": 1.3615524113807105,
+    "macd_slope": 0.07239162753726454,
     "rsi": 0.0,
-    "rsi_slope": 1.9399272662303422,
-    "wave_strength": 1.0791669312134193,
-    "adx": 25.396512449550364,
-    "atr": 6.93787613234373,
-    "obv_slope": 29767356.92857143,
-    "mom14": 0.14292273269758662,
+    "rsi_slope": 1.0335824962802695,
+    "wave_strength": 1.0678292607585782,
+    "adx": 25.06272488753054,
+    "atr": 6.915177429980089,
+    "obv_slope": 25356246.85714286,
+    "mom14": 0.10452757245078007,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 79.92,
-    "score_0_10": 7.99,
-    "last_close": 249.10000610351562,
-    "avg_vol20": 54217334.85
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.06,
+    "score_0_10": 7.41,
+    "last_close": 244.1999969482422,
+    "avg_vol20": 53477247.2
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 174.8000030517578,
-      "High": 175.38999938964844,
-      "Low": 171.5399932861328,
-      "Close": 172.33999633789062,
-      "Volume": 51050400
-    },
     {
       "Date": "2024-02-13",
       "Open": 167.72999572753906,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-11",
-      "Open": 248.44500732421875,
-      "High": 249.74989318847656,
+      "Open": 248.41000366210938,
+      "High": 249.75,
       "Low": 247.22999572753906,
       "Close": 249.10000610351562,
-      "Volume": 23117997
+      "Volume": 23564100
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 250.18499755859375,
+      "High": 250.3699951171875,
+      "Low": 243.75,
+      "Close": 244.1999969482422,
+      "Volume": 30661644
     }
   ]
 }

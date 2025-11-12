@@ -1,34 +1,26 @@
 {
   "ticker": "PFE",
   "indicators": {
-    "macd_hist": 0.10909857813807058,
-    "macd_slope": 0.015133711807553806,
+    "macd_hist": 0.17440910554026973,
+    "macd_slope": 0.01887767116534678,
     "rsi": 0.0,
-    "rsi_slope": 3.4437674276100054,
-    "wave_strength": 1.007752020018302,
-    "adx": 14.594900283163996,
-    "atr": 0.5709550044579385,
-    "obv_slope": 36933776.35714286,
-    "mom14": 0.05012917969226928,
+    "rsi_slope": 4.177808208596966,
+    "wave_strength": 1.0038140385706311,
+    "adx": 16.931537170773147,
+    "atr": 0.5798153393526785,
+    "obv_slope": 46247762.85714286,
+    "mom14": 0.06710715200040533,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 93.02,
-    "score_0_10": 9.3,
-    "last_close": 25.510000228881836,
-    "avg_vol20": 85220188.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 86.05,
+    "score_0_10": 8.61,
+    "last_close": 25.8700008392334,
+    "avg_vol20": 87642494.0
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 27.540000915527344,
-      "High": 28.020000457763672,
-      "Low": 27.520000457763672,
-      "Close": 27.65999984741211,
-      "Volume": 30323700
-    },
     {
       "Date": "2024-02-13",
       "Open": 27.540000915527344,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-11",
       "Open": 24.489999771118164,
       "High": 25.510000228881836,
-      "Low": 24.44499969482422,
+      "Low": 24.440000534057617,
       "Close": 25.510000228881836,
-      "Volume": 139380769
+      "Volume": 139673800
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 25.395000457763672,
+      "High": 25.94499969482422,
+      "Low": 25.25,
+      "Close": 25.8700008392334,
+      "Volume": 95882880
     }
   ]
 }

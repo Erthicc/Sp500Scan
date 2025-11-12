@@ -1,34 +1,26 @@
 {
   "ticker": "BIIB",
   "indicators": {
-    "macd_hist": 0.7554170153551403,
-    "macd_slope": 0.09328763494445438,
+    "macd_hist": 0.9314857336431852,
+    "macd_slope": 0.08436771262605165,
     "rsi": 0.0,
-    "rsi_slope": 2.327113945635675,
-    "wave_strength": 1.0438790525361212,
-    "adx": 15.222657592001664,
-    "atr": 4.7959974784482755,
-    "obv_slope": 184550.0,
-    "mom14": 0.08015161278127066,
+    "rsi_slope": 2.664191429452031,
+    "wave_strength": 1.037721210706888,
+    "adx": 15.548864767560607,
+    "atr": 4.776358103557853,
+    "obv_slope": 216840.2142857143,
+    "mom14": 0.0759594466777617,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 69.44,
-    "score_0_10": 6.94,
-    "last_close": 159.55999755859375,
-    "avg_vol20": 1623705.0
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 78.39,
+    "score_0_10": 7.84,
+    "last_close": 161.47999572753906,
+    "avg_vol20": 1641748.15
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 239.4499969482422,
-      "High": 244.9499969482422,
-      "Low": 239.4499969482422,
-      "Close": 244.74000549316406,
-      "Volume": 962000
-    },
     {
       "Date": "2024-02-13",
       "Open": 235.63999938964844,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-11",
       "Open": 156.75999450683594,
-      "High": 159.94000244140625,
-      "Low": 154.201904296875,
+      "High": 159.9499969482422,
+      "Low": 154.1999969482422,
       "Close": 159.55999755859375,
-      "Volume": 1459700
+      "Volume": 1504500
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 160.0,
+      "High": 162.55999755859375,
+      "Low": 158.0500030517578,
+      "Close": 161.47999572753906,
+      "Volume": 1653263
     }
   ]
 }

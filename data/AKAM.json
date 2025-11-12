@@ -1,34 +1,26 @@
 {
   "ticker": "AKAM",
   "indicators": {
-    "macd_hist": 1.7470430658592593,
-    "macd_slope": 0.12571007980666465,
+    "macd_hist": 1.9661641984116562,
+    "macd_slope": 0.1391699758514624,
     "rsi": 0.0,
-    "rsi_slope": 2.9101548284150875,
-    "wave_strength": 0.9872031445098095,
-    "adx": 25.370564004781276,
-    "atr": 3.102321347032067,
-    "obv_slope": 2011557.857142857,
-    "mom14": 0.21282293830443214,
+    "rsi_slope": 2.757045240619059,
+    "wave_strength": 1.1783601082053428,
+    "adx": 27.656337633539987,
+    "atr": 3.050727313887005,
+    "obv_slope": 1820154.7142857143,
+    "mom14": 0.20761289018968876,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 91.4,
-    "score_0_10": 9.14,
-    "last_close": 90.61000061035156,
-    "avg_vol20": 2658735.5
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 90.72,
+    "score_0_10": 9.07,
+    "last_close": 90.0999984741211,
+    "avg_vol20": 2785546.7
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 128.5500030517578,
-      "High": 128.6199951171875,
-      "Low": 126.95999908447266,
-      "Close": 128.14999389648438,
-      "Volume": 1976800
-    },
     {
       "Date": "2024-02-13",
       "Open": 125.5199966430664,
@@ -3539,7 +3531,15 @@
       "High": 92.0,
       "Low": 86.30999755859375,
       "Close": 90.61000061035156,
-      "Volume": 5511810
+      "Volume": 5596400
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 90.61000061035156,
+      "High": 91.76000213623047,
+      "Low": 89.37999725341797,
+      "Close": 90.0999984741211,
+      "Volume": 3784734
     }
   ]
 }

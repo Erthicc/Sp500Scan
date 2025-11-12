@@ -1,34 +1,26 @@
 {
   "ticker": "DDOG",
   "indicators": {
-    "macd_hist": 4.134262250415723,
-    "macd_slope": 0.3624142574238115,
+    "macd_hist": 3.6330211112164132,
+    "macd_slope": 0.32494942332694804,
     "rsi": 0.0,
-    "rsi_slope": 2.1526911568451537,
-    "wave_strength": 1.2145260314215376,
-    "adx": 31.20913860296625,
-    "atr": 7.988209021815396,
-    "obv_slope": 1523994.2857142857,
-    "mom14": 0.2830555216658271,
+    "rsi_slope": 1.3917498125639634,
+    "wave_strength": 1.203232200579902,
+    "adx": 32.22365197115628,
+    "atr": 8.219744973902198,
+    "obv_slope": 1024780.4285714285,
+    "mom14": 0.21904338625658504,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 96.25,
-    "score_0_10": 9.63,
-    "last_close": 197.86000061035156,
-    "avg_vol20": 4754994.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.15,
+    "score_0_10": 8.21,
+    "last_close": 190.88999938964844,
+    "avg_vol20": 4844858.7
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 135.1300048828125,
-      "High": 137.10499572753906,
-      "Low": 133.30999755859375,
-      "Close": 134.85000610351562,
-      "Volume": 9412800
-    },
     {
       "Date": "2024-02-13",
       "Open": 126.5,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-11",
       "Open": 198.64999389648438,
       "High": 201.69000244140625,
-      "Low": 196.1136932373047,
+      "Low": 196.11399841308594,
       "Close": 197.86000061035156,
-      "Volume": 4954580
+      "Volume": 5251700
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 199.5,
+      "High": 199.75,
+      "Low": 188.52000427246094,
+      "Close": 190.88999938964844,
+      "Volume": 4524974
     }
   ]
 }

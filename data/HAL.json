@@ -1,34 +1,26 @@
 {
   "ticker": "HAL",
   "indicators": {
-    "macd_hist": 0.07892543134107155,
-    "macd_slope": -0.00572553381085421,
+    "macd_hist": -0.006424593338595352,
+    "macd_slope": -0.024461189226646644,
     "rsi": 0.0,
-    "rsi_slope": 0.3030282085763848,
-    "wave_strength": 1.043618512825303,
-    "adx": 33.27394471993752,
-    "atr": 0.881021570252799,
-    "obv_slope": 3298678.785714286,
-    "mom14": 0.06651463456946588,
-    "macd_bull": 1,
+    "rsi_slope": -1.330404641025695,
+    "wave_strength": 1.0680978899010856,
+    "adx": 32.77595857596201,
+    "atr": 0.916280237900587,
+    "obv_slope": 1146267.0,
+    "mom14": -0.010653894764664214,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.39,
-    "score_0_10": 7.04,
-    "last_close": 28.059999465942383,
-    "avg_vol20": 14464705.15
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 34.64,
+    "score_0_10": 3.46,
+    "last_close": 26.93000030517578,
+    "avg_vol20": 14049388.1
   },
   "history": [
-    {
-      "Date": "2024-02-12",
-      "Open": 34.779998779296875,
-      "High": 35.150001525878906,
-      "Low": 34.439998626708984,
-      "Close": 34.529998779296875,
-      "Volume": 8691200
-    },
     {
       "Date": "2024-02-13",
       "Open": 34.5,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-11",
       "Open": 27.770000457763672,
-      "High": 28.655000686645508,
+      "High": 28.65999984741211,
       "Low": 27.719999313354492,
       "Close": 28.059999465942383,
-      "Volume": 11802203
+      "Volume": 11807600
+    },
+    {
+      "Date": "2025-11-12",
+      "Open": 27.770000457763672,
+      "High": 28.190000534057617,
+      "Low": 26.81999969482422,
+      "Close": 26.93000030517578,
+      "Volume": 9914162
     }
   ]
 }
