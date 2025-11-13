@@ -1,34 +1,26 @@
 {
   "ticker": "EXE",
   "indicators": {
-    "macd_hist": 1.5081182512686144,
-    "macd_slope": 0.12657420993160154,
+    "macd_hist": 1.4068583474727427,
+    "macd_slope": 0.12037256176794967,
     "rsi": 0.0,
-    "rsi_slope": 2.6667463749831986,
-    "wave_strength": 1.0286456711601157,
-    "adx": 24.921274128071566,
-    "atr": 3.6906660700511478,
-    "obv_slope": 1350952.0,
-    "mom14": 0.14359563595123234,
+    "rsi_slope": 2.586949063062601,
+    "wave_strength": 1.106285242157748,
+    "adx": 26.689732411938913,
+    "atr": 3.596696500664202,
+    "obv_slope": 1295609.0,
+    "mom14": 0.13674475185939386,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.01,
-    "score_0_10": 8.2,
-    "last_close": 119.45999908447266,
-    "avg_vol20": 3282926.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 84.8,
+    "score_0_10": 8.48,
+    "last_close": 117.95999908447266,
+    "avg_vol20": 3285523.7
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 76.86000061035156,
-      "High": 76.98999786376953,
-      "Low": 75.58999633789062,
-      "Close": 76.43000030517578,
-      "Volume": 1989100
-    },
     {
       "Date": "2024-02-14",
       "Open": 76.4800033569336,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-12",
-      "Open": 118.87999725341797,
+      "Open": 119.0,
       "High": 120.30000305175781,
-      "Low": 117.57009887695312,
+      "Low": 117.56999969482422,
       "Close": 119.45999908447266,
-      "Volume": 3961928
+      "Volume": 4077600
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 119.16000366210938,
+      "High": 120.0,
+      "Low": 117.625,
+      "Close": 117.95999908447266,
+      "Volume": 3108474
     }
   ]
 }

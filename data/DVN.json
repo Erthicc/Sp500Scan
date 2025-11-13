@@ -1,34 +1,26 @@
 {
   "ticker": "DVN",
   "indicators": {
-    "macd_hist": 0.3874951970289232,
-    "macd_slope": 0.034827255351534026,
+    "macd_hist": 0.394806837509904,
+    "macd_slope": 0.03116743416675171,
     "rsi": 0.0,
-    "rsi_slope": 1.7074529082113254,
-    "wave_strength": 1.0002895364596358,
-    "adx": 16.556186040262507,
-    "atr": 0.9962009403151931,
-    "obv_slope": 2127648.6428571427,
-    "mom14": 0.05322974482936815,
+    "rsi_slope": 2.3728238020215193,
+    "wave_strength": 1.0685355801519487,
+    "adx": 18.210693995827377,
+    "atr": 0.9978751373042735,
+    "obv_slope": 2010418.5,
+    "mom14": 0.06278433782781867,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 75.48,
-    "score_0_10": 7.55,
-    "last_close": 35.220001220703125,
-    "avg_vol20": 7722549.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.39,
+    "score_0_10": 7.84,
+    "last_close": 35.040000915527344,
+    "avg_vol20": 7805642.05
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 42.08000183105469,
-      "High": 42.27000045776367,
-      "Low": 41.40999984741211,
-      "Close": 41.900001525878906,
-      "Volume": 6512500
-    },
     {
       "Date": "2024-02-14",
       "Open": 42.04999923706055,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-12",
       "Open": 35.099998474121094,
-      "High": 35.525001525878906,
+      "High": 35.529998779296875,
       "Low": 34.779998779296875,
       "Close": 35.220001220703125,
-      "Volume": 9580781
+      "Volume": 10711300
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 35.369998931884766,
+      "High": 35.68000030517578,
+      "Low": 34.665000915527344,
+      "Close": 35.040000915527344,
+      "Volume": 7329241
     }
   ]
 }

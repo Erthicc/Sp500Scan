@@ -1,34 +1,26 @@
 {
   "ticker": "WDC",
   "indicators": {
-    "macd_hist": 2.2112606074848813,
-    "macd_slope": 0.23216425469680693,
+    "macd_hist": 0.9866869581348432,
+    "macd_slope": 0.11587737840946646,
     "rsi": 0.0,
-    "rsi_slope": 2.082093118521912,
-    "wave_strength": 1.2186753461509823,
-    "adx": 48.634725442191076,
-    "atr": 9.372116794207257,
-    "obv_slope": 1561699.4285714286,
-    "mom14": 0.32126947977627884,
+    "rsi_slope": 0.795678915835787,
+    "wave_strength": 1.2055037116569354,
+    "adx": 47.25092240196232,
+    "atr": 9.511965725442478,
+    "obv_slope": 371824.21428571426,
+    "mom14": 0.21424718037179433,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 87.78,
-    "score_0_10": 8.78,
-    "last_close": 166.11000061035156,
-    "avg_vol20": 10260145.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 92.62,
+    "score_0_10": 9.26,
+    "last_close": 157.16000366210938,
+    "avg_vol20": 10071808.05
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 42.267574310302734,
-      "High": 42.282691955566406,
-      "Low": 41.4134521484375,
-      "Close": 41.82917785644531,
-      "Volume": 8694888
-    },
     {
       "Date": "2024-02-14",
       "Open": 42.27513122558594,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-12",
-      "Open": 168.6002960205078,
+      "Open": 169.72999572753906,
       "High": 175.6199951171875,
       "Low": 165.02999877929688,
       "Close": 166.11000061035156,
-      "Volume": 9844508
+      "Volume": 9868300
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 162.69500732421875,
+      "High": 164.88229370117188,
+      "Low": 154.77999877929688,
+      "Close": 157.16000366210938,
+      "Volume": 10088061
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "DDOG",
   "indicators": {
-    "macd_hist": 3.6330211112164132,
-    "macd_slope": 0.32494942332694804,
+    "macd_hist": 2.7479392246419323,
+    "macd_slope": 0.26097189341724586,
     "rsi": 0.0,
-    "rsi_slope": 1.3917498125639634,
-    "wave_strength": 1.203232200579902,
-    "adx": 32.22365197115628,
-    "atr": 8.219744973902198,
-    "obv_slope": 1024780.4285714285,
-    "mom14": 0.21904338625658504,
+    "rsi_slope": 1.457174147305684,
+    "wave_strength": 1.1907498121231537,
+    "adx": 32.64851354721558,
+    "atr": 8.03047690906143,
+    "obv_slope": 870592.4285714285,
+    "mom14": 0.18853454189208982,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 82.15,
-    "score_0_10": 8.21,
-    "last_close": 190.88999938964844,
-    "avg_vol20": 4844858.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 90.79,
+    "score_0_10": 9.08,
+    "last_close": 185.97000122070312,
+    "avg_vol20": 4808480.3
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 126.5,
-      "High": 138.61000061035156,
-      "Low": 123.5,
-      "Close": 131.67999267578125,
-      "Volume": 15677800
-    },
     {
       "Date": "2024-02-14",
       "Open": 134.7899932861328,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-12",
-      "Open": 199.5,
+      "Open": 199.10000610351562,
       "High": 199.75,
       "Low": 188.52000427246094,
       "Close": 190.88999938964844,
-      "Volume": 4524974
+      "Volume": 4670700
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 190.0,
+      "High": 190.58999633789062,
+      "Low": 185.32000732421875,
+      "Close": 185.97000122070312,
+      "Volume": 4450306
     }
   ]
 }

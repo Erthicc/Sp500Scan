@@ -1,34 +1,26 @@
 {
   "ticker": "CTVA",
   "indicators": {
-    "macd_hist": 0.6684746161275135,
-    "macd_slope": 0.02520407620303076,
+    "macd_hist": 0.6631328703244993,
+    "macd_slope": 0.01828756812644549,
     "rsi": 0.0,
-    "rsi_slope": 1.1522206267682091,
-    "wave_strength": 1.0077316607379863,
-    "adx": 25.938155392701663,
-    "atr": 1.4158305571282555,
-    "obv_slope": 1061619.857142857,
-    "mom14": 0.04725903963974066,
+    "rsi_slope": 1.2170194668873289,
+    "wave_strength": 1.0478945683975944,
+    "adx": 25.68762907188395,
+    "atr": 1.3764853647674855,
+    "obv_slope": 668356.5,
+    "mom14": 0.03989942046682762,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.87,
-    "score_0_10": 7.69,
-    "last_close": 66.4800033569336,
-    "avg_vol20": 4545638.9
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.62,
+    "score_0_10": 7.66,
+    "last_close": 66.19999694824219,
+    "avg_vol20": 4470560.45
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 54.58000183105469,
-      "High": 54.9900016784668,
-      "Low": 53.349998474121094,
-      "Close": 53.630001068115234,
-      "Volume": 3525700
-    },
     {
       "Date": "2024-02-14",
       "Open": 54.11000061035156,
@@ -3539,7 +3531,15 @@
       "High": 66.87999725341797,
       "Low": 65.26000213623047,
       "Close": 66.4800033569336,
-      "Volume": 3131278
+      "Volume": 3131400
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 66.68499755859375,
+      "High": 67.0,
+      "Low": 66.13500213623047,
+      "Close": 66.19999694824219,
+      "Volume": 2878009
     }
   ]
 }

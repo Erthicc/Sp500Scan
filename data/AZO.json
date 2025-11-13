@@ -1,34 +1,26 @@
 {
   "ticker": "AZO",
   "indicators": {
-    "macd_hist": 14.530008150604147,
-    "macd_slope": 2.518939123173768,
+    "macd_hist": 21.277919051744064,
+    "macd_slope": 3.409907798505447,
     "rsi": 0.0,
-    "rsi_slope": 1.3355907868431605,
-    "wave_strength": 0.9679678245434425,
-    "adx": 38.39301083037876,
-    "atr": 91.98385257681002,
-    "obv_slope": -16007.285714285714,
-    "mom14": -0.01592209060470779,
+    "rsi_slope": 1.8510608932300063,
+    "wave_strength": 0.9703777050415427,
+    "adx": 36.40071965548032,
+    "atr": 92.38375736183387,
+    "obv_slope": 1219.0,
+    "mom14": 0.003607873810254245,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 67.57,
-    "score_0_10": 6.76,
-    "last_close": 3788.699951171875,
-    "avg_vol20": 133954.9
+    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
+    "score_0_100": 80.89,
+    "score_0_10": 8.09,
+    "last_close": 3819.2900390625,
+    "avg_vol20": 135918.3
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 2701.510009765625,
-      "High": 2761.0,
-      "Low": 2689.77001953125,
-      "Close": 2726.14990234375,
-      "Volume": 149600
-    },
     {
       "Date": "2024-02-14",
       "Open": 2740.360107421875,
@@ -3539,7 +3531,15 @@
       "High": 3808.0,
       "Low": 3752.5,
       "Close": 3788.699951171875,
-      "Volume": 79498
+      "Volume": 101700
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 3867.06005859375,
+      "High": 3886.282470703125,
+      "Low": 3817.080078125,
+      "Close": 3819.2900390625,
+      "Volume": 93566
     }
   ]
 }

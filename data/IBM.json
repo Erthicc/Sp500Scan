@@ -1,34 +1,26 @@
 {
   "ticker": "IBM",
   "indicators": {
-    "macd_hist": 0.23040839112185907,
-    "macd_slope": 0.0795114335590876,
+    "macd_hist": -0.4295009370467522,
+    "macd_slope": -0.0747287587762701,
     "rsi": 0.0,
-    "rsi_slope": 1.8151970748654063,
-    "wave_strength": 1.0364920534154798,
-    "adx": 25.917972779585575,
-    "atr": 9.368922728891828,
-    "obv_slope": 1625275.0714285714,
-    "mom14": 0.11128667240689297,
-    "macd_bull": 1,
+    "rsi_slope": -0.9591241256283277,
+    "wave_strength": 1.045445274158173,
+    "adx": 25.327131666332008,
+    "atr": 9.506858127529025,
+    "obv_slope": 38814.0,
+    "mom14": -0.002989439204439696,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 69.23,
-    "score_0_10": 6.92,
-    "last_close": 314.9800109863281,
-    "avg_vol20": 6648957.55
+    "explanation": "strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 35.01,
+    "score_0_10": 3.5,
+    "last_close": 304.8599853515625,
+    "avg_vol20": 6766650.2
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 184.27999877929688,
-      "High": 184.77000427246094,
-      "Low": 182.36000061035156,
-      "Close": 183.6999969482422,
-      "Volume": 4290500
-    },
     {
       "Date": "2024-02-14",
       "Open": 185.0,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-12",
       "Open": 319.8900146484375,
       "High": 324.8999938964844,
-      "Low": 314.53240966796875,
+      "Low": 314.5299987792969,
       "Close": 314.9800109863281,
-      "Volume": 6035451
+      "Volume": 6042700
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 312.2900085449219,
+      "High": 314.6000061035156,
+      "Low": 303.67999267578125,
+      "Close": 304.8599853515625,
+      "Volume": 5303504
     }
   ]
 }

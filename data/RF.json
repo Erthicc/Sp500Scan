@@ -1,34 +1,26 @@
 {
   "ticker": "RF",
   "indicators": {
-    "macd_hist": 0.20357869785145044,
-    "macd_slope": 0.021170547362760632,
+    "macd_hist": 0.18403784891488617,
+    "macd_slope": 0.015458349451821294,
     "rsi": 0.0,
-    "rsi_slope": 3.013484413650199,
-    "wave_strength": 1.0021992118208054,
-    "adx": 26.00140837147632,
-    "atr": 0.58388501246489,
-    "obv_slope": 12350283.214285715,
-    "mom14": 0.05352692895268913,
+    "rsi_slope": 1.262058418595233,
+    "wave_strength": 1.040275307141194,
+    "adx": 25.023479464405767,
+    "atr": 0.5750360176011166,
+    "obv_slope": 7217311.357142857,
+    "mom14": 0.01587299122883557,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 80.62,
-    "score_0_10": 8.06,
-    "last_close": 25.389999389648438,
-    "avg_vol20": 36974573.25
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
+    "score_0_100": 65.1,
+    "score_0_10": 6.51,
+    "last_close": 24.959999084472656,
+    "avg_vol20": 34990967.05
   },
   "history": [
-    {
-      "Date": "2024-02-13",
-      "Open": 18.059999465942383,
-      "High": 18.149999618530273,
-      "Low": 17.610000610351562,
-      "Close": 17.889999389648438,
-      "Volume": 11382500
-    },
     {
       "Date": "2024-02-14",
       "Open": 18.139999389648438,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-12",
       "Open": 25.1299991607666,
       "High": 25.690000534057617,
-      "Low": 25.079999923706055,
+      "Low": 25.06999969482422,
       "Close": 25.389999389648438,
-      "Volume": 15597765
+      "Volume": 16884500
+    },
+    {
+      "Date": "2025-11-13",
+      "Open": 25.260000228881836,
+      "High": 25.399999618530273,
+      "Low": 24.940000534057617,
+      "Close": 24.959999084472656,
+      "Volume": 15042941
     }
   ]
 }
