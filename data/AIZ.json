@@ -1,34 +1,26 @@
 {
   "ticker": "AIZ",
   "indicators": {
-    "macd_hist": 1.684513633714198,
-    "macd_slope": 0.18362106767612946,
+    "macd_hist": 1.6544274779875305,
+    "macd_slope": 0.1682453663629388,
     "rsi": 0.0,
-    "rsi_slope": 2.869100583859915,
-    "wave_strength": 1.0501212187476403,
-    "adx": 22.886291273293466,
-    "atr": 4.519719149661343,
-    "obv_slope": 123029.57142857143,
-    "mom14": 0.07169830264157971,
+    "rsi_slope": 2.414880282387276,
+    "wave_strength": 1.0453923436917159,
+    "adx": 24.633729439513747,
+    "atr": 4.557367144446987,
+    "obv_slope": 123277.0,
+    "mom14": 0.0772891922700884,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.08,
-    "score_0_10": 8.01,
-    "last_close": 227.0500030517578,
-    "avg_vol20": 305085.7
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 77.47,
+    "score_0_10": 7.75,
+    "last_close": 228.58999633789062,
+    "avg_vol20": 303708.9
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 171.36000061035156,
-      "High": 173.25,
-      "Low": 170.92999267578125,
-      "Close": 171.77999877929688,
-      "Volume": 301600
-    },
     {
       "Date": "2024-02-15",
       "Open": 172.10000610351562,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-13",
       "Open": 226.75999450683594,
-      "High": 228.55999755859375,
+      "High": 228.63999938964844,
       "Low": 226.33999633789062,
       "Close": 227.0500030517578,
-      "Volume": 223714
+      "Volume": 228400
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 228.30999755859375,
+      "High": 232.0225067138672,
+      "Low": 227.88250732421875,
+      "Close": 228.58999633789062,
+      "Volume": 245378
     }
   ]
 }

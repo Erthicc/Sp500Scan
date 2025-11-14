@@ -1,34 +1,26 @@
 {
   "ticker": "CTSH",
   "indicators": {
-    "macd_hist": 0.26269115835434875,
-    "macd_slope": -0.0012408605902681621,
+    "macd_hist": 0.12780529233394589,
+    "macd_slope": -0.010736640847418924,
     "rsi": 0.0,
-    "rsi_slope": 1.6714883558705533,
-    "wave_strength": 1.04622712902832,
-    "adx": 31.66177174624395,
-    "atr": 1.7985882794688464,
-    "obv_slope": 2154272.4285714286,
-    "mom14": 0.08399641757994168,
+    "rsi_slope": 1.2408758245755145,
+    "wave_strength": 1.0414253953690378,
+    "adx": 31.25566331909823,
+    "atr": 1.7515462158670445,
+    "obv_slope": 1620286.5714285714,
+    "mom14": 0.067156495075369,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 79.59,
-    "score_0_10": 7.96,
-    "last_close": 73.55999755859375,
-    "avg_vol20": 5067409.3
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 76.17,
+    "score_0_10": 7.62,
+    "last_close": 72.62000274658203,
+    "avg_vol20": 5060304.4
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 75.91000366210938,
-      "High": 76.83000183105469,
-      "Low": 75.79000091552734,
-      "Close": 76.73999786376953,
-      "Volume": 2729600
-    },
     {
       "Date": "2024-02-15",
       "Open": 77.13999938964844,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-13",
-      "Open": 73.92500305175781,
-      "High": 74.75499725341797,
-      "Low": 73.46499633789062,
+      "Open": 73.68000030517578,
+      "High": 74.76000213623047,
+      "Low": 73.47000122070312,
       "Close": 73.55999755859375,
-      "Volume": 4120586
+      "Volume": 4342100
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 73.3499984741211,
+      "High": 73.66999816894531,
+      "Low": 72.52999877929688,
+      "Close": 72.62000274658203,
+      "Volume": 3052588
     }
   ]
 }

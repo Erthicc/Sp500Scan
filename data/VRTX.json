@@ -1,34 +1,26 @@
 {
   "ticker": "VRTX",
   "indicators": {
-    "macd_hist": 0.6612196174708718,
-    "macd_slope": -0.05264532325758818,
+    "macd_hist": 1.0470758787836143,
+    "macd_slope": 0.007653259237600503,
     "rsi": 0.0,
-    "rsi_slope": -0.22430087162007797,
-    "wave_strength": 1.00859554533008,
-    "adx": 23.91080750748922,
-    "atr": 10.866098996848951,
-    "obv_slope": 152796.7142857143,
-    "mom14": 0.03115872210732998,
+    "rsi_slope": 0.40157207656754934,
+    "wave_strength": 1.0061728382381039,
+    "adx": 24.707869744270948,
+    "atr": 10.716912158426068,
+    "obv_slope": 340375.28571428574,
+    "mom14": 0.04041216632816756,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.84,
-    "score_0_10": 7.08,
-    "last_close": 434.5199890136719,
-    "avg_vol20": 1397047.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 82.53,
+    "score_0_10": 8.25,
+    "last_close": 437.1499938964844,
+    "avg_vol20": 1412542.7
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 418.3800048828125,
-      "High": 420.45001220703125,
-      "Low": 414.260009765625,
-      "Close": 417.8800048828125,
-      "Volume": 1133100
-    },
     {
       "Date": "2024-02-15",
       "Open": 419.1600036621094,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-13",
-      "Open": 434.0150146484375,
-      "High": 441.1700134277344,
-      "Low": 430.8450012207031,
+      "Open": 434.0199890136719,
+      "High": 441.2300109863281,
+      "Low": 430.6600036621094,
       "Close": 434.5199890136719,
-      "Volume": 1460654
+      "Volume": 1560000
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 440.0,
+      "High": 442.2200012207031,
+      "Low": 433.6700134277344,
+      "Close": 437.1499938964844,
+      "Volume": 1264954
     }
   ]
 }

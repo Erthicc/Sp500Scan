@@ -1,34 +1,26 @@
 {
   "ticker": "FOXA",
   "indicators": {
-    "macd_hist": 0.3238247209269627,
-    "macd_slope": 0.026124919635074326,
+    "macd_hist": 0.15779917497189744,
+    "macd_slope": 0.0010007236248076193,
     "rsi": 0.0,
-    "rsi_slope": 2.3992059929664475,
-    "wave_strength": 1.063251573225549,
-    "adx": 28.103119636847136,
-    "atr": 1.6339055177685105,
-    "obv_slope": 686682.8571428572,
-    "mom14": 0.1020545851176315,
+    "rsi_slope": 1.1255976529859772,
+    "wave_strength": 1.0575459537370837,
+    "adx": 27.72287421035502,
+    "atr": 1.5779121575079809,
+    "obv_slope": 279077.78571428574,
+    "mom14": 0.058266620751666574,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.9,
-    "score_0_10": 8.09,
-    "last_close": 65.44000244140625,
-    "avg_vol20": 3447297.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 75.52,
+    "score_0_10": 7.55,
+    "last_close": 64.83999633789062,
+    "avg_vol20": 3430230.55
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 29.799999237060547,
-      "High": 30.329999923706055,
-      "Low": 29.639999389648438,
-      "Close": 30.25,
-      "Volume": 3599700
-    },
     {
       "Date": "2024-02-15",
       "Open": 30.260000228881836,
@@ -3539,7 +3531,15 @@
       "High": 66.63999938964844,
       "Low": 65.2699966430664,
       "Close": 65.44000244140625,
-      "Volume": 3505340
+      "Volume": 3507900
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 65.13999938964844,
+      "High": 65.54000091552734,
+      "Low": 64.69000244140625,
+      "Close": 64.83999633789062,
+      "Volume": 2208311
     }
   ]
 }

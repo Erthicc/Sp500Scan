@@ -1,34 +1,26 @@
 {
   "ticker": "TRGP",
   "indicators": {
-    "macd_hist": 2.19901064542283,
-    "macd_slope": 0.1569152352954788,
+    "macd_hist": 2.072238509615099,
+    "macd_slope": 0.1361675851368103,
     "rsi": 0.0,
-    "rsi_slope": 2.3546803816265407,
-    "wave_strength": 1.0937161466676806,
-    "adx": 24.738297562374544,
-    "atr": 5.110248620277318,
-    "obv_slope": 502124.14285714284,
-    "mom14": 0.11099362878412684,
+    "rsi_slope": 2.9050162358271225,
+    "wave_strength": 1.0850122993551614,
+    "adx": 26.019135447602306,
+    "atr": 5.12862444996441,
+    "obv_slope": 497785.0714285714,
+    "mom14": 0.13164062963701514,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 83.11,
-    "score_0_10": 8.31,
-    "last_close": 169.7100067138672,
-    "avg_vol20": 1618248.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.0,
+    "score_0_10": 8.2,
+    "last_close": 173.10000610351562,
+    "avg_vol20": 1626549.55
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 88.97000122070312,
-      "High": 89.5999984741211,
-      "Low": 87.91999816894531,
-      "Close": 88.33999633789062,
-      "Volume": 2358100
-    },
     {
       "Date": "2024-02-15",
       "Open": 89.55000305175781,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-13",
       "Open": 171.6199951171875,
-      "High": 171.88499450683594,
-      "Low": 168.6199951171875,
+      "High": 171.91000366210938,
+      "Low": 168.61000061035156,
       "Close": 169.7100067138672,
-      "Volume": 948062
+      "Volume": 1345800
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 170.11000061035156,
+      "High": 174.1750030517578,
+      "Low": 168.83999633789062,
+      "Close": 173.10000610351562,
+      "Volume": 1555491
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "PFE",
   "indicators": {
-    "macd_hist": 0.2011748974751379,
-    "macd_slope": 0.019488594714918227,
+    "macd_hist": 0.16043839174456315,
+    "macd_slope": 0.015454746658748384,
     "rsi": 0.0,
-    "rsi_slope": 3.485321323114325,
-    "wave_strength": 1.0586778339635121,
-    "adx": 19.63554586683876,
-    "atr": 0.5962316832698219,
-    "obv_slope": 35516107.71428572,
-    "mom14": 0.05994037349969553,
+    "rsi_slope": 2.452811288667309,
+    "wave_strength": 1.056571889905746,
+    "adx": 20.30796416754513,
+    "atr": 0.6125468259835868,
+    "obv_slope": 26133212.42857143,
+    "mom14": 0.029522337433246598,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 99.48,
-    "score_0_10": 9.95,
-    "last_close": 25.790000915527344,
-    "avg_vol20": 91576204.6
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.09,
+    "score_0_10": 8.21,
+    "last_close": 25.059999465942383,
+    "avg_vol20": 94390391.3
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 27.010000228881836,
-      "High": 27.170000076293945,
-      "Low": 26.90999984741211,
-      "Close": 27.110000610351562,
-      "Volume": 25270200
-    },
     {
       "Date": "2024-02-15",
       "Open": 27.25,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-13",
       "Open": 25.940000534057617,
-      "High": 26.475000381469727,
+      "High": 26.479999542236328,
       "Low": 25.670000076293945,
       "Close": 25.790000915527344,
-      "Volume": 122939092
+      "Volume": 123083100
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 25.670000076293945,
+      "High": 25.770000457763672,
+      "Low": 24.969999313354492,
+      "Close": 25.059999465942383,
+      "Volume": 96241626
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "ISRG",
   "indicators": {
-    "macd_hist": 1.4291021414220921,
-    "macd_slope": -0.8558249449754692,
+    "macd_hist": -0.6239756330843775,
+    "macd_slope": -1.0427901442462388,
     "rsi": 0.0,
-    "rsi_slope": -1.3938948081916063,
-    "wave_strength": 1.0683625149339677,
-    "adx": 47.17543788199841,
-    "atr": 14.421229227918474,
-    "obv_slope": 260962.07142857142,
-    "mom14": 0.034766060384050966,
-    "macd_bull": 1,
+    "rsi_slope": -2.513765189855399,
+    "wave_strength": 1.0581546068107135,
+    "adx": 46.033649146356346,
+    "atr": 14.576005703666643,
+    "obv_slope": -29406.214285714286,
+    "mom14": -0.0031564448696145123,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 74.85,
-    "score_0_10": 7.48,
-    "last_close": 565.510009765625,
-    "avg_vol20": 2714531.55
+    "explanation": "strong trend; price above SMA/EMA; strong wave vs SMA20",
+    "score_0_100": 32.33,
+    "score_0_10": 3.23,
+    "last_close": 549.510009765625,
+    "avg_vol20": 2700554.35
   },
   "history": [
-    {
-      "Date": "2024-02-14",
-      "Open": 380.0899963378906,
-      "High": 381.9100036621094,
-      "Low": 378.0,
-      "Close": 381.760009765625,
-      "Volume": 1147600
-    },
     {
       "Date": "2024-02-15",
       "Open": 382.0299987792969,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-13",
-      "Open": 563.77001953125,
-      "High": 573.3220825195312,
+      "Open": 566.8599853515625,
+      "High": 573.3200073242188,
       "Low": 561.0,
       "Close": 565.510009765625,
-      "Volume": 2066031
+      "Volume": 2116700
+    },
+    {
+      "Date": "2025-11-14",
+      "Open": 559.2650146484375,
+      "High": 560.02001953125,
+      "Low": 548.9199829101562,
+      "Close": 549.510009765625,
+      "Volume": 1878987
     }
   ]
 }
