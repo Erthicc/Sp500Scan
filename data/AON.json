@@ -1,34 +1,26 @@
 {
   "ticker": "AON",
   "indicators": {
-    "macd_hist": 2.2227097784214296,
-    "macd_slope": 0.2869776861483812,
+    "macd_hist": 2.077042482133412,
+    "macd_slope": 0.2982493834996462,
     "rsi": 0.0,
-    "rsi_slope": 3.0490110555258014,
-    "wave_strength": 1.0277119793440974,
-    "adx": 21.551895041833568,
-    "atr": 6.947765358941495,
-    "obv_slope": 146986.5,
-    "mom14": 0.0393623948639659,
+    "rsi_slope": 3.910430317366221,
+    "wave_strength": 1.0268234084997803,
+    "adx": 20.55906516070233,
+    "atr": 6.860782903589339,
+    "obv_slope": 105164.14285714286,
+    "mom14": 0.06079524208414457,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 64.29,
-    "score_0_10": 6.43,
-    "last_close": 350.1300048828125,
-    "avg_vol20": 1272569.45
+    "explanation": "recent MACD bullish crossover; RSI overbought; rising OBV",
+    "score_0_100": 66.1,
+    "score_0_10": 6.61,
+    "last_close": 350.0199890136719,
+    "avg_vol20": 1315730.1
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 308.6099853515625,
-      "High": 315.57000732421875,
-      "Low": 308.42999267578125,
-      "Close": 314.3699951171875,
-      "Volume": 1338500
-    },
     {
       "Date": "2024-02-16",
       "Open": 311.2799987792969,
@@ -3539,7 +3531,15 @@
       "High": 354.239990234375,
       "Low": 344.8699951171875,
       "Close": 350.1300048828125,
-      "Volume": 823489
+      "Volume": 1232200
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 350.0,
+      "High": 353.0,
+      "Low": 347.2699890136719,
+      "Close": 350.0199890136719,
+      "Volume": 1389602
     }
   ]
 }

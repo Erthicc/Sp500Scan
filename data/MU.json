@@ -1,34 +1,26 @@
 {
   "ticker": "MU",
   "indicators": {
-    "macd_hist": -0.37895244185357413,
-    "macd_slope": -0.08617216940985793,
+    "macd_hist": -0.8284113426778479,
+    "macd_slope": -0.13132680122041027,
     "rsi": 0.0,
-    "rsi_slope": -0.4338861367522452,
-    "wave_strength": 1.0790328493616683,
-    "adx": 32.9170228811111,
-    "atr": 13.265155980380742,
-    "obv_slope": 4338155.0,
-    "mom14": 0.12144477503997719,
+    "rsi_slope": -0.43332133507949067,
+    "wave_strength": 1.079172711804164,
+    "adx": 31.978510475498393,
+    "atr": 13.824787040727756,
+    "obv_slope": 1129470.7857142857,
+    "mom14": 0.09030684942282571,
     "macd_bull": 0,
     "bb_breakout": 0,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 49.13,
-    "score_0_10": 4.91,
-    "last_close": 246.8300018310547,
-    "avg_vol20": 23475343.5
+    "explanation": "strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 38.59,
+    "score_0_10": 3.86,
+    "last_close": 241.9499969482422,
+    "avg_vol20": 23823400.45
   },
   "history": [
-    {
-      "Date": "2024-02-15",
-      "Open": 82.23999786376953,
-      "High": 82.70999908447266,
-      "Low": 81.51000213623047,
-      "Close": 81.62999725341797,
-      "Volume": 11527600
-    },
     {
       "Date": "2024-02-16",
       "Open": 80.95999908447266,
@@ -3539,7 +3531,15 @@
       "High": 255.1699981689453,
       "Low": 231.22999572753906,
       "Close": 246.8300018310547,
-      "Volume": 35964370
+      "Volume": 36097100
+    },
+    {
+      "Date": "2025-11-17",
+      "Open": 246.94500732421875,
+      "High": 260.5799865722656,
+      "Low": 239.47999572753906,
+      "Close": 241.9499969482422,
+      "Volume": 30096809
     }
   ]
 }
