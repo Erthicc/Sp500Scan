@@ -1,34 +1,26 @@
 {
   "ticker": "LVS",
   "indicators": {
-    "macd_hist": 0.1109273997021143,
-    "macd_slope": -0.07472501286580258,
+    "macd_hist": -0.08646637134068902,
+    "macd_slope": -0.08554427319351342,
     "rsi": 0.0,
-    "rsi_slope": 0.8587554291292889,
-    "wave_strength": 1.0877845206429184,
-    "adx": 37.84768740520879,
-    "atr": 1.9645150844198704,
-    "obv_slope": 283627.35714285716,
-    "mom14": 0.10655696898690378,
-    "macd_bull": 1,
+    "rsi_slope": -0.0872990662329676,
+    "wave_strength": 1.0758742974372346,
+    "adx": 37.00368102700907,
+    "atr": 1.9354676674883051,
+    "obv_slope": -375436.21428571426,
+    "mom14": 0.09093222160453736,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.88,
-    "score_0_10": 8.09,
-    "last_close": 64.77999877929688,
-    "avg_vol20": 5958755.85
+    "explanation": "strong trend; price above SMA/EMA; RSI overbought; strong wave vs SMA20",
+    "score_0_100": 45.77,
+    "score_0_10": 4.58,
+    "last_close": 64.05000305175781,
+    "avg_vol20": 5996890.35
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 55.0,
-      "High": 55.04999923706055,
-      "Low": 52.619998931884766,
-      "Close": 53.060001373291016,
-      "Volume": 5232700
-    },
     {
       "Date": "2024-02-21",
       "Open": 52.93000030517578,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-18",
       "Open": 63.59000015258789,
-      "High": 65.16000366210938,
-      "Low": 63.310001373291016,
+      "High": 65.16999816894531,
+      "Low": 63.290000915527344,
       "Close": 64.77999877929688,
-      "Volume": 4334817
+      "Volume": 5274000
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 65.0199966430664,
+      "High": 65.41999816894531,
+      "Low": 63.88999938964844,
+      "Close": 64.05000305175781,
+      "Volume": 4197907
     }
   ]
 }

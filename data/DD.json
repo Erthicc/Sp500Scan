@@ -1,34 +1,26 @@
 {
   "ticker": "DD",
   "indicators": {
-    "macd_hist": 0.03304877127057182,
-    "macd_slope": -0.00600931249062595,
+    "macd_hist": -0.12588621660871446,
+    "macd_slope": -0.015389982741389573,
     "rsi": 0.0,
-    "rsi_slope": 0.6042734074778663,
-    "wave_strength": 1.0989795527709838,
-    "adx": 31.17456529598029,
-    "atr": 1.0978680542809829,
-    "obv_slope": 4518699.357142857,
-    "mom14": 0.12576685789033726,
-    "macd_bull": 1,
+    "rsi_slope": -0.8096158717598476,
+    "wave_strength": 1.036347765095795,
+    "adx": 29.316935721328,
+    "atr": 1.1215407746612382,
+    "obv_slope": 4765999.214285715,
+    "mom14": 0.11124583563210544,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.94,
-    "score_0_10": 8.09,
-    "last_close": 38.70000076293945,
-    "avg_vol20": 8663433.7
+    "explanation": "strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 42.47,
+    "score_0_10": 4.25,
+    "last_close": 37.880001068115234,
+    "avg_vol20": 8786386.55
   },
   "history": [
-    {
-      "Date": "2024-02-20",
-      "Open": 28.485355377197266,
-      "High": 28.67363929748535,
-      "Low": 28.32636070251465,
-      "Close": 28.4393310546875,
-      "Volume": 6635357
-    },
     {
       "Date": "2024-02-21",
       "Open": 28.472803115844727,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-18",
-      "Open": 38.435001373291016,
-      "High": 39.15999984741211,
+      "Open": 38.439998626708984,
+      "High": 39.16999816894531,
       "Low": 38.13999938964844,
       "Close": 38.70000076293945,
-      "Volume": 4753844
+      "Volume": 5953400
+    },
+    {
+      "Date": "2025-11-19",
+      "Open": 38.810001373291016,
+      "High": 38.900001525878906,
+      "Low": 37.47999954223633,
+      "Close": 37.880001068115234,
+      "Volume": 6025639
     }
   ]
 }
