@@ -1,24 +1,24 @@
 {
   "ticker": "SOLV",
   "indicators": {
-    "macd_hist": 0.8853450399583276,
-    "macd_slope": 0.08146869631616165,
+    "macd_hist": 0.9774427222433499,
+    "macd_slope": 0.09206217481775694,
     "rsi": 0.0,
-    "rsi_slope": 2.5063728639707277,
-    "wave_strength": 1.0277669194498844,
-    "adx": 22.457869033221876,
-    "atr": 1.7826763190598094,
-    "obv_slope": 355154.0714285714,
-    "mom14": 0.11590645093510742,
+    "rsi_slope": 3.1058756363205213,
+    "wave_strength": 1.0226171269958737,
+    "adx": 24.791636088455952,
+    "atr": 1.9649346016330418,
+    "obv_slope": 549143.6428571428,
+    "mom14": 0.15165123235605846,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 80.18,
-    "score_0_10": 8.02,
-    "last_close": 77.30999755859375,
-    "avg_vol20": 1064542.85
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 94.36,
+    "score_0_10": 9.44,
+    "last_close": 79.51000213623047,
+    "avg_vol20": 1123880.55
   },
   "history": [
     {
@@ -3345,9 +3345,17 @@
       "Date": "2025-11-19",
       "Open": 76.81500244140625,
       "High": 77.91999816894531,
-      "Low": 76.5999984741211,
+      "Low": 76.58999633789062,
       "Close": 77.30999755859375,
-      "Volume": 888857
+      "Volume": 888900
+    },
+    {
+      "Date": "2025-11-20",
+      "Open": 78.1500015258789,
+      "High": 81.63500213623047,
+      "Low": 78.0,
+      "Close": 79.51000213623047,
+      "Volume": 1879111
     }
   ]
 }
