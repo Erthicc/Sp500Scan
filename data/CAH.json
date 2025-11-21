@@ -1,34 +1,26 @@
 {
   "ticker": "CAH",
   "indicators": {
-    "macd_hist": 0.029320895292670457,
-    "macd_slope": -0.2282068518087422,
+    "macd_hist": -0.19192432654344493,
+    "macd_slope": -0.26858464287497175,
     "rsi": 0.0,
-    "rsi_slope": -0.14085924561551316,
-    "wave_strength": 1.0643237645573793,
-    "adx": 54.680447372402945,
-    "atr": 4.700712650514587,
-    "obv_slope": 1282600.5714285714,
-    "mom14": 0.08979393636516408,
-    "macd_bull": 1,
+    "rsi_slope": 0.12835434938620796,
+    "wave_strength": 1.0514016261300951,
+    "adx": 55.891568932767015,
+    "atr": 4.575866978322141,
+    "obv_slope": 1702427.642857143,
+    "mom14": 0.10125115331320754,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 87.96,
-    "score_0_10": 8.8,
-    "last_close": 207.89999389648438,
-    "avg_vol20": 2836505.4
+    "explanation": "strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 46.35,
+    "score_0_10": 4.64,
+    "last_close": 209.47999572753906,
+    "avg_vol20": 2914039.35
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 105.4800033569336,
-      "High": 107.87000274658203,
-      "Low": 105.30000305175781,
-      "Close": 107.1500015258789,
-      "Volume": 1417800
-    },
     {
       "Date": "2024-02-23",
       "Open": 107.52999877929688,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-20",
       "Open": 207.91000366210938,
-      "High": 209.5399932861328,
+      "High": 209.57000732421875,
       "Low": 206.10000610351562,
       "Close": 207.89999389648438,
-      "Volume": 2212008
+      "Volume": 2588900
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 208.02000427246094,
+      "High": 210.3249969482422,
+      "Low": 207.39999389648438,
+      "Close": 209.47999572753906,
+      "Volume": 2996987
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CPAY",
   "indicators": {
-    "macd_hist": 0.9900085706049895,
-    "macd_slope": 0.21153907866399793,
+    "macd_hist": 1.661087027344153,
+    "macd_slope": 0.2536012221956741,
     "rsi": 0.0,
-    "rsi_slope": 2.094617613026283,
-    "wave_strength": 1.0570203123232604,
-    "adx": 18.021240663068607,
-    "atr": 8.409928612230162,
-    "obv_slope": 40885.857142857145,
-    "mom14": 0.06510459493791516,
+    "rsi_slope": 2.7050211911360154,
+    "wave_strength": 1.0561676654906953,
+    "adx": 17.573493512997565,
+    "atr": 8.711362631557472,
+    "obv_slope": 17328.0,
+    "mom14": 0.09667384336564779,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV; strong wave vs SMA20",
-    "score_0_100": 70.51,
-    "score_0_10": 7.05,
-    "last_close": 277.29998779296875,
-    "avg_vol20": 799095.1
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 79.82,
+    "score_0_10": 7.98,
+    "last_close": 288.82000732421875,
+    "avg_vol20": 812859.6
   },
   "history": [
-    {
-      "Date": "2024-02-22",
-      "Open": 277.1000061035156,
-      "High": 277.20001220703125,
-      "Low": 273.67999267578125,
-      "Close": 275.8299865722656,
-      "Volume": 286000
-    },
     {
       "Date": "2024-02-23",
       "Open": 277.05999755859375,
@@ -3539,7 +3531,15 @@
       "High": 284.8999938964844,
       "Low": 276.82000732421875,
       "Close": 277.29998779296875,
-      "Volume": 632602
+      "Volume": 632600
+    },
+    {
+      "Date": "2025-11-21",
+      "Open": 279.44000244140625,
+      "High": 289.92999267578125,
+      "Low": 278.2699890136719,
+      "Close": 288.82000732421875,
+      "Volume": 502892
     }
   ]
 }
