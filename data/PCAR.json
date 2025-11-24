@@ -1,34 +1,26 @@
 {
   "ticker": "PCAR",
   "indicators": {
-    "macd_hist": 0.27788279894455215,
-    "macd_slope": 0.011754104022876438,
+    "macd_hist": 0.49669107358102554,
+    "macd_slope": 0.03636834853364188,
     "rsi": 0.0,
-    "rsi_slope": 0.23950053300403035,
-    "wave_strength": 0.9899872020205046,
-    "adx": 14.469532345071858,
-    "atr": 2.751055868194918,
-    "obv_slope": 241925.14285714287,
-    "mom14": 0.06031095091063186,
+    "rsi_slope": 0.43969485831721905,
+    "wave_strength": 1.050199499593439,
+    "adx": 16.226228295868342,
+    "atr": 2.688837395295789,
+    "obv_slope": 179728.0,
+    "mom14": 0.06073164817510523,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 90.75,
-    "score_0_10": 9.07,
-    "last_close": 102.98999786376953,
-    "avg_vol20": 3135597.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 84.48,
+    "score_0_10": 8.45,
+    "last_close": 102.45999908447266,
+    "avg_vol20": 3198840.4
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 110.87000274658203,
-      "High": 111.0199966430664,
-      "Low": 110.12000274658203,
-      "Close": 110.77999877929688,
-      "Volume": 1690000
-    },
     {
       "Date": "2024-02-26",
       "Open": 110.63999938964844,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-21",
       "Open": 98.36000061035156,
       "High": 103.55999755859375,
-      "Low": 98.07499694824219,
+      "Low": 98.08000183105469,
       "Close": 102.98999786376953,
-      "Volume": 5452952
+      "Volume": 5639000
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 103.06999969482422,
+      "High": 104.16999816894531,
+      "Low": 102.29000091552734,
+      "Close": 102.45999908447266,
+      "Volume": 4057708
     }
   ]
 }

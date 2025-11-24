@@ -1,34 +1,26 @@
 {
   "ticker": "WELL",
   "indicators": {
-    "macd_hist": 0.6922263869411784,
-    "macd_slope": 0.008679267260048005,
+    "macd_hist": 0.7370383878342279,
+    "macd_slope": 0.004912118235665762,
     "rsi": 0.0,
-    "rsi_slope": 1.2284536303932256,
-    "wave_strength": 1.050553206400076,
-    "adx": 46.43249667855935,
-    "atr": 3.8390688102678387,
-    "obv_slope": 2094033.7142857143,
-    "mom14": 0.10087027872259642,
+    "rsi_slope": 1.3077533797140777,
+    "wave_strength": 1.0449064263909833,
+    "adx": 46.91348177476108,
+    "atr": 3.849394106467067,
+    "obv_slope": 2154786.214285714,
+    "mom14": 0.10165415977921602,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 84.01,
-    "score_0_10": 8.4,
-    "last_close": 199.92999267578125,
-    "avg_vol20": 3622043.6
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.5,
+    "score_0_10": 8.15,
+    "last_close": 202.3000030517578,
+    "avg_vol20": 3624910.35
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 94.18000030517578,
-      "High": 94.43000030517578,
-      "Low": 93.30999755859375,
-      "Close": 93.41000366210938,
-      "Volume": 2007200
-    },
     {
       "Date": "2024-02-26",
       "Open": 93.4000015258789,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-21",
       "Open": 197.77999877929688,
       "High": 200.25,
-      "Low": 194.64390563964844,
+      "Low": 194.63999938964844,
       "Close": 199.92999267578125,
-      "Volume": 3473172
+      "Volume": 4471600
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 199.92999267578125,
+      "High": 203.17999267578125,
+      "Low": 199.1999969482422,
+      "Close": 202.3000030517578,
+      "Volume": 2430207
     }
   ]
 }

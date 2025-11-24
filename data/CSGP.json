@@ -1,34 +1,26 @@
 {
   "ticker": "CSGP",
   "indicators": {
-    "macd_hist": 0.2043022472120013,
-    "macd_slope": 0.04853629339540271,
+    "macd_hist": 0.31532797874643625,
+    "macd_slope": 0.053594005479876215,
     "rsi": 0.0,
-    "rsi_slope": 0.7648503688880101,
-    "wave_strength": 0.9976583023548398,
-    "adx": 47.42796247133422,
-    "atr": 2.063575486645908,
-    "obv_slope": -528012.2142857143,
-    "mom14": -0.030700451682607058,
+    "rsi_slope": 0.521879360349835,
+    "wave_strength": 1.0053383535931402,
+    "adx": 46.906963123919375,
+    "atr": 2.010819876832326,
+    "obv_slope": -101257.5,
+    "mom14": -0.03209625783614457,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 63.08,
-    "score_0_10": 6.31,
-    "last_close": 67.25,
-    "avg_vol20": 5082716.45
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike",
+    "score_0_100": 69.56,
+    "score_0_10": 6.96,
+    "last_close": 67.55000305175781,
+    "avg_vol20": 5466144.75
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 82.81999969482422,
-      "High": 85.37999725341797,
-      "Low": 82.75,
-      "Close": 84.79000091552734,
-      "Volume": 3182700
-    },
     {
       "Date": "2024-02-26",
       "Open": 84.4800033569336,
@@ -3539,7 +3531,15 @@
       "High": 67.58999633789062,
       "Low": 65.9000015258789,
       "Close": 67.25,
-      "Volume": 5253729
+      "Volume": 5769900
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 67.41999816894531,
+      "High": 68.2699966430664,
+      "Low": 66.94499969482422,
+      "Close": 67.55000305175781,
+      "Volume": 9956895
     }
   ]
 }

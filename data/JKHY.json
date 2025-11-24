@@ -1,34 +1,26 @@
 {
   "ticker": "JKHY",
   "indicators": {
-    "macd_hist": 0.8478055215082851,
-    "macd_slope": 0.08312750452621057,
+    "macd_hist": 0.855294947055655,
+    "macd_slope": 0.07515743534462005,
     "rsi": 0.0,
-    "rsi_slope": 3.005703424081578,
-    "wave_strength": 1.0438925459052137,
-    "adx": 27.312845084280287,
-    "atr": 3.5580601262729266,
-    "obv_slope": 498819.4285714286,
-    "mom14": 0.13390425224135932,
+    "rsi_slope": 2.5442942885490303,
+    "wave_strength": 1.0618258749028415,
+    "adx": 28.491575919986495,
+    "atr": 3.4485870032160766,
+    "obv_slope": 353649.71428571426,
+    "mom14": 0.11914449468750467,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 82.45,
-    "score_0_10": 8.24,
-    "last_close": 170.8000030517578,
-    "avg_vol20": 1012313.6
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 80.98,
+    "score_0_10": 8.1,
+    "last_close": 170.5800018310547,
+    "avg_vol20": 1019100.2
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 174.69000244140625,
-      "High": 176.8300018310547,
-      "Low": 174.4199981689453,
-      "Close": 175.9499969482422,
-      "Volume": 307200
-    },
     {
       "Date": "2024-02-26",
       "Open": 174.97000122070312,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-21",
       "Open": 167.69000244140625,
-      "High": 172.67990112304688,
-      "Low": 167.65499877929688,
+      "High": 172.67999267578125,
+      "Low": 167.66000366210938,
       "Close": 170.8000030517578,
-      "Volume": 730772
+      "Volume": 758400
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 170.72000122070312,
+      "High": 171.4499969482422,
+      "Low": 169.4199981689453,
+      "Close": 170.5800018310547,
+      "Volume": 885004
     }
   ]
 }

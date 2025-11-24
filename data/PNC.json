@@ -1,34 +1,26 @@
 {
   "ticker": "PNC",
   "indicators": {
-    "macd_hist": 0.5747293534171773,
-    "macd_slope": 0.009717587464756847,
+    "macd_hist": 0.830283577912748,
+    "macd_slope": 0.022772400792956234,
     "rsi": 0.0,
-    "rsi_slope": 1.5358563085626327,
-    "wave_strength": 1.0191468459249027,
-    "adx": 14.879411065092926,
-    "atr": 3.958775770232827,
-    "obv_slope": 939782.4285714285,
-    "mom14": 0.023257085871976644,
+    "rsi_slope": 0.7161639178204636,
+    "wave_strength": 1.0181309262467624,
+    "adx": 14.555415146921177,
+    "atr": 3.9574348182302344,
+    "obv_slope": 981491.0,
+    "mom14": 0.030445517448106564,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 72.23,
-    "score_0_10": 7.22,
-    "last_close": 186.99000549316406,
-    "avg_vol20": 1860512.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 81.26,
+    "score_0_10": 8.13,
+    "last_close": 188.52000427246094,
+    "avg_vol20": 1852298.7
   },
   "history": [
-    {
-      "Date": "2024-02-23",
-      "Open": 145.25999450683594,
-      "High": 147.8300018310547,
-      "Low": 144.7100067138672,
-      "Close": 146.1199951171875,
-      "Volume": 1837900
-    },
     {
       "Date": "2024-02-26",
       "Open": 145.39999389648438,
@@ -3539,7 +3531,15 @@
       "High": 189.33999633789062,
       "Low": 183.89999389648438,
       "Close": 186.99000549316406,
-      "Volume": 1991854
+      "Volume": 2391000
+    },
+    {
+      "Date": "2025-11-24",
+      "Open": 186.63999938964844,
+      "High": 189.41000366210938,
+      "Low": 185.47000122070312,
+      "Close": 188.52000427246094,
+      "Volume": 1843474
     }
   ]
 }
