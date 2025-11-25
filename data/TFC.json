@@ -1,34 +1,26 @@
 {
   "ticker": "TFC",
   "indicators": {
-    "macd_hist": 0.12896892797828624,
-    "macd_slope": 0.0010096503093921,
+    "macd_hist": 0.18838227539010655,
+    "macd_slope": 0.006218405239490248,
     "rsi": 0.0,
-    "rsi_slope": 1.3154196751103993,
-    "wave_strength": 1.0080443059170436,
-    "adx": 13.056541574128092,
-    "atr": 0.9740347131213142,
-    "obv_slope": 2480591.5714285714,
-    "mom14": 0.052549966012336864,
+    "rsi_slope": 0.09595521461256697,
+    "wave_strength": 1.0052092035676878,
+    "adx": 14.600433148465731,
+    "atr": 0.9823179588311783,
+    "obv_slope": 2634720.714285714,
+    "mom14": 0.0634934634509325,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 69.82,
-    "score_0_10": 6.98,
-    "last_close": 45.5,
-    "avg_vol20": 8033909.1
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 80.07,
+    "score_0_10": 8.01,
+    "last_close": 46.31999969482422,
+    "avg_vol20": 8267689.5
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 35.08000183105469,
-      "High": 35.279998779296875,
-      "Low": 34.2599983215332,
-      "Close": 34.529998779296875,
-      "Volume": 10383300
-    },
     {
       "Date": "2024-02-27",
       "Open": 34.709999084472656,
@@ -3539,7 +3531,15 @@
       "High": 45.72999954223633,
       "Low": 45.15999984741211,
       "Close": 45.5,
-      "Volume": 4856982
+      "Volume": 11189400
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 45.75,
+      "High": 46.59000015258789,
+      "Low": 45.665000915527344,
+      "Close": 46.31999969482422,
+      "Volume": 5399990
     }
   ]
 }

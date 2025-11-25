@@ -1,34 +1,26 @@
 {
   "ticker": "LULU",
   "indicators": {
-    "macd_hist": 0.3108131672000414,
-    "macd_slope": 0.09358613925122883,
+    "macd_hist": 0.9679549082874201,
+    "macd_slope": 0.12988469338547898,
     "rsi": 0.0,
-    "rsi_slope": 1.308143192845669,
-    "wave_strength": 0.9883435324079702,
-    "adx": 10.078561687238269,
-    "atr": 5.906618398642089,
-    "obv_slope": 562138.5,
-    "mom14": 0.05608112972401784,
+    "rsi_slope": 0.7546198293695946,
+    "wave_strength": 0.989070537302684,
+    "adx": 10.827732808312705,
+    "atr": 6.162931021170541,
+    "obv_slope": 559256.0,
+    "mom14": 0.05919206626715874,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 55.55,
-    "score_0_10": 5.55,
-    "last_close": 169.6699981689453,
-    "avg_vol20": 3276806.95
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 78.73,
+    "score_0_10": 7.87,
+    "last_close": 177.50999450683594,
+    "avg_vol20": 3318759.2
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 461.05999755859375,
-      "High": 472.9599914550781,
-      "Low": 459.260009765625,
-      "Close": 468.25,
-      "Volume": 1447000
-    },
     {
       "Date": "2024-02-27",
       "Open": 471.0899963378906,
@@ -3531,15 +3523,23 @@
       "High": 170.17999267578125,
       "Low": 163.47000122070312,
       "Close": 168.17999267578125,
-      "Volume": 3331800
+      "Volume": 3337500
     },
     {
       "Date": "2025-11-24",
-      "Open": 168.1999969482422,
+      "Open": 168.32000732421875,
       "High": 172.38999938964844,
       "Low": 166.22999572753906,
       "Close": 169.6699981689453,
-      "Volume": 3723639
+      "Volume": 3862500
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 171.8699951171875,
+      "High": 179.1649932861328,
+      "Low": 171.5,
+      "Close": 177.50999450683594,
+      "Volume": 4494584
     }
   ]
 }

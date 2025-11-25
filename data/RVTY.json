@@ -1,34 +1,26 @@
 {
   "ticker": "RVTY",
   "indicators": {
-    "macd_hist": 0.5855949961631566,
-    "macd_slope": 0.08614994342069936,
+    "macd_hist": 1.0906516759601435,
+    "macd_slope": 0.12329151262790802,
     "rsi": 0.0,
-    "rsi_slope": 1.4309277795769784,
-    "wave_strength": 0.9953047469017962,
-    "adx": 15.57939999556999,
-    "atr": 3.041194190971811,
-    "obv_slope": 264204.9285714286,
-    "mom14": 0.09695712894466896,
+    "rsi_slope": 1.9303383788144413,
+    "wave_strength": 0.9904741460255732,
+    "adx": 17.48164790542145,
+    "atr": 3.2553436398120255,
+    "obv_slope": 1056707.2857142857,
+    "mom14": 0.1404342664238645,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 90.82,
-    "score_0_10": 9.08,
-    "last_close": 100.58000183105469,
-    "avg_vol20": 1249593.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 84.58,
+    "score_0_10": 8.46,
+    "last_close": 105.56999969482422,
+    "avg_vol20": 1786680.1
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 103.91000366210938,
-      "High": 104.9000015258789,
-      "Low": 103.76000213623047,
-      "Close": 103.95999908447266,
-      "Volume": 489200
-    },
     {
       "Date": "2024-02-27",
       "Open": 104.7699966430664,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-24",
       "Open": 97.73999786376953,
-      "High": 101.54000091552734,
+      "High": 101.55000305175781,
       "Low": 96.5199966430664,
       "Close": 100.58000183105469,
-      "Volume": 2354369
+      "Volume": 12294800
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 101.16000366210938,
+      "High": 106.5199966430664,
+      "Low": 100.48999786376953,
+      "Close": 105.56999969482422,
+      "Volume": 2054402
     }
   ]
 }

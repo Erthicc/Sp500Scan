@@ -1,34 +1,26 @@
 {
   "ticker": "FTV",
   "indicators": {
-    "macd_hist": 0.060536929906324755,
-    "macd_slope": -0.0029678797972681947,
+    "macd_hist": 0.13617866324538952,
+    "macd_slope": 0.004114379212751972,
     "rsi": 0.0,
-    "rsi_slope": 0.17866204552787426,
-    "wave_strength": 1.0353817452576868,
-    "adx": 35.15928370920275,
-    "atr": 1.1809056575616597,
-    "obv_slope": 334930.5,
-    "mom14": 0.042113605988453304,
+    "rsi_slope": 0.6866773451235447,
+    "wave_strength": 1.0312176605149257,
+    "adx": 35.847542897444065,
+    "atr": 1.1805862221692252,
+    "obv_slope": 575917.6428571428,
+    "mom14": 0.06072067021414023,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 74.49,
-    "score_0_10": 7.45,
-    "last_close": 52.459999084472656,
-    "avg_vol20": 3683798.65
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 86.9,
+    "score_0_10": 8.69,
+    "last_close": 53.279998779296875,
+    "avg_vol20": 3699882.35
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 64.8078384399414,
-      "High": 64.95854949951172,
-      "Low": 64.48002624511719,
-      "Close": 64.82290649414062,
-      "Volume": 1212347
-    },
     {
       "Date": "2024-02-27",
       "Open": 65.0339126586914,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-24",
       "Open": 52.86000061035156,
-      "High": 53.06999969482422,
-      "Low": 52.4900016784668,
+      "High": 53.150001525878906,
+      "Low": 52.45000076293945,
       "Close": 52.459999084472656,
-      "Volume": 2207473
+      "Volume": 4210500
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 53.13999938964844,
+      "High": 53.525001525878906,
+      "Low": 52.70000076293945,
+      "Close": 53.279998779296875,
+      "Volume": 2523847
     }
   ]
 }

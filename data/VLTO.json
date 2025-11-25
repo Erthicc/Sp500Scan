@@ -1,34 +1,26 @@
 {
   "ticker": "VLTO",
   "indicators": {
-    "macd_hist": 0.16165624708626325,
-    "macd_slope": 0.03880657003204643,
+    "macd_hist": 0.5501500433616238,
+    "macd_slope": 0.06123231963486423,
     "rsi": 0.0,
-    "rsi_slope": 0.03627439497453062,
-    "wave_strength": 1.0015836647740848,
-    "adx": 35.0266639823155,
-    "atr": 1.7667985776400197,
-    "obv_slope": -141802.92857142858,
-    "mom14": -0.014955313709179234,
+    "rsi_slope": 1.5847416726928236,
+    "wave_strength": 1.0008595306190817,
+    "adx": 34.48843756855382,
+    "atr": 2.082741710803437,
+    "obv_slope": -332922.78571428574,
+    "mom14": 0.04043235578023617,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 58.18,
-    "score_0_10": 5.82,
-    "last_close": 98.13999938964844,
-    "avg_vol20": 1796592.05
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA",
+    "score_0_100": 85.01,
+    "score_0_10": 8.5,
+    "last_close": 103.95999908447266,
+    "avg_vol20": 1988904.05
   },
   "history": [
-    {
-      "Date": "2024-02-26",
-      "Open": 86.77999877929688,
-      "High": 87.44000244140625,
-      "Low": 86.16000366210938,
-      "Close": 86.30999755859375,
-      "Volume": 893800
-    },
     {
       "Date": "2024-02-27",
       "Open": 87.58000183105469,
@@ -3539,7 +3531,15 @@
       "High": 98.84500122070312,
       "Low": 97.45999908447266,
       "Close": 98.13999938964844,
-      "Volume": 1762941
+      "Volume": 4783700
+    },
+    {
+      "Date": "2025-11-25",
+      "Open": 100.67500305175781,
+      "High": 104.33000183105469,
+      "Low": 100.67500305175781,
+      "Close": 103.95999908447266,
+      "Volume": 2247381
     }
   ]
 }
