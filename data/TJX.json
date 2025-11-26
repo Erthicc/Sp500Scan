@@ -1,34 +1,26 @@
 {
   "ticker": "TJX",
   "indicators": {
-    "macd_hist": 0.6022031848070684,
-    "macd_slope": 0.05806031271383654,
+    "macd_hist": 0.7056549651664537,
+    "macd_slope": 0.05689422415570196,
     "rsi": 0.0,
-    "rsi_slope": 1.4039349284296223,
-    "wave_strength": 1.0427541049964302,
-    "adx": 26.788575556665815,
-    "atr": 2.961304626847706,
-    "obv_slope": 2079217.4285714286,
-    "mom14": 0.06353502525075846,
+    "rsi_slope": 1.7562709931186729,
+    "wave_strength": 1.0385177210162433,
+    "adx": 28.608824010104797,
+    "atr": 2.943640333283289,
+    "obv_slope": 1924068.357142857,
+    "mom14": 0.06817913299711144,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 87.29,
-    "score_0_10": 8.73,
-    "last_close": 152.38999938964844,
-    "avg_vol20": 6452107.2
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 71.72,
+    "score_0_10": 7.17,
+    "last_close": 153.1300048828125,
+    "avg_vol20": 6402067.85
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 99.13999938964844,
-      "High": 100.73999786376953,
-      "Low": 99.0199966430664,
-      "Close": 100.5199966430664,
-      "Volume": 5436200
-    },
     {
       "Date": "2024-02-28",
       "Open": 100.87999725341797,
@@ -3539,7 +3531,15 @@
       "High": 153.02000427246094,
       "Low": 148.41000366210938,
       "Close": 152.38999938964844,
-      "Volume": 5601144
+      "Volume": 5639100
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 152.99000549316406,
+      "High": 154.66400146484375,
+      "Low": 151.9499969482422,
+      "Close": 153.1300048828125,
+      "Volume": 3344557
     }
   ]
 }

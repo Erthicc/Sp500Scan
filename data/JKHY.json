@@ -1,34 +1,26 @@
 {
   "ticker": "JKHY",
   "indicators": {
-    "macd_hist": 0.9816084269295837,
-    "macd_slope": 0.0440075119140863,
+    "macd_hist": 0.9986799003161617,
+    "macd_slope": 0.006334529110138455,
     "rsi": 0.0,
-    "rsi_slope": 0.8879785845119598,
-    "wave_strength": 1.0554872453998234,
-    "adx": 29.971992993983637,
-    "atr": 3.432973340592092,
-    "obv_slope": 272502.0,
-    "mom14": 0.08627912862510799,
+    "rsi_slope": 0.3690334783537586,
+    "wave_strength": 1.0477081483411776,
+    "adx": 31.463785927299494,
+    "atr": 3.294035777817214,
+    "obv_slope": 214992.7857142857,
+    "mom14": 0.06647042075165348,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
-    "score_0_100": 76.87,
-    "score_0_10": 7.69,
-    "last_close": 173.6199951171875,
-    "avg_vol20": 1015591.4
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 70.9,
+    "score_0_10": 7.09,
+    "last_close": 173.9199981689453,
+    "avg_vol20": 950224.95
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 174.9199981689453,
-      "High": 175.39999389648438,
-      "Low": 174.1300048828125,
-      "Close": 175.19000244140625,
-      "Volume": 262400
-    },
     {
       "Date": "2024-02-28",
       "Open": 174.83999633789062,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-11-25",
       "Open": 171.30999755859375,
-      "High": 173.80999755859375,
-      "Low": 171.1884002685547,
+      "High": 173.83999633789062,
+      "Low": 171.19000244140625,
       "Close": 173.6199951171875,
-      "Volume": 575928
+      "Volume": 578000
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 173.6300048828125,
+      "High": 174.5449981689453,
+      "Low": 173.0850067138672,
+      "Close": 173.9199981689453,
+      "Volume": 523599
     }
   ]
 }

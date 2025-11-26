@@ -1,34 +1,26 @@
 {
   "ticker": "A",
   "indicators": {
-    "macd_hist": 0.44200782496234403,
-    "macd_slope": 0.0656346729752481,
+    "macd_hist": 0.5148770642560394,
+    "macd_slope": 0.06647902995354762,
     "rsi": 0.0,
-    "rsi_slope": 0.24335644021239083,
-    "wave_strength": 1.02879920090707,
-    "adx": 25.732147897643987,
-    "atr": 4.420798660601383,
-    "obv_slope": 615453.3571428572,
-    "mom14": 0.07106351687787116,
+    "rsi_slope": -0.2565364345269557,
+    "wave_strength": 1.0633332375855173,
+    "adx": 27.048974784295,
+    "atr": 4.3957481307875295,
+    "obv_slope": 291073.28571428574,
+    "mom14": 0.04664715823298491,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 92.64,
-    "score_0_10": 9.26,
-    "last_close": 157.1999969482422,
-    "avg_vol20": 1893377.35
+    "explanation": "recent MACD bullish crossover; strong trend; volume spike; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 77.53,
+    "score_0_10": 7.75,
+    "last_close": 154.3699951171875,
+    "avg_vol20": 1964903.7
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 131.4499969482422,
-      "High": 133.17999267578125,
-      "Low": 130.8699951171875,
-      "Close": 132.5500030517578,
-      "Volume": 1772700
-    },
     {
       "Date": "2024-02-28",
       "Open": 139.8800048828125,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-25",
       "Open": 150.77999877929688,
       "High": 160.27000427246094,
-      "Low": 148.00010681152344,
+      "Low": 148.0,
       "Close": 157.1999969482422,
-      "Volume": 3659147
+      "Volume": 3698000
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 155.74000549316406,
+      "High": 158.08999633789062,
+      "Low": 154.02000427246094,
+      "Close": 154.3699951171875,
+      "Volume": 3294174
     }
   ]
 }

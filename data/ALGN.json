@@ -1,34 +1,26 @@
 {
   "ticker": "ALGN",
   "indicators": {
-    "macd_hist": 0.8078752886988607,
-    "macd_slope": 0.015474978388393457,
+    "macd_hist": 1.0498354847294182,
+    "macd_slope": 0.05445987837980309,
     "rsi": 0.0,
-    "rsi_slope": -0.22645546631330404,
-    "wave_strength": 0.9707249785468206,
-    "adx": 24.576892778921103,
-    "atr": 5.383951005974142,
-    "obv_slope": 524866.4285714285,
-    "mom14": 0.07499448132519368,
+    "rsi_slope": 0.7718308893380085,
+    "wave_strength": 1.0651549937724107,
+    "adx": 26.08804047354119,
+    "atr": 5.21223991444438,
+    "obv_slope": 494621.5,
+    "mom14": 0.10094967794289655,
     "macd_bull": 1,
-    "bb_breakout": 1,
-    "vol_spike": 1,
+    "bb_breakout": 0,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 87.48,
-    "score_0_10": 8.75,
-    "last_close": 147.5,
-    "avg_vol20": 1678231.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.64,
+    "score_0_10": 7.26,
+    "last_close": 147.22999572753906,
+    "avg_vol20": 1639199.95
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 311.7900085449219,
-      "High": 313.7099914550781,
-      "Low": 308.1400146484375,
-      "Close": 313.05999755859375,
-      "Volume": 487700
-    },
     {
       "Date": "2024-02-28",
       "Open": 308.8699951171875,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-25",
-      "Open": 144.36000061035156,
+      "Open": 144.42999267578125,
       "High": 152.99000549316406,
       "Low": 144.3000030517578,
       "Close": 147.5,
-      "Volume": 2570330
+      "Volume": 2572500
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 147.27999877929688,
+      "High": 149.44000244140625,
+      "Low": 146.4600067138672,
+      "Close": 147.22999572753906,
+      "Volume": 1417299
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "WAT",
   "indicators": {
-    "macd_hist": 1.604818483407536,
-    "macd_slope": 0.05015226998050894,
+    "macd_hist": 1.7626191791445898,
+    "macd_slope": 0.03457699832292237,
     "rsi": 0.0,
-    "rsi_slope": 0.5856329576879682,
-    "wave_strength": 1.0133479155954799,
-    "adx": 48.132069057325104,
-    "atr": 11.095498080099343,
-    "obv_slope": 132196.7142857143,
-    "mom14": 0.1090679549186202,
+    "rsi_slope": 0.23455611807488047,
+    "wave_strength": 1.0925723062060126,
+    "adx": 49.447513655950225,
+    "atr": 11.166712415319832,
+    "obv_slope": 176837.42857142858,
+    "mom14": 0.09693935400184721,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 89.47,
-    "score_0_10": 8.95,
-    "last_close": 412.5400085449219,
-    "avg_vol20": 669797.7
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.26,
+    "score_0_10": 7.83,
+    "last_close": 407.1400146484375,
+    "avg_vol20": 669708.8
   },
   "history": [
-    {
-      "Date": "2024-02-27",
-      "Open": 328.17999267578125,
-      "High": 333.8699951171875,
-      "Low": 326.29998779296875,
-      "Close": 332.6499938964844,
-      "Volume": 219200
-    },
     {
       "Date": "2024-02-28",
       "Open": 332.92999267578125,
@@ -3537,9 +3529,17 @@
       "Date": "2025-11-25",
       "Open": 403.07000732421875,
       "High": 414.1499938964844,
-      "Low": 401.0,
+      "Low": 400.1700134277344,
       "Close": 412.5400085449219,
-      "Volume": 571054
+      "Volume": 574700
+    },
+    {
+      "Date": "2025-11-26",
+      "Open": 409.3299865722656,
+      "High": 408.92999267578125,
+      "Low": 400.447509765625,
+      "Close": 407.1400146484375,
+      "Volume": 522676
     }
   ]
 }
