@@ -1,34 +1,26 @@
 {
   "ticker": "ZBH",
   "indicators": {
-    "macd_hist": 1.0423467213089026,
-    "macd_slope": 0.1684141102657311,
+    "macd_hist": 1.1794727810349739,
+    "macd_slope": 0.19371029828623862,
     "rsi": 0.0,
-    "rsi_slope": 3.9738226026598094,
-    "wave_strength": 0.9659618248420548,
-    "adx": 18.945231751444958,
-    "atr": 2.6720850372686598,
-    "obv_slope": 596635.7142857143,
-    "mom14": 0.10213535981632219,
+    "rsi_slope": 4.123023079885852,
+    "wave_strength": 1.054594627586571,
+    "adx": 19.21659608942099,
+    "atr": 2.554793161684668,
+    "obv_slope": 720900.0714285715,
+    "mom14": 0.10192086602334922,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 67.82,
-    "score_0_10": 6.78,
-    "last_close": 97.55000305175781,
-    "avg_vol20": 2659400.0
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 83.91,
+    "score_0_10": 8.39,
+    "last_close": 97.5199966430664,
+    "avg_vol20": 2633019.95
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 125.94000244140625,
-      "High": 126.0,
-      "Low": 123.70999908447266,
-      "Close": 124.12999725341797,
-      "Volume": 1415700
-    },
     {
       "Date": "2024-02-29",
       "Open": 124.22000122070312,
@@ -3540,6 +3532,14 @@
       "Low": 96.16999816894531,
       "Close": 97.55000305175781,
       "Volume": 1734900
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 97.33999633789062,
+      "High": 98.33000183105469,
+      "Low": 97.30000305175781,
+      "Close": 97.5199966430664,
+      "Volume": 888499
     }
   ]
 }

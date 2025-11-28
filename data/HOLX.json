@@ -1,34 +1,26 @@
 {
   "ticker": "HOLX",
   "indicators": {
-    "macd_hist": -0.17300489786456374,
-    "macd_slope": -0.01254536400923337,
+    "macd_hist": -0.1538617052271385,
+    "macd_slope": -0.0070456577934735,
     "rsi": 0.0,
-    "rsi_slope": -1.9548042536603185,
-    "wave_strength": 1.0080096471451532,
-    "adx": 42.486702221913255,
-    "atr": 0.5092100174090882,
-    "obv_slope": -682242.8571428572,
-    "mom14": 0.008766035232676979,
+    "rsi_slope": -1.2271417789254144,
+    "wave_strength": 1.0073045265816127,
+    "adx": 43.26412784539324,
+    "atr": 0.49283778608995416,
+    "obv_slope": -303142.9285714286,
+    "mom14": 0.011740927995914516,
     "macd_bull": 0,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA",
-    "score_0_100": 32.72,
-    "score_0_10": 3.27,
-    "last_close": 74.80000305175781,
-    "avg_vol20": 3584640.0
+    "explanation": "Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought",
+    "score_0_100": 48.63,
+    "score_0_10": 4.86,
+    "last_close": 74.97000122070312,
+    "avg_vol20": 3350444.95
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 75.36000061035156,
-      "High": 75.36000061035156,
-      "Low": 73.86000061035156,
-      "Close": 74.12000274658203,
-      "Volume": 1866300
-    },
     {
       "Date": "2024-02-29",
       "Open": 74.41000366210938,
@@ -3540,6 +3532,14 @@
       "Low": 74.69000244140625,
       "Close": 74.80000305175781,
       "Volume": 2528500
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 74.75,
+      "High": 75.02999877929688,
+      "Low": 74.75,
+      "Close": 74.97000122070312,
+      "Volume": 567799
     }
   ]
 }

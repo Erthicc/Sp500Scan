@@ -1,34 +1,26 @@
 {
   "ticker": "EVRG",
   "indicators": {
-    "macd_hist": 0.06633622582482034,
-    "macd_slope": 0.03429713315288881,
+    "macd_hist": 0.13472848573112217,
+    "macd_slope": 0.04121696058709474,
     "rsi": 0.0,
-    "rsi_slope": 2.0233401871196954,
-    "wave_strength": 1.0127614586066778,
-    "adx": 18.77485830867539,
-    "atr": 1.1420866032167376,
-    "obv_slope": 1118071.4285714286,
-    "mom14": 0.029967195212586048,
+    "rsi_slope": 2.5581791012543817,
+    "wave_strength": 1.0123530271320167,
+    "adx": 18.011644506621757,
+    "atr": 1.1205087297609106,
+    "obv_slope": 950446.9285714285,
+    "mom14": 0.03676842325187055,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 66.75,
-    "score_0_10": 6.67,
-    "last_close": 77.11000061035156,
-    "avg_vol20": 2345325.0
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 86.83,
+    "score_0_10": 8.68,
+    "last_close": 77.6500015258789,
+    "avg_vol20": 2141882.85
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 49.88999938964844,
-      "High": 50.2400016784668,
-      "Low": 49.70000076293945,
-      "Close": 49.790000915527344,
-      "Volume": 2136900
-    },
     {
       "Date": "2024-02-29",
       "Open": 49.7599983215332,
@@ -3540,6 +3532,14 @@
       "Low": 76.69999694824219,
       "Close": 77.11000061035156,
       "Volume": 1399700
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 77.11000061035156,
+      "High": 77.70999908447266,
+      "Low": 76.87000274658203,
+      "Close": 77.6500015258789,
+      "Volume": 509957
     }
   ]
 }

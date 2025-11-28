@@ -1,34 +1,26 @@
 {
   "ticker": "GOOG",
   "indicators": {
-    "macd_hist": 2.819722923959125,
-    "macd_slope": 0.07397206821438296,
+    "macd_hist": 2.712639765442889,
+    "macd_slope": 0.11421025106812557,
     "rsi": 0.0,
-    "rsi_slope": -0.5461762021159474,
-    "wave_strength": 1.1127156218888268,
-    "adx": 32.37614338316944,
-    "atr": 10.690559331661612,
-    "obv_slope": 6516607.142857143,
-    "mom14": 0.12245042016483172,
+    "rsi_slope": 0.37619166755293676,
+    "wave_strength": 1.1054525095070546,
+    "adx": 33.72360399558738,
+    "atr": 10.636948125395419,
+    "obv_slope": 7025126.5,
+    "mom14": 0.14451190971074312,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 89.41,
-    "score_0_10": 8.94,
-    "last_close": 320.2799987792969,
-    "avg_vol20": 29508270.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 89.24,
+    "score_0_10": 8.92,
+    "last_close": 320.1199951171875,
+    "avg_vol20": 27823361.45
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 139.10000610351562,
-      "High": 139.27999877929688,
-      "Low": 136.63999938964844,
-      "Close": 137.42999267578125,
-      "Volume": 30628700
-    },
     {
       "Date": "2024-02-29",
       "Open": 138.35000610351562,
@@ -3540,6 +3532,14 @@
       "Low": 317.20001220703125,
       "Close": 320.2799987792969,
       "Volume": 29839600
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 323.25,
+      "High": 326.8800048828125,
+      "Low": 316.94000244140625,
+      "Close": 320.1199951171875,
+      "Volume": 14871829
     }
   ]
 }

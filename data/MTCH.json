@@ -1,34 +1,26 @@
 {
   "ticker": "MTCH",
   "indicators": {
-    "macd_hist": 0.183547452951548,
-    "macd_slope": 0.0024881052479675497,
+    "macd_hist": 0.20959720338243643,
+    "macd_slope": 0.0028193766951638594,
     "rsi": 0.0,
-    "rsi_slope": 0.2601288442706599,
-    "wave_strength": 1.0294117469783723,
-    "adx": 19.72646689783212,
-    "atr": 0.7772370964221391,
-    "obv_slope": 307485.71428571426,
-    "mom14": 0.017457876514107604,
+    "rsi_slope": 0.38257810459599434,
+    "wave_strength": 1.027811531410076,
+    "adx": 19.464625844824702,
+    "atr": 0.7520772493294704,
+    "obv_slope": 104444.21428571429,
+    "mom14": 0.013386141031463072,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; rising OBV",
-    "score_0_100": 54.75,
-    "score_0_10": 5.48,
-    "last_close": 33.220001220703125,
-    "avg_vol20": 4164075.0
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.3,
+    "score_0_10": 7.23,
+    "last_close": 33.310001373291016,
+    "avg_vol20": 4066605.95
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 36.654998779296875,
-      "High": 36.80500030517578,
-      "Low": 35.84000015258789,
-      "Close": 35.90999984741211,
-      "Volume": 5785100
-    },
     {
       "Date": "2024-02-29",
       "Open": 36.0,
@@ -3540,6 +3532,14 @@
       "Low": 33.02000045776367,
       "Close": 33.220001220703125,
       "Volume": 3000000
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 33.220001220703125,
+      "High": 33.60499954223633,
+      "Low": 33.18000030517578,
+      "Close": 33.310001373291016,
+      "Volume": 1030219
     }
   ]
 }

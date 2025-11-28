@@ -1,34 +1,26 @@
 {
   "ticker": "FICO",
   "indicators": {
-    "macd_hist": 3.9727511840435454,
-    "macd_slope": 0.39104724809536634,
+    "macd_hist": 4.220094754528979,
+    "macd_slope": -0.05111431489617883,
     "rsi": 0.0,
-    "rsi_slope": 0.5601830291090211,
-    "wave_strength": 1.0510505720975205,
-    "adx": 16.321040293563048,
-    "atr": 66.55474958248132,
-    "obv_slope": 47835.71428571428,
-    "mom14": 0.07312512964686053,
+    "rsi_slope": -0.14984804141263044,
+    "wave_strength": 1.0443653331581493,
+    "adx": 16.77368126306977,
+    "atr": 63.602265378819666,
+    "obv_slope": 33295.92857142857,
+    "mom14": 0.03783330807740661,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 65.96,
-    "score_0_10": 6.6,
-    "last_close": 1797.27001953125,
-    "avg_vol20": 226490.0
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 69.57,
+    "score_0_10": 6.96,
+    "last_close": 1805.8299560546875,
+    "avg_vol20": 216412.15
   },
   "history": [
-    {
-      "Date": "2024-02-28",
-      "Open": 1273.8599853515625,
-      "High": 1286.800048828125,
-      "Low": 1273.8599853515625,
-      "Close": 1274.6300048828125,
-      "Volume": 193400
-    },
     {
       "Date": "2024-02-29",
       "Open": 1279.3399658203125,
@@ -3540,6 +3532,14 @@
       "Low": 1793.7900390625,
       "Close": 1797.27001953125,
       "Volume": 112500
+    },
+    {
+      "Date": "2025-11-28",
+      "Open": 1800.0,
+      "High": 1807.219970703125,
+      "Low": 1782.0,
+      "Close": 1805.8299560546875,
+      "Volume": 48643
     }
   ]
 }
