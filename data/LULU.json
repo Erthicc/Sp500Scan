@@ -1,34 +1,26 @@
 {
   "ticker": "LULU",
   "indicators": {
-    "macd_hist": 2.1098350652211053,
-    "macd_slope": 0.20711222641329546,
+    "macd_hist": 2.195671277314587,
+    "macd_slope": 0.18228791415616893,
     "rsi": 0.0,
-    "rsi_slope": 2.106687948765594,
-    "wave_strength": 0.9809492775891523,
-    "adx": 13.827156663590234,
-    "atr": 6.063448274419462,
-    "obv_slope": 981996.3571428572,
-    "mom14": 0.10864977585296012,
+    "rsi_slope": 1.984770523411271,
+    "wave_strength": 1.0841865986920594,
+    "adx": 14.560023063732128,
+    "atr": 5.963916123837036,
+    "obv_slope": 559226.5714285715,
+    "mom14": 0.07079540432341,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 85.69,
-    "score_0_10": 8.57,
-    "last_close": 184.17999267578125,
-    "avg_vol20": 3209752.45
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.39,
+    "score_0_10": 7.84,
+    "last_close": 182.41000366210938,
+    "avg_vol20": 3316696.4
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 466.0299987792969,
-      "High": 469.8999938964844,
-      "Low": 461.1000061035156,
-      "Close": 467.0899963378906,
-      "Volume": 1431900
-    },
     {
       "Date": "2024-03-01",
       "Open": 461.44000244140625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-28",
-      "Open": 184.72000122070312,
+      "Open": 185.0,
       "High": 186.69000244140625,
       "Low": 183.5,
       "Close": 184.17999267578125,
-      "Volume": 1944349
+      "Volume": 3021000
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 181.19000244140625,
+      "High": 184.9199981689453,
+      "Low": 180.25,
+      "Close": 182.41000366210938,
+      "Volume": 4053228
     }
   ]
 }

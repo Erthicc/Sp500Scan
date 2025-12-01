@@ -1,34 +1,26 @@
 {
   "ticker": "JKHY",
   "indicators": {
-    "macd_hist": 0.9607017341700028,
-    "macd_slope": -0.0070734068219997824,
+    "macd_hist": 0.8344141613601495,
+    "macd_slope": -0.027026394693640415,
     "rsi": 0.0,
-    "rsi_slope": 1.5644918595399575,
-    "wave_strength": 1.0398624197484685,
-    "adx": 32.91724401627969,
-    "atr": 3.141198296926549,
-    "obv_slope": 314087.28571428574,
-    "mom14": 0.08507457970245172,
+    "rsi_slope": 1.3683505841198251,
+    "wave_strength": 1.054161060758417,
+    "adx": 34.40963180487167,
+    "atr": 3.124755394248403,
+    "obv_slope": 204736.2857142857,
+    "mom14": 0.07127480655794807,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 80.7,
-    "score_0_10": 8.07,
-    "last_close": 174.47999572753906,
-    "avg_vol20": 919716.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 78.12,
+    "score_0_10": 7.81,
+    "last_close": 174.1999969482422,
+    "avg_vol20": 896469.6
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 174.5,
-      "High": 174.92999267578125,
-      "Low": 173.22000122070312,
-      "Close": 173.77000427246094,
-      "Volume": 445700
-    },
     {
       "Date": "2024-03-01",
       "Open": 173.77000427246094,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-11-28",
-      "Open": 174.4600067138672,
-      "High": 174.99989318847656,
-      "Low": 173.84559631347656,
+      "Open": 174.4199981689453,
+      "High": 175.0,
+      "Low": 173.85000610351562,
       "Close": 174.47999572753906,
-      "Volume": 325122
+      "Volume": 404200
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 173.41000366210938,
+      "High": 175.89999389648438,
+      "Low": 172.98500061035156,
+      "Close": 174.1999969482422,
+      "Volume": 759292
     }
   ]
 }

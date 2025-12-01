@@ -1,34 +1,26 @@
 {
   "ticker": "MRNA",
   "indicators": {
-    "macd_hist": 0.1377002405499968,
-    "macd_slope": 0.03127589788623008,
+    "macd_hist": 0.08900745629341877,
+    "macd_slope": 0.023541396305150557,
     "rsi": 0.0,
-    "rsi_slope": 1.232287290686216,
-    "wave_strength": 1.0054671324954667,
-    "adx": 8.697016580793594,
-    "atr": 1.382337741183417,
-    "obv_slope": 1556626.357142857,
-    "mom14": 0.05867964845094383,
+    "rsi_slope": 0.5728941733407861,
+    "wave_strength": 1.0546185071607395,
+    "adx": 8.242178102810065,
+    "atr": 1.4157422152793522,
+    "obv_slope": 367300.5,
+    "mom14": -0.024232648462169364,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 70.88,
-    "score_0_10": 7.09,
-    "last_close": 25.979999542236328,
-    "avg_vol20": 10784883.45
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV; strong wave vs SMA20",
+    "score_0_100": 56.1,
+    "score_0_10": 5.61,
+    "last_close": 24.15999984741211,
+    "avg_vol20": 10536774.65
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 96.79000091552734,
-      "High": 97.23999786376953,
-      "Low": 92.22000122070312,
-      "Close": 92.23999786376953,
-      "Volume": 5324000
-    },
     {
       "Date": "2024-03-01",
       "Open": 92.5199966430664,
@@ -3539,7 +3531,15 @@
       "High": 26.045000076293945,
       "Low": 24.8700008392334,
       "Close": 25.979999542236328,
-      "Volume": 3115669
+      "Volume": 4286500
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 25.049999237060547,
+      "High": 25.250999450683594,
+      "Low": 24.1299991607666,
+      "Close": 24.15999984741211,
+      "Volume": 9563493
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "SRE",
   "indicators": {
-    "macd_hist": 0.07086132302687187,
-    "macd_slope": 0.020445105628161733,
+    "macd_hist": -0.06980372764343312,
+    "macd_slope": 0.010492542582682396,
     "rsi": 0.0,
-    "rsi_slope": -0.27056433312088907,
-    "wave_strength": 1.014163331083518,
-    "adx": 20.742567233284767,
-    "atr": 1.8688219493767393,
-    "obv_slope": -6265.0,
-    "mom14": 0.010670080953638486,
-    "macd_bull": 1,
-    "bb_breakout": 1,
+    "rsi_slope": -0.7271520685561639,
+    "wave_strength": 1.0231538337790829,
+    "adx": 19.46560191640406,
+    "atr": 1.9746202728678723,
+    "obv_slope": -59305.642857142855,
+    "mom14": -0.015493892872599129,
+    "macd_bull": 0,
+    "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA",
-    "score_0_100": 82.49,
-    "score_0_10": 8.25,
-    "last_close": 94.72000122070312,
-    "avg_vol20": 4084159.5
+    "above_trend": 0,
+    "explanation": "no significant signals",
+    "score_0_100": 18.7,
+    "score_0_10": 1.87,
+    "last_close": 91.5,
+    "avg_vol20": 4160293.95
   },
   "history": [
-    {
-      "Date": "2024-02-29",
-      "Open": 71.08000183105469,
-      "High": 71.11000061035156,
-      "Low": 70.41999816894531,
-      "Close": 70.5999984741211,
-      "Volume": 4632300
-    },
     {
       "Date": "2024-03-01",
       "Open": 70.55000305175781,
@@ -3539,7 +3531,15 @@
       "High": 94.7300033569336,
       "Low": 93.16000366210938,
       "Close": 94.72000122070312,
-      "Volume": 1281190
+      "Volume": 1281200
+    },
+    {
+      "Date": "2025-12-01",
+      "Open": 93.87999725341797,
+      "High": 94.27999877929688,
+      "Low": 91.37000274658203,
+      "Close": 91.5,
+      "Volume": 4550079
     }
   ]
 }
