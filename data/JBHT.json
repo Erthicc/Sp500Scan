@@ -1,34 +1,26 @@
 {
   "ticker": "JBHT",
   "indicators": {
-    "macd_hist": 0.6925165810039342,
-    "macd_slope": 0.08504863633673589,
+    "macd_hist": 1.3429071160794113,
+    "macd_slope": 0.14891168923534007,
     "rsi": 0.0,
-    "rsi_slope": 1.1151941576743394,
-    "wave_strength": 0.9647182321868486,
-    "adx": 28.04153024659146,
-    "atr": 4.812957800117535,
-    "obv_slope": 145488.42857142858,
-    "mom14": 0.06677350596680434,
+    "rsi_slope": 1.5190556824532533,
+    "wave_strength": 0.960024910674804,
+    "adx": 29.682532932567415,
+    "atr": 5.055603061385439,
+    "obv_slope": 418040.5714285714,
+    "mom14": 0.10533831504391476,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 0,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 79.76,
-    "score_0_10": 7.98,
-    "last_close": 179.72999572753906,
-    "avg_vol20": 1224886.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 83.06,
+    "score_0_10": 8.31,
+    "last_close": 185.72999572753906,
+    "avg_vol20": 1297278.4
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 205.97000122070312,
-      "High": 208.69000244140625,
-      "Low": 200.5500030517578,
-      "Close": 203.3300018310547,
-      "Volume": 705200
-    },
     {
       "Date": "2024-03-04",
       "Open": 203.6199951171875,
@@ -3539,7 +3531,15 @@
       "High": 180.7100067138672,
       "Low": 172.7899932861328,
       "Close": 179.72999572753906,
-      "Volume": 1739838
+      "Volume": 1739800
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 180.9499969482422,
+      "High": 186.55999755859375,
+      "Low": 178.35000610351562,
+      "Close": 185.72999572753906,
+      "Volume": 2601368
     }
   ]
 }

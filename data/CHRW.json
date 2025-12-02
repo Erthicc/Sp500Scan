@@ -1,34 +1,26 @@
 {
   "ticker": "CHRW",
   "indicators": {
-    "macd_hist": 0.1967485249382257,
-    "macd_slope": -0.10675433044682439,
+    "macd_hist": 0.14669126208651662,
+    "macd_slope": -0.08464106659755487,
     "rsi": 0.0,
-    "rsi_slope": -0.4737861772738268,
-    "wave_strength": 1.0419550674626352,
-    "adx": 36.76018160255738,
-    "atr": 3.8473887933711333,
-    "obv_slope": 183463.0,
-    "mom14": 0.056683403864500506,
+    "rsi_slope": -0.4155220746174097,
+    "wave_strength": 1.0444980491958007,
+    "adx": 37.66681965996304,
+    "atr": 3.7097180345171012,
+    "obv_slope": 262670.0714285714,
+    "mom14": 0.05925685544398065,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 85.99,
-    "score_0_10": 8.6,
-    "last_close": 160.32000732421875,
-    "avg_vol20": 1424434.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 70.13,
+    "score_0_10": 7.01,
+    "last_close": 159.6300048828125,
+    "avg_vol20": 1394010.95
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 74.6500015258789,
-      "High": 74.6500015258789,
-      "Low": 72.63999938964844,
-      "Close": 73.87999725341797,
-      "Volume": 1402500
-    },
     {
       "Date": "2024-03-04",
       "Open": 73.80000305175781,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-01",
       "Open": 158.6199951171875,
-      "High": 162.78500366210938,
-      "Low": 158.36500549316406,
+      "High": 162.7899932861328,
+      "Low": 158.3699951171875,
       "Close": 160.32000732421875,
-      "Volume": 1564682
+      "Volume": 1594100
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 159.7899932861328,
+      "High": 161.17999267578125,
+      "Low": 159.25999450683594,
+      "Close": 159.6300048828125,
+      "Volume": 1092319
     }
   ]
 }

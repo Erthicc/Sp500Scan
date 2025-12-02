@@ -1,34 +1,26 @@
 {
   "ticker": "NXPI",
   "indicators": {
-    "macd_hist": 0.9590380659720799,
-    "macd_slope": 0.11593837636762434,
+    "macd_hist": 2.356693607976341,
+    "macd_slope": 0.21741281725919986,
     "rsi": 0.0,
-    "rsi_slope": 0.6730698821399927,
-    "wave_strength": 0.9669570687255185,
-    "adx": 40.71770390229161,
-    "atr": 6.3124456474148,
-    "obv_slope": 180313.5,
-    "mom14": -0.027494755790945742,
+    "rsi_slope": 1.7981923774002888,
+    "wave_strength": 0.9657480904512615,
+    "adx": 38.99603932212546,
+    "atr": 7.144413204977617,
+    "obv_slope": 744136.7857142857,
+    "mom14": 0.06156958225172519,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend; rising OBV",
-    "score_0_100": 54.92,
-    "score_0_10": 5.49,
-    "last_close": 199.49000549316406,
-    "avg_vol20": 2654259.45
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 84.71,
+    "score_0_10": 8.47,
+    "last_close": 215.35000610351562,
+    "avg_vol20": 2863050.75
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 251.8800048828125,
-      "High": 259.0799865722656,
-      "Low": 250.2899932861328,
-      "Close": 257.510009765625,
-      "Volume": 2444700
-    },
     {
       "Date": "2024-03-04",
       "Open": 259.489990234375,
@@ -3539,7 +3531,15 @@
       "High": 200.19000244140625,
       "Low": 191.2899932861328,
       "Close": 199.49000549316406,
-      "Volume": 3393289
+      "Volume": 3393800
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 200.55999755859375,
+      "High": 217.4499969482422,
+      "Low": 199.49000549316406,
+      "Close": 215.35000610351562,
+      "Volume": 6157815
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "FANG",
   "indicators": {
-    "macd_hist": 0.8433022567854458,
-    "macd_slope": 0.05473305082037526,
+    "macd_hist": 0.9731120070575783,
+    "macd_slope": 0.03727130816627217,
     "rsi": 0.0,
-    "rsi_slope": 1.0277937478262789,
-    "wave_strength": 1.0121788716132,
-    "adx": 26.39611593723925,
-    "atr": 4.647890871847624,
-    "obv_slope": 327814.28571428574,
-    "mom14": 0.08640714809288827,
+    "rsi_slope": 0.475672648554252,
+    "wave_strength": 1.0648674048314157,
+    "adx": 28.64438210444454,
+    "atr": 4.548761489628903,
+    "obv_slope": 101060.0,
+    "mom14": 0.060104426815050585,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 84.58,
-    "score_0_10": 8.46,
-    "last_close": 156.16000366210938,
-    "avg_vol20": 1670655.0
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.83,
+    "score_0_10": 7.18,
+    "last_close": 155.97999572753906,
+    "avg_vol20": 1663788.0
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 183.33999633789062,
-      "High": 185.77999877929688,
-      "Low": 183.14999389648438,
-      "Close": 185.1699981689453,
-      "Volume": 1774300
-    },
     {
       "Date": "2024-03-04",
       "Open": 183.10000610351562,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-01",
       "Open": 152.75999450683594,
-      "High": 158.7299041748047,
+      "High": 158.72999572753906,
       "Low": 152.3300018310547,
       "Close": 156.16000366210938,
-      "Volume": 2361800
+      "Volume": 2404200
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 156.0,
+      "High": 157.14999389648438,
+      "Low": 153.88999938964844,
+      "Close": 155.97999572753906,
+      "Volume": 1784560
     }
   ]
 }

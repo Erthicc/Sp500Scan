@@ -1,34 +1,26 @@
 {
   "ticker": "DVN",
   "indicators": {
-    "macd_hist": 0.27230022949657084,
-    "macd_slope": 0.0039581202432959085,
+    "macd_hist": 0.24670575112163617,
+    "macd_slope": -0.005823342652746192,
     "rsi": 0.0,
-    "rsi_slope": 0.7279351921974262,
-    "wave_strength": 1.0278636046464182,
-    "adx": 39.77231527446473,
-    "atr": 1.076753829805636,
-    "obv_slope": 2793408.6428571427,
-    "mom14": 0.11615573862304716,
+    "rsi_slope": -0.38041641676440363,
+    "wave_strength": 1.076240847588037,
+    "adx": 42.01775727365907,
+    "atr": 1.0621326832586941,
+    "obv_slope": 1701846.642857143,
+    "mom14": 0.05972691931839302,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 78.33,
-    "score_0_10": 7.83,
-    "last_close": 37.86000061035156,
-    "avg_vol20": 8739336.05
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 74.96,
+    "score_0_10": 7.5,
+    "last_close": 37.2599983215332,
+    "avg_vol20": 8795617.35
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 44.45000076293945,
-      "High": 44.790000915527344,
-      "Low": 44.08000183105469,
-      "Close": 44.38999938964844,
-      "Volume": 12033200
-    },
     {
       "Date": "2024-03-04",
       "Open": 44.529998779296875,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-01",
       "Open": 36.9900016784668,
-      "High": 38.122398376464844,
-      "Low": 36.97999954223633,
+      "High": 38.119998931884766,
+      "Low": 36.970001220703125,
       "Close": 37.86000061035156,
-      "Volume": 7523521
+      "Volume": 9103200
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 37.900001525878906,
+      "High": 37.900001525878906,
+      "Low": 37.03499984741211,
+      "Close": 37.2599983215332,
+      "Volume": 6959847
     }
   ]
 }

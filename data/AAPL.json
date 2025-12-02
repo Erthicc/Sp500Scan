@@ -1,34 +1,26 @@
 {
   "ticker": "AAPL",
   "indicators": {
-    "macd_hist": 0.5042200707670101,
-    "macd_slope": 0.05636746353476437,
+    "macd_hist": 0.853803112265398,
+    "macd_slope": 0.0636589939983986,
     "rsi": 0.0,
-    "rsi_slope": 0.39239240888849125,
-    "wave_strength": 0.9867606917387584,
-    "adx": 31.751895557104632,
-    "atr": 5.572746669091059,
-    "obv_slope": 5379506.0,
-    "mom14": 0.0507367917430937,
+    "rsi_slope": -1.174649473856178,
+    "wave_strength": 0.9836163493700425,
+    "adx": 33.30092342012285,
+    "atr": 5.516064210051381,
+    "obv_slope": 5567220.285714285,
+    "mom14": 0.03974569461001362,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 81.9,
-    "score_0_10": 8.19,
-    "last_close": 283.1000061035156,
-    "avg_vol20": 46155599.2
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.55,
+    "score_0_10": 7.45,
+    "last_close": 286.19000244140625,
+    "avg_vol20": 46087684.2
   },
   "history": [
-    {
-      "Date": "2024-03-01",
-      "Open": 179.5500030517578,
-      "High": 180.52999877929688,
-      "Low": 177.3800048828125,
-      "Close": 179.66000366210938,
-      "Volume": 73563100
-    },
     {
       "Date": "2024-03-04",
       "Open": 176.14999389648438,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-01",
-      "Open": 278.1499938964844,
-      "High": 283.4100036621094,
+      "Open": 278.010009765625,
+      "High": 283.4200134277344,
       "Low": 276.1400146484375,
       "Close": 283.1000061035156,
-      "Volume": 45533784
+      "Volume": 46587700
+    },
+    {
+      "Date": "2025-12-02",
+      "Open": 283.0,
+      "High": 287.3999938964844,
+      "Low": 282.6300964355469,
+      "Close": 286.19000244140625,
+      "Volume": 47782384
     }
   ]
 }
