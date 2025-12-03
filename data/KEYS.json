@@ -1,34 +1,26 @@
 {
   "ticker": "KEYS",
   "indicators": {
-    "macd_hist": 2.2923316010033306,
-    "macd_slope": 0.08238620868315502,
+    "macd_hist": 2.629516129212581,
+    "macd_slope": 0.11853627553829657,
     "rsi": 0.0,
-    "rsi_slope": 0.01637440061776983,
-    "wave_strength": 1.0782294989018169,
-    "adx": 24.27696406119802,
-    "atr": 6.128513690866093,
-    "obv_slope": 630592.6428571428,
-    "mom14": 0.10380349931872344,
+    "rsi_slope": 0.2697561694723701,
+    "wave_strength": 1.0702111364465243,
+    "adx": 26.107479506440523,
+    "atr": 6.222466739777608,
+    "obv_slope": 639847.0,
+    "mom14": 0.12257537182571802,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 73.82,
-    "score_0_10": 7.38,
-    "last_close": 201.39999389648438,
-    "avg_vol20": 1397364.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 85.7,
+    "score_0_10": 8.57,
+    "last_close": 206.61000061035156,
+    "avg_vol20": 1387442.9
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 156.0500030517578,
-      "High": 158.5,
-      "Low": 155.13999938964844,
-      "Close": 157.5,
-      "Volume": 1257500
-    },
     {
       "Date": "2024-03-05",
       "Open": 156.39999389648438,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 198.39999389648438,
-      "High": 202.13999938964844,
-      "Low": 197.66009521484375,
+      "High": 202.1699981689453,
+      "Low": 197.66000366210938,
       "Close": 201.39999389648438,
-      "Volume": 1064897
+      "Volume": 1357100
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 200.83999633789062,
+      "High": 206.85000610351562,
+      "Low": 199.4340057373047,
+      "Close": 206.61000061035156,
+      "Volume": 836558
     }
   ]
 }

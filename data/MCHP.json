@@ -1,34 +1,26 @@
 {
   "ticker": "MCHP",
   "indicators": {
-    "macd_hist": 0.7251937372834383,
-    "macd_slope": 0.11648452818712972,
+    "macd_hist": 1.3453872164033243,
+    "macd_slope": 0.15562434375852904,
     "rsi": 0.0,
-    "rsi_slope": 2.612508349069674,
-    "wave_strength": 0.9960893372328844,
-    "adx": 38.781358138809686,
-    "atr": 2.284688785833881,
-    "obv_slope": -6624.857142857143,
-    "mom14": 0.04590579719066717,
+    "rsi_slope": 3.3299660727952127,
+    "wave_strength": 0.9918098911211446,
+    "adx": 38.091550447558184,
+    "atr": 2.6389201264803157,
+    "obv_slope": 1148132.5714285714,
+    "mom14": 0.15376131483143093,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover; strong trend",
-    "score_0_100": 58.54,
-    "score_0_10": 5.85,
-    "last_close": 56.709999084472656,
-    "avg_vol20": 9432692.6
+    "bb_breakout": 1,
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 91.96,
+    "score_0_10": 9.2,
+    "last_close": 63.61000061035156,
+    "avg_vol20": 10164047.8
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 87.44000244140625,
-      "High": 87.95999908447266,
-      "Low": 86.79000091552734,
-      "Close": 86.91999816894531,
-      "Volume": 4730000
-    },
     {
       "Date": "2024-03-05",
       "Open": 85.83000183105469,
@@ -3537,9 +3529,17 @@
       "Date": "2025-12-02",
       "Open": 53.79999923706055,
       "High": 57.349998474121094,
-      "Low": 53.42499923706055,
+      "Low": 53.40999984741211,
       "Close": 56.709999084472656,
-      "Volume": 11938352
+      "Volume": 11954000
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 59.29999923706055,
+      "High": 63.939998626708984,
+      "Low": 58.95000076293945,
+      "Close": 63.61000061035156,
+      "Volume": 22687056
     }
   ]
 }

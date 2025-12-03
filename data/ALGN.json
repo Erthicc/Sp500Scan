@@ -1,34 +1,26 @@
 {
   "ticker": "ALGN",
   "indicators": {
-    "macd_hist": 1.2402095586679107,
-    "macd_slope": 0.03772817331944846,
+    "macd_hist": 1.5160325318260695,
+    "macd_slope": 0.053280120889532996,
     "rsi": 0.0,
-    "rsi_slope": -0.3289500975473259,
-    "wave_strength": 1.0537407843628606,
-    "adx": 28.995074105014016,
-    "atr": 5.00301444976997,
-    "obv_slope": 231998.0,
-    "mom14": 0.04457046811394764,
+    "rsi_slope": 0.7462666008883565,
+    "wave_strength": 1.0465149317667353,
+    "adx": 30.419319944543407,
+    "atr": 5.052492804063225,
+    "obv_slope": 423390.0714285714,
+    "mom14": 0.09393745027351452,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 69.55,
-    "score_0_10": 6.96,
-    "last_close": 150.92999267578125,
-    "avg_vol20": 1528428.6
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 83.27,
+    "score_0_10": 8.33,
+    "last_close": 155.0,
+    "avg_vol20": 1543128.05
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 301.5299987792969,
-      "High": 310.3699951171875,
-      "Low": 299.4100036621094,
-      "Close": 308.0400085449219,
-      "Volume": 614800
-    },
     {
       "Date": "2024-03-05",
       "Open": 303.7799987792969,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 147.13999938964844,
-      "High": 152.0,
+      "High": 152.05999755859375,
       "Low": 146.1199951171875,
       "Close": 150.92999267578125,
-      "Volume": 1974972
+      "Volume": 1975000
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 151.5,
+      "High": 156.55999755859375,
+      "Low": 150.9199981689453,
+      "Close": 155.0,
+      "Volume": 1466661
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "WYNN",
   "indicators": {
-    "macd_hist": 1.318014311504107,
-    "macd_slope": 0.047330035996857936,
+    "macd_hist": 1.245943345385579,
+    "macd_slope": 0.052049827283795605,
     "rsi": 0.0,
-    "rsi_slope": 0.250413306469737,
-    "wave_strength": 1.042014236547044,
-    "adx": 17.150215844410265,
-    "atr": 4.566429098433972,
-    "obv_slope": 502522.14285714284,
-    "mom14": 0.05787387894382242,
+    "rsi_slope": 0.8192497814845855,
+    "wave_strength": 1.0667492293231393,
+    "adx": 17.751091480429224,
+    "atr": 4.537046590107727,
+    "obv_slope": 523866.5714285714,
+    "mom14": 0.054254746726975604,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 67.31,
-    "score_0_10": 6.73,
-    "last_close": 133.08999633789062,
-    "avg_vol20": 1786325.5
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.19,
+    "score_0_10": 7.12,
+    "last_close": 131.52999877929688,
+    "avg_vol20": 1773718.4
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 100.93000030517578,
-      "High": 101.1500015258789,
-      "Low": 99.66999816894531,
-      "Close": 99.7300033569336,
-      "Volume": 1875100
-    },
     {
       "Date": "2024-03-05",
       "Open": 99.23999786376953,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 133.22000122070312,
-      "High": 133.7299041748047,
-      "Low": 130.88999938964844,
+      "High": 133.72999572753906,
+      "Low": 130.82000732421875,
       "Close": 133.08999633789062,
-      "Volume": 1210810
+      "Volume": 1215100
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 133.75,
+      "High": 133.97999572753906,
+      "Low": 129.88999938964844,
+      "Close": 131.52999877929688,
+      "Volume": 1119368
     }
   ]
 }

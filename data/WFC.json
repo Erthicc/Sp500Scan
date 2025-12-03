@@ -1,34 +1,26 @@
 {
   "ticker": "WFC",
   "indicators": {
-    "macd_hist": 0.07336712746663326,
-    "macd_slope": 0.011037607563303334,
+    "macd_hist": 0.3090395465889865,
+    "macd_slope": 0.029215036262889377,
     "rsi": 0.0,
-    "rsi_slope": -1.3050854442317166,
-    "wave_strength": 1.008256561337501,
-    "adx": 10.87378841909147,
-    "atr": 1.9869512591530438,
-    "obv_slope": 6051954.142857143,
-    "mom14": 0.0015082637166223957,
+    "rsi_slope": -0.38671582674781796,
+    "wave_strength": 1.0066748464233521,
+    "adx": 11.823614225453653,
+    "atr": 2.0667860835110927,
+    "obv_slope": 6061579.642857143,
+    "mom14": 0.03582189034740101,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 60.5,
-    "score_0_10": 6.05,
-    "last_close": 86.31999969482422,
-    "avg_vol20": 14033312.9
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.87,
+    "score_0_10": 7.29,
+    "last_close": 89.3499984741211,
+    "avg_vol20": 14041925.75
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 54.869998931884766,
-      "High": 56.560001373291016,
-      "Low": 54.72999954223633,
-      "Close": 55.810001373291016,
-      "Volume": 19483500
-    },
     {
       "Date": "2024-03-05",
       "Open": 55.709999084472656,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 85.69000244140625,
-      "High": 86.78500366210938,
+      "High": 86.79000091552734,
       "Low": 85.27999877929688,
       "Close": 86.31999969482422,
-      "Volume": 6896558
+      "Volume": 9484000
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 86.26000213623047,
+      "High": 89.38999938964844,
+      "Low": 86.29000091552734,
+      "Close": 89.3499984741211,
+      "Volume": 14322515
     }
   ]
 }

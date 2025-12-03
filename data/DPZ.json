@@ -1,34 +1,26 @@
 {
   "ticker": "DPZ",
   "indicators": {
-    "macd_hist": 3.0632836134211665,
-    "macd_slope": 0.1559427223345302,
+    "macd_hist": 3.4996584809223505,
+    "macd_slope": 0.1965312956847834,
     "rsi": 0.0,
-    "rsi_slope": 1.8445470410657063,
-    "wave_strength": 1.0217502831852492,
-    "adx": 23.300535643129088,
-    "atr": 9.293135871676885,
-    "obv_slope": 17061.0,
-    "mom14": 0.03765609375756219,
+    "rsi_slope": 2.595978593380927,
+    "wave_strength": 1.0186586434299927,
+    "adx": 23.882215587479255,
+    "atr": 9.269395116582185,
+    "obv_slope": 90123.78571428571,
+    "mom14": 0.06917473746841367,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 78.55,
-    "score_0_10": 7.86,
-    "last_close": 424.6400146484375,
-    "avg_vol20": 499362.7
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.11,
+    "score_0_10": 8.11,
+    "last_close": 431.69000244140625,
+    "avg_vol20": 490851.65
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 447.45001220703125,
-      "High": 452.2799987792969,
-      "Low": 446.5299987792969,
-      "Close": 449.989990234375,
-      "Volume": 419100
-    },
     {
       "Date": "2024-03-05",
       "Open": 450.32000732421875,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 423.1400146484375,
-      "High": 428.4560852050781,
+      "High": 428.57000732421875,
       "Low": 420.010009765625,
       "Close": 424.6400146484375,
-      "Volume": 639454
+      "Volume": 645000
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 425.0,
+      "High": 433.4949951171875,
+      "Low": 425.0,
+      "Close": 431.69000244140625,
+      "Volume": 473233
     }
   ]
 }

@@ -1,34 +1,26 @@
 {
   "ticker": "CTRA",
   "indicators": {
-    "macd_hist": -0.0036003828804664906,
-    "macd_slope": -0.02560907970931279,
+    "macd_hist": 0.0234546590210003,
+    "macd_slope": -0.01888221113381322,
     "rsi": 0.0,
-    "rsi_slope": -2.5642730852484794,
-    "wave_strength": 1.0322861029950712,
-    "adx": 32.66157579608314,
-    "atr": 0.6521814807642945,
-    "obv_slope": -350537.35714285716,
-    "mom14": -0.006566830508940673,
-    "macd_bull": 0,
-    "bb_breakout": 0,
+    "rsi_slope": -0.7972627471026021,
+    "wave_strength": 1.0292747300380192,
+    "adx": 33.41006323940653,
+    "atr": 0.6605971220490535,
+    "obv_slope": 583597.9285714285,
+    "mom14": 0.04824399871587062,
+    "macd_bull": 1,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "strong trend; price above SMA/EMA",
-    "score_0_100": 31.83,
-    "score_0_10": 3.18,
-    "last_close": 26.389999389648438,
-    "avg_vol20": 8333096.15
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 78.43,
+    "score_0_10": 7.84,
+    "last_close": 27.15999984741211,
+    "avg_vol20": 7271568.55
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 26.280000686645508,
-      "High": 26.850000381469727,
-      "Low": 26.280000686645508,
-      "Close": 26.5,
-      "Volume": 9784600
-    },
     {
       "Date": "2024-03-05",
       "Open": 26.489999771118164,
@@ -3539,7 +3531,15 @@
       "High": 26.889999389648438,
       "Low": 26.389999389648438,
       "Close": 26.389999389648438,
-      "Volume": 4650323
+      "Volume": 6010800
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 26.549999237060547,
+      "High": 27.15999984741211,
+      "Low": 26.510000228881836,
+      "Close": 27.15999984741211,
+      "Volume": 4620871
     }
   ]
 }

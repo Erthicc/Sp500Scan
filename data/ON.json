@@ -1,34 +1,26 @@
 {
   "ticker": "ON",
   "indicators": {
-    "macd_hist": 0.5772902437920965,
-    "macd_slope": 0.06995646135027966,
+    "macd_hist": 0.9854965998420345,
+    "macd_slope": 0.09226544968666457,
     "rsi": 0.0,
-    "rsi_slope": 1.7892907312871746,
-    "wave_strength": 0.9577704337408238,
-    "adx": 16.907541149698435,
-    "atr": 2.135557361873319,
-    "obv_slope": 3027338.3571428573,
-    "mom14": 0.06297747713899125,
+    "rsi_slope": 2.2308561599241337,
+    "wave_strength": 0.9490297436880938,
+    "adx": 18.89792906443818,
+    "atr": 2.4151093410976663,
+    "obv_slope": 3531899.9285714286,
+    "mom14": 0.1599350719485035,
     "macd_bull": 1,
-    "bb_breakout": 0,
-    "vol_spike": 0,
+    "bb_breakout": 1,
+    "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 61.55,
-    "score_0_10": 6.15,
-    "last_close": 51.47999954223633,
-    "avg_vol20": 8727541.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.67,
+    "score_0_10": 8.27,
+    "last_close": 57.150001525878906,
+    "avg_vol20": 8770894.95
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 81.76000213623047,
-      "High": 81.94999694824219,
-      "Low": 79.43000030517578,
-      "Close": 79.87999725341797,
-      "Volume": 5362100
-    },
     {
       "Date": "2024-03-05",
       "Open": 78.4000015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-02",
       "Open": 50.58000183105469,
-      "High": 51.970001220703125,
+      "High": 51.97999954223633,
       "Low": 49.130001068115234,
       "Close": 51.47999954223633,
-      "Volume": 11941637
+      "Volume": 11945000
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 51.58000183105469,
+      "High": 57.52000045776367,
+      "Low": 51.4900016784668,
+      "Close": 57.150001525878906,
+      "Volume": 13553899
     }
   ]
 }

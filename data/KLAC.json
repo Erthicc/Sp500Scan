@@ -1,34 +1,26 @@
 {
   "ticker": "KLAC",
   "indicators": {
-    "macd_hist": -0.6160435223136096,
-    "macd_slope": 0.32834657932981826,
+    "macd_hist": 2.556422964500925,
+    "macd_slope": 0.6224551951631193,
     "rsi": 0.0,
-    "rsi_slope": -0.8424438454523582,
-    "wave_strength": 1.009235017370105,
-    "adx": 14.611699880326968,
-    "atr": 41.368190544698734,
-    "obv_slope": 73481.92857142857,
-    "mom14": 0.0008030176460586526,
-    "macd_bull": 0,
+    "rsi_slope": -0.34820825681654305,
+    "wave_strength": 1.0083580430506038,
+    "adx": 14.374324804707344,
+    "atr": 41.96631575775878,
+    "obv_slope": 75031.0,
+    "mom14": 0.012354890260679964,
+    "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "price above SMA/EMA; rising OBV",
-    "score_0_100": 26.37,
-    "score_0_10": 2.64,
-    "last_close": 1189.8599853515625,
-    "avg_vol20": 1067542.35
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
+    "score_0_100": 61.18,
+    "score_0_10": 6.12,
+    "last_close": 1211.75,
+    "avg_vol20": 1049786.7
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 724.75,
-      "High": 728.0,
-      "Low": 716.4299926757812,
-      "Close": 717.8099975585938,
-      "Volume": 751400
-    },
     {
       "Date": "2024-03-05",
       "Open": 712.3300170898438,
@@ -3539,7 +3531,15 @@
       "High": 1197.9000244140625,
       "Low": 1163.699951171875,
       "Close": 1189.8599853515625,
-      "Volume": 898247
+      "Volume": 953300
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 1186.0,
+      "High": 1215.9599609375,
+      "Low": 1166.218017578125,
+      "Close": 1211.75,
+      "Volume": 791234
     }
   ]
 }

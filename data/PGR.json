@@ -1,34 +1,26 @@
 {
   "ticker": "PGR",
   "indicators": {
-    "macd_hist": 1.3090960871071575,
-    "macd_slope": -0.026482594946943622,
+    "macd_hist": 1.0433930931358508,
+    "macd_slope": -0.07681247683022117,
     "rsi": 0.0,
-    "rsi_slope": 1.8461492909668624,
-    "wave_strength": 1.031015940732326,
-    "adx": 21.619322271569335,
-    "atr": 4.415732958355501,
-    "obv_slope": 552546.0714285715,
-    "mom14": 0.04024369377176915,
+    "rsi_slope": 0.8403594177877933,
+    "wave_strength": 1.0252043382799336,
+    "adx": 20.853905974095845,
+    "atr": 4.351752337976234,
+    "obv_slope": 241159.35714285713,
+    "mom14": 0.023932923222849987,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
-    "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 67.95,
-    "score_0_10": 6.79,
-    "last_close": 228.75999450683594,
-    "avg_vol20": 3326432.25
+    "above_trend": 0,
+    "explanation": "recent MACD bullish crossover; rising OBV",
+    "score_0_100": 55.58,
+    "score_0_10": 5.56,
+    "last_close": 227.17999267578125,
+    "avg_vol20": 3306063.45
   },
   "history": [
-    {
-      "Date": "2024-03-04",
-      "Open": 187.75999450683594,
-      "High": 189.8300018310547,
-      "Low": 187.32000732421875,
-      "Close": 189.24000549316406,
-      "Volume": 2931000
-    },
     {
       "Date": "2024-03-05",
       "Open": 189.49000549316406,
@@ -3539,7 +3531,15 @@
       "High": 229.30999755859375,
       "Low": 225.0399932861328,
       "Close": 228.75999450683594,
-      "Volume": 2589345
+      "Volume": 3953900
+    },
+    {
+      "Date": "2025-12-03",
+      "Open": 228.72000122070312,
+      "High": 229.55999755859375,
+      "Low": 226.0399932861328,
+      "Close": 227.17999267578125,
+      "Volume": 2940869
     }
   ]
 }
