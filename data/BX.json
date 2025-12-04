@@ -1,34 +1,26 @@
 {
   "ticker": "BX",
   "indicators": {
-    "macd_hist": 1.8439904254597952,
-    "macd_slope": 0.1140311559963216,
+    "macd_hist": 1.9500811700379543,
+    "macd_slope": 0.1349837844729486,
     "rsi": 0.0,
-    "rsi_slope": 2.6394548379785383,
-    "wave_strength": 1.022561001415692,
-    "adx": 26.984973118450085,
-    "atr": 4.071793965994426,
-    "obv_slope": -191059.35714285713,
-    "mom14": 0.04959825181377809,
+    "rsi_slope": 3.8176863582716365,
+    "wave_strength": 1.055572233028327,
+    "adx": 25.970350382709515,
+    "atr": 3.971283754144118,
+    "obv_slope": 279950.0,
+    "mom14": 0.08499964677209845,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA",
-    "score_0_100": 81.15,
-    "score_0_10": 8.11,
-    "last_close": 151.52000427246094,
-    "avg_vol20": 4217818.45
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 71.62,
+    "score_0_10": 7.16,
+    "last_close": 151.38999938964844,
+    "avg_vol20": 4127205.0
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 126.2699966430664,
-      "High": 126.69999694824219,
-      "Low": 124.12000274658203,
-      "Close": 124.81999969482422,
-      "Volume": 3856300
-    },
     {
       "Date": "2024-03-06",
       "Open": 126.6500015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-03",
       "Open": 147.16000366210938,
-      "High": 151.81500244140625,
+      "High": 151.82000732421875,
       "Low": 146.39999389648438,
       "Close": 151.52000427246094,
-      "Volume": 3463669
+      "Volume": 3678200
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 151.97000122070312,
+      "High": 152.90499877929688,
+      "Low": 150.2449951171875,
+      "Close": 151.38999938964844,
+      "Volume": 2616800
     }
   ]
 }

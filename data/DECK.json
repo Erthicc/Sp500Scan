@@ -1,34 +1,26 @@
 {
   "ticker": "DECK",
   "indicators": {
-    "macd_hist": 2.009178302858013,
-    "macd_slope": 0.12007352611336326,
+    "macd_hist": 2.123647850854524,
+    "macd_slope": 0.11387539050769778,
     "rsi": 0.0,
-    "rsi_slope": 2.8730213093580943,
-    "wave_strength": 1.0871028832026408,
-    "adx": 26.64278761643019,
-    "atr": 3.2393608519269104,
-    "obv_slope": 288608.78571428574,
-    "mom14": 0.1253703271427262,
+    "rsi_slope": 2.20213587282378,
+    "wave_strength": 1.0779088148329468,
+    "adx": 27.2366455380714,
+    "atr": 3.1547381345244223,
+    "obv_slope": 744102.7142857143,
+    "mom14": 0.15824310189336604,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 90.75,
-    "score_0_10": 9.07,
-    "last_close": 94.97000122070312,
-    "avg_vol20": 3524611.15
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 85.26,
+    "score_0_10": 8.53,
+    "last_close": 96.25,
+    "avg_vol20": 3462256.9
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 153.3350067138672,
-      "High": 155.31500244140625,
-      "Low": 150.40333557128906,
-      "Close": 151.14332580566406,
-      "Volume": 2029800
-    },
     {
       "Date": "2024-03-06",
       "Open": 152.0,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-03",
       "Open": 92.3499984741211,
-      "High": 95.9749984741211,
+      "High": 95.9800033569336,
       "Low": 91.80000305175781,
       "Close": 94.97000122070312,
-      "Volume": 3340023
+      "Volume": 3760500
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 95.2300033569336,
+      "High": 96.30999755859375,
+      "Low": 94.26000213623047,
+      "Close": 96.25,
+      "Volume": 2763438
     }
   ]
 }

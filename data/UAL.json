@@ -1,34 +1,26 @@
 {
   "ticker": "UAL",
   "indicators": {
-    "macd_hist": 1.6244745071523805,
-    "macd_slope": 0.0883009186073072,
+    "macd_hist": 1.4963751204454727,
+    "macd_slope": 0.07894403946626406,
     "rsi": 0.0,
-    "rsi_slope": 0.46468261889964574,
-    "wave_strength": 1.0508252637164026,
-    "adx": 14.905074346600516,
-    "atr": 4.215629829891055,
-    "obv_slope": 1645090.642857143,
-    "mom14": 0.08512555799057152,
+    "rsi_slope": 0.9928187694624013,
+    "wave_strength": 1.1133862240216454,
+    "adx": 15.96376430640025,
+    "atr": 4.248666569408184,
+    "obv_slope": 1479317.7142857143,
+    "mom14": 0.07780184553306282,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 80.39,
-    "score_0_10": 8.04,
-    "last_close": 108.4800033569336,
-    "avg_vol20": 5851218.45
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 70.88,
+    "score_0_10": 7.09,
+    "last_close": 104.7300033569336,
+    "avg_vol20": 5863622.6
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 43.72999954223633,
-      "High": 44.029998779296875,
-      "Low": 43.40999984741211,
-      "Close": 43.7400016784668,
-      "Volume": 6078300
-    },
     {
       "Date": "2024-03-06",
       "Open": 44.099998474121094,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 104.875,
-      "High": 109.66200256347656,
-      "Low": 104.68009948730469,
+      "Open": 104.87999725341797,
+      "High": 109.66000366210938,
+      "Low": 104.68000030517578,
       "Close": 108.4800033569336,
-      "Volume": 6128569
+      "Volume": 6287200
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 108.62000274658203,
+      "High": 109.12000274658203,
+      "Low": 104.44000244140625,
+      "Close": 104.7300033569336,
+      "Volume": 6846452
     }
   ]
 }

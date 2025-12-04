@@ -1,34 +1,26 @@
 {
   "ticker": "CSX",
   "indicators": {
-    "macd_hist": 0.15024550559967853,
-    "macd_slope": 0.02032991688459532,
+    "macd_hist": 0.1985077596831859,
+    "macd_slope": 0.024390920904378808,
     "rsi": 0.0,
-    "rsi_slope": 0.6036571323377231,
-    "wave_strength": 1.0180170241474789,
-    "adx": 16.539509374384615,
-    "atr": 0.6616618190090131,
-    "obv_slope": 340324.9285714286,
-    "mom14": 0.01957858339887765,
+    "rsi_slope": 2.193153668276136,
+    "wave_strength": 1.0165681955008992,
+    "adx": 16.847126977558414,
+    "atr": 0.6483862158538015,
+    "obv_slope": 2414866.0,
+    "mom14": 0.041104687093505864,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 64.31,
-    "score_0_10": 6.43,
-    "last_close": 35.95000076293945,
-    "avg_vol20": 13388317.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
+    "score_0_100": 73.04,
+    "score_0_10": 7.3,
+    "last_close": 36.18000030517578,
+    "avg_vol20": 13469826.2
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 38.439998626708984,
-      "High": 38.61000061035156,
-      "Low": 38.08000183105469,
-      "Close": 38.25,
-      "Volume": 11336700
-    },
     {
       "Date": "2024-03-06",
       "Open": 38.209999084472656,
@@ -3539,7 +3531,15 @@
       "High": 35.959999084472656,
       "Low": 34.970001220703125,
       "Close": 35.95000076293945,
-      "Volume": 14595949
+      "Volume": 14605900
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 35.93000030517578,
+      "High": 36.325801849365234,
+      "Low": 35.849998474121094,
+      "Close": 36.18000030517578,
+      "Volume": 15586624
     }
   ]
 }

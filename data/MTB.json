@@ -1,34 +1,26 @@
 {
   "ticker": "MTB",
   "indicators": {
-    "macd_hist": 1.2623562262988492,
-    "macd_slope": 0.008704229529686145,
+    "macd_hist": 1.3467070414071887,
+    "macd_slope": 0.022586003345603407,
     "rsi": 0.0,
-    "rsi_slope": 0.05076527223101631,
-    "wave_strength": 1.0225276424149323,
-    "adx": 23.19556745141273,
-    "atr": 3.89542231410919,
-    "obv_slope": 239386.2142857143,
-    "mom14": 0.04801991079640161,
+    "rsi_slope": 1.2080563486461497,
+    "wave_strength": 1.0485884958149398,
+    "adx": 25.103797802244895,
+    "atr": 3.7727456585907384,
+    "obv_slope": 286669.5714285714,
+    "mom14": 0.057648115079037617,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.85,
-    "score_0_10": 7.68,
-    "last_close": 195.6300048828125,
-    "avg_vol20": 841205.35
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 66.21,
+    "score_0_10": 6.62,
+    "last_close": 195.57000732421875,
+    "avg_vol20": 833711.3
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 139.19000244140625,
-      "High": 144.3800048828125,
-      "Low": 139.19000244140625,
-      "Close": 143.86000061035156,
-      "Volume": 1143500
-    },
     {
       "Date": "2024-03-06",
       "Open": 142.9499969482422,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-03",
       "Open": 190.9600067138672,
-      "High": 195.67999267578125,
-      "Low": 189.4700927734375,
+      "High": 195.7100067138672,
+      "Low": 189.47000122070312,
       "Close": 195.6300048828125,
-      "Volume": 464807
+      "Volume": 709500
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 195.00999450683594,
+      "High": 197.1199951171875,
+      "Low": 194.97000122070312,
+      "Close": 195.57000732421875,
+      "Volume": 439426
     }
   ]
 }

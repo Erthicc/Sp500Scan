@@ -1,34 +1,26 @@
 {
   "ticker": "JNJ",
   "indicators": {
-    "macd_hist": 0.39962870023584873,
-    "macd_slope": 0.019987145624113696,
+    "macd_hist": -0.0004924115030489062,
+    "macd_slope": -0.02689448801381522,
     "rsi": 0.0,
-    "rsi_slope": 2.273367582976673,
-    "wave_strength": 1.036847026873216,
-    "adx": 39.984950624752706,
-    "atr": 2.8402183427741496,
-    "obv_slope": 7101135.642857143,
-    "mom14": 0.06298518694002536,
-    "macd_bull": 1,
+    "rsi_slope": 0.7661529320767312,
+    "wave_strength": 1.0322480951064017,
+    "adx": 38.51980569336114,
+    "atr": 2.8965795848130327,
+    "obv_slope": 5845323.571428572,
+    "mom14": 0.04361372039531039,
+    "macd_bull": 0,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 75.35,
-    "score_0_10": 7.53,
-    "last_close": 205.3300018310547,
-    "avg_vol20": 9235255.05
+    "explanation": "strong trend; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 36.3,
+    "score_0_10": 3.63,
+    "last_close": 202.47999572753906,
+    "avg_vol20": 9430273.5
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 160.6199951171875,
-      "High": 161.24000549316406,
-      "Low": 159.1999969482422,
-      "Close": 159.97000122070312,
-      "Volume": 8298200
-    },
     {
       "Date": "2024-03-06",
       "Open": 159.4600067138672,
@@ -3537,9 +3529,17 @@
       "Date": "2025-12-03",
       "Open": 205.89999389648438,
       "High": 207.02000427246094,
-      "Low": 205.0,
+      "Low": 204.99000549316406,
       "Close": 205.3300018310547,
-      "Volume": 8348401
+      "Volume": 8363300
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 204.58999633789062,
+      "High": 204.86000061035156,
+      "Low": 201.7100067138672,
+      "Close": 202.47999572753906,
+      "Volume": 8934870
     }
   ]
 }

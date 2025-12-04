@@ -1,34 +1,26 @@
 {
   "ticker": "WBD",
   "indicators": {
-    "macd_hist": 0.006878990521659745,
-    "macd_slope": 0.0026120640213685036,
+    "macd_hist": 0.009370497737075323,
+    "macd_slope": 0.007316512813239552,
     "rsi": 0.0,
-    "rsi_slope": 0.7256305507655689,
-    "wave_strength": 1.0356433944810561,
-    "adx": 43.98312606602405,
-    "atr": 0.8223560642735329,
-    "obv_slope": 4514042.571428572,
-    "mom14": 0.10725548010301918,
+    "rsi_slope": 0.6910848729220095,
+    "wave_strength": 1.056183625617382,
+    "adx": 44.61670625058971,
+    "atr": 0.8011163181455011,
+    "obv_slope": 4146905.3571428573,
+    "mom14": 0.10840115591877693,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 85.61,
-    "score_0_10": 8.56,
-    "last_close": 24.56999969482422,
-    "avg_vol20": 38138339.8
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 72.99,
+    "score_0_10": 7.3,
+    "last_close": 24.540000915527344,
+    "avg_vol20": 37801526.25
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 8.0600004196167,
-      "High": 8.3100004196167,
-      "Low": 8.020000457763672,
-      "Close": 8.140000343322754,
-      "Volume": 33736400
-    },
     {
       "Date": "2024-03-06",
       "Open": 8.220000267028809,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-03",
-      "Open": 24.18000030517578,
+      "Open": 24.239999771118164,
       "High": 24.739999771118164,
       "Low": 24.100000381469727,
       "Close": 24.56999969482422,
-      "Volume": 21999496
+      "Volume": 22786500
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 24.170000076293945,
+      "High": 24.56999969482422,
+      "Low": 24.045000076293945,
+      "Close": 24.540000915527344,
+      "Volume": 37831125
     }
   ]
 }

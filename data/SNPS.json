@@ -1,34 +1,26 @@
 {
   "ticker": "SNPS",
   "indicators": {
-    "macd_hist": 10.574398779238011,
-    "macd_slope": 0.9900823766037707,
+    "macd_hist": 11.078853335194943,
+    "macd_slope": 0.9932817330682467,
     "rsi": 0.0,
-    "rsi_slope": 4.003418491807321,
-    "wave_strength": 0.9990926050704101,
-    "adx": 29.34411053452047,
-    "atr": 16.65454659662969,
-    "obv_slope": 924369.2142857143,
-    "mom14": 0.16957951229112855,
+    "rsi_slope": 4.575029207307748,
+    "wave_strength": 1.1439951657965646,
+    "adx": 29.85411580325732,
+    "atr": 15.910649713486908,
+    "obv_slope": 969858.7857142857,
+    "mom14": 0.17721422297501963,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 89.12,
-    "score_0_10": 8.91,
-    "last_close": 466.44000244140625,
-    "avg_vol20": 2334143.45
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 100.0,
+    "score_0_10": 10.0,
+    "last_close": 463.739990234375,
+    "avg_vol20": 2192178.85
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 589.1099853515625,
-      "High": 591.22998046875,
-      "Low": 560.5,
-      "Close": 565.260009765625,
-      "Volume": 977100
-    },
     {
       "Date": "2024-03-06",
       "Open": 574.9099731445312,
@@ -3539,7 +3531,15 @@
       "High": 468.2900085449219,
       "Low": 443.3599853515625,
       "Close": 466.44000244140625,
-      "Volume": 2530469
+      "Volume": 2564200
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 462.70001220703125,
+      "High": 465.70001220703125,
+      "Low": 460.20001220703125,
+      "Close": 463.739990234375,
+      "Volume": 1419477
     }
   ]
 }

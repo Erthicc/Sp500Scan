@@ -1,34 +1,26 @@
 {
   "ticker": "CRM",
   "indicators": {
-    "macd_hist": 0.5593979165112568,
-    "macd_slope": 0.15177636106172304,
+    "macd_hist": 1.5085545753226084,
+    "macd_slope": 0.22840214495057307,
     "rsi": 0.0,
-    "rsi_slope": 0.2480890904662775,
-    "wave_strength": 0.9909987861154769,
-    "adx": 19.572742921827988,
-    "atr": 6.806784057159121,
-    "obv_slope": -270487.14285714284,
-    "mom14": -0.029672396248206074,
+    "rsi_slope": 1.4981545660961224,
+    "wave_strength": 0.9920948279756153,
+    "adx": 19.72826310192558,
+    "atr": 7.12879965615496,
+    "obv_slope": 1875111.2142857143,
+    "mom14": 0.029239338902138885,
     "macd_bull": 1,
     "bb_breakout": 0,
-    "vol_spike": 0,
-    "above_trend": 0,
-    "explanation": "recent MACD bullish crossover",
-    "score_0_100": 49.64,
-    "score_0_10": 4.96,
-    "last_close": 238.72000122070312,
-    "avg_vol20": 7055244.0
+    "vol_spike": 1,
+    "above_trend": 1,
+    "explanation": "recent MACD bullish crossover; volume spike; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.73,
+    "score_0_10": 6.77,
+    "last_close": 247.4600067138672,
+    "avg_vol20": 8017997.85
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 311.30999755859375,
-      "High": 312.54998779296875,
-      "Low": 296.1400146484375,
-      "Close": 298.75,
-      "Volume": 9015300
-    },
     {
       "Date": "2024-03-06",
       "Open": 304.6499938964844,
@@ -3539,7 +3531,15 @@
       "High": 239.25999450683594,
       "Low": 233.16000366210938,
       "Close": 238.72000122070312,
-      "Volume": 9205380
+      "Volume": 13782000
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 243.68499755859375,
+      "High": 248.97000122070312,
+      "Low": 237.65499877929688,
+      "Close": 247.4600067138672,
+      "Volume": 19919657
     }
   ]
 }

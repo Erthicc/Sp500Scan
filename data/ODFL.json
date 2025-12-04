@@ -1,34 +1,26 @@
 {
   "ticker": "ODFL",
   "indicators": {
-    "macd_hist": 1.8637447924716,
-    "macd_slope": 0.109578399227003,
+    "macd_hist": 2.451993805217465,
+    "macd_slope": 0.16975401490309833,
     "rsi": 0.0,
-    "rsi_slope": 0.5490108760566044,
-    "wave_strength": 0.9874273529416633,
-    "adx": 19.29102192659916,
-    "atr": 4.9519520020217245,
-    "obv_slope": 439280.0714285714,
-    "mom14": 0.08710839531174414,
+    "rsi_slope": 1.6484239488628813,
+    "wave_strength": 0.9826082576934574,
+    "adx": 21.774770258913836,
+    "atr": 4.832897989309935,
+    "obv_slope": 889536.5,
+    "mom14": 0.1355809799914914,
     "macd_bull": 1,
     "bb_breakout": 1,
     "vol_spike": 1,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; rising OBV",
-    "score_0_100": 82.01,
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 81.96,
     "score_0_10": 8.2,
-    "last_close": 150.94500732421875,
-    "avg_vol20": 2182436.05
+    "last_close": 153.50999450683594,
+    "avg_vol20": 2286545.55
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 221.0,
-      "High": 222.96499633789062,
-      "Low": 212.2899932861328,
-      "Close": 215.0399932861328,
-      "Volume": 2101600
-    },
     {
       "Date": "2024-03-06",
       "Open": 214.5050048828125,
@@ -3538,8 +3530,16 @@
       "Open": 142.3000030517578,
       "High": 151.0500030517578,
       "Low": 141.5,
-      "Close": 150.94500732421875,
-      "Volume": 4428521
+      "Close": 150.9499969482422,
+      "Volume": 4491200
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 150.89500427246094,
+      "High": 154.02999877929688,
+      "Low": 150.89500427246094,
+      "Close": 153.50999450683594,
+      "Volume": 4370911
     }
   ]
 }

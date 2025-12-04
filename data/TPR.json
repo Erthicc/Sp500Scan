@@ -1,34 +1,26 @@
 {
   "ticker": "TPR",
   "indicators": {
-    "macd_hist": 1.1724307753237713,
-    "macd_slope": 0.15978334437440145,
+    "macd_hist": 1.3543099326444628,
+    "macd_slope": 0.1735279973269983,
     "rsi": 0.0,
-    "rsi_slope": 2.125221681400244,
-    "wave_strength": 1.0627858862027715,
-    "adx": 19.744403596240698,
-    "atr": 4.0246410441109015,
-    "obv_slope": 1703165.0714285714,
-    "mom14": 0.07636078626345096,
+    "rsi_slope": 3.1545241935721964,
+    "wave_strength": 1.0598969253760095,
+    "adx": 19.835937554120303,
+    "atr": 4.081452376276887,
+    "obv_slope": 2121695.9285714286,
+    "mom14": 0.1419213489399223,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 73.98,
-    "score_0_10": 7.4,
-    "last_close": 111.91999816894531,
-    "avg_vol20": 3677880.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 82.92,
+    "score_0_10": 8.29,
+    "last_close": 115.05999755859375,
+    "avg_vol20": 3621842.15
   },
   "history": [
-    {
-      "Date": "2024-03-05",
-      "Open": 47.04999923706055,
-      "High": 48.099998474121094,
-      "Low": 46.65999984741211,
-      "Close": 47.779998779296875,
-      "Volume": 3651100
-    },
     {
       "Date": "2024-03-06",
       "Open": 47.83000183105469,
@@ -3537,9 +3529,17 @@
       "Date": "2025-12-03",
       "Open": 110.0999984741211,
       "High": 113.0999984741211,
-      "Low": 109.91500091552734,
+      "Low": 109.91999816894531,
       "Close": 111.91999816894531,
-      "Volume": 2268911
+      "Volume": 2268900
+    },
+    {
+      "Date": "2025-12-04",
+      "Open": 110.91000366210938,
+      "High": 115.62000274658203,
+      "Low": 110.80000305175781,
+      "Close": 115.05999755859375,
+      "Volume": 3024943
     }
   ]
 }
