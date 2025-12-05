@@ -1,34 +1,26 @@
 {
   "ticker": "CTRA",
   "indicators": {
-    "macd_hist": 0.04507721597653769,
-    "macd_slope": -0.012624743059486132,
+    "macd_hist": 0.05376220094819151,
+    "macd_slope": -0.010151616445912717,
     "rsi": 0.0,
-    "rsi_slope": -0.7733904381567324,
-    "wave_strength": 1.025735667194603,
-    "adx": 34.385854202978095,
-    "atr": 0.6469829928006151,
-    "obv_slope": 1792879.2142857143,
-    "mom14": 0.05804953526092662,
+    "rsi_slope": -1.1284338716675895,
+    "wave_strength": 1.023316948758256,
+    "adx": 35.77086547173042,
+    "atr": 0.647555811727558,
+    "obv_slope": 1807320.5,
+    "mom14": 0.039863296544339046,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 74.37,
-    "score_0_10": 7.44,
-    "last_close": 27.34000015258789,
-    "avg_vol20": 7106135.45
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 67.53,
+    "score_0_10": 6.75,
+    "last_close": 27.389999389648438,
+    "avg_vol20": 6874834.35
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 26.81999969482422,
-      "High": 26.93000030517578,
-      "Low": 26.200000762939453,
-      "Close": 26.280000686645508,
-      "Volume": 8669100
-    },
     {
       "Date": "2024-03-07",
       "Open": 26.34000015258789,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-04",
       "Open": 27.149999618530273,
-      "High": 27.44499969482422,
-      "Low": 26.975000381469727,
+      "High": 27.450000762939453,
+      "Low": 26.979999542236328,
       "Close": 27.34000015258789,
-      "Volume": 7735409
+      "Volume": 9036800
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 27.3799991607666,
+      "High": 27.9950008392334,
+      "Low": 27.350000381469727,
+      "Close": 27.389999389648438,
+      "Volume": 7079787
     }
   ]
 }

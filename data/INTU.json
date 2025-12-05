@@ -1,34 +1,26 @@
 {
   "ticker": "INTU",
   "indicators": {
-    "macd_hist": 1.2154033788886336,
-    "macd_slope": 0.15307687323460856,
+    "macd_hist": 2.962741243932501,
+    "macd_slope": 0.22417095990536287,
     "rsi": 0.0,
-    "rsi_slope": 1.5618564875714012,
-    "wave_strength": 0.9776630922644148,
-    "adx": 27.381433386778383,
-    "atr": 17.4663084690676,
-    "obv_slope": 147960.57142857142,
-    "mom14": 0.019950519189868152,
+    "rsi_slope": 0.9811493440616458,
+    "wave_strength": 0.9761587446931512,
+    "adx": 25.918071036969398,
+    "atr": 17.27529334891032,
+    "obv_slope": 216305.85714285713,
+    "mom14": 0.016938198688372028,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 59.06,
-    "score_0_10": 5.91,
-    "last_close": 663.0800170898438,
-    "avg_vol20": 1904767.4
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 74.23,
+    "score_0_10": 7.42,
+    "last_close": 673.6300048828125,
+    "avg_vol20": 1931209.1
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 645.77001953125,
-      "High": 650.97998046875,
-      "Low": 640.2999877929688,
-      "Close": 650.280029296875,
-      "Volume": 1070900
-    },
     {
       "Date": "2024-03-07",
       "Open": 656.0,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 647.510009765625,
-      "High": 663.9500122070312,
+      "Open": 648.5900268554688,
+      "High": 665.3200073242188,
       "Low": 647.510009765625,
       "Close": 663.0800170898438,
-      "Volume": 2128948
+      "Volume": 2174200
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 664.5349731445312,
+      "High": 676.5999755859375,
+      "Low": 664.0,
+      "Close": 673.6300048828125,
+      "Volume": 2349882
     }
   ]
 }

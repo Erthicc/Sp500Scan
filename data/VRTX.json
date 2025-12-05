@@ -1,34 +1,26 @@
 {
   "ticker": "VRTX",
   "indicators": {
-    "macd_hist": 2.4427279191875257,
-    "macd_slope": 0.12725059338899028,
+    "macd_hist": 2.64536360619823,
+    "macd_slope": 0.11416340947995675,
     "rsi": 0.0,
-    "rsi_slope": 0.0998887520678972,
-    "wave_strength": 1.0744864976526023,
-    "adx": 20.328980525693712,
-    "atr": 11.416440357303111,
-    "obv_slope": 365131.0714285714,
-    "mom14": 0.05256374140516693,
+    "rsi_slope": -0.2799360073605709,
+    "wave_strength": 1.0696188902586414,
+    "adx": 21.985679939480054,
+    "atr": 11.13133878253481,
+    "obv_slope": 211773.0,
+    "mom14": 0.04193072708628297,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; rising OBV; strong wave vs SMA20",
-    "score_0_100": 76.55,
-    "score_0_10": 7.66,
-    "last_close": 457.3599853515625,
-    "avg_vol20": 1432148.25
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV; strong wave vs SMA20",
+    "score_0_100": 70.47,
+    "score_0_10": 7.05,
+    "last_close": 455.4800109863281,
+    "avg_vol20": 1409658.9
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 414.2300109863281,
-      "High": 418.2200012207031,
-      "Low": 410.4599914550781,
-      "Close": 411.8500061035156,
-      "Volume": 1222300
-    },
     {
       "Date": "2024-03-07",
       "Open": 415.1499938964844,
@@ -3539,7 +3531,15 @@
       "High": 463.70001220703125,
       "Low": 453.5400085449219,
       "Close": 457.3599853515625,
-      "Volume": 1469665
+      "Volume": 1518800
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 457.7799987792969,
+      "High": 461.8800048828125,
+      "Low": 454.4549865722656,
+      "Close": 455.4800109863281,
+      "Volume": 832878
     }
   ]
 }

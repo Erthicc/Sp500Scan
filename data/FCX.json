@@ -1,34 +1,26 @@
 {
   "ticker": "FCX",
   "indicators": {
-    "macd_hist": 0.49272349157601514,
-    "macd_slope": 0.03158717671028262,
+    "macd_hist": 0.5243947446264169,
+    "macd_slope": 0.03649738131627733,
     "rsi": 0.0,
-    "rsi_slope": 1.6442919679278485,
-    "wave_strength": 1.0442351118169744,
-    "adx": 12.061107337187908,
-    "atr": 1.513466609522364,
-    "obv_slope": 7481288.357142857,
-    "mom14": 0.10039466213394574,
+    "rsi_slope": 1.9713081281136497,
+    "wave_strength": 1.0360089324090853,
+    "adx": 13.135387115633582,
+    "atr": 1.5028364557840619,
+    "obv_slope": 9787194.0,
+    "mom14": 0.12549803124195277,
     "macd_bull": 1,
-    "bb_breakout": 0,
+    "bb_breakout": 1,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 67.01,
-    "score_0_10": 6.7,
-    "last_close": 44.61000061035156,
-    "avg_vol20": 15231536.85
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 83.46,
+    "score_0_10": 8.35,
+    "last_close": 45.20000076293945,
+    "avg_vol20": 15062380.8
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 38.18000030517578,
-      "High": 38.7599983215332,
-      "Low": 37.91999816894531,
-      "Close": 38.13999938964844,
-      "Volume": 11704200
-    },
     {
       "Date": "2024-03-07",
       "Open": 39.31999969482422,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 44.025001525878906,
-      "High": 44.73500061035156,
+      "Open": 44.029998779296875,
+      "High": 44.7400016784668,
       "Low": 43.65999984741211,
       "Close": 44.61000061035156,
-      "Volume": 10635037
+      "Volume": 12392100
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 45.27000045776367,
+      "High": 45.970001220703125,
+      "Low": 45.119998931884766,
+      "Close": 45.20000076293945,
+      "Volume": 20167116
     }
   ]
 }

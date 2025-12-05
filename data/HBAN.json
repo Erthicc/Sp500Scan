@@ -1,34 +1,26 @@
 {
   "ticker": "HBAN",
   "indicators": {
-    "macd_hist": 0.18312645089612298,
-    "macd_slope": 0.006080450900622931,
+    "macd_hist": 0.16686619945499626,
+    "macd_slope": 0.005325636893001552,
     "rsi": 0.0,
-    "rsi_slope": 2.658545700424662,
-    "wave_strength": 0.9634780465747399,
-    "adx": 25.531181810421234,
-    "atr": 0.34042570590898785,
-    "obv_slope": 20265913.0,
-    "mom14": 0.08847869764147419,
+    "rsi_slope": 1.46676924057941,
+    "wave_strength": 1.0662842391237752,
+    "adx": 26.288274155218478,
+    "atr": 0.33325242485802303,
+    "obv_slope": 16804898.714285713,
+    "mom14": 0.07438017230403599,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 77.17,
-    "score_0_10": 7.72,
-    "last_close": 17.100000381469727,
-    "avg_vol20": 27351254.1
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; RSI overbought; rising OBV; strong wave vs SMA20",
+    "score_0_100": 76.52,
+    "score_0_10": 7.65,
+    "last_close": 16.899999618530273,
+    "avg_vol20": 27414600.9
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 13.609999656677246,
-      "High": 13.65999984741211,
-      "Low": 13.34000015258789,
-      "Close": 13.550000190734863,
-      "Volume": 31375800
-    },
     {
       "Date": "2024-03-07",
       "Open": 13.699999809265137,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-04",
       "Open": 17.040000915527344,
-      "High": 17.165000915527344,
-      "Low": 16.975000381469727,
+      "High": 17.170000076293945,
+      "Low": 16.979999542236328,
       "Close": 17.100000381469727,
-      "Volume": 22711382
+      "Volume": 22713300
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 17.0,
+      "High": 17.049999237060547,
+      "Low": 16.860000610351562,
+      "Close": 16.899999618530273,
+      "Volume": 25140818
     }
   ]
 }

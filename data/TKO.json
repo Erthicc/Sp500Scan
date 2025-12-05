@@ -1,34 +1,26 @@
 {
   "ticker": "TKO",
   "indicators": {
-    "macd_hist": 2.001715203536736,
-    "macd_slope": 0.16758270410159407,
+    "macd_hist": 2.156561559717532,
+    "macd_slope": 0.16043609499959666,
     "rsi": 0.0,
-    "rsi_slope": 2.3340610253405765,
-    "wave_strength": 1.0111436651534231,
-    "adx": 18.556596335011502,
-    "atr": 4.939551501716418,
-    "obv_slope": 960182.7857142857,
-    "mom14": 0.09981381837746706,
+    "rsi_slope": 2.157042318486045,
+    "wave_strength": 1.0054175115617368,
+    "adx": 20.019222078498586,
+    "atr": 4.787389513398126,
+    "obv_slope": 933316.4285714285,
+    "mom14": 0.09848446544338847,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 75.75,
-    "score_0_10": 7.57,
-    "last_close": 200.8699951171875,
-    "avg_vol20": 1251312.95
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 69.35,
+    "score_0_10": 6.94,
+    "last_close": 202.22000122070312,
+    "avg_vol20": 1122531.5
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 81.0,
-      "High": 81.30000305175781,
-      "Low": 78.93000030517578,
-      "Close": 79.29000091552734,
-      "Volume": 1441100
-    },
     {
       "Date": "2024-03-07",
       "Open": 81.25,
@@ -3536,10 +3528,18 @@
     {
       "Date": "2025-12-04",
       "Open": 196.02999877929688,
-      "High": 201.07000732421875,
+      "High": 201.0800018310547,
       "Low": 194.5800018310547,
       "Close": 200.8699951171875,
-      "Volume": 524959
+      "Volume": 660900
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 201.4600067138672,
+      "High": 202.5500030517578,
+      "Low": 199.75,
+      "Close": 202.22000122070312,
+      "Volume": 647630
     }
   ]
 }

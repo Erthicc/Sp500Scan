@@ -1,34 +1,26 @@
 {
   "ticker": "ODFL",
   "indicators": {
-    "macd_hist": 2.451993805217465,
-    "macd_slope": 0.16975401490309833,
+    "macd_hist": 2.7905425910854973,
+    "macd_slope": 0.21943493877140746,
     "rsi": 0.0,
-    "rsi_slope": 1.6484239488628813,
-    "wave_strength": 0.9826082576934574,
-    "adx": 21.774770258913836,
-    "atr": 4.832897989309935,
-    "obv_slope": 889536.5,
-    "mom14": 0.1355809799914914,
+    "rsi_slope": 2.589718194965332,
+    "wave_strength": 0.9762617251624476,
+    "adx": 24.314016220179045,
+    "atr": 4.7516455435854965,
+    "obv_slope": 1245083.142857143,
+    "mom14": 0.1751281147151543,
     "macd_bull": 1,
     "bb_breakout": 1,
-    "vol_spike": 1,
+    "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; volume spike; price above SMA/EMA; RSI overbought; rising OBV",
-    "score_0_100": 81.96,
-    "score_0_10": 8.2,
-    "last_close": 153.50999450683594,
-    "avg_vol20": 2286545.55
+    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 82.86,
+    "score_0_10": 8.29,
+    "last_close": 155.14999389648438,
+    "avg_vol20": 2287053.2
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 214.5050048828125,
-      "High": 219.88999938964844,
-      "Low": 214.09500122070312,
-      "Close": 217.72999572753906,
-      "Volume": 1293200
-    },
     {
       "Date": "2024-03-07",
       "Open": 219.98500061035156,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 150.89500427246094,
+      "Open": 151.69000244140625,
       "High": 154.02999877929688,
-      "Low": 150.89500427246094,
+      "Low": 150.89999389648438,
       "Close": 153.50999450683594,
-      "Volume": 4370911
+      "Volume": 4582700
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 153.02999877929688,
+      "High": 156.72999572753906,
+      "Low": 153.02999877929688,
+      "Close": 155.14999389648438,
+      "Volume": 2829664
     }
   ]
 }

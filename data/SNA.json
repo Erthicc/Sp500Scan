@@ -1,34 +1,26 @@
 {
   "ticker": "SNA",
   "indicators": {
-    "macd_hist": 1.3799266233583118,
-    "macd_slope": 0.1282308787093516,
+    "macd_hist": 1.5050636076528674,
+    "macd_slope": 0.1823056410272908,
     "rsi": 0.0,
-    "rsi_slope": 1.9957735095824458,
-    "wave_strength": 1.0118790219596019,
-    "adx": 14.061381371192343,
-    "atr": 6.384203275314512,
-    "obv_slope": 84330.07142857143,
-    "mom14": 0.03723828384528471,
+    "rsi_slope": 3.7000132090396605,
+    "wave_strength": 1.0106216672579145,
+    "adx": 14.49771348671268,
+    "atr": 6.272832478630664,
+    "obv_slope": 118284.71428571429,
+    "mom14": 0.060024149525813995,
     "macd_bull": 1,
     "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; price above SMA/EMA; rising OBV",
-    "score_0_100": 61.05,
-    "score_0_10": 6.11,
-    "last_close": 346.1300048828125,
-    "avg_vol20": 263136.05
+    "explanation": "recent MACD bullish crossover; price above SMA/EMA; RSI overbought; rising OBV",
+    "score_0_100": 68.61,
+    "score_0_10": 6.86,
+    "last_close": 347.2099914550781,
+    "avg_vol20": 263169.3
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 284.19000244140625,
-      "High": 286.7799987792969,
-      "Low": 283.29998779296875,
-      "Close": 285.6600036621094,
-      "Volume": 229200
-    },
     {
       "Date": "2024-03-07",
       "Open": 286.75,
@@ -3539,7 +3531,15 @@
       "High": 351.30999755859375,
       "Low": 342.9100036621094,
       "Close": 346.1300048828125,
-      "Volume": 283521
+      "Volume": 347900
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 343.7099914550781,
+      "High": 348.1650085449219,
+      "Low": 343.3399963378906,
+      "Close": 347.2099914550781,
+      "Volume": 144386
     }
   ]
 }

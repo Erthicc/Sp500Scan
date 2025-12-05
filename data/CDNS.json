@@ -1,34 +1,26 @@
 {
   "ticker": "CDNS",
   "indicators": {
-    "macd_hist": 4.127800441442931,
-    "macd_slope": 0.4173278778932414,
+    "macd_hist": 4.632715882144,
+    "macd_slope": 0.4535021993510592,
     "rsi": 0.0,
-    "rsi_slope": 2.9880162249681947,
-    "wave_strength": 0.990804923207325,
-    "adx": 27.662916298994705,
-    "atr": 9.168587905276608,
-    "obv_slope": 49485.0,
-    "mom14": 0.06743883735933462,
+    "rsi_slope": 3.766155247225284,
+    "wave_strength": 0.9887503562716898,
+    "adx": 27.825394823865928,
+    "atr": 8.862260546529171,
+    "obv_slope": 237944.7142857143,
+    "mom14": 0.07176199990193444,
     "macd_bull": 1,
-    "bb_breakout": 1,
+    "bb_breakout": 0,
     "vol_spike": 0,
     "above_trend": 1,
-    "explanation": "recent MACD bullish crossover; Bollinger upper-band breakout; strong trend; price above SMA/EMA; rising OBV",
-    "score_0_100": 76.45,
-    "score_0_10": 7.64,
-    "last_close": 337.29998779296875,
-    "avg_vol20": 1835549.5
+    "explanation": "recent MACD bullish crossover; strong trend; price above SMA/EMA; rising OBV",
+    "score_0_100": 72.26,
+    "score_0_10": 7.23,
+    "last_close": 337.5299987792969,
+    "avg_vol20": 1740386.3
   },
   "history": [
-    {
-      "Date": "2024-03-06",
-      "Open": 311.69000244140625,
-      "High": 315.80999755859375,
-      "Low": 307.1499938964844,
-      "Close": 312.6499938964844,
-      "Volume": 1206500
-    },
     {
       "Date": "2024-03-07",
       "Open": 316.010009765625,
@@ -3535,11 +3527,19 @@
     },
     {
       "Date": "2025-12-04",
-      "Open": 337.0,
+      "Open": 336.8699951171875,
       "High": 339.5899963378906,
       "Low": 334.32000732421875,
       "Close": 337.29998779296875,
-      "Volume": 1329390
+      "Volume": 1348600
+    },
+    {
+      "Date": "2025-12-05",
+      "Open": 338.42999267578125,
+      "High": 341.0400085449219,
+      "Low": 336.1600036621094,
+      "Close": 337.5299987792969,
+      "Volume": 1255526
     }
   ]
 }
